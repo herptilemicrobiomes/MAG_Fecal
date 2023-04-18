@@ -1,0 +1,2 @@
+n_scaffolds	n_contigs	scaf_bp	contig_bp	gap_pct	scaf_N50	scaf_L50	ctg_N50	ctg_L50	scaf_N90	scaf_L90	ctg_N90	ctg_L90	scaf_max	ctg_max	scaf_n_gt50K	scaf_pct_gt50K	gc_avg	gc_std	filename
+979685	979685	1049121409	1049121409	0.000	81034	1741	81034	1741	673820	404	673820	404	1087706	1087706	1261	12.750	0.48722	0.11782	/bigdata/stajichlab/shared/projects/Herptile/Metagenome/Fecal/work/23/a2791c2f76018434ab682971abc206/STP248.12601_R.fa
