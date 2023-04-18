@@ -1,5 +1,5 @@
 #!/usr/bin/bash -l
-#SBATCH -p short -N 1 -c 48 -n 1 --mem 128gb --out logs/metashot_classify.%a.log -J GTKDB
+#SBATCH -p batch -N 1 -c 48 -n 1 --mem 128gb --out logs/metashot_classify.%a.log -J GTKDB
 
 CPU=2
 if [ $SLURM_CPUS_ON_NODE ]; then
