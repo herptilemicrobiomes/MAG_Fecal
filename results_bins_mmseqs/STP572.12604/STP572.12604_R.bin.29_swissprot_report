@@ -1,0 +1,84 @@
+0.7576	1	1	no rank	0	unclassified
+99.2424	131	0	no rank	1	root
+99.2424	131	1	no rank	131567	  cellular organisms
+96.2121	127	46	superkingdom	2	    Bacteria
+54.5455	72	1	clade	1783272	      Terrabacteria group
+53.7879	71	31	phylum	1239	        Bacillota
+21.2121	28	6	class	91061	          Bacilli
+15.1515	20	5	order	1385	            Bacillales
+10.6061	14	3	family	186817	              Bacillaceae
+8.3333	11	0	genus	1386	                Bacillus
+8.3333	11	0	species group	653685	                  Bacillus subtilis group
+8.3333	11	0	species	1423	                    Bacillus subtilis
+8.3333	11	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+8.3333	11	11	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+0.7576	1	0	family	90964	              Staphylococcaceae
+0.7576	1	1	genus	1279	                Staphylococcus
+1.5152	2	1	order	186826	            Lactobacillales
+0.7576	1	0	family	33958	              Lactobacillaceae
+0.7576	1	0	genus	2767842	                Lactiplantibacillus
+0.7576	1	0	species	1590	                  Lactiplantibacillus plantarum
+0.7576	1	1	strain	220668	                    Lactiplantibacillus plantarum WCFS1
+9.0909	12	5	class	186801	          Clostridia
+5.3030	7	1	order	186802	            Eubacteriales
+3.7879	5	0	family	31979	              Clostridiaceae
+3.7879	5	2	genus	1485	                Clostridium
+0.7576	1	0	species	1488	                  Clostridium acetobutylicum
+0.7576	1	1	strain	272562	                    Clostridium acetobutylicum ATCC 824
+0.7576	1	0	species	1502	                  Clostridium perfringens
+0.7576	1	1	strain	195102	                    Clostridium perfringens str. 13
+0.7576	1	0	species	1534	                  Clostridium kluyveri
+0.7576	1	1	strain	431943	                    Clostridium kluyveri DSM 555
+0.7576	1	0	family	216572	              Oscillospiraceae
+0.7576	1	0	genus	946234	                Flavonifractor
+0.7576	1	1	species	292800	                  Flavonifractor plautii
+6.0606	8	2	phylum	1224	      Pseudomonadota
+3.7879	5	2	class	1236	        Gammaproteobacteria
+2.2727	3	0	order	91347	          Enterobacterales
+2.2727	3	0	family	543	            Enterobacteriaceae
+2.2727	3	0	genus	561	              Escherichia
+2.2727	3	2	species	562	                Escherichia coli
+0.7576	1	1	strain	83333	                  Escherichia coli K-12
+0.7576	1	0	subphylum	68525	        delta/epsilon subdivisions
+0.7576	1	0	class	28221	          Deltaproteobacteria
+0.7576	1	0	order	29	            Myxococcales
+0.7576	1	0	suborder	80811	              Cystobacterineae
+0.7576	1	0	family	1524215	                Anaeromyxobacteraceae
+0.7576	1	1	genus	161492	                  Anaeromyxobacter
+0.7576	1	0	clade	1783270	      FCB group
+0.7576	1	0	clade	68336	        Bacteroidetes/Chlorobi group
+0.7576	1	0	phylum	976	          Bacteroidota
+0.7576	1	0	class	200643	            Bacteroidia
+0.7576	1	0	order	171549	              Bacteroidales
+0.7576	1	0	family	171551	                Porphyromonadaceae
+0.7576	1	0	genus	836	                  Porphyromonas
+0.7576	1	0	species	837	                    Porphyromonas gingivalis
+0.7576	1	1	strain	242619	                      Porphyromonas gingivalis W83
+1.5152	2	1	superkingdom	2759	    Eukaryota
+0.7576	1	0	clade	33154	      Opisthokonta
+0.7576	1	0	kingdom	33208	        Metazoa
+0.7576	1	0	clade	6072	          Eumetazoa
+0.7576	1	0	clade	33213	            Bilateria
+0.7576	1	0	clade	33511	              Deuterostomia
+0.7576	1	0	phylum	7711	                Chordata
+0.7576	1	0	subphylum	89593	                  Craniata
+0.7576	1	0	clade	7742	                    Vertebrata
+0.7576	1	0	clade	7776	                      Gnathostomata
+0.7576	1	0	clade	117570	                        Teleostomi
+0.7576	1	0	clade	117571	                          Euteleostomi
+0.7576	1	0	superclass	8287	                            Sarcopterygii
+0.7576	1	0	clade	1338369	                              Dipnotetrapodomorpha
+0.7576	1	0	clade	32523	                                Tetrapoda
+0.7576	1	0	clade	32524	                                  Amniota
+0.7576	1	0	class	40674	                                    Mammalia
+0.7576	1	0	clade	32525	                                      Theria
+0.7576	1	0	clade	9347	                                        Eutheria
+0.7576	1	1	clade	1437010	                                          Boreoeutheria
+0.7576	1	0	superkingdom	2157	    Archaea
+0.7576	1	0	phylum	2283796	      Candidatus Thermoplasmatota
+0.7576	1	0	class	183967	        Thermoplasmata
+0.7576	1	0	order	2301	          Thermoplasmatales
+0.7576	1	0	family	46659	            Thermoplasmataceae
+0.7576	1	0	genus	2302	              Thermoplasma
+0.7576	1	0	species	2303	                Thermoplasma acidophilum
+0.7576	1	1	strain	273075	                  Thermoplasma acidophilum DSM 1728

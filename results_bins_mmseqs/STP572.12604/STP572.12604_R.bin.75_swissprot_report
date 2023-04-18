@@ -1,0 +1,68 @@
+5.4545	3	3	no rank	0	unclassified
+94.5455	52	0	no rank	1	root
+94.5455	52	3	no rank	131567	  cellular organisms
+87.2727	48	12	superkingdom	2	    Bacteria
+52.7273	29	1	clade	1783272	      Terrabacteria group
+50.9091	28	3	phylum	1239	        Bacillota
+25.4545	14	3	class	91061	          Bacilli
+18.1818	10	2	order	1385	            Bacillales
+12.7273	7	0	family	186817	              Bacillaceae
+12.7273	7	0	genus	1386	                Bacillus
+12.7273	7	0	species group	653685	                  Bacillus subtilis group
+12.7273	7	0	species	1423	                    Bacillus subtilis
+12.7273	7	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+12.7273	7	7	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+1.8182	1	0	family	90964	              Staphylococcaceae
+1.8182	1	1	genus	1279	                Staphylococcus
+1.8182	1	0	order	186826	            Lactobacillales
+1.8182	1	0	family	1300	              Streptococcaceae
+1.8182	1	0	genus	1301	                Streptococcus
+1.8182	1	1	species	1311	                  Streptococcus agalactiae
+20.0000	11	2	class	186801	          Clostridia
+14.5455	8	1	order	186802	            Eubacteriales
+9.0909	5	1	family	31979	              Clostridiaceae
+7.2727	4	1	genus	1485	                Clostridium
+1.8182	1	0	species	1488	                  Clostridium acetobutylicum
+1.8182	1	1	strain	272562	                    Clostridium acetobutylicum ATCC 824
+1.8182	1	0	species	1520	                  Clostridium beijerinckii
+1.8182	1	1	strain	290402	                    Clostridium beijerinckii NCIMB 8052
+1.8182	1	1	species	1534	                  Clostridium kluyveri
+3.6364	2	0	family	216572	              Oscillospiraceae
+3.6364	2	0	genus	35829	                Acetivibrio
+3.6364	2	0	species	1515	                  Acetivibrio thermocellus
+3.6364	2	2	strain	203119	                    Acetivibrio thermocellus ATCC 27405
+1.8182	1	0	order	68295	            Thermoanaerobacterales
+1.8182	1	0	family	543371	              Thermoanaerobacterales Family III. Incertae Sedis
+1.8182	1	0	genus	44000	                Caldicellulosiruptor
+1.8182	1	0	species	31899	                  Caldicellulosiruptor bescii
+1.8182	1	1	strain	521460	                    Caldicellulosiruptor bescii DSM 6725
+9.0909	5	1	phylum	1224	      Pseudomonadota
+7.2727	4	1	class	1236	        Gammaproteobacteria
+5.4545	3	0	order	91347	          Enterobacterales
+5.4545	3	0	family	543	            Enterobacteriaceae
+5.4545	3	0	genus	561	              Escherichia
+5.4545	3	1	species	562	                Escherichia coli
+3.6364	2	2	strain	83333	                  Escherichia coli K-12
+1.8182	1	0	phylum	200918	      Thermotogota
+1.8182	1	0	class	188708	        Thermotogae
+1.8182	1	0	order	2419	          Thermotogales
+1.8182	1	0	family	188709	            Thermotogaceae
+1.8182	1	0	genus	2335	              Thermotoga
+1.8182	1	0	species	2336	                Thermotoga maritima
+1.8182	1	1	strain	243274	                  Thermotoga maritima MSB8
+1.8182	1	0	clade	1783270	      FCB group
+1.8182	1	0	clade	68336	        Bacteroidetes/Chlorobi group
+1.8182	1	0	phylum	976	          Bacteroidota
+1.8182	1	0	class	200643	            Bacteroidia
+1.8182	1	0	order	171549	              Bacteroidales
+1.8182	1	0	family	815	                Bacteroidaceae
+1.8182	1	0	genus	816	                  Bacteroides
+1.8182	1	0	species	28116	                    Bacteroides ovatus
+1.8182	1	1	strain	411476	                      Bacteroides ovatus ATCC 8483
+1.8182	1	0	superkingdom	2157	    Archaea
+1.8182	1	0	phylum	28890	      Euryarchaeota
+1.8182	1	0	clade	2283794	        Methanomada group
+1.8182	1	0	class	183925	          Methanobacteria
+1.8182	1	0	order	2158	            Methanobacteriales
+1.8182	1	0	family	2159	              Methanobacteriaceae
+1.8182	1	1	genus	145260	                Methanothermobacter

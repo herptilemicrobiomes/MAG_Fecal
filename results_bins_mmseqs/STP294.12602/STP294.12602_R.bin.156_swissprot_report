@@ -1,0 +1,78 @@
+0.9804	1	1	no rank	0	unclassified
+99.0196	101	0	no rank	1	root
+99.0196	101	7	no rank	131567	  cellular organisms
+90.1961	92	27	superkingdom	2	    Bacteria
+56.8627	58	1	clade	1783272	      Terrabacteria group
+54.9020	56	33	phylum	1239	        Bacillota
+14.7059	15	4	class	91061	          Bacilli
+9.8039	10	2	order	1385	            Bacillales
+5.8824	6	1	family	186817	              Bacillaceae
+4.9020	5	1	genus	1386	                Bacillus
+3.9216	4	1	species group	653685	                  Bacillus subtilis group
+2.9412	3	0	species	1423	                    Bacillus subtilis
+2.9412	3	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+2.9412	3	3	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+0.9804	1	0	family	90964	              Staphylococcaceae
+0.9804	1	1	genus	1279	                Staphylococcus
+0.9804	1	0	family	186820	              Listeriaceae
+0.9804	1	1	genus	1637	                Listeria
+0.9804	1	0	order	186826	            Lactobacillales
+0.9804	1	0	family	1300	              Streptococcaceae
+0.9804	1	0	genus	1301	                Streptococcus
+0.9804	1	1	species	1311	                  Streptococcus agalactiae
+7.8431	8	3	class	186801	          Clostridia
+4.9020	5	2	order	186802	            Eubacteriales
+0.9804	1	0	family	31979	              Clostridiaceae
+0.9804	1	1	genus	1485	                Clostridium
+0.9804	1	0	family	186803	              Lachnospiraceae
+0.9804	1	0	genus	1506553	                Lachnoclostridium
+0.9804	1	0	species	66219	                  Lachnoclostridium phytofermentans
+0.9804	1	1	strain	357809	                    Lachnoclostridium phytofermentans ISDg
+0.9804	1	1	family	216572	              Oscillospiraceae
+0.9804	1	0	phylum	1297	        Deinococcota
+0.9804	1	0	class	188787	          Deinococci
+0.9804	1	0	order	118964	            Deinococcales
+0.9804	1	0	family	183710	              Deinococcaceae
+0.9804	1	0	genus	1298	                Deinococcus
+0.9804	1	0	species	1299	                  Deinococcus radiodurans
+0.9804	1	1	strain	243230	                    Deinococcus radiodurans R1
+4.9020	5	0	phylum	1224	      Pseudomonadota
+2.9412	3	1	class	1236	        Gammaproteobacteria
+0.9804	1	0	order	91347	          Enterobacterales
+0.9804	1	0	family	543	            Enterobacteriaceae
+0.9804	1	0	genus	561	              Escherichia
+0.9804	1	0	species	562	                Escherichia coli
+0.9804	1	1	strain	83333	                  Escherichia coli K-12
+0.9804	1	0	order	135625	          Pasteurellales
+0.9804	1	0	family	712	            Pasteurellaceae
+0.9804	1	0	genus	724	              Haemophilus
+0.9804	1	0	species	727	                Haemophilus influenzae
+0.9804	1	1	strain	71421	                  Haemophilus influenzae Rd KW20
+1.9608	2	0	class	28211	        Alphaproteobacteria
+1.9608	2	0	order	356	          Hyphomicrobiales
+0.9804	1	0	family	772	            Bartonellaceae
+0.9804	1	0	genus	773	              Bartonella
+0.9804	1	0	species	165694	                Bartonella schoenbuchensis
+0.9804	1	1	strain	687861	                  Bartonella schoenbuchensis R1
+0.9804	1	0	family	82115	            Rhizobiaceae
+0.9804	1	0	no rank	227292	              Sinorhizobium/Ensifer group
+0.9804	1	0	genus	28105	                Sinorhizobium
+0.9804	1	0	species	382	                  Sinorhizobium meliloti
+0.9804	1	1	strain	266834	                    Sinorhizobium meliloti 1021
+1.9608	2	0	clade	1783270	      FCB group
+1.9608	2	0	clade	68336	        Bacteroidetes/Chlorobi group
+1.9608	2	1	phylum	976	          Bacteroidota
+0.9804	1	0	class	200643	            Bacteroidia
+0.9804	1	0	order	171549	              Bacteroidales
+0.9804	1	0	family	171551	                Porphyromonadaceae
+0.9804	1	0	genus	836	                  Porphyromonas
+0.9804	1	0	species	837	                    Porphyromonas gingivalis
+0.9804	1	1	strain	242619	                      Porphyromonas gingivalis W83
+1.9608	2	1	superkingdom	2759	    Eukaryota
+0.9804	1	0	clade	33154	      Opisthokonta
+0.9804	1	0	kingdom	4751	        Fungi
+0.9804	1	0	subkingdom	451864	          Dikarya
+0.9804	1	0	phylum	4890	            Ascomycota
+0.9804	1	0	clade	716545	              saccharomyceta
+0.9804	1	0	subphylum	147538	                Pezizomycotina
+0.9804	1	1	clade	716546	                  leotiomyceta

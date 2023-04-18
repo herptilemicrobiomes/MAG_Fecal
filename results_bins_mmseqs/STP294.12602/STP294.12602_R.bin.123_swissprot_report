@@ -1,0 +1,211 @@
+1.6129	3	3	no rank	0	unclassified
+98.3871	183	0	no rank	1	root
+98.3871	183	15	no rank	131567	  cellular organisms
+84.4086	157	36	superkingdom	2	    Bacteria
+51.6129	96	4	clade	1783272	      Terrabacteria group
+46.2366	86	22	phylum	1239	        Bacillota
+18.8172	35	4	class	91061	          Bacilli
+15.0538	28	3	order	1385	            Bacillales
+11.8280	22	6	family	186817	              Bacillaceae
+8.6022	16	0	genus	1386	                Bacillus
+8.6022	16	0	species group	653685	                  Bacillus subtilis group
+8.6022	16	1	species	1423	                    Bacillus subtilis
+8.0645	15	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+8.0645	15	15	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+1.0753	2	0	family	90964	              Staphylococcaceae
+1.0753	2	2	genus	1279	                Staphylococcus
+0.5376	1	0	no rank	539002	              Bacillales incertae sedis
+0.5376	1	0	no rank	539742	                Bacillales Family XII. Incertae Sedis
+0.5376	1	0	genus	33986	                  Exiguobacterium
+0.5376	1	0	species	332410	                    Exiguobacterium sibiricum
+0.5376	1	1	strain	262543	                      Exiguobacterium sibiricum 255-15
+1.6129	3	0	order	186826	            Lactobacillales
+1.0753	2	0	family	1300	              Streptococcaceae
+0.5376	1	0	genus	1301	                Streptococcus
+0.5376	1	1	species	1311	                  Streptococcus agalactiae
+0.5376	1	0	genus	1357	                Lactococcus
+0.5376	1	0	species	1358	                  Lactococcus lactis
+0.5376	1	1	subspecies	1360	                    Lactococcus lactis subsp. lactis
+0.5376	1	0	family	33958	              Lactobacillaceae
+0.5376	1	0	genus	2767842	                Lactiplantibacillus
+0.5376	1	0	species	1590	                  Lactiplantibacillus plantarum
+0.5376	1	1	strain	220668	                    Lactiplantibacillus plantarum WCFS1
+15.0538	28	12	class	186801	          Clostridia
+7.5269	14	6	order	186802	            Eubacteriales
+3.2258	6	0	family	31979	              Clostridiaceae
+3.2258	6	3	genus	1485	                Clostridium
+0.5376	1	0	species	1509	                  Clostridium sporogenes
+0.5376	1	1	strain	1075091	                    Clostridium sporogenes PA 3679
+0.5376	1	0	species	1520	                  Clostridium beijerinckii
+0.5376	1	1	strain	290402	                    Clostridium beijerinckii NCIMB 8052
+0.5376	1	1	species	169679	                  Clostridium saccharobutylicum
+0.5376	1	0	family	186803	              Lachnospiraceae
+0.5376	1	0	genus	1506553	                Lachnoclostridium
+0.5376	1	0	species	66219	                  Lachnoclostridium phytofermentans
+0.5376	1	1	strain	357809	                    Lachnoclostridium phytofermentans ISDg
+0.5376	1	0	family	186807	              Peptococcaceae
+0.5376	1	0	genus	2916693	                Desulforamulus
+0.5376	1	0	species	59610	                  Desulforamulus reducens
+0.5376	1	1	strain	349161	                    Desulforamulus reducens MI-1
+1.0753	2	0	order	68295	            Thermoanaerobacterales
+1.0753	2	0	family	186814	              Thermoanaerobacteraceae
+0.5376	1	0	no rank	42857	                Moorella group
+0.5376	1	0	genus	44260	                  Moorella
+0.5376	1	1	species	1525	                    Moorella thermoacetica
+0.5376	1	0	genus	249529	                Caldanaerobacter
+0.5376	1	0	species	911092	                  Caldanaerobacter subterraneus
+0.5376	1	0	subspecies	119072	                    Caldanaerobacter subterraneus subsp. tengcongensis
+0.5376	1	1	strain	273068	                      Caldanaerobacter subterraneus subsp. tengcongensis MB4
+0.5376	1	0	class	1737404	          Tissierellia
+0.5376	1	0	order	1737405	            Tissierellales
+0.5376	1	0	family	1570339	              Peptoniphilaceae
+0.5376	1	0	genus	150022	                Finegoldia
+0.5376	1	0	species	1260	                  Finegoldia magna
+0.5376	1	1	strain	334413	                    Finegoldia magna ATCC 29328
+2.1505	4	0	phylum	201174	        Actinomycetota
+2.1505	4	0	class	1760	          Actinomycetes
+1.0753	2	0	order	85006	            Micrococcales
+0.5376	1	0	family	1268	              Micrococcaceae
+0.5376	1	0	genus	1742992	                Paenarthrobacter
+0.5376	1	1	species	43663	                  Paenarthrobacter aurescens
+0.5376	1	0	family	85016	              Cellulomonadaceae
+0.5376	1	0	genus	1707	                Cellulomonas
+0.5376	1	1	species	1708	                  Cellulomonas fimi
+0.5376	1	0	order	85007	            Corynebacteriales
+0.5376	1	0	family	1762	              Mycobacteriaceae
+0.5376	1	1	genus	1763	                Mycobacterium
+0.5376	1	0	order	85011	            Streptomycetales
+0.5376	1	0	family	2062	              Streptomycetaceae
+0.5376	1	0	genus	1883	                Streptomyces
+0.5376	1	0	species group	1477431	                  Streptomyces albidoflavus group
+0.5376	1	0	species	1902	                    Streptomyces coelicolor
+0.5376	1	1	strain	100226	                      Streptomyces coelicolor A3(2)
+0.5376	1	0	phylum	200795	        Chloroflexota
+0.5376	1	0	class	301297	          Dehalococcoidia
+0.5376	1	0	order	1202465	            Dehalococcoidales
+0.5376	1	0	family	1202464	              Dehalococcoidaceae
+0.5376	1	0	genus	61434	                Dehalococcoides
+0.5376	1	1	species	61435	                  Dehalococcoides mccartyi
+0.5376	1	0	clade	1798711	        Cyanobacteriota/Melainabacteria group
+0.5376	1	0	phylum	1117	          Cyanobacteriota
+0.5376	1	0	class	3028117	            Cyanophyceae
+0.5376	1	0	order	1890424	              Synechococcales
+0.5376	1	0	family	1890428	                Merismopediaceae
+0.5376	1	0	genus	1142	                  Synechocystis
+0.5376	1	0	no rank	2640012	                    unclassified Synechocystis
+0.5376	1	0	species	1148	                      Synechocystis sp. PCC 6803
+0.5376	1	1	no rank	1111708	                        Synechocystis sp. PCC 6803 substr. Kazusa
+9.6774	18	2	phylum	1224	      Pseudomonadota
+5.3763	10	2	class	1236	        Gammaproteobacteria
+3.7634	7	0	order	91347	          Enterobacterales
+3.7634	7	0	family	543	            Enterobacteriaceae
+3.7634	7	0	genus	561	              Escherichia
+3.7634	7	2	species	562	                Escherichia coli
+2.6882	5	5	strain	83333	                  Escherichia coli K-12
+0.5376	1	0	order	135625	          Pasteurellales
+0.5376	1	0	family	712	            Pasteurellaceae
+0.5376	1	0	genus	724	              Haemophilus
+0.5376	1	0	species	727	                Haemophilus influenzae
+0.5376	1	1	strain	71421	                  Haemophilus influenzae Rd KW20
+2.1505	4	0	subphylum	68525	        delta/epsilon subdivisions
+2.1505	4	0	class	28221	          Deltaproteobacteria
+2.1505	4	0	order	213115	            Desulfovibrionales
+2.1505	4	0	family	194924	              Desulfovibrionaceae
+2.1505	4	0	genus	2910984	                Solidesulfovibrio
+2.1505	4	4	species	878	                  Solidesulfovibrio fructosivorans
+1.0753	2	0	class	28211	        Alphaproteobacteria
+0.5376	1	0	order	356	          Hyphomicrobiales
+0.5376	1	0	family	118882	            Brucellaceae
+0.5376	1	0	no rank	2826938	              Brucella/Ochrobactrum group
+0.5376	1	1	genus	234	                Brucella
+0.5376	1	0	order	204455	          Rhodobacterales
+0.5376	1	0	family	2854170	            Roseobacteraceae
+0.5376	1	0	genus	97050	              Ruegeria
+0.5376	1	0	species	89184	                Ruegeria pomeroyi
+0.5376	1	1	strain	246200	                  Ruegeria pomeroyi DSS-3
+1.6129	3	0	phylum	203691	      Spirochaetota
+1.6129	3	0	class	203692	        Spirochaetia
+1.0753	2	1	order	136	          Spirochaetales
+0.5376	1	0	family	2845253	            Treponemataceae
+0.5376	1	0	genus	157	              Treponema
+0.5376	1	0	species	160	                Treponema pallidum
+0.5376	1	0	subspecies	161	                  Treponema pallidum subsp. pallidum
+0.5376	1	1	strain	243276	                    Treponema pallidum subsp. pallidum str. Nichols
+0.5376	1	0	order	1643686	          Brachyspirales
+0.5376	1	0	family	143786	            Brachyspiraceae
+0.5376	1	0	genus	29521	              Brachyspira
+0.5376	1	1	species	159	                Brachyspira hyodysenteriae
+1.0753	2	0	phylum	200918	      Thermotogota
+1.0753	2	0	class	188708	        Thermotogae
+1.0753	2	0	order	2419	          Thermotogales
+1.0753	2	0	family	188709	            Thermotogaceae
+1.0753	2	0	genus	2335	              Thermotoga
+1.0753	2	0	species	2336	                Thermotoga maritima
+1.0753	2	2	strain	243274	                  Thermotoga maritima MSB8
+1.0753	2	0	clade	1783270	      FCB group
+1.0753	2	0	clade	68336	        Bacteroidetes/Chlorobi group
+1.0753	2	0	phylum	976	          Bacteroidota
+1.0753	2	0	class	200643	            Bacteroidia
+1.0753	2	0	order	171549	              Bacteroidales
+0.5376	1	0	family	815	                Bacteroidaceae
+0.5376	1	0	genus	909656	                  Phocaeicola
+0.5376	1	0	species	821	                    Phocaeicola vulgatus
+0.5376	1	1	strain	435590	                      Phocaeicola vulgatus ATCC 8482
+0.5376	1	0	family	171551	                Porphyromonadaceae
+0.5376	1	0	genus	836	                  Porphyromonas
+0.5376	1	0	species	837	                    Porphyromonas gingivalis
+0.5376	1	1	strain	242619	                      Porphyromonas gingivalis W83
+3.2258	6	1	superkingdom	2157	    Archaea
+2.6882	5	0	phylum	28890	      Euryarchaeota
+1.6129	3	1	clade	2283794	        Methanomada group
+1.0753	2	0	class	183939	          Methanococci
+1.0753	2	0	order	2182	            Methanococcales
+1.0753	2	0	family	196117	              Methanocaldococcaceae
+1.0753	2	0	genus	196118	                Methanocaldococcus
+1.0753	2	0	species	2190	                  Methanocaldococcus jannaschii
+1.0753	2	2	strain	243232	                    Methanocaldococcus jannaschii DSM 2661
+0.5376	1	0	class	183968	        Thermococci
+0.5376	1	0	order	2258	          Thermococcales
+0.5376	1	0	family	2259	            Thermococcaceae
+0.5376	1	0	genus	2260	              Pyrococcus
+0.5376	1	0	species	2261	                Pyrococcus furiosus
+0.5376	1	1	strain	186497	                  Pyrococcus furiosus DSM 3638
+0.5376	1	0	clade	2290931	        Stenosarchaea group
+0.5376	1	0	class	183963	          Halobacteria
+0.5376	1	0	order	1644055	            Haloferacales
+0.5376	1	0	family	1644056	              Haloferacaceae
+0.5376	1	0	genus	2251	                Haloferax
+0.5376	1	0	species	2246	                  Haloferax volcanii
+0.5376	1	1	strain	309800	                    Haloferax volcanii DS2
+2.6882	5	1	superkingdom	2759	    Eukaryota
+1.0753	2	1	clade	33154	      Opisthokonta
+0.5376	1	0	kingdom	4751	        Fungi
+0.5376	1	0	subkingdom	451864	          Dikarya
+0.5376	1	0	phylum	4890	            Ascomycota
+0.5376	1	0	subphylum	451866	              Taphrinomycotina
+0.5376	1	0	class	147554	                Schizosaccharomycetes
+0.5376	1	0	order	34346	                  Schizosaccharomycetales
+0.5376	1	0	family	4894	                    Schizosaccharomycetaceae
+0.5376	1	0	genus	4895	                      Schizosaccharomyces
+0.5376	1	0	species	4896	                        Schizosaccharomyces pombe
+0.5376	1	1	strain	284812	                          Schizosaccharomyces pombe 972h-
+0.5376	1	0	kingdom	33090	      Viridiplantae
+0.5376	1	0	phylum	35493	        Streptophyta
+0.5376	1	0	subphylum	131221	          Streptophytina
+0.5376	1	0	clade	3193	            Embryophyta
+0.5376	1	0	clade	58023	              Tracheophyta
+0.5376	1	0	clade	78536	                Euphyllophyta
+0.5376	1	0	clade	58024	                  Spermatophyta
+0.5376	1	0	class	3398	                    Magnoliopsida
+0.5376	1	0	clade	1437183	                      Mesangiospermae
+0.5376	1	0	clade	71240	                        eudicotyledons
+0.5376	1	0	clade	91827	                          Gunneridae
+0.5376	1	1	clade	1437201	                            Pentapetalae
+0.5376	1	0	clade	554915	      Amoebozoa
+0.5376	1	0	phylum	2605435	        Evosea
+0.5376	1	0	class	142796	          Eumycetozoa
+0.5376	1	0	clade	33083	            Dictyostelia
+0.5376	1	0	order	2058949	              Dictyosteliales
+0.5376	1	0	family	2058185	                Dictyosteliaceae
+0.5376	1	0	genus	5782	                  Dictyostelium
+0.5376	1	1	species	44689	                    Dictyostelium discoideum

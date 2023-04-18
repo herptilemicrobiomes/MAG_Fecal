@@ -1,0 +1,135 @@
+1.8868	3	3	no rank	0	unclassified
+98.1132	156	0	no rank	1	root
+96.8553	154	6	no rank	131567	  cellular organisms
+90.5660	144	37	superkingdom	2	    Bacteria
+58.4906	93	0	clade	1783272	      Terrabacteria group
+55.3459	88	36	phylum	1239	        Bacillota
+20.1258	32	5	class	91061	          Bacilli
+16.3522	26	3	order	1385	            Bacillales
+14.4654	23	3	family	186817	              Bacillaceae
+12.5786	20	0	genus	1386	                Bacillus
+11.9497	19	1	species group	653685	                  Bacillus subtilis group
+11.3208	18	0	species	1423	                    Bacillus subtilis
+11.3208	18	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+11.3208	18	18	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+0.6289	1	0	species group	86661	                  Bacillus cereus group
+0.6289	1	0	species	1396	                    Bacillus cereus
+0.6289	1	1	strain	222523	                      Bacillus cereus ATCC 10987
+0.6289	1	0	order	186826	            Lactobacillales
+0.6289	1	0	family	1300	              Streptococcaceae
+0.6289	1	0	genus	1301	                Streptococcus
+0.6289	1	1	species	1308	                  Streptococcus thermophilus
+12.5786	20	8	class	186801	          Clostridia
+6.2893	10	0	order	186802	            Eubacteriales
+5.0314	8	1	family	31979	              Clostridiaceae
+3.7736	6	3	genus	1485	                Clostridium
+1.2579	2	0	species	1488	                  Clostridium acetobutylicum
+1.2579	2	2	strain	272562	                    Clostridium acetobutylicum ATCC 824
+0.6289	1	0	species	1513	                  Clostridium tetani
+0.6289	1	1	strain	212717	                    Clostridium tetani E88
+0.6289	1	0	genus	44258	                Caloramator
+0.6289	1	1	species	908809	                  Caloramator mitchellensis
+0.6289	1	0	family	186803	              Lachnospiraceae
+0.6289	1	0	genus	572511	                Blautia
+0.6289	1	0	species	53443	                  Blautia hydrogenotrophica
+0.6289	1	1	strain	476272	                    Blautia hydrogenotrophica DSM 10507
+0.6289	1	0	family	2937909	              Desulfitobacteriaceae
+0.6289	1	0	genus	36853	                Desulfitobacterium
+0.6289	1	0	species	49338	                  Desulfitobacterium hafniense
+0.6289	1	1	strain	138119	                    Desulfitobacterium hafniense Y51
+1.2579	2	0	order	68295	            Thermoanaerobacterales
+1.2579	2	0	family	186814	              Thermoanaerobacteraceae
+1.2579	2	0	genus	249529	                Caldanaerobacter
+1.2579	2	0	species	911092	                  Caldanaerobacter subterraneus
+1.2579	2	0	subspecies	119072	                    Caldanaerobacter subterraneus subsp. tengcongensis
+1.2579	2	2	strain	273068	                      Caldanaerobacter subterraneus subsp. tengcongensis MB4
+3.1447	5	0	phylum	201174	        Actinomycetota
+3.1447	5	2	class	1760	          Actinomycetes
+1.8868	3	1	order	85007	            Corynebacteriales
+1.2579	2	0	family	1762	              Mycobacteriaceae
+1.2579	2	1	genus	1763	                Mycobacterium
+0.6289	1	0	species group	77643	                  Mycobacterium tuberculosis complex
+0.6289	1	1	species	1773	                    Mycobacterium tuberculosis
+8.1761	13	3	phylum	1224	      Pseudomonadota
+5.0314	8	3	class	1236	        Gammaproteobacteria
+1.8868	3	0	order	91347	          Enterobacterales
+1.8868	3	2	family	543	            Enterobacteriaceae
+0.6289	1	0	genus	561	              Escherichia
+0.6289	1	0	species	562	                Escherichia coli
+0.6289	1	1	strain	83333	                  Escherichia coli K-12
+0.6289	1	0	order	72274	          Pseudomonadales
+0.6289	1	1	family	135621	            Pseudomonadaceae
+0.6289	1	0	order	135625	          Pasteurellales
+0.6289	1	0	family	712	            Pasteurellaceae
+0.6289	1	0	genus	724	              Haemophilus
+0.6289	1	0	species	727	                Haemophilus influenzae
+0.6289	1	1	strain	71421	                  Haemophilus influenzae Rd KW20
+0.6289	1	0	class	28211	        Alphaproteobacteria
+0.6289	1	0	order	356	          Hyphomicrobiales
+0.6289	1	0	family	82115	            Rhizobiaceae
+0.6289	1	0	no rank	227290	              Rhizobium/Agrobacterium group
+0.6289	1	0	genus	357	                Agrobacterium
+0.6289	1	0	species group	1183400	                  Agrobacterium tumefaciens complex
+0.6289	1	1	species	358	                    Agrobacterium tumefaciens
+0.6289	1	0	subphylum	68525	        delta/epsilon subdivisions
+0.6289	1	0	class	28221	          Deltaproteobacteria
+0.6289	1	0	order	213115	            Desulfovibrionales
+0.6289	1	0	family	194924	              Desulfovibrionaceae
+0.6289	1	0	genus	2910984	                Solidesulfovibrio
+0.6289	1	1	species	878	                  Solidesulfovibrio fructosivorans
+0.6289	1	0	clade	1783270	      FCB group
+0.6289	1	0	clade	68336	        Bacteroidetes/Chlorobi group
+0.6289	1	0	phylum	976	          Bacteroidota
+0.6289	1	0	class	117743	            Flavobacteriia
+0.6289	1	0	order	200644	              Flavobacteriales
+0.6289	1	0	family	49546	                Flavobacteriaceae
+0.6289	1	0	genus	225842	                  Formosa
+0.6289	1	0	species	320324	                    Formosa agariphila
+0.6289	1	1	strain	1347342	                      Formosa agariphila KMM 3901
+2.5157	4	1	superkingdom	2759	    Eukaryota
+1.2579	2	0	kingdom	33090	      Viridiplantae
+1.2579	2	0	phylum	35493	        Streptophyta
+1.2579	2	0	subphylum	131221	          Streptophytina
+1.2579	2	0	clade	3193	            Embryophyta
+1.2579	2	0	clade	58023	              Tracheophyta
+1.2579	2	0	clade	78536	                Euphyllophyta
+1.2579	2	0	clade	58024	                  Spermatophyta
+1.2579	2	0	class	3398	                    Magnoliopsida
+1.2579	2	2	clade	1437183	                      Mesangiospermae
+0.6289	1	0	clade	33154	      Opisthokonta
+0.6289	1	0	kingdom	33208	        Metazoa
+0.6289	1	0	clade	6072	          Eumetazoa
+0.6289	1	0	clade	33213	            Bilateria
+0.6289	1	0	clade	33511	              Deuterostomia
+0.6289	1	0	phylum	7711	                Chordata
+0.6289	1	0	subphylum	89593	                  Craniata
+0.6289	1	0	clade	7742	                    Vertebrata
+0.6289	1	0	clade	7776	                      Gnathostomata
+0.6289	1	0	clade	117570	                        Teleostomi
+0.6289	1	0	clade	117571	                          Euteleostomi
+0.6289	1	0	superclass	8287	                            Sarcopterygii
+0.6289	1	0	clade	1338369	                              Dipnotetrapodomorpha
+0.6289	1	0	clade	32523	                                Tetrapoda
+0.6289	1	0	clade	32524	                                  Amniota
+0.6289	1	0	class	40674	                                    Mammalia
+0.6289	1	0	clade	32525	                                      Theria
+0.6289	1	0	clade	9347	                                        Eutheria
+0.6289	1	0	clade	1437010	                                          Boreoeutheria
+0.6289	1	0	superorder	314146	                                            Euarchontoglires
+0.6289	1	0	order	9443	                                              Primates
+0.6289	1	0	suborder	376913	                                                Haplorrhini
+0.6289	1	0	infraorder	314293	                                                  Simiiformes
+0.6289	1	0	parvorder	9526	                                                    Catarrhini
+0.6289	1	0	superfamily	314295	                                                      Hominoidea
+0.6289	1	0	family	9604	                                                        Hominidae
+0.6289	1	0	subfamily	207598	                                                          Homininae
+0.6289	1	0	genus	9605	                                                            Homo
+0.6289	1	1	species	9606	                                                              Homo sapiens
+1.2579	2	0	superkingdom	10239	  Viruses
+1.2579	2	0	clade	2731341	    Duplodnaviria
+1.2579	2	0	kingdom	2731360	      Heunggongvirae
+1.2579	2	0	phylum	2731618	        Uroviricota
+1.2579	2	0	class	2731619	          Caudoviricetes
+1.2579	2	0	genus	186789	            Punavirus
+1.2579	2	0	species	10678	              Punavirus P1
+1.2579	2	2	no rank	2886926	                Escherichia phage P1

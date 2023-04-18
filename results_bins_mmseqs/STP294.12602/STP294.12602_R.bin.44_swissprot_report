@@ -1,0 +1,109 @@
+100.0000	157	3	no rank	1	root
+98.0892	154	7	no rank	131567	  cellular organisms
+91.0828	143	128	superkingdom	2759	    Eukaryota
+5.7325	9	0	clade	33154	      Opisthokonta
+3.8217	6	0	kingdom	33208	        Metazoa
+3.8217	6	0	clade	6072	          Eumetazoa
+3.8217	6	3	clade	33213	            Bilateria
+1.2739	2	0	clade	33511	              Deuterostomia
+1.2739	2	0	phylum	7711	                Chordata
+1.2739	2	0	subphylum	89593	                  Craniata
+1.2739	2	0	clade	7742	                    Vertebrata
+1.2739	2	0	clade	7776	                      Gnathostomata
+1.2739	2	0	clade	117570	                        Teleostomi
+1.2739	2	1	clade	117571	                          Euteleostomi
+0.6369	1	0	superclass	8287	                            Sarcopterygii
+0.6369	1	0	clade	1338369	                              Dipnotetrapodomorpha
+0.6369	1	1	clade	32523	                                Tetrapoda
+0.6369	1	0	clade	33317	              Protostomia
+0.6369	1	0	clade	1206794	                Ecdysozoa
+0.6369	1	0	clade	88770	                  Panarthropoda
+0.6369	1	0	phylum	6656	                    Arthropoda
+0.6369	1	0	clade	197563	                      Mandibulata
+0.6369	1	0	clade	197562	                        Pancrustacea
+0.6369	1	0	subphylum	6960	                          Hexapoda
+0.6369	1	0	class	50557	                            Insecta
+0.6369	1	0	clade	85512	                              Dicondylia
+0.6369	1	0	subclass	7496	                                Pterygota
+0.6369	1	0	infraclass	33340	                                  Neoptera
+0.6369	1	0	cohort	33392	                                    Endopterygota
+0.6369	1	0	order	7147	                                      Diptera
+0.6369	1	0	suborder	7203	                                        Brachycera
+0.6369	1	0	infraorder	43733	                                          Muscomorpha
+0.6369	1	0	clade	480118	                                            Eremoneura
+0.6369	1	0	clade	480117	                                              Cyclorrhapha
+0.6369	1	0	no rank	43738	                                                Schizophora
+0.6369	1	0	no rank	43741	                                                  Acalyptratae
+0.6369	1	0	superfamily	43746	                                                    Ephydroidea
+0.6369	1	0	family	7214	                                                      Drosophilidae
+0.6369	1	0	subfamily	43845	                                                        Drosophilinae
+0.6369	1	0	tribe	46877	                                                          Drosophilini
+0.6369	1	0	genus	7215	                                                            Drosophila
+0.6369	1	0	subgenus	32341	                                                              Sophophora
+0.6369	1	0	species group	32346	                                                                melanogaster group
+0.6369	1	0	species subgroup	32351	                                                                  melanogaster subgroup
+0.6369	1	1	species	7227	                                                                    Drosophila melanogaster
+1.9108	3	0	kingdom	4751	        Fungi
+1.9108	3	0	subkingdom	451864	          Dikarya
+1.9108	3	0	phylum	4890	            Ascomycota
+1.9108	3	0	subphylum	451866	              Taphrinomycotina
+1.9108	3	0	class	147554	                Schizosaccharomycetes
+1.9108	3	0	order	34346	                  Schizosaccharomycetales
+1.9108	3	0	family	4894	                    Schizosaccharomycetaceae
+1.9108	3	0	genus	4895	                      Schizosaccharomyces
+1.9108	3	0	species	4896	                        Schizosaccharomyces pombe
+1.9108	3	3	strain	284812	                          Schizosaccharomyces pombe 972h-
+1.9108	3	0	kingdom	33090	      Viridiplantae
+1.9108	3	0	phylum	35493	        Streptophyta
+1.9108	3	0	subphylum	131221	          Streptophytina
+1.9108	3	0	clade	3193	            Embryophyta
+1.9108	3	0	clade	58023	              Tracheophyta
+1.9108	3	0	clade	78536	                Euphyllophyta
+1.9108	3	0	clade	58024	                  Spermatophyta
+1.9108	3	0	class	3398	                    Magnoliopsida
+1.9108	3	1	clade	1437183	                      Mesangiospermae
+1.2739	2	0	clade	71240	                        eudicotyledons
+1.2739	2	0	clade	91827	                          Gunneridae
+1.2739	2	0	clade	1437201	                            Pentapetalae
+1.2739	2	0	clade	71275	                              rosids
+1.2739	2	0	clade	91836	                                malvids
+1.2739	2	0	order	3699	                                  Brassicales
+1.2739	2	0	family	3700	                                    Brassicaceae
+0.6369	1	0	tribe	980083	                                      Camelineae
+0.6369	1	0	genus	3701	                                        Arabidopsis
+0.6369	1	1	species	3702	                                          Arabidopsis thaliana
+0.6369	1	0	tribe	981071	                                      Brassiceae
+0.6369	1	0	genus	3705	                                        Brassica
+0.6369	1	1	species	3708	                                          Brassica napus
+1.9108	3	0	clade	2698737	      Sar
+1.9108	3	0	clade	33630	        Alveolata
+1.9108	3	1	phylum	5794	          Apicomplexa
+0.6369	1	0	class	422676	            Aconoidasida
+0.6369	1	0	order	5819	              Haemosporida
+0.6369	1	0	family	1639119	                Plasmodiidae
+0.6369	1	1	genus	5820	                  Plasmodium
+0.6369	1	0	class	1280412	            Conoidasida
+0.6369	1	0	subclass	5796	              Coccidia
+0.6369	1	0	order	75739	                Eucoccidiorida
+0.6369	1	0	suborder	423054	                  Eimeriorina
+0.6369	1	0	family	5809	                    Sarcocystidae
+0.6369	1	0	genus	5810	                      Toxoplasma
+0.6369	1	1	species	5811	                        Toxoplasma gondii
+2.5478	4	1	superkingdom	2	    Bacteria
+1.2739	2	1	phylum	1224	      Pseudomonadota
+0.6369	1	0	class	1236	        Gammaproteobacteria
+0.6369	1	0	order	91347	          Enterobacterales
+0.6369	1	0	family	1903412	            Hafniaceae
+0.6369	1	0	genus	635	              Edwardsiella
+0.6369	1	0	species	67780	                Edwardsiella ictaluri
+0.6369	1	1	strain	634503	                  Edwardsiella ictaluri 93-146
+0.6369	1	0	clade	1783272	      Terrabacteria group
+0.6369	1	0	phylum	1239	        Bacillota
+0.6369	1	0	class	91061	          Bacilli
+0.6369	1	0	order	1385	            Bacillales
+0.6369	1	0	family	186817	              Bacillaceae
+0.6369	1	0	genus	1386	                Bacillus
+0.6369	1	0	species group	653685	                  Bacillus subtilis group
+0.6369	1	0	species	1423	                    Bacillus subtilis
+0.6369	1	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+0.6369	1	1	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168

@@ -1,0 +1,63 @@
+100.0000	99	1	no rank	1	root
+97.9798	97	3	no rank	131567	  cellular organisms
+94.9495	94	39	superkingdom	2	    Bacteria
+52.5253	52	0	clade	1783272	      Terrabacteria group
+51.5152	51	28	phylum	1239	        Bacillota
+13.1313	13	4	class	186801	          Clostridia
+9.0909	9	4	order	186802	            Eubacteriales
+3.0303	3	1	family	186803	              Lachnospiraceae
+2.0202	2	0	genus	1506553	                Lachnoclostridium
+2.0202	2	0	species	66219	                  Lachnoclostridium phytofermentans
+2.0202	2	2	strain	357809	                    Lachnoclostridium phytofermentans ISDg
+2.0202	2	0	family	31979	              Clostridiaceae
+2.0202	2	1	genus	1485	                Clostridium
+1.0101	1	1	species	1491	                  Clostridium botulinum
+10.1010	10	2	class	91061	          Bacilli
+6.0606	6	3	order	1385	            Bacillales
+2.0202	2	0	family	186817	              Bacillaceae
+2.0202	2	0	genus	1386	                Bacillus
+2.0202	2	0	species group	653685	                  Bacillus subtilis group
+2.0202	2	0	species	1423	                    Bacillus subtilis
+2.0202	2	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+2.0202	2	2	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+1.0101	1	0	family	90964	              Staphylococcaceae
+1.0101	1	0	genus	1279	                Staphylococcus
+1.0101	1	1	species	1280	                  Staphylococcus aureus
+2.0202	2	0	order	186826	            Lactobacillales
+2.0202	2	0	family	1300	              Streptococcaceae
+1.0101	1	0	genus	1301	                Streptococcus
+1.0101	1	1	species	1311	                  Streptococcus agalactiae
+1.0101	1	0	genus	1357	                Lactococcus
+1.0101	1	0	species	1358	                  Lactococcus lactis
+1.0101	1	0	subspecies	1360	                    Lactococcus lactis subsp. lactis
+1.0101	1	1	strain	272623	                      Lactococcus lactis subsp. lactis Il1403
+1.0101	1	0	phylum	1297	        Deinococcota
+1.0101	1	0	class	188787	          Deinococci
+1.0101	1	0	order	68933	            Thermales
+1.0101	1	0	family	188786	              Thermaceae
+1.0101	1	0	genus	270	                Thermus
+1.0101	1	0	species	274	                  Thermus thermophilus
+1.0101	1	1	strain	300852	                    Thermus thermophilus HB8
+3.0303	3	1	phylum	1224	      Pseudomonadota
+1.0101	1	0	class	1236	        Gammaproteobacteria
+1.0101	1	0	order	135625	          Pasteurellales
+1.0101	1	0	family	712	            Pasteurellaceae
+1.0101	1	0	genus	697331	              Basfia
+1.0101	1	0	species	157673	                [Mannheimia] succiniciproducens
+1.0101	1	1	strain	221988	                  [Mannheimia] succiniciproducens MBEL55E
+1.0101	1	0	class	28211	        Alphaproteobacteria
+1.0101	1	0	order	356	          Hyphomicrobiales
+1.0101	1	0	family	82115	            Rhizobiaceae
+1.0101	1	0	no rank	227292	              Sinorhizobium/Ensifer group
+1.0101	1	0	genus	28105	                Sinorhizobium
+1.0101	1	0	species group	663276	                  Sinorhizobium fredii group
+1.0101	1	0	species	380	                    Sinorhizobium fredii
+1.0101	1	1	strain	394	                      Sinorhizobium fredii NGR234
+1.0101	1	0	superkingdom	10239	  Viruses
+1.0101	1	0	clade	2731341	    Duplodnaviria
+1.0101	1	0	kingdom	2731360	      Heunggongvirae
+1.0101	1	0	phylum	2731618	        Uroviricota
+1.0101	1	0	class	2731619	          Caudoviricetes
+1.0101	1	0	genus	186765	            Lambdavirus
+1.0101	1	0	no rank	335795	              unclassified Lambdavirus
+1.0101	1	1	species	10723	                Bacillus phage SPO2

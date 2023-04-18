@@ -1,0 +1,45 @@
+4.3860	5	5	no rank	0	unclassified
+95.6140	109	0	no rank	1	root
+95.6140	109	3	no rank	131567	  cellular organisms
+92.9825	106	10	superkingdom	2759	    Eukaryota
+83.3333	95	3	clade	33154	      Opisthokonta
+80.7018	92	0	kingdom	4751	        Fungi
+80.7018	92	5	subkingdom	451864	          Dikarya
+76.3158	87	23	phylum	4890	            Ascomycota
+46.4912	53	2	clade	716545	              saccharomyceta
+43.8596	50	0	subphylum	147537	                Saccharomycotina
+43.8596	50	0	class	4891	                  Saccharomycetes
+43.8596	50	15	order	4892	                    Saccharomycetales
+28.9474	33	6	family	4893	                      Saccharomycetaceae
+23.6842	27	0	genus	4930	                        Saccharomyces
+23.6842	27	0	species	4932	                          Saccharomyces cerevisiae
+23.6842	27	27	strain	559292	                            Saccharomyces cerevisiae S288C
+1.7544	2	0	family	34353	                      Dipodascaceae
+1.7544	2	0	genus	4951	                        Yarrowia
+1.7544	2	0	species	4952	                          Yarrowia lipolytica
+1.7544	2	2	strain	284591	                            Yarrowia lipolytica CLIB122
+0.8772	1	0	subphylum	147538	                Pezizomycotina
+0.8772	1	0	clade	716546	                  leotiomyceta
+0.8772	1	0	clade	715989	                    sordariomyceta
+0.8772	1	0	class	147550	                      Sordariomycetes
+0.8772	1	0	subclass	222544	                        Sordariomycetidae
+0.8772	1	0	order	5139	                          Sordariales
+0.8772	1	0	family	5148	                            Sordariaceae
+0.8772	1	0	genus	5140	                              Neurospora
+0.8772	1	0	species	5141	                                Neurospora crassa
+0.8772	1	1	strain	367110	                                  Neurospora crassa OR74A
+9.6491	11	0	subphylum	451866	              Taphrinomycotina
+9.6491	11	0	class	147554	                Schizosaccharomycetes
+9.6491	11	0	order	34346	                  Schizosaccharomycetales
+9.6491	11	0	family	4894	                    Schizosaccharomycetaceae
+9.6491	11	0	genus	4895	                      Schizosaccharomyces
+9.6491	11	0	species	4896	                        Schizosaccharomyces pombe
+9.6491	11	11	strain	284812	                          Schizosaccharomyces pombe 972h-
+0.8772	1	0	clade	554915	      Amoebozoa
+0.8772	1	0	phylum	2605435	        Evosea
+0.8772	1	0	class	142796	          Eumycetozoa
+0.8772	1	0	clade	33083	            Dictyostelia
+0.8772	1	0	order	2058949	              Dictyosteliales
+0.8772	1	0	family	2058185	                Dictyosteliaceae
+0.8772	1	0	genus	5782	                  Dictyostelium
+0.8772	1	1	species	44689	                    Dictyostelium discoideum

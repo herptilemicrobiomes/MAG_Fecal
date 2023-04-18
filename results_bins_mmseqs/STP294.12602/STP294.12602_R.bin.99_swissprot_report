@@ -1,0 +1,82 @@
+1.1111	1	1	no rank	0	unclassified
+98.8889	89	1	no rank	1	root
+97.7778	88	4	no rank	131567	  cellular organisms
+92.2222	83	39	superkingdom	2	    Bacteria
+23.3333	21	0	clade	1783272	      Terrabacteria group
+22.2222	20	1	phylum	1239	        Bacillota
+21.1111	19	3	class	91061	          Bacilli
+16.6667	15	1	order	1385	            Bacillales
+14.4444	13	2	family	186817	              Bacillaceae
+12.2222	11	0	genus	1386	                Bacillus
+11.1111	10	3	species group	653685	                  Bacillus subtilis group
+6.6667	6	0	species	1423	                    Bacillus subtilis
+6.6667	6	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+6.6667	6	6	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+1.1111	1	1	species	1402	                    Bacillus licheniformis
+1.1111	1	0	species group	86661	                  Bacillus cereus group
+1.1111	1	0	species	1396	                    Bacillus cereus
+1.1111	1	1	strain	222523	                      Bacillus cereus ATCC 10987
+1.1111	1	0	family	90964	              Staphylococcaceae
+1.1111	1	0	genus	1279	                Staphylococcus
+1.1111	1	1	species	1280	                  Staphylococcus aureus
+1.1111	1	0	order	186826	            Lactobacillales
+1.1111	1	0	family	1300	              Streptococcaceae
+1.1111	1	0	genus	1301	                Streptococcus
+1.1111	1	1	species	1314	                  Streptococcus pyogenes
+1.1111	1	0	phylum	201174	        Actinomycetota
+1.1111	1	0	class	1760	          Actinomycetes
+1.1111	1	1	order	85007	            Corynebacteriales
+15.5556	14	5	phylum	1224	      Pseudomonadota
+6.6667	6	4	class	1236	        Gammaproteobacteria
+2.2222	2	0	order	91347	          Enterobacterales
+2.2222	2	1	family	543	            Enterobacteriaceae
+1.1111	1	0	genus	561	              Escherichia
+1.1111	1	0	species	562	                Escherichia coli
+1.1111	1	1	strain	83333	                  Escherichia coli K-12
+2.2222	2	0	subphylum	68525	        delta/epsilon subdivisions
+2.2222	2	0	class	29547	          Epsilonproteobacteria
+2.2222	2	0	order	213849	            Campylobacterales
+2.2222	2	0	family	72293	              Helicobacteraceae
+2.2222	2	0	genus	209	                Helicobacter
+2.2222	2	0	species	32025	                  Helicobacter hepaticus
+2.2222	2	2	strain	235279	                    Helicobacter hepaticus ATCC 51449
+1.1111	1	0	class	28211	        Alphaproteobacteria
+1.1111	1	0	order	356	          Hyphomicrobiales
+1.1111	1	0	family	82115	            Rhizobiaceae
+1.1111	1	0	no rank	227292	              Sinorhizobium/Ensifer group
+1.1111	1	0	genus	28105	                Sinorhizobium
+1.1111	1	0	species group	663276	                  Sinorhizobium fredii group
+1.1111	1	0	species	380	                    Sinorhizobium fredii
+1.1111	1	1	strain	394	                      Sinorhizobium fredii NGR234
+8.8889	8	0	clade	1783270	      FCB group
+8.8889	8	0	clade	68336	        Bacteroidetes/Chlorobi group
+8.8889	8	5	phylum	976	          Bacteroidota
+2.2222	2	0	class	200643	            Bacteroidia
+2.2222	2	2	order	171549	              Bacteroidales
+1.1111	1	0	class	117743	            Flavobacteriia
+1.1111	1	0	order	200644	              Flavobacteriales
+1.1111	1	0	family	49546	                Flavobacteriaceae
+1.1111	1	0	genus	237	                  Flavobacterium
+1.1111	1	0	species	96345	                    Flavobacterium psychrophilum
+1.1111	1	1	strain	402612	                      Flavobacterium psychrophilum JIP02/86
+1.1111	1	0	phylum	203691	      Spirochaetota
+1.1111	1	0	class	203692	        Spirochaetia
+1.1111	1	0	order	136	          Spirochaetales
+1.1111	1	0	family	2845253	            Treponemataceae
+1.1111	1	0	genus	157	              Treponema
+1.1111	1	0	species	160	                Treponema pallidum
+1.1111	1	0	subspecies	161	                  Treponema pallidum subsp. pallidum
+1.1111	1	1	strain	243276	                    Treponema pallidum subsp. pallidum str. Nichols
+1.1111	1	0	superkingdom	2759	    Eukaryota
+1.1111	1	0	clade	33154	      Opisthokonta
+1.1111	1	0	kingdom	4751	        Fungi
+1.1111	1	0	subkingdom	451864	          Dikarya
+1.1111	1	0	phylum	4890	            Ascomycota
+1.1111	1	0	clade	716545	              saccharomyceta
+1.1111	1	0	subphylum	147537	                Saccharomycotina
+1.1111	1	0	class	4891	                  Saccharomycetes
+1.1111	1	0	order	4892	                    Saccharomycetales
+1.1111	1	0	family	4893	                      Saccharomycetaceae
+1.1111	1	0	genus	4930	                        Saccharomyces
+1.1111	1	0	species	4932	                          Saccharomyces cerevisiae
+1.1111	1	1	strain	559292	                            Saccharomyces cerevisiae S288C

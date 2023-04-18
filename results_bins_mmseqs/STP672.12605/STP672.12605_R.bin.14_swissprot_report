@@ -1,0 +1,57 @@
+4.7619	1	1	no rank	0	unclassified
+95.2381	20	0	no rank	1	root
+80.9524	17	0	no rank	131567	  cellular organisms
+80.9524	17	4	superkingdom	2	    Bacteria
+52.3810	11	1	clade	1783272	      Terrabacteria group
+47.6190	10	1	phylum	1239	        Bacillota
+28.5714	6	1	class	91061	          Bacilli
+19.0476	4	0	order	1385	            Bacillales
+14.2857	3	1	family	186817	              Bacillaceae
+4.7619	1	0	genus	1386	                Bacillus
+4.7619	1	0	species group	653685	                  Bacillus subtilis group
+4.7619	1	0	species	1423	                    Bacillus subtilis
+4.7619	1	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+4.7619	1	1	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+4.7619	1	0	genus	2893055	                Halalkalibacterium (ex Joshi et al. 2022)
+4.7619	1	0	species	86665	                  Halalkalibacterium halodurans
+4.7619	1	1	strain	272558	                    Halalkalibacterium halodurans C-125
+4.7619	1	0	family	186820	              Listeriaceae
+4.7619	1	0	genus	1637	                Listeria
+4.7619	1	0	species	1639	                  Listeria monocytogenes
+4.7619	1	1	strain	169963	                    Listeria monocytogenes EGD-e
+4.7619	1	0	order	186826	            Lactobacillales
+4.7619	1	0	family	1300	              Streptococcaceae
+4.7619	1	0	genus	1357	                Lactococcus
+4.7619	1	1	species	1359	                  Lactococcus cremoris
+14.2857	3	0	class	186801	          Clostridia
+14.2857	3	1	order	186802	            Eubacteriales
+4.7619	1	0	family	186803	              Lachnospiraceae
+4.7619	1	0	no rank	2840493	                Lachnospiraceae incertae sedis
+4.7619	1	0	species	39491	                  [Eubacterium] rectale
+4.7619	1	1	strain	515619	                    [Eubacterium] rectale ATCC 33656
+4.7619	1	0	family	216572	              Oscillospiraceae
+4.7619	1	0	genus	35829	                Acetivibrio
+4.7619	1	0	species	1515	                  Acetivibrio thermocellus
+4.7619	1	1	strain	203119	                    Acetivibrio thermocellus ATCC 27405
+9.5238	2	1	phylum	1224	      Pseudomonadota
+4.7619	1	0	class	1236	        Gammaproteobacteria
+4.7619	1	0	order	135625	          Pasteurellales
+4.7619	1	0	family	712	            Pasteurellaceae
+4.7619	1	0	genus	724	              Haemophilus
+4.7619	1	0	species	727	                Haemophilus influenzae
+4.7619	1	1	strain	71421	                  Haemophilus influenzae Rd KW20
+14.2857	3	0	superkingdom	10239	  Viruses
+14.2857	3	0	clade	2731341	    Duplodnaviria
+14.2857	3	0	kingdom	2731360	      Heunggongvirae
+14.2857	3	0	phylum	2731618	        Uroviricota
+14.2857	3	0	class	2731619	          Caudoviricetes
+4.7619	1	0	genus	186765	            Lambdavirus
+4.7619	1	0	no rank	335795	              unclassified Lambdavirus
+4.7619	1	1	species	10723	                Bacillus phage SPO2
+4.7619	1	0	subfamily	2842527	            Hendrixvirinae
+4.7619	1	0	genus	2842574	              Byrnievirus
+4.7619	1	0	species	37554	                Byrnievirus HK97
+4.7619	1	1	no rank	2681617	                  Escherichia phage HK97
+4.7619	1	0	genus	2843452	            Sendosyvirus
+4.7619	1	0	species	67571	              Sendosyvirus APSE1
+4.7619	1	1	no rank	2682836	                Hamiltonella phage APSE-1

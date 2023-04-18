@@ -1,0 +1,52 @@
+100.0000	73	0	no rank	1	root
+100.0000	73	2	no rank	131567	  cellular organisms
+94.5205	69	43	superkingdom	2	    Bacteria
+13.6986	10	0	clade	1783270	      FCB group
+13.6986	10	0	clade	68336	        Bacteroidetes/Chlorobi group
+13.6986	10	0	phylum	976	          Bacteroidota
+12.3288	9	0	class	200643	            Bacteroidia
+12.3288	9	8	order	171549	              Bacteroidales
+1.3699	1	0	family	815	                Bacteroidaceae
+1.3699	1	0	genus	816	                  Bacteroides
+1.3699	1	0	species	817	                    Bacteroides fragilis
+1.3699	1	1	strain	295405	                      Bacteroides fragilis YCH46
+1.3699	1	0	class	117743	            Flavobacteriia
+1.3699	1	0	order	200644	              Flavobacteriales
+1.3699	1	0	family	49546	                Flavobacteriaceae
+1.3699	1	0	genus	225842	                  Formosa
+1.3699	1	0	species	320324	                    Formosa agariphila
+1.3699	1	1	strain	1347342	                      Formosa agariphila KMM 3901
+10.9589	8	4	phylum	1224	      Pseudomonadota
+5.4795	4	2	class	1236	        Gammaproteobacteria
+1.3699	1	1	order	91347	          Enterobacterales
+1.3699	1	0	order	135625	          Pasteurellales
+1.3699	1	0	family	712	            Pasteurellaceae
+1.3699	1	0	genus	724	              Haemophilus
+1.3699	1	0	species	727	                Haemophilus influenzae
+1.3699	1	1	strain	71421	                  Haemophilus influenzae Rd KW20
+10.9589	8	0	clade	1783272	      Terrabacteria group
+10.9589	8	1	phylum	1239	        Bacillota
+8.2192	6	1	class	91061	          Bacilli
+5.4795	4	0	order	1385	            Bacillales
+5.4795	4	2	family	186817	              Bacillaceae
+2.7397	2	0	genus	1386	                Bacillus
+2.7397	2	0	species group	653685	                  Bacillus subtilis group
+2.7397	2	0	species	1423	                    Bacillus subtilis
+2.7397	2	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+2.7397	2	2	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+1.3699	1	1	order	186826	            Lactobacillales
+1.3699	1	0	class	186801	          Clostridia
+1.3699	1	1	order	186802	            Eubacteriales
+2.7397	2	0	superkingdom	2759	    Eukaryota
+1.3699	1	0	clade	33154	      Opisthokonta
+1.3699	1	0	kingdom	33208	        Metazoa
+1.3699	1	0	clade	6072	          Eumetazoa
+1.3699	1	1	clade	33213	            Bilateria
+1.3699	1	0	clade	554915	      Amoebozoa
+1.3699	1	0	phylum	2605435	        Evosea
+1.3699	1	0	class	142796	          Eumycetozoa
+1.3699	1	0	clade	33083	            Dictyostelia
+1.3699	1	0	order	2058949	              Dictyosteliales
+1.3699	1	0	family	2058185	                Dictyosteliaceae
+1.3699	1	0	genus	5782	                  Dictyostelium
+1.3699	1	1	species	44689	                    Dictyostelium discoideum

@@ -1,0 +1,79 @@
+100.0000	91	0	no rank	1	root
+100.0000	91	2	no rank	131567	  cellular organisms
+94.5055	86	45	superkingdom	2	    Bacteria
+31.8681	29	0	clade	1783270	      FCB group
+31.8681	29	0	clade	68336	        Bacteroidetes/Chlorobi group
+31.8681	29	6	phylum	976	          Bacteroidota
+24.1758	22	0	class	200643	            Bacteroidia
+24.1758	22	11	order	171549	              Bacteroidales
+6.5934	6	0	family	2005525	                Tannerellaceae
+6.5934	6	0	genus	375288	                  Parabacteroides
+6.5934	6	0	species	823	                    Parabacteroides distasonis
+6.5934	6	6	strain	435591	                      Parabacteroides distasonis ATCC 8503
+4.3956	4	0	family	815	                Bacteroidaceae
+4.3956	4	1	genus	816	                  Bacteroides
+2.1978	2	0	species	818	                    Bacteroides thetaiotaomicron
+2.1978	2	2	strain	226186	                      Bacteroides thetaiotaomicron VPI-5482
+1.0989	1	0	species	817	                    Bacteroides fragilis
+1.0989	1	1	strain	295405	                      Bacteroides fragilis YCH46
+1.0989	1	0	family	171551	                Porphyromonadaceae
+1.0989	1	0	genus	836	                  Porphyromonas
+1.0989	1	1	species	837	                    Porphyromonas gingivalis
+1.0989	1	0	class	117743	            Flavobacteriia
+1.0989	1	0	order	200644	              Flavobacteriales
+1.0989	1	0	family	49546	                Flavobacteriaceae
+1.0989	1	0	genus	225842	                  Formosa
+1.0989	1	0	species	320324	                    Formosa agariphila
+1.0989	1	1	strain	1347342	                      Formosa agariphila KMM 3901
+9.8901	9	4	phylum	1224	      Pseudomonadota
+4.3956	4	1	class	1236	        Gammaproteobacteria
+2.1978	2	0	order	91347	          Enterobacterales
+2.1978	2	1	family	543	            Enterobacteriaceae
+1.0989	1	0	genus	561	              Escherichia
+1.0989	1	0	species	562	                Escherichia coli
+1.0989	1	1	strain	83333	                  Escherichia coli K-12
+1.0989	1	0	order	72274	          Pseudomonadales
+1.0989	1	0	family	135621	            Pseudomonadaceae
+1.0989	1	0	genus	286	              Pseudomonas
+1.0989	1	0	species group	136841	                Pseudomonas aeruginosa group
+1.0989	1	0	species	287	                  Pseudomonas aeruginosa
+1.0989	1	1	strain	208964	                    Pseudomonas aeruginosa PAO1
+1.0989	1	0	subphylum	68525	        delta/epsilon subdivisions
+1.0989	1	0	class	28221	          Deltaproteobacteria
+1.0989	1	0	order	213115	            Desulfovibrionales
+1.0989	1	0	family	194924	              Desulfovibrionaceae
+1.0989	1	0	genus	2910984	                Solidesulfovibrio
+1.0989	1	1	species	878	                  Solidesulfovibrio fructosivorans
+3.2967	3	0	clade	1783272	      Terrabacteria group
+3.2967	3	0	phylum	1239	        Bacillota
+3.2967	3	0	class	91061	          Bacilli
+2.1978	2	0	order	1385	            Bacillales
+2.1978	2	0	family	186817	              Bacillaceae
+2.1978	2	0	genus	1386	                Bacillus
+2.1978	2	0	species group	653685	                  Bacillus subtilis group
+2.1978	2	0	species	1423	                    Bacillus subtilis
+2.1978	2	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+2.1978	2	2	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+1.0989	1	0	order	186826	            Lactobacillales
+1.0989	1	0	family	33958	              Lactobacillaceae
+1.0989	1	0	genus	1578	                Lactobacillus
+1.0989	1	0	species	1584	                  Lactobacillus delbrueckii
+1.0989	1	1	subspecies	29397	                    Lactobacillus delbrueckii subsp. lactis
+2.1978	2	1	superkingdom	2157	    Archaea
+1.0989	1	0	phylum	28890	      Euryarchaeota
+1.0989	1	0	clade	2283794	        Methanomada group
+1.0989	1	0	class	183939	          Methanococci
+1.0989	1	0	order	2182	            Methanococcales
+1.0989	1	0	family	196117	              Methanocaldococcaceae
+1.0989	1	0	genus	196118	                Methanocaldococcus
+1.0989	1	0	species	2190	                  Methanocaldococcus jannaschii
+1.0989	1	1	strain	243232	                    Methanocaldococcus jannaschii DSM 2661
+1.0989	1	0	superkingdom	2759	    Eukaryota
+1.0989	1	0	clade	554915	      Amoebozoa
+1.0989	1	0	phylum	2605435	        Evosea
+1.0989	1	0	class	142796	          Eumycetozoa
+1.0989	1	0	clade	33083	            Dictyostelia
+1.0989	1	0	order	2058949	              Dictyosteliales
+1.0989	1	0	family	2058185	                Dictyosteliaceae
+1.0989	1	0	genus	5782	                  Dictyostelium
+1.0989	1	1	species	44689	                    Dictyostelium discoideum

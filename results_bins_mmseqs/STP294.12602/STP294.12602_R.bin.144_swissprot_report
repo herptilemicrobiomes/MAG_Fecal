@@ -1,0 +1,86 @@
+0.8264	1	1	no rank	0	unclassified
+99.1736	120	2	no rank	1	root
+97.5207	118	8	no rank	131567	  cellular organisms
+85.9504	104	48	superkingdom	2	    Bacteria
+28.0992	34	0	clade	1783270	      FCB group
+28.0992	34	0	clade	68336	        Bacteroidetes/Chlorobi group
+28.0992	34	18	phylum	976	          Bacteroidota
+13.2231	16	0	class	200643	            Bacteroidia
+13.2231	16	11	order	171549	              Bacteroidales
+3.3058	4	0	family	171551	                Porphyromonadaceae
+3.3058	4	0	genus	836	                  Porphyromonas
+3.3058	4	2	species	837	                    Porphyromonas gingivalis
+1.6529	2	2	strain	242619	                      Porphyromonas gingivalis W83
+0.8264	1	1	family	815	                Bacteroidaceae
+10.7438	13	1	clade	1783272	      Terrabacteria group
+7.4380	9	2	phylum	1239	        Bacillota
+4.9587	6	1	class	91061	          Bacilli
+4.1322	5	0	order	1385	            Bacillales
+4.1322	5	2	family	186817	              Bacillaceae
+2.4793	3	0	genus	1386	                Bacillus
+2.4793	3	0	species group	653685	                  Bacillus subtilis group
+2.4793	3	0	species	1423	                    Bacillus subtilis
+2.4793	3	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+2.4793	3	3	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+0.8264	1	0	class	186801	          Clostridia
+0.8264	1	0	order	186802	            Eubacteriales
+0.8264	1	0	family	31979	              Clostridiaceae
+0.8264	1	0	genus	1485	                Clostridium
+0.8264	1	0	species	1488	                  Clostridium acetobutylicum
+0.8264	1	1	strain	272562	                    Clostridium acetobutylicum ATCC 824
+2.4793	3	0	phylum	201174	        Actinomycetota
+2.4793	3	0	class	1760	          Actinomycetes
+1.6529	2	0	order	85007	            Corynebacteriales
+0.8264	1	1	family	1762	              Mycobacteriaceae
+0.8264	1	0	family	85025	              Nocardiaceae
+0.8264	1	0	genus	1827	                Rhodococcus
+0.8264	1	0	species group	2840174	                  Rhodococcus erythropolis group
+0.8264	1	1	species	1833	                    Rhodococcus erythropolis
+0.8264	1	0	order	85004	            Bifidobacteriales
+0.8264	1	0	family	31953	              Bifidobacteriaceae
+0.8264	1	0	genus	1678	                Bifidobacterium
+0.8264	1	0	species	216816	                  Bifidobacterium longum
+0.8264	1	0	subspecies	1679	                    Bifidobacterium longum subsp. longum
+0.8264	1	1	strain	565042	                      Bifidobacterium longum subsp. longum JCM 1217
+6.6116	8	4	phylum	1224	      Pseudomonadota
+3.3058	4	1	class	1236	        Gammaproteobacteria
+1.6529	2	1	order	91347	          Enterobacterales
+0.8264	1	0	family	543	            Enterobacteriaceae
+0.8264	1	0	genus	561	              Escherichia
+0.8264	1	0	species	562	                Escherichia coli
+0.8264	1	1	strain	83333	                  Escherichia coli K-12
+0.8264	1	0	order	135625	          Pasteurellales
+0.8264	1	0	family	712	            Pasteurellaceae
+0.8264	1	0	genus	724	              Haemophilus
+0.8264	1	0	species	727	                Haemophilus influenzae
+0.8264	1	1	strain	71421	                  Haemophilus influenzae Rd KW20
+0.8264	1	0	clade	1783257	      PVC group
+0.8264	1	0	phylum	203682	        Planctomycetota
+0.8264	1	0	class	203683	          Planctomycetia
+0.8264	1	0	order	2691354	            Pirellulales
+0.8264	1	0	family	2691357	              Pirellulaceae
+0.8264	1	0	genus	265488	                Rhodopirellula
+0.8264	1	0	species	265606	                  Rhodopirellula baltica
+0.8264	1	1	strain	243090	                    Rhodopirellula baltica SH 1
+2.4793	3	0	superkingdom	2157	    Archaea
+2.4793	3	1	phylum	28890	      Euryarchaeota
+1.6529	2	0	clade	2283794	        Methanomada group
+0.8264	1	0	class	183925	          Methanobacteria
+0.8264	1	0	order	2158	            Methanobacteriales
+0.8264	1	0	family	2159	              Methanobacteriaceae
+0.8264	1	1	genus	145260	                Methanothermobacter
+0.8264	1	0	class	183939	          Methanococci
+0.8264	1	0	order	2182	            Methanococcales
+0.8264	1	0	family	196117	              Methanocaldococcaceae
+0.8264	1	0	genus	196118	                Methanocaldococcus
+0.8264	1	0	species	2190	                  Methanocaldococcus jannaschii
+0.8264	1	1	strain	243232	                    Methanocaldococcus jannaschii DSM 2661
+2.4793	3	1	superkingdom	2759	    Eukaryota
+1.6529	2	0	clade	554915	      Amoebozoa
+1.6529	2	0	phylum	2605435	        Evosea
+1.6529	2	0	class	142796	          Eumycetozoa
+1.6529	2	0	clade	33083	            Dictyostelia
+1.6529	2	0	order	2058949	              Dictyosteliales
+1.6529	2	0	family	2058185	                Dictyosteliaceae
+1.6529	2	0	genus	5782	                  Dictyostelium
+1.6529	2	2	species	44689	                    Dictyostelium discoideum

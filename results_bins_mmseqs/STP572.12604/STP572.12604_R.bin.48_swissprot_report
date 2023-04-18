@@ -1,0 +1,43 @@
+1.4085	1	1	no rank	0	unclassified
+98.5915	70	1	no rank	1	root
+97.1831	69	4	no rank	131567	  cellular organisms
+88.7324	63	37	superkingdom	2	    Bacteria
+22.5352	16	0	clade	1783270	      FCB group
+22.5352	16	1	clade	68336	        Bacteroidetes/Chlorobi group
+21.1268	15	9	phylum	976	          Bacteroidota
+7.0423	5	0	class	200643	            Bacteroidia
+7.0423	5	3	order	171549	              Bacteroidales
+1.4085	1	0	family	815	                Bacteroidaceae
+1.4085	1	0	genus	816	                  Bacteroides
+1.4085	1	0	species	817	                    Bacteroides fragilis
+1.4085	1	1	strain	295405	                      Bacteroides fragilis YCH46
+1.4085	1	0	family	171551	                Porphyromonadaceae
+1.4085	1	0	genus	836	                  Porphyromonas
+1.4085	1	0	species	837	                    Porphyromonas gingivalis
+1.4085	1	1	strain	242619	                      Porphyromonas gingivalis W83
+1.4085	1	0	class	1853228	            Chitinophagia
+1.4085	1	0	order	1853229	              Chitinophagales
+1.4085	1	0	family	563835	                Chitinophagaceae
+1.4085	1	0	genus	79328	                  Chitinophaga
+1.4085	1	0	species	79329	                    Chitinophaga pinensis
+1.4085	1	1	strain	485918	                      Chitinophaga pinensis DSM 2588
+7.0423	5	1	phylum	1224	      Pseudomonadota
+2.8169	2	1	class	1236	        Gammaproteobacteria
+1.4085	1	1	order	91347	          Enterobacterales
+1.4085	1	1	class	28211	        Alphaproteobacteria
+1.4085	1	0	class	28216	        Betaproteobacteria
+1.4085	1	0	order	80840	          Burkholderiales
+1.4085	1	0	family	506	            Alcaligenaceae
+1.4085	1	0	genus	222	              Achromobacter
+1.4085	1	1	species	85698	                Achromobacter xylosoxidans
+7.0423	5	0	clade	1783272	      Terrabacteria group
+7.0423	5	1	phylum	1239	        Bacillota
+5.6338	4	0	class	91061	          Bacilli
+5.6338	4	0	order	1385	            Bacillales
+5.6338	4	3	family	186817	              Bacillaceae
+1.4085	1	0	genus	1386	                Bacillus
+1.4085	1	0	species group	653685	                  Bacillus subtilis group
+1.4085	1	0	species	1423	                    Bacillus subtilis
+1.4085	1	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+1.4085	1	1	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+2.8169	2	2	superkingdom	2759	    Eukaryota

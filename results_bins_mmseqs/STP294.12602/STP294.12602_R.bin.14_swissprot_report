@@ -1,0 +1,109 @@
+100.0000	91	1	no rank	1	root
+98.9011	90	1	no rank	131567	  cellular organisms
+93.4066	85	21	superkingdom	2	    Bacteria
+58.2418	53	0	clade	1783272	      Terrabacteria group
+57.1429	52	25	phylum	1239	        Bacillota
+20.8791	19	4	class	91061	          Bacilli
+15.3846	14	2	order	1385	            Bacillales
+13.1868	12	2	family	186817	              Bacillaceae
+9.8901	9	0	genus	1386	                Bacillus
+9.8901	9	0	species group	653685	                  Bacillus subtilis group
+9.8901	9	0	species	1423	                    Bacillus subtilis
+9.8901	9	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+9.8901	9	9	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+1.0989	1	0	genus	2893055	                Halalkalibacterium (ex Joshi et al. 2022)
+1.0989	1	0	species	86665	                  Halalkalibacterium halodurans
+1.0989	1	1	strain	272558	                    Halalkalibacterium halodurans C-125
+1.0989	1	1	order	186826	            Lactobacillales
+8.7912	8	3	class	186801	          Clostridia
+3.2967	3	0	order	68295	            Thermoanaerobacterales
+2.1978	2	0	family	186814	              Thermoanaerobacteraceae
+1.0989	1	0	genus	129957	                Carboxydothermus
+1.0989	1	0	species	129958	                  Carboxydothermus hydrogenoformans
+1.0989	1	1	strain	246194	                    Carboxydothermus hydrogenoformans Z-2901
+1.0989	1	0	genus	249529	                Caldanaerobacter
+1.0989	1	0	species	911092	                  Caldanaerobacter subterraneus
+1.0989	1	0	subspecies	119072	                    Caldanaerobacter subterraneus subsp. tengcongensis
+1.0989	1	1	strain	273068	                      Caldanaerobacter subterraneus subsp. tengcongensis MB4
+1.0989	1	0	family	543371	              Thermoanaerobacterales Family III. Incertae Sedis
+1.0989	1	0	genus	44000	                Caldicellulosiruptor
+1.0989	1	0	species	31899	                  Caldicellulosiruptor bescii
+1.0989	1	1	strain	521460	                    Caldicellulosiruptor bescii DSM 6725
+2.1978	2	0	order	186802	            Eubacteriales
+1.0989	1	0	family	31979	              Clostridiaceae
+1.0989	1	0	genus	1485	                Clostridium
+1.0989	1	1	species	1491	                  Clostridium botulinum
+1.0989	1	0	family	216572	              Oscillospiraceae
+1.0989	1	0	genus	1508657	                Ruminiclostridium
+1.0989	1	0	species	1521	                  Ruminiclostridium cellulolyticum
+1.0989	1	1	strain	394503	                    Ruminiclostridium cellulolyticum H10
+1.0989	1	0	phylum	201174	        Actinomycetota
+1.0989	1	0	class	1760	          Actinomycetes
+1.0989	1	0	order	85007	            Corynebacteriales
+1.0989	1	0	family	1653	              Corynebacteriaceae
+1.0989	1	1	genus	1716	                Corynebacterium
+10.9890	10	3	phylum	1224	      Pseudomonadota
+5.4945	5	1	class	1236	        Gammaproteobacteria
+2.1978	2	0	order	72274	          Pseudomonadales
+2.1978	2	0	family	135621	            Pseudomonadaceae
+2.1978	2	0	genus	286	              Pseudomonas
+2.1978	2	0	species group	136841	                Pseudomonas aeruginosa group
+2.1978	2	0	species	287	                  Pseudomonas aeruginosa
+2.1978	2	2	strain	208964	                    Pseudomonas aeruginosa PAO1
+2.1978	2	0	order	91347	          Enterobacterales
+2.1978	2	0	family	543	            Enterobacteriaceae
+1.0989	1	0	genus	561	              Escherichia
+1.0989	1	1	species	562	                Escherichia coli
+1.0989	1	0	genus	590	              Salmonella
+1.0989	1	0	species	28901	                Salmonella enterica
+1.0989	1	1	subspecies	59201	                  Salmonella enterica subsp. enterica
+1.0989	1	0	subphylum	68525	        delta/epsilon subdivisions
+1.0989	1	0	class	28221	          Deltaproteobacteria
+1.0989	1	0	order	213115	            Desulfovibrionales
+1.0989	1	0	family	194924	              Desulfovibrionaceae
+1.0989	1	0	genus	2910984	                Solidesulfovibrio
+1.0989	1	1	species	878	                  Solidesulfovibrio fructosivorans
+1.0989	1	0	class	1553900	        Oligoflexia
+1.0989	1	0	order	213481	          Bdellovibrionales
+1.0989	1	0	family	213483	            Pseudobdellovibrionaceae
+1.0989	1	0	genus	958	              Bdellovibrio
+1.0989	1	0	species	959	                Bdellovibrio bacteriovorus
+1.0989	1	1	strain	264462	                  Bdellovibrio bacteriovorus HD100
+1.0989	1	0	phylum	203691	      Spirochaetota
+1.0989	1	0	class	203692	        Spirochaetia
+1.0989	1	0	order	136	          Spirochaetales
+1.0989	1	0	family	2845253	            Treponemataceae
+1.0989	1	0	genus	157	              Treponema
+1.0989	1	0	species	160	                Treponema pallidum
+1.0989	1	0	subspecies	161	                  Treponema pallidum subsp. pallidum
+1.0989	1	1	strain	243276	                    Treponema pallidum subsp. pallidum str. Nichols
+3.2967	3	0	superkingdom	2157	    Archaea
+2.1978	2	0	phylum	28890	      Euryarchaeota
+1.0989	1	0	class	183968	        Thermococci
+1.0989	1	0	order	2258	          Thermococcales
+1.0989	1	0	family	2259	            Thermococcaceae
+1.0989	1	0	genus	2260	              Pyrococcus
+1.0989	1	0	species	2261	                Pyrococcus furiosus
+1.0989	1	1	strain	186497	                  Pyrococcus furiosus DSM 3638
+1.0989	1	0	clade	2283794	        Methanomada group
+1.0989	1	0	class	183939	          Methanococci
+1.0989	1	0	order	2182	            Methanococcales
+1.0989	1	0	family	196117	              Methanocaldococcaceae
+1.0989	1	0	genus	196118	                Methanocaldococcus
+1.0989	1	0	species	2190	                  Methanocaldococcus jannaschii
+1.0989	1	1	strain	243232	                    Methanocaldococcus jannaschii DSM 2661
+1.0989	1	0	phylum	2283796	      Candidatus Thermoplasmatota
+1.0989	1	0	class	183967	        Thermoplasmata
+1.0989	1	0	order	2301	          Thermoplasmatales
+1.0989	1	0	family	46659	            Thermoplasmataceae
+1.0989	1	0	genus	2302	              Thermoplasma
+1.0989	1	0	species	2303	                Thermoplasma acidophilum
+1.0989	1	1	strain	273075	                  Thermoplasma acidophilum DSM 1728
+1.0989	1	0	superkingdom	2759	    Eukaryota
+1.0989	1	0	clade	554915	      Amoebozoa
+1.0989	1	0	phylum	2605435	        Evosea
+1.0989	1	0	clade	555406	          Archamoebae
+1.0989	1	0	order	2682482	            Mastigamoebida
+1.0989	1	0	family	33084	              Entamoebidae
+1.0989	1	0	genus	5758	                Entamoeba
+1.0989	1	1	species	5759	                  Entamoeba histolytica

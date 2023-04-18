@@ -1,0 +1,100 @@
+2.1739	2	2	no rank	0	unclassified
+97.8261	90	0	no rank	1	root
+97.8261	90	1	no rank	131567	  cellular organisms
+92.3913	85	27	superkingdom	2	    Bacteria
+56.5217	52	1	clade	1783272	      Terrabacteria group
+54.3478	50	29	phylum	1239	        Bacillota
+17.3913	16	5	class	91061	          Bacilli
+11.9565	11	1	order	1385	            Bacillales
+10.8696	10	0	family	186817	              Bacillaceae
+7.6087	7	0	genus	1386	                Bacillus
+7.6087	7	0	species group	653685	                  Bacillus subtilis group
+7.6087	7	0	species	1423	                    Bacillus subtilis
+7.6087	7	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+7.6087	7	7	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+3.2609	3	0	genus	129337	                Geobacillus
+3.2609	3	3	species	1422	                  Geobacillus stearothermophilus
+5.4348	5	1	class	186801	          Clostridia
+3.2609	3	1	order	186802	            Eubacteriales
+1.0870	1	0	family	186803	              Lachnospiraceae
+1.0870	1	0	genus	1506553	                Lachnoclostridium
+1.0870	1	1	species	29347	                  [Clostridium] scindens
+1.0870	1	1	family	216572	              Oscillospiraceae
+1.0870	1	0	order	68295	            Thermoanaerobacterales
+1.0870	1	0	family	186814	              Thermoanaerobacteraceae
+1.0870	1	0	genus	1754	                Thermoanaerobacter
+1.0870	1	1	species	29323	                  Thermoanaerobacter brockii
+1.0870	1	0	phylum	201174	        Actinomycetota
+1.0870	1	0	class	1760	          Actinomycetes
+1.0870	1	0	order	85007	            Corynebacteriales
+1.0870	1	0	family	1653	              Corynebacteriaceae
+1.0870	1	1	genus	1716	                Corynebacterium
+5.4348	5	0	phylum	1224	      Pseudomonadota
+3.2609	3	1	class	1236	        Gammaproteobacteria
+2.1739	2	0	order	91347	          Enterobacterales
+2.1739	2	1	family	543	            Enterobacteriaceae
+1.0870	1	0	genus	561	              Escherichia
+1.0870	1	0	species	562	                Escherichia coli
+1.0870	1	1	strain	83333	                  Escherichia coli K-12
+1.0870	1	0	class	28211	        Alphaproteobacteria
+1.0870	1	0	order	356	          Hyphomicrobiales
+1.0870	1	0	family	82115	            Rhizobiaceae
+1.0870	1	0	no rank	227292	              Sinorhizobium/Ensifer group
+1.0870	1	0	genus	28105	                Sinorhizobium
+1.0870	1	0	species	382	                  Sinorhizobium meliloti
+1.0870	1	1	strain	266834	                    Sinorhizobium meliloti 1021
+1.0870	1	0	subphylum	68525	        delta/epsilon subdivisions
+1.0870	1	0	class	29547	          Epsilonproteobacteria
+1.0870	1	0	order	213849	            Campylobacterales
+1.0870	1	0	family	72293	              Helicobacteraceae
+1.0870	1	0	genus	209	                Helicobacter
+1.0870	1	0	species	210	                  Helicobacter pylori
+1.0870	1	1	strain	85963	                    Helicobacter pylori J99
+1.0870	1	0	clade	1783270	      FCB group
+1.0870	1	0	clade	68336	        Bacteroidetes/Chlorobi group
+1.0870	1	0	phylum	976	          Bacteroidota
+1.0870	1	0	class	200643	            Bacteroidia
+1.0870	1	0	order	171549	              Bacteroidales
+1.0870	1	0	family	815	                Bacteroidaceae
+1.0870	1	0	genus	816	                  Bacteroides
+1.0870	1	0	species	818	                    Bacteroides thetaiotaomicron
+1.0870	1	1	strain	226186	                      Bacteroides thetaiotaomicron VPI-5482
+3.2609	3	0	superkingdom	2157	    Archaea
+3.2609	3	0	phylum	28890	      Euryarchaeota
+2.1739	2	0	clade	2283794	        Methanomada group
+1.0870	1	0	class	183925	          Methanobacteria
+1.0870	1	0	order	2158	            Methanobacteriales
+1.0870	1	0	family	2159	              Methanobacteriaceae
+1.0870	1	0	genus	145260	                Methanothermobacter
+1.0870	1	0	species	145262	                  Methanothermobacter thermautotrophicus
+1.0870	1	1	strain	187420	                    Methanothermobacter thermautotrophicus str. Delta H
+1.0870	1	0	class	183939	          Methanococci
+1.0870	1	0	order	2182	            Methanococcales
+1.0870	1	0	family	196117	              Methanocaldococcaceae
+1.0870	1	0	genus	196118	                Methanocaldococcus
+1.0870	1	0	species	2190	                  Methanocaldococcus jannaschii
+1.0870	1	1	strain	243232	                    Methanocaldococcus jannaschii DSM 2661
+1.0870	1	0	class	183968	        Thermococci
+1.0870	1	0	order	2258	          Thermococcales
+1.0870	1	0	family	2259	            Thermococcaceae
+1.0870	1	1	genus	2260	              Pyrococcus
+1.0870	1	0	superkingdom	2759	    Eukaryota
+1.0870	1	0	clade	33154	      Opisthokonta
+1.0870	1	0	kingdom	33208	        Metazoa
+1.0870	1	0	clade	6072	          Eumetazoa
+1.0870	1	0	clade	33213	            Bilateria
+1.0870	1	0	clade	33511	              Deuterostomia
+1.0870	1	0	phylum	7711	                Chordata
+1.0870	1	0	subphylum	89593	                  Craniata
+1.0870	1	0	clade	7742	                    Vertebrata
+1.0870	1	0	clade	7776	                      Gnathostomata
+1.0870	1	0	clade	117570	                        Teleostomi
+1.0870	1	0	clade	117571	                          Euteleostomi
+1.0870	1	0	superclass	8287	                            Sarcopterygii
+1.0870	1	0	clade	1338369	                              Dipnotetrapodomorpha
+1.0870	1	0	clade	32523	                                Tetrapoda
+1.0870	1	0	clade	32524	                                  Amniota
+1.0870	1	0	class	40674	                                    Mammalia
+1.0870	1	0	clade	32525	                                      Theria
+1.0870	1	0	clade	9347	                                        Eutheria
+1.0870	1	1	clade	1437010	                                          Boreoeutheria

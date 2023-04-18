@@ -1,0 +1,69 @@
+1.5152	1	1	no rank	0	unclassified
+98.4848	65	0	no rank	1	root
+98.4848	65	2	no rank	131567	  cellular organisms
+95.4545	63	10	superkingdom	2	    Bacteria
+63.6364	42	0	clade	1783272	      Terrabacteria group
+62.1212	41	18	phylum	1239	        Bacillota
+18.1818	12	1	class	91061	          Bacilli
+15.1515	10	1	order	1385	            Bacillales
+13.6364	9	1	family	186817	              Bacillaceae
+10.6061	7	0	genus	1386	                Bacillus
+10.6061	7	0	species group	653685	                  Bacillus subtilis group
+10.6061	7	0	species	1423	                    Bacillus subtilis
+10.6061	7	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+10.6061	7	7	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+1.5152	1	0	genus	2893055	                Halalkalibacterium (ex Joshi et al. 2022)
+1.5152	1	0	species	86665	                  Halalkalibacterium halodurans
+1.5152	1	1	strain	272558	                    Halalkalibacterium halodurans C-125
+1.5152	1	0	order	186826	            Lactobacillales
+1.5152	1	1	family	1300	              Streptococcaceae
+16.6667	11	2	class	186801	          Clostridia
+13.6364	9	2	order	186802	            Eubacteriales
+4.5455	3	0	family	31979	              Clostridiaceae
+4.5455	3	0	genus	1485	                Clostridium
+3.0303	2	0	species	1488	                  Clostridium acetobutylicum
+3.0303	2	2	strain	272562	                    Clostridium acetobutylicum ATCC 824
+1.5152	1	1	species	1502	                  Clostridium perfringens
+4.5455	3	0	family	186804	              Peptostreptococcaceae
+3.0303	2	0	genus	1870884	                Clostridioides
+3.0303	2	0	species	1496	                  Clostridioides difficile
+3.0303	2	2	strain	272563	                    Clostridioides difficile 630
+1.5152	1	0	genus	1849828	                Paeniclostridium
+1.5152	1	1	species	1505	                  Paeniclostridium sordellii
+1.5152	1	1	family	186803	              Lachnospiraceae
+1.5152	1	0	phylum	201174	        Actinomycetota
+1.5152	1	0	class	1760	          Actinomycetes
+1.5152	1	0	order	85006	            Micrococcales
+1.5152	1	0	family	1268	              Micrococcaceae
+1.5152	1	0	genus	57493	                Kocuria
+1.5152	1	1	species	1272	                  Kocuria varians
+15.1515	10	1	phylum	1224	      Pseudomonadota
+13.6364	9	1	class	1236	        Gammaproteobacteria
+6.0606	4	1	order	91347	          Enterobacterales
+4.5455	3	1	family	543	            Enterobacteriaceae
+1.5152	1	0	genus	561	              Escherichia
+1.5152	1	0	species	562	                Escherichia coli
+1.5152	1	1	strain	83333	                  Escherichia coli K-12
+1.5152	1	0	genus	590	              Salmonella
+1.5152	1	0	species	28901	                Salmonella enterica
+1.5152	1	1	subspecies	59201	                  Salmonella enterica subsp. enterica
+3.0303	2	0	order	135614	          Xanthomonadales
+3.0303	2	0	family	32033	            Xanthomonadaceae
+3.0303	2	0	genus	338	              Xanthomonas
+3.0303	2	0	species	339	                Xanthomonas campestris
+3.0303	2	2	no rank	340	                  Xanthomonas campestris pv. campestris
+3.0303	2	0	order	135625	          Pasteurellales
+3.0303	2	0	family	712	            Pasteurellaceae
+1.5152	1	0	genus	724	              Haemophilus
+1.5152	1	0	species	727	                Haemophilus influenzae
+1.5152	1	1	strain	71421	                  Haemophilus influenzae Rd KW20
+1.5152	1	0	genus	416916	              Aggregatibacter
+1.5152	1	1	species	714	                Aggregatibacter actinomycetemcomitans
+1.5152	1	0	phylum	32066	      Fusobacteriota
+1.5152	1	0	class	203490	        Fusobacteriia
+1.5152	1	0	order	203491	          Fusobacteriales
+1.5152	1	0	family	203492	            Fusobacteriaceae
+1.5152	1	0	genus	848	              Fusobacterium
+1.5152	1	0	species	851	                Fusobacterium nucleatum
+1.5152	1	0	subspecies	76856	                  Fusobacterium nucleatum subsp. nucleatum
+1.5152	1	1	strain	190304	                    Fusobacterium nucleatum subsp. nucleatum ATCC 25586

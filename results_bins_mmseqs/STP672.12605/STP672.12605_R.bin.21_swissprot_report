@@ -1,0 +1,89 @@
+0.8511	2	2	no rank	0	unclassified
+99.1489	233	0	no rank	1	root
+99.1489	233	8	no rank	131567	  cellular organisms
+95.3191	224	157	superkingdom	2	    Bacteria
+13.6170	32	4	clade	1783272	      Terrabacteria group
+10.2128	24	11	phylum	1239	        Bacillota
+5.5319	13	4	class	91061	          Bacilli
+3.4043	8	2	order	1385	            Bacillales
+2.5532	6	1	family	186817	              Bacillaceae
+2.1277	5	0	genus	1386	                Bacillus
+2.1277	5	2	species group	653685	                  Bacillus subtilis group
+1.2766	3	0	species	1423	                    Bacillus subtilis
+1.2766	3	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+1.2766	3	3	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+0.4255	1	0	order	186826	            Lactobacillales
+0.4255	1	0	family	1300	              Streptococcaceae
+0.4255	1	0	genus	1357	                Lactococcus
+0.4255	1	0	species	1358	                  Lactococcus lactis
+0.4255	1	0	subspecies	1360	                    Lactococcus lactis subsp. lactis
+0.4255	1	1	strain	272623	                      Lactococcus lactis subsp. lactis Il1403
+1.7021	4	0	phylum	201174	        Actinomycetota
+1.7021	4	0	class	1760	          Actinomycetes
+0.8511	2	1	order	85007	            Corynebacteriales
+0.4255	1	0	family	1762	              Mycobacteriaceae
+0.4255	1	0	genus	1763	                Mycobacterium
+0.4255	1	0	species group	77643	                  Mycobacterium tuberculosis complex
+0.4255	1	0	species	1773	                    Mycobacterium tuberculosis
+0.4255	1	1	strain	83332	                      Mycobacterium tuberculosis H37Rv
+0.8511	2	0	order	85011	            Streptomycetales
+0.8511	2	0	family	2062	              Streptomycetaceae
+0.8511	2	0	genus	1883	                Streptomyces
+0.8511	2	0	species	33903	                  Streptomyces avermitilis
+0.8511	2	2	strain	227882	                    Streptomyces avermitilis MA-4680 = NBRC 14893
+13.1915	31	11	phylum	1224	      Pseudomonadota
+5.5319	13	6	class	1236	        Gammaproteobacteria
+1.7021	4	2	order	91347	          Enterobacterales
+0.8511	2	1	family	543	            Enterobacteriaceae
+0.4255	1	0	genus	561	              Escherichia
+0.4255	1	0	species	562	                Escherichia coli
+0.4255	1	1	strain	83333	                  Escherichia coli K-12
+1.2766	3	0	order	135625	          Pasteurellales
+1.2766	3	0	family	712	            Pasteurellaceae
+1.2766	3	0	genus	724	              Haemophilus
+1.2766	3	0	species	727	                Haemophilus influenzae
+1.2766	3	3	strain	71421	                  Haemophilus influenzae Rd KW20
+2.9787	7	0	subphylum	68525	        delta/epsilon subdivisions
+2.5532	6	0	class	28221	          Deltaproteobacteria
+2.1277	5	1	order	69541	            Desulfuromonadales
+1.2766	3	0	family	2812024	              Syntrophotaleaceae
+1.2766	3	0	genus	2812025	                Syntrophotalea
+1.2766	3	3	species	29542	                  Syntrophotalea acetylenica
+0.4255	1	0	family	213421	              Desulfuromonadaceae
+0.4255	1	0	genus	18	                Pelobacter
+0.4255	1	1	species	35816	                  Pelobacter acidigallici
+0.4255	1	0	order	213115	            Desulfovibrionales
+0.4255	1	0	family	194924	              Desulfovibrionaceae
+0.4255	1	0	genus	872	                Desulfovibrio
+0.4255	1	0	species	881	                  Desulfovibrio vulgaris
+0.4255	1	1	strain	882	                    Desulfovibrio vulgaris str. Hildenborough
+0.4255	1	0	class	29547	          Epsilonproteobacteria
+0.4255	1	0	order	213849	            Campylobacterales
+0.4255	1	0	family	72293	              Helicobacteraceae
+0.4255	1	0	genus	209	                Helicobacter
+0.4255	1	0	species	32025	                  Helicobacter hepaticus
+0.4255	1	1	strain	235279	                    Helicobacter hepaticus ATCC 51449
+1.2766	3	0	phylum	203691	      Spirochaetota
+1.2766	3	0	class	203692	        Spirochaetia
+1.2766	3	0	order	136	          Spirochaetales
+0.8511	2	0	family	2845253	            Treponemataceae
+0.8511	2	0	genus	157	              Treponema
+0.4255	1	0	species	158	                Treponema denticola
+0.4255	1	1	strain	243275	                  Treponema denticola ATCC 35405
+0.4255	1	1	species	58231	                Treponema medium
+0.4255	1	0	family	1643685	            Borreliaceae
+0.4255	1	0	genus	64895	              Borreliella
+0.4255	1	0	species	139	                Borreliella burgdorferi
+0.4255	1	1	strain	224326	                  Borreliella burgdorferi B31
+0.4255	1	0	phylum	200918	      Thermotogota
+0.4255	1	0	class	188708	        Thermotogae
+0.4255	1	1	order	2419	          Thermotogales
+0.4255	1	0	superkingdom	2157	    Archaea
+0.4255	1	0	phylum	28890	      Euryarchaeota
+0.4255	1	0	clade	2290931	        Stenosarchaea group
+0.4255	1	0	class	183963	          Halobacteria
+0.4255	1	0	order	2235	            Halobacteriales
+0.4255	1	0	family	2236	              Halobacteriaceae
+0.4255	1	0	genus	2239	                Halobacterium
+0.4255	1	0	species	2242	                  Halobacterium salinarum
+0.4255	1	1	strain	64091	                    Halobacterium salinarum NRC-1

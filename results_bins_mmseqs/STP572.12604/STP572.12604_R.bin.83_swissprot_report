@@ -1,0 +1,55 @@
+2.0833	1	1	no rank	0	unclassified
+97.9167	47	0	no rank	1	root
+97.9167	47	2	no rank	131567	  cellular organisms
+93.7500	45	16	superkingdom	2	    Bacteria
+47.9167	23	1	clade	1783272	      Terrabacteria group
+43.7500	21	15	phylum	1239	        Bacillota
+10.4167	5	2	class	91061	          Bacilli
+6.2500	3	1	order	1385	            Bacillales
+2.0833	1	0	family	90964	              Staphylococcaceae
+2.0833	1	0	genus	1279	                Staphylococcus
+2.0833	1	1	species	1283	                  Staphylococcus haemolyticus
+2.0833	1	0	family	186817	              Bacillaceae
+2.0833	1	0	genus	1386	                Bacillus
+2.0833	1	0	species group	653685	                  Bacillus subtilis group
+2.0833	1	0	species	1423	                    Bacillus subtilis
+2.0833	1	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+2.0833	1	1	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+2.0833	1	0	class	186801	          Clostridia
+2.0833	1	0	order	186802	            Eubacteriales
+2.0833	1	0	family	31979	              Clostridiaceae
+2.0833	1	1	genus	1485	                Clostridium
+2.0833	1	0	phylum	544448	        Mycoplasmatota
+2.0833	1	0	order	2790996	          Mycoplasmoidales
+2.0833	1	0	family	2895623	            Metamycoplasmataceae
+2.0833	1	0	genus	2995234	              Mycoplasmoides
+2.0833	1	0	species	2104	                Mycoplasmoides pneumoniae
+2.0833	1	1	strain	272634	                  Mycoplasmoides pneumoniae M129
+6.2500	3	2	phylum	1224	      Pseudomonadota
+2.0833	1	0	class	1236	        Gammaproteobacteria
+2.0833	1	0	order	135625	          Pasteurellales
+2.0833	1	0	family	712	            Pasteurellaceae
+2.0833	1	0	genus	724	              Haemophilus
+2.0833	1	0	species	727	                Haemophilus influenzae
+2.0833	1	1	strain	71421	                  Haemophilus influenzae Rd KW20
+2.0833	1	0	phylum	32066	      Fusobacteriota
+2.0833	1	0	class	203490	        Fusobacteriia
+2.0833	1	0	order	203491	          Fusobacteriales
+2.0833	1	0	family	203492	            Fusobacteriaceae
+2.0833	1	0	genus	2332	              Propionigenium
+2.0833	1	1	species	2333	                Propionigenium modestum
+2.0833	1	0	phylum	200783	      Aquificae
+2.0833	1	0	class	187857	        Aquificae
+2.0833	1	0	order	32069	          Aquificales
+2.0833	1	0	family	64898	            Aquificaceae
+2.0833	1	0	genus	2713	              Aquifex
+2.0833	1	0	species	63363	                Aquifex aeolicus
+2.0833	1	1	strain	224324	                  Aquifex aeolicus VF5
+2.0833	1	0	clade	1783270	      FCB group
+2.0833	1	0	clade	68336	        Bacteroidetes/Chlorobi group
+2.0833	1	0	phylum	976	          Bacteroidota
+2.0833	1	0	class	200643	            Bacteroidia
+2.0833	1	0	order	171549	              Bacteroidales
+2.0833	1	0	family	815	                Bacteroidaceae
+2.0833	1	0	genus	816	                  Bacteroides
+2.0833	1	1	species	817	                    Bacteroides fragilis

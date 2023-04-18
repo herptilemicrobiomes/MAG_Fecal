@@ -1,0 +1,69 @@
+1.3699	1	1	no rank	0	unclassified
+98.6301	72	0	no rank	1	root
+98.6301	72	2	no rank	131567	  cellular organisms
+94.5205	69	9	superkingdom	2	    Bacteria
+71.2329	52	1	clade	1783272	      Terrabacteria group
+64.3836	47	16	phylum	1239	        Bacillota
+30.1370	22	6	class	91061	          Bacilli
+17.8082	13	2	order	1385	            Bacillales
+13.6986	10	3	family	186817	              Bacillaceae
+9.5890	7	1	genus	1386	                Bacillus
+8.2192	6	0	species group	653685	                  Bacillus subtilis group
+8.2192	6	0	species	1423	                    Bacillus subtilis
+8.2192	6	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+8.2192	6	6	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+1.3699	1	0	family	186820	              Listeriaceae
+1.3699	1	1	genus	1637	                Listeria
+4.1096	3	0	order	186826	            Lactobacillales
+2.7397	2	0	family	81852	              Enterococcaceae
+2.7397	2	0	genus	1350	                Enterococcus
+2.7397	2	2	species	1352	                  Enterococcus faecium
+1.3699	1	0	family	1300	              Streptococcaceae
+1.3699	1	0	genus	1301	                Streptococcus
+1.3699	1	1	species	1311	                  Streptococcus agalactiae
+12.3288	9	1	class	186801	          Clostridia
+10.9589	8	1	order	186802	            Eubacteriales
+9.5890	7	0	family	31979	              Clostridiaceae
+9.5890	7	3	genus	1485	                Clostridium
+4.1096	3	0	species	1488	                  Clostridium acetobutylicum
+4.1096	3	3	strain	272562	                    Clostridium acetobutylicum ATCC 824
+1.3699	1	1	species	1502	                  Clostridium perfringens
+2.7397	2	0	phylum	201174	        Actinomycetota
+2.7397	2	0	class	1760	          Actinomycetes
+1.3699	1	0	order	85007	            Corynebacteriales
+1.3699	1	0	family	1762	              Mycobacteriaceae
+1.3699	1	1	genus	1763	                Mycobacterium
+1.3699	1	0	order	85011	            Streptomycetales
+1.3699	1	0	family	2062	              Streptomycetaceae
+1.3699	1	1	genus	1883	                Streptomyces
+1.3699	1	0	phylum	544448	        Mycoplasmatota
+1.3699	1	0	order	2790996	          Mycoplasmoidales
+1.3699	1	0	family	2895623	            Metamycoplasmataceae
+1.3699	1	1	genus	2995234	              Mycoplasmoides
+1.3699	1	0	clade	1798711	        Cyanobacteriota/Melainabacteria group
+1.3699	1	0	phylum	1117	          Cyanobacteriota
+1.3699	1	0	class	3028117	            Cyanophyceae
+1.3699	1	0	order	1890424	              Synechococcales
+1.3699	1	0	family	1890428	                Merismopediaceae
+1.3699	1	0	genus	1142	                  Synechocystis
+1.3699	1	0	no rank	2640012	                    unclassified Synechocystis
+1.3699	1	0	species	1148	                      Synechocystis sp. PCC 6803
+1.3699	1	1	no rank	1111708	                        Synechocystis sp. PCC 6803 substr. Kazusa
+10.9589	8	3	phylum	1224	      Pseudomonadota
+6.8493	5	1	class	1236	        Gammaproteobacteria
+4.1096	3	0	order	91347	          Enterobacterales
+4.1096	3	0	family	543	            Enterobacteriaceae
+2.7397	2	0	genus	561	              Escherichia
+2.7397	2	0	species	562	                Escherichia coli
+2.7397	2	2	strain	83333	                  Escherichia coli K-12
+1.3699	1	0	genus	590	              Salmonella
+1.3699	1	0	species	28901	                Salmonella enterica
+1.3699	1	0	subspecies	59201	                  Salmonella enterica subsp. enterica
+1.3699	1	0	no rank	90371	                    Salmonella enterica subsp. enterica serovar Typhimurium
+1.3699	1	1	strain	99287	                      Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+1.3699	1	0	order	135622	          Alteromonadales
+1.3699	1	0	family	267890	            Shewanellaceae
+1.3699	1	0	genus	22	              Shewanella
+1.3699	1	0	species	56812	                Shewanella frigidimarina
+1.3699	1	1	strain	318167	                  Shewanella frigidimarina NCIMB 400
+1.3699	1	1	superkingdom	2759	    Eukaryota

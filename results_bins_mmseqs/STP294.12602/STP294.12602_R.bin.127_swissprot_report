@@ -1,0 +1,137 @@
+1.4493	2	2	no rank	0	unclassified
+98.5507	136	0	no rank	1	root
+98.5507	136	15	no rank	131567	  cellular organisms
+83.3333	115	17	superkingdom	2	    Bacteria
+55.0725	76	9	phylum	1224	      Pseudomonadota
+27.5362	38	0	subphylum	68525	        delta/epsilon subdivisions
+26.8116	37	0	class	28221	          Deltaproteobacteria
+26.0870	36	0	order	213115	            Desulfovibrionales
+24.6377	34	16	family	194924	              Desulfovibrionaceae
+7.9710	11	2	genus	872	                Desulfovibrio
+5.0725	7	2	species	881	                  Desulfovibrio vulgaris
+3.6232	5	5	strain	882	                    Desulfovibrio vulgaris str. Hildenborough
+1.4493	2	0	species	876	                  Desulfovibrio desulfuricans
+1.4493	2	2	strain	525146	                    Desulfovibrio desulfuricans ATCC 27774
+4.3478	6	0	genus	41707	                Lawsonia
+4.3478	6	0	species	29546	                  Lawsonia intracellularis
+4.3478	6	6	strain	363253	                    Lawsonia intracellularis PHE/MN1-00
+0.7246	1	0	genus	2794998	                Maridesulfovibrio
+0.7246	1	0	species	880	                  Maridesulfovibrio salexigens
+0.7246	1	1	strain	526222	                    Maridesulfovibrio salexigens DSM 2638
+1.4493	2	0	family	213116	              Desulfomicrobiaceae
+1.4493	2	0	genus	898	                Desulfomicrobium
+1.4493	2	2	species	899	                  Desulfomicrobium baculatum
+0.7246	1	0	order	213118	            Desulfobacterales
+0.7246	1	0	family	213119	              Desulfobacteraceae
+0.7246	1	0	genus	2904687	                Desulforapulum
+0.7246	1	0	species	2296	                  Desulforapulum autotrophicum
+0.7246	1	1	strain	177437	                    Desulforapulum autotrophicum HRM2
+0.7246	1	0	class	29547	          Epsilonproteobacteria
+0.7246	1	0	order	213849	            Campylobacterales
+0.7246	1	1	family	72293	              Helicobacteraceae
+18.1159	25	5	class	1236	        Gammaproteobacteria
+12.3188	17	2	order	91347	          Enterobacterales
+10.8696	15	7	family	543	            Enterobacteriaceae
+5.0725	7	0	genus	561	              Escherichia
+5.0725	7	3	species	562	                Escherichia coli
+2.8986	4	4	strain	83333	                  Escherichia coli K-12
+0.7246	1	0	genus	590	              Salmonella
+0.7246	1	0	species	28901	                Salmonella enterica
+0.7246	1	0	subspecies	59201	                  Salmonella enterica subsp. enterica
+0.7246	1	0	no rank	90371	                    Salmonella enterica subsp. enterica serovar Typhimurium
+0.7246	1	1	strain	99287	                      Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+1.4493	2	0	order	135625	          Pasteurellales
+1.4493	2	1	family	712	            Pasteurellaceae
+0.7246	1	0	genus	724	              Haemophilus
+0.7246	1	0	species	727	                Haemophilus influenzae
+0.7246	1	1	strain	71421	                  Haemophilus influenzae Rd KW20
+0.7246	1	0	order	135624	          Aeromonadales
+0.7246	1	0	family	84642	            Aeromonadaceae
+0.7246	1	1	genus	642	              Aeromonas
+2.1739	3	0	class	28211	        Alphaproteobacteria
+1.4493	2	1	order	356	          Hyphomicrobiales
+0.7246	1	1	family	82115	            Rhizobiaceae
+0.7246	1	0	order	1191478	          Magnetococcales
+0.7246	1	0	family	1191479	            Magnetococcaceae
+0.7246	1	0	genus	162171	              Magnetococcus
+0.7246	1	0	species	1124597	                Magnetococcus marinus
+0.7246	1	1	strain	156889	                  Magnetococcus marinus MC-1
+0.7246	1	0	class	28216	        Betaproteobacteria
+0.7246	1	0	order	80840	          Burkholderiales
+0.7246	1	0	family	506	            Alcaligenaceae
+0.7246	1	1	genus	517	              Bordetella
+15.9420	22	1	clade	1783272	      Terrabacteria group
+13.0435	18	3	phylum	1239	        Bacillota
+6.5217	9	0	class	91061	          Bacilli
+5.7971	8	4	order	1385	            Bacillales
+2.8986	4	1	family	186817	              Bacillaceae
+1.4493	2	0	genus	1386	                Bacillus
+1.4493	2	0	species group	653685	                  Bacillus subtilis group
+1.4493	2	0	species	1423	                    Bacillus subtilis
+1.4493	2	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+1.4493	2	2	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+0.7246	1	0	genus	129337	                Geobacillus
+0.7246	1	1	species	1422	                  Geobacillus stearothermophilus
+0.7246	1	1	order	186826	            Lactobacillales
+4.3478	6	2	class	186801	          Clostridia
+2.8986	4	0	order	186802	            Eubacteriales
+1.4493	2	0	family	31979	              Clostridiaceae
+1.4493	2	0	genus	1485	                Clostridium
+0.7246	1	0	species	1488	                  Clostridium acetobutylicum
+0.7246	1	1	strain	272562	                    Clostridium acetobutylicum ATCC 824
+0.7246	1	1	species	1501	                  Clostridium pasteurianum
+0.7246	1	0	family	186804	              Peptostreptococcaceae
+0.7246	1	0	genus	1481960	                Peptoclostridium
+0.7246	1	1	species	1731	                  Peptoclostridium acidaminophilum
+0.7246	1	0	family	186806	              Eubacteriaceae
+0.7246	1	0	genus	1730	                Eubacterium
+0.7246	1	1	species	1528	                  Eubacterium barkeri
+2.1739	3	0	phylum	201174	        Actinomycetota
+2.1739	3	0	class	1760	          Actinomycetes
+1.4493	2	0	order	85007	            Corynebacteriales
+1.4493	2	0	family	1762	              Mycobacteriaceae
+1.4493	2	1	genus	1763	                Mycobacterium
+0.7246	1	0	species group	77643	                  Mycobacterium tuberculosis complex
+0.7246	1	1	species	1773	                    Mycobacterium tuberculosis
+0.7246	1	0	order	85006	            Micrococcales
+0.7246	1	0	family	85023	              Microbacteriaceae
+0.7246	1	0	genus	33882	                Microbacterium
+0.7246	1	1	species	33918	                  Microbacterium liquefaciens
+2.8986	4	1	superkingdom	2157	    Archaea
+2.1739	3	0	phylum	28890	      Euryarchaeota
+1.4493	2	0	class	183968	        Thermococci
+1.4493	2	0	order	2258	          Thermococcales
+1.4493	2	0	family	2259	            Thermococcaceae
+0.7246	1	0	genus	2260	              Pyrococcus
+0.7246	1	0	species	2261	                Pyrococcus furiosus
+0.7246	1	1	strain	186497	                  Pyrococcus furiosus DSM 3638
+0.7246	1	0	genus	2263	              Thermococcus
+0.7246	1	0	species	2265	                Thermococcus litoralis
+0.7246	1	1	strain	523849	                  Thermococcus litoralis DSM 5473
+0.7246	1	0	clade	2283794	        Methanomada group
+0.7246	1	0	class	183939	          Methanococci
+0.7246	1	0	order	2182	            Methanococcales
+0.7246	1	0	family	196117	              Methanocaldococcaceae
+0.7246	1	0	genus	196118	                Methanocaldococcus
+0.7246	1	0	species	2190	                  Methanocaldococcus jannaschii
+0.7246	1	1	strain	243232	                    Methanocaldococcus jannaschii DSM 2661
+1.4493	2	0	superkingdom	2759	    Eukaryota
+1.4493	2	0	kingdom	33090	      Viridiplantae
+1.4493	2	0	phylum	35493	        Streptophyta
+1.4493	2	0	subphylum	131221	          Streptophytina
+1.4493	2	0	clade	3193	            Embryophyta
+1.4493	2	0	clade	58023	              Tracheophyta
+1.4493	2	0	clade	78536	                Euphyllophyta
+1.4493	2	0	clade	58024	                  Spermatophyta
+1.4493	2	0	class	3398	                    Magnoliopsida
+1.4493	2	1	clade	1437183	                      Mesangiospermae
+0.7246	1	0	clade	71240	                        eudicotyledons
+0.7246	1	0	clade	91827	                          Gunneridae
+0.7246	1	0	clade	1437201	                            Pentapetalae
+0.7246	1	0	clade	71275	                              rosids
+0.7246	1	0	clade	91836	                                malvids
+0.7246	1	0	order	3699	                                  Brassicales
+0.7246	1	0	family	3700	                                    Brassicaceae
+0.7246	1	0	tribe	980083	                                      Camelineae
+0.7246	1	0	genus	3701	                                        Arabidopsis
+0.7246	1	1	species	3702	                                          Arabidopsis thaliana

@@ -1,0 +1,116 @@
+1.0417	1	1	no rank	0	unclassified
+98.9583	95	5	no rank	1	root
+92.7083	89	4	no rank	131567	  cellular organisms
+85.4167	82	20	superkingdom	2	    Bacteria
+43.7500	42	4	clade	1783272	      Terrabacteria group
+39.5833	38	2	phylum	1239	        Bacillota
+33.3333	32	4	class	91061	          Bacilli
+20.8333	20	1	order	1385	            Bacillales
+18.7500	18	2	family	186817	              Bacillaceae
+15.6250	15	0	genus	1386	                Bacillus
+12.5000	12	1	species group	653685	                  Bacillus subtilis group
+10.4167	10	0	species	1423	                    Bacillus subtilis
+10.4167	10	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+10.4167	10	10	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+1.0417	1	1	species	1402	                    Bacillus licheniformis
+3.1250	3	0	species group	86661	                  Bacillus cereus group
+2.0833	2	0	species	1396	                    Bacillus cereus
+1.0417	1	1	strain	1053222	                      Bacillus cereus MSX-D12
+1.0417	1	1	strain	1053225	                      Bacillus cereus VD045
+1.0417	1	0	species	1428	                    Bacillus thuringiensis
+1.0417	1	1	no rank	1434	                      Bacillus thuringiensis serovar berliner
+1.0417	1	0	genus	2893055	                Halalkalibacterium (ex Joshi et al. 2022)
+1.0417	1	0	species	86665	                  Halalkalibacterium halodurans
+1.0417	1	1	strain	272558	                    Halalkalibacterium halodurans C-125
+1.0417	1	1	family	90964	              Staphylococcaceae
+8.3333	8	1	order	186826	            Lactobacillales
+6.2500	6	1	family	1300	              Streptococcaceae
+4.1667	4	1	genus	1301	                Streptococcus
+2.0833	2	2	species	1311	                  Streptococcus agalactiae
+1.0417	1	1	species	1314	                  Streptococcus pyogenes
+1.0417	1	0	genus	1357	                Lactococcus
+1.0417	1	0	species	1358	                  Lactococcus lactis
+1.0417	1	0	subspecies	1360	                    Lactococcus lactis subsp. lactis
+1.0417	1	1	strain	272623	                      Lactococcus lactis subsp. lactis Il1403
+1.0417	1	0	family	81852	              Enterococcaceae
+1.0417	1	0	genus	1350	                Enterococcus
+1.0417	1	0	species	1351	                  Enterococcus faecalis
+1.0417	1	1	strain	226185	                    Enterococcus faecalis V583
+4.1667	4	0	class	186801	          Clostridia
+4.1667	4	1	order	186802	            Eubacteriales
+1.0417	1	0	family	31979	              Clostridiaceae
+1.0417	1	1	genus	1485	                Clostridium
+1.0417	1	0	family	186803	              Lachnospiraceae
+1.0417	1	0	no rank	2840493	                Lachnospiraceae incertae sedis
+1.0417	1	0	species	39491	                  [Eubacterium] rectale
+1.0417	1	1	strain	515619	                    [Eubacterium] rectale ATCC 33656
+1.0417	1	0	family	216572	              Oscillospiraceae
+1.0417	1	0	genus	1263	                Ruminococcus
+1.0417	1	1	species	1265	                  Ruminococcus flavefaciens
+19.7917	19	0	phylum	1224	      Pseudomonadota
+16.6667	16	3	class	1236	        Gammaproteobacteria
+7.2917	7	2	order	91347	          Enterobacterales
+5.2083	5	1	family	543	            Enterobacteriaceae
+3.1250	3	0	genus	561	              Escherichia
+3.1250	3	2	species	562	                Escherichia coli
+1.0417	1	1	strain	83333	                  Escherichia coli K-12
+1.0417	1	0	genus	590	              Salmonella
+1.0417	1	0	species	28901	                Salmonella enterica
+1.0417	1	1	subspecies	59201	                  Salmonella enterica subsp. enterica
+4.1667	4	0	order	135625	          Pasteurellales
+4.1667	4	0	family	712	            Pasteurellaceae
+4.1667	4	0	genus	724	              Haemophilus
+4.1667	4	0	species	727	                Haemophilus influenzae
+4.1667	4	4	strain	71421	                  Haemophilus influenzae Rd KW20
+1.0417	1	0	order	72274	          Pseudomonadales
+1.0417	1	0	family	135621	            Pseudomonadaceae
+1.0417	1	0	genus	286	              Pseudomonas
+1.0417	1	0	species group	136841	                Pseudomonas aeruginosa group
+1.0417	1	0	species	287	                  Pseudomonas aeruginosa
+1.0417	1	1	strain	1081927	                    Pseudomonas aeruginosa PA103
+1.0417	1	0	order	135614	          Xanthomonadales
+1.0417	1	0	family	32033	            Xanthomonadaceae
+1.0417	1	0	genus	338	              Xanthomonas
+1.0417	1	0	species	347	                Xanthomonas oryzae
+1.0417	1	0	no rank	64187	                  Xanthomonas oryzae pv. oryzae
+1.0417	1	1	strain	291331	                    Xanthomonas oryzae pv. oryzae KACC 10331
+2.0833	2	0	subphylum	68525	        delta/epsilon subdivisions
+2.0833	2	0	class	29547	          Epsilonproteobacteria
+2.0833	2	1	order	213849	            Campylobacterales
+1.0417	1	0	family	72294	              Campylobacteraceae
+1.0417	1	0	genus	194	                Campylobacter
+1.0417	1	0	species	197	                  Campylobacter jejuni
+1.0417	1	0	subspecies	32022	                    Campylobacter jejuni subsp. jejuni
+1.0417	1	1	strain	192222	                      Campylobacter jejuni subsp. jejuni NCTC 11168 = ATCC 700819
+1.0417	1	0	class	28211	        Alphaproteobacteria
+1.0417	1	0	order	356	          Hyphomicrobiales
+1.0417	1	0	family	772	            Bartonellaceae
+1.0417	1	0	genus	773	              Bartonella
+1.0417	1	0	species	165694	                Bartonella schoenbuchensis
+1.0417	1	1	strain	687861	                  Bartonella schoenbuchensis R1
+1.0417	1	0	clade	1783270	      FCB group
+1.0417	1	0	clade	68336	        Bacteroidetes/Chlorobi group
+1.0417	1	0	phylum	976	          Bacteroidota
+1.0417	1	0	class	200643	            Bacteroidia
+1.0417	1	0	order	171549	              Bacteroidales
+1.0417	1	0	family	815	                Bacteroidaceae
+1.0417	1	0	genus	816	                  Bacteroides
+1.0417	1	0	species	818	                    Bacteroides thetaiotaomicron
+1.0417	1	1	strain	226186	                      Bacteroides thetaiotaomicron VPI-5482
+2.0833	2	0	superkingdom	2157	    Archaea
+2.0833	2	0	phylum	28890	      Euryarchaeota
+2.0833	2	0	clade	2283794	        Methanomada group
+2.0833	2	0	class	183939	          Methanococci
+2.0833	2	0	order	2182	            Methanococcales
+2.0833	2	0	family	196117	              Methanocaldococcaceae
+2.0833	2	0	genus	196118	                Methanocaldococcus
+2.0833	2	0	species	2190	                  Methanocaldococcus jannaschii
+2.0833	2	2	strain	243232	                    Methanocaldococcus jannaschii DSM 2661
+1.0417	1	0	superkingdom	2759	    Eukaryota
+1.0417	1	0	clade	33154	      Opisthokonta
+1.0417	1	0	kingdom	33208	        Metazoa
+1.0417	1	1	clade	6072	          Eumetazoa
+1.0417	1	0	superkingdom	10239	  Viruses
+1.0417	1	0	family	423358	    Bicaudaviridae
+1.0417	1	0	genus	680194	      Bicaudavirus
+1.0417	1	1	species	315953	        Acidianus two-tailed virus

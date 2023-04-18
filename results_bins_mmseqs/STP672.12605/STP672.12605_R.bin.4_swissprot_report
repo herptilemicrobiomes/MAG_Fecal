@@ -1,0 +1,75 @@
+0.7752	1	1	no rank	0	unclassified
+99.2248	128	0	no rank	1	root
+99.2248	128	2	no rank	131567	  cellular organisms
+96.1240	124	30	superkingdom	2	    Bacteria
+68.2171	88	2	clade	1783272	      Terrabacteria group
+65.1163	84	45	phylum	1239	        Bacillota
+21.7054	28	6	class	91061	          Bacilli
+13.9535	18	2	order	1385	            Bacillales
+11.6279	15	2	family	186817	              Bacillaceae
+10.0775	13	0	genus	1386	                Bacillus
+10.0775	13	0	species group	653685	                  Bacillus subtilis group
+10.0775	13	0	species	1423	                    Bacillus subtilis
+10.0775	13	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+10.0775	13	13	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+0.7752	1	0	no rank	539002	              Bacillales incertae sedis
+0.7752	1	0	no rank	539742	                Bacillales Family XII. Incertae Sedis
+0.7752	1	0	genus	33986	                  Exiguobacterium
+0.7752	1	0	no rank	2644629	                    unclassified Exiguobacterium
+0.7752	1	1	species	360911	                      Exiguobacterium sp. AT1b
+3.1008	4	0	order	186826	            Lactobacillales
+1.5504	2	0	family	1300	              Streptococcaceae
+1.5504	2	0	genus	1357	                Lactococcus
+0.7752	1	0	species	1358	                  Lactococcus lactis
+0.7752	1	0	subspecies	1360	                    Lactococcus lactis subsp. lactis
+0.7752	1	1	strain	272623	                      Lactococcus lactis subsp. lactis Il1403
+0.7752	1	0	species	1359	                  Lactococcus cremoris
+0.7752	1	1	subspecies	2816960	                    Lactococcus cremoris subsp. cremoris
+1.5504	2	0	family	81852	              Enterococcaceae
+1.5504	2	0	genus	1350	                Enterococcus
+0.7752	1	1	species	1352	                  Enterococcus faecium
+0.7752	1	0	species	1354	                  Enterococcus hirae
+0.7752	1	1	strain	768486	                    Enterococcus hirae ATCC 9790
+8.5271	11	4	class	186801	          Clostridia
+5.4264	7	4	order	186802	            Eubacteriales
+2.3256	3	1	family	186803	              Lachnospiraceae
+1.5504	2	0	genus	1506553	                Lachnoclostridium
+0.7752	1	1	species	1512	                  [Clostridium] symbiosum
+0.7752	1	0	species	66219	                  Lachnoclostridium phytofermentans
+0.7752	1	1	strain	357809	                    Lachnoclostridium phytofermentans ISDg
+0.7752	1	0	phylum	201174	        Actinomycetota
+0.7752	1	1	class	1760	          Actinomycetes
+0.7752	1	0	phylum	544448	        Mycoplasmatota
+0.7752	1	0	order	2790996	          Mycoplasmoidales
+0.7752	1	0	family	2895623	            Metamycoplasmataceae
+0.7752	1	1	genus	2995234	              Mycoplasmoides
+3.8760	5	2	phylum	1224	      Pseudomonadota
+1.5504	2	0	class	1236	        Gammaproteobacteria
+0.7752	1	0	order	91347	          Enterobacterales
+0.7752	1	1	family	543	            Enterobacteriaceae
+0.7752	1	0	order	135623	          Vibrionales
+0.7752	1	0	family	641	            Vibrionaceae
+0.7752	1	0	genus	662	              Vibrio
+0.7752	1	1	species group	717610	                Vibrio harveyi group
+0.7752	1	0	subphylum	68525	        delta/epsilon subdivisions
+0.7752	1	0	class	28221	          Deltaproteobacteria
+0.7752	1	0	order	213115	            Desulfovibrionales
+0.7752	1	0	family	194924	              Desulfovibrionaceae
+0.7752	1	0	genus	2910984	                Solidesulfovibrio
+0.7752	1	1	species	878	                  Solidesulfovibrio fructosivorans
+0.7752	1	0	phylum	203691	      Spirochaetota
+0.7752	1	0	class	203692	        Spirochaetia
+0.7752	1	0	order	136	          Spirochaetales
+0.7752	1	0	family	2845253	            Treponemataceae
+0.7752	1	0	genus	157	              Treponema
+0.7752	1	1	species	58231	                Treponema medium
+0.7752	1	0	superkingdom	2157	    Archaea
+0.7752	1	0	phylum	28890	      Euryarchaeota
+0.7752	1	0	clade	2283794	        Methanomada group
+0.7752	1	0	class	183939	          Methanococci
+0.7752	1	0	order	2182	            Methanococcales
+0.7752	1	0	family	196117	              Methanocaldococcaceae
+0.7752	1	0	genus	196118	                Methanocaldococcus
+0.7752	1	0	species	2190	                  Methanocaldococcus jannaschii
+0.7752	1	1	strain	243232	                    Methanocaldococcus jannaschii DSM 2661
+0.7752	1	1	superkingdom	2759	    Eukaryota

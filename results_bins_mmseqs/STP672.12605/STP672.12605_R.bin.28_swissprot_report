@@ -1,0 +1,273 @@
+1.3405	5	5	no rank	0	unclassified
+98.6595	368	0	no rank	1	root
+98.1233	366	18	no rank	131567	  cellular organisms
+87.9357	328	49	superkingdom	2	    Bacteria
+57.6408	215	2	clade	1783272	      Terrabacteria group
+55.2279	206	49	phylum	1239	        Bacillota
+21.1796	79	14	class	186801	          Clostridia
+16.8901	63	9	order	186802	            Eubacteriales
+11.5282	43	6	family	186803	              Lachnospiraceae
+6.9705	26	0	genus	1506553	                Lachnoclostridium
+6.9705	26	0	species	66219	                  Lachnoclostridium phytofermentans
+6.9705	26	26	strain	357809	                    Lachnoclostridium phytofermentans ISDg
+1.0724	4	0	genus	28050	                Lachnospira
+1.0724	4	0	species	39485	                  Lachnospira eligens
+1.0724	4	4	strain	515620	                    [Eubacterium] eligens ATCC 27750
+0.8043	3	0	genus	830	                Butyrivibrio
+0.8043	3	3	species	831	                  Butyrivibrio fibrisolvens
+0.8043	3	0	no rank	2840493	                Lachnospiraceae incertae sedis
+0.8043	3	0	species	39491	                  [Eubacterium] rectale
+0.8043	3	3	strain	515619	                    [Eubacterium] rectale ATCC 33656
+0.2681	1	0	genus	572511	                Blautia
+0.2681	1	0	species	53443	                  Blautia hydrogenotrophica
+0.2681	1	1	strain	476272	                    Blautia hydrogenotrophica DSM 10507
+2.4129	9	1	family	31979	              Clostridiaceae
+2.1448	8	2	genus	1485	                Clostridium
+0.5362	2	0	species	1513	                  Clostridium tetani
+0.5362	2	2	strain	212717	                    Clostridium tetani E88
+0.2681	1	0	species	1488	                  Clostridium acetobutylicum
+0.2681	1	1	strain	272562	                    Clostridium acetobutylicum ATCC 824
+0.2681	1	1	species	1491	                  Clostridium botulinum
+0.2681	1	1	species	1509	                  Clostridium sporogenes
+0.2681	1	1	species	1520	                  Clostridium beijerinckii
+0.2681	1	0	family	186806	              Eubacteriaceae
+0.2681	1	0	genus	33951	                Acetobacterium
+0.2681	1	0	species	33952	                  Acetobacterium woodii
+0.2681	1	1	strain	931626	                    Acetobacterium woodii DSM 1030
+0.2681	1	0	family	216572	              Oscillospiraceae
+0.2681	1	0	genus	1508657	                Ruminiclostridium
+0.2681	1	0	species	1521	                  Ruminiclostridium cellulolyticum
+0.2681	1	1	strain	394503	                    Ruminiclostridium cellulolyticum H10
+0.5362	2	0	order	68295	            Thermoanaerobacterales
+0.5362	2	0	family	186814	              Thermoanaerobacteraceae
+0.5362	2	0	genus	249529	                Caldanaerobacter
+0.5362	2	0	species	911092	                  Caldanaerobacter subterraneus
+0.5362	2	0	subspecies	119072	                    Caldanaerobacter subterraneus subsp. tengcongensis
+0.5362	2	2	strain	273068	                      Caldanaerobacter subterraneus subsp. tengcongensis MB4
+20.6434	77	13	class	91061	          Bacilli
+16.0858	60	10	order	1385	            Bacillales
+12.3324	46	11	family	186817	              Bacillaceae
+9.1153	34	2	genus	1386	                Bacillus
+8.5791	32	0	species group	653685	                  Bacillus subtilis group
+8.5791	32	0	species	1423	                    Bacillus subtilis
+8.5791	32	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+8.5791	32	32	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+0.2681	1	0	genus	129337	                Geobacillus
+0.2681	1	0	species	33940	                  Geobacillus thermodenitrificans
+0.2681	1	1	strain	420246	                    Geobacillus thermodenitrificans NG80-2
+0.8043	3	0	family	90964	              Staphylococcaceae
+0.8043	3	3	genus	1279	                Staphylococcus
+0.2681	1	0	family	186818	              Planococcaceae
+0.2681	1	0	genus	162291	                Planomicrobium
+0.2681	1	1	species	244	                  Planomicrobium okeanokoites
+1.0724	4	0	order	186826	            Lactobacillales
+0.8043	3	0	family	81852	              Enterococcaceae
+0.8043	3	0	genus	1350	                Enterococcus
+0.5362	2	2	species	1352	                  Enterococcus faecium
+0.2681	1	0	species	1351	                  Enterococcus faecalis
+0.2681	1	1	strain	226185	                    Enterococcus faecalis V583
+0.2681	1	0	family	1300	              Streptococcaceae
+0.2681	1	0	genus	1301	                Streptococcus
+0.2681	1	0	species	1309	                  Streptococcus mutans
+0.2681	1	1	strain	210007	                    Streptococcus mutans UA159
+0.2681	1	0	class	1737404	          Tissierellia
+0.2681	1	0	order	1737405	            Tissierellales
+0.2681	1	0	family	1570339	              Peptoniphilaceae
+0.2681	1	0	genus	150022	                Finegoldia
+0.2681	1	0	species	1260	                  Finegoldia magna
+0.2681	1	1	strain	334413	                    Finegoldia magna ATCC 29328
+1.6086	6	0	phylum	201174	        Actinomycetota
+1.6086	6	1	class	1760	          Actinomycetes
+1.0724	4	0	order	85007	            Corynebacteriales
+0.5362	2	0	family	1653	              Corynebacteriaceae
+0.5362	2	2	genus	1716	                Corynebacterium
+0.5362	2	0	family	1762	              Mycobacteriaceae
+0.5362	2	0	genus	1763	                Mycobacterium
+0.2681	1	0	species	1769	                  Mycobacterium leprae
+0.2681	1	1	strain	272631	                    Mycobacterium leprae TN
+0.2681	1	0	species group	77643	                  Mycobacterium tuberculosis complex
+0.2681	1	1	species	1773	                    Mycobacterium tuberculosis
+0.2681	1	0	order	85006	            Micrococcales
+0.2681	1	0	family	85016	              Cellulomonadaceae
+0.2681	1	0	genus	1707	                Cellulomonas
+0.2681	1	1	species	1708	                  Cellulomonas fimi
+0.2681	1	0	phylum	1297	        Deinococcota
+0.2681	1	0	class	188787	          Deinococci
+0.2681	1	0	order	118964	            Deinococcales
+0.2681	1	0	family	183710	              Deinococcaceae
+0.2681	1	0	genus	1298	                Deinococcus
+0.2681	1	0	species	1299	                  Deinococcus radiodurans
+0.2681	1	1	strain	243230	                    Deinococcus radiodurans R1
+13.9410	52	7	phylum	1224	      Pseudomonadota
+9.3834	35	13	class	1236	        Gammaproteobacteria
+4.2895	16	1	order	91347	          Enterobacterales
+4.0214	15	4	family	543	            Enterobacteriaceae
+2.9491	11	0	genus	561	              Escherichia
+2.9491	11	1	species	562	                Escherichia coli
+2.6810	10	10	strain	83333	                  Escherichia coli K-12
+0.8043	3	0	order	72274	          Pseudomonadales
+0.8043	3	1	family	135621	            Pseudomonadaceae
+0.5362	2	0	genus	286	              Pseudomonas
+0.5362	2	0	species group	136841	                Pseudomonas aeruginosa group
+0.5362	2	0	species	287	                  Pseudomonas aeruginosa
+0.5362	2	2	strain	208964	                    Pseudomonas aeruginosa PAO1
+0.5362	2	0	order	135625	          Pasteurellales
+0.5362	2	0	family	712	            Pasteurellaceae
+0.5362	2	0	genus	724	              Haemophilus
+0.5362	2	0	species	727	                Haemophilus influenzae
+0.5362	2	2	strain	71421	                  Haemophilus influenzae Rd KW20
+0.2681	1	0	order	135623	          Vibrionales
+0.2681	1	0	family	641	            Vibrionaceae
+0.2681	1	0	genus	662	              Vibrio
+0.2681	1	0	species	666	                Vibrio cholerae
+0.2681	1	0	serogroup	127906	                  Vibrio cholerae O1
+0.2681	1	0	no rank	686	                    Vibrio cholerae O1 biovar El Tor
+0.2681	1	1	strain	243277	                      Vibrio cholerae O1 biovar El Tor str. N16961
+1.3405	5	0	subphylum	68525	        delta/epsilon subdivisions
+1.0724	4	0	class	28221	          Deltaproteobacteria
+1.0724	4	0	order	213115	            Desulfovibrionales
+1.0724	4	0	family	194924	              Desulfovibrionaceae
+0.5362	2	0	genus	2909705	                Oleidesulfovibrio
+0.5362	2	0	species	58180	                  Oleidesulfovibrio alaskensis
+0.5362	2	2	strain	207559	                    Oleidesulfovibrio alaskensis G20
+0.5362	2	0	genus	2910984	                Solidesulfovibrio
+0.5362	2	2	species	878	                  Solidesulfovibrio fructosivorans
+0.2681	1	0	class	29547	          Epsilonproteobacteria
+0.2681	1	0	order	213849	            Campylobacterales
+0.2681	1	0	family	72293	              Helicobacteraceae
+0.2681	1	0	genus	209	                Helicobacter
+0.2681	1	1	species	210	                  Helicobacter pylori
+0.8043	3	0	class	28216	        Betaproteobacteria
+0.5362	2	0	order	80840	          Burkholderiales
+0.2681	1	0	family	506	            Alcaligenaceae
+0.2681	1	1	genus	517	              Bordetella
+0.2681	1	0	family	119060	            Burkholderiaceae
+0.2681	1	0	genus	32008	              Burkholderia
+0.2681	1	1	species group	87882	                Burkholderia cepacia complex
+0.2681	1	0	order	206351	          Neisseriales
+0.2681	1	0	family	481	            Neisseriaceae
+0.2681	1	0	genus	482	              Neisseria
+0.2681	1	0	species	487	                Neisseria meningitidis
+0.2681	1	0	serogroup	65699	                  Neisseria meningitidis serogroup A
+0.2681	1	1	strain	122587	                    Neisseria meningitidis Z2491
+0.5362	2	0	class	28211	        Alphaproteobacteria
+0.5362	2	0	order	356	          Hyphomicrobiales
+0.5362	2	0	family	82115	            Rhizobiaceae
+0.2681	1	0	no rank	227290	              Rhizobium/Agrobacterium group
+0.2681	1	0	genus	357	                Agrobacterium
+0.2681	1	1	species	373	                  Agrobacterium vitis
+0.2681	1	0	no rank	227292	              Sinorhizobium/Ensifer group
+0.2681	1	0	genus	28105	                Sinorhizobium
+0.2681	1	0	species group	663276	                  Sinorhizobium fredii group
+0.2681	1	0	species	380	                    Sinorhizobium fredii
+0.2681	1	1	strain	394	                      Sinorhizobium fredii NGR234
+1.6086	6	0	phylum	203691	      Spirochaetota
+1.6086	6	0	class	203692	        Spirochaetia
+1.3405	5	0	order	136	          Spirochaetales
+1.0724	4	0	family	2845253	            Treponemataceae
+1.0724	4	0	genus	157	              Treponema
+1.0724	4	0	species	160	                Treponema pallidum
+1.0724	4	0	subspecies	161	                  Treponema pallidum subsp. pallidum
+1.0724	4	4	strain	243276	                    Treponema pallidum subsp. pallidum str. Nichols
+0.2681	1	0	family	1643685	            Borreliaceae
+0.2681	1	0	genus	64895	              Borreliella
+0.2681	1	0	species	139	                Borreliella burgdorferi
+0.2681	1	1	strain	224326	                  Borreliella burgdorferi B31
+0.2681	1	0	order	1643686	          Brachyspirales
+0.2681	1	0	family	143786	            Brachyspiraceae
+0.2681	1	0	genus	29521	              Brachyspira
+0.2681	1	0	species	159	                Brachyspira hyodysenteriae
+0.2681	1	1	strain	565034	                  Brachyspira hyodysenteriae WA1
+0.8043	3	0	phylum	32066	      Fusobacteriota
+0.8043	3	0	class	203490	        Fusobacteriia
+0.8043	3	0	order	203491	          Fusobacteriales
+0.8043	3	0	family	203492	            Fusobacteriaceae
+0.8043	3	0	genus	848	              Fusobacterium
+0.8043	3	0	species	851	                Fusobacterium nucleatum
+0.8043	3	0	subspecies	76856	                  Fusobacterium nucleatum subsp. nucleatum
+0.8043	3	3	strain	190304	                    Fusobacterium nucleatum subsp. nucleatum ATCC 25586
+0.5362	2	0	clade	1783270	      FCB group
+0.5362	2	0	clade	68336	        Bacteroidetes/Chlorobi group
+0.5362	2	0	phylum	976	          Bacteroidota
+0.5362	2	0	class	200643	            Bacteroidia
+0.5362	2	0	order	171549	              Bacteroidales
+0.2681	1	0	family	815	                Bacteroidaceae
+0.2681	1	0	genus	816	                  Bacteroides
+0.2681	1	0	species	818	                    Bacteroides thetaiotaomicron
+0.2681	1	1	strain	226186	                      Bacteroides thetaiotaomicron VPI-5482
+0.2681	1	0	family	171551	                Porphyromonadaceae
+0.2681	1	0	genus	836	                  Porphyromonas
+0.2681	1	0	species	837	                    Porphyromonas gingivalis
+0.2681	1	1	strain	242619	                      Porphyromonas gingivalis W83
+0.2681	1	0	phylum	200918	      Thermotogota
+0.2681	1	0	class	188708	        Thermotogae
+0.2681	1	0	order	2419	          Thermotogales
+0.2681	1	0	family	188709	            Thermotogaceae
+0.2681	1	0	genus	2335	              Thermotoga
+0.2681	1	0	species	2336	                Thermotoga maritima
+0.2681	1	1	strain	243274	                  Thermotoga maritima MSB8
+2.9491	11	0	superkingdom	2157	    Archaea
+2.9491	11	4	phylum	28890	      Euryarchaeota
+1.6086	6	1	clade	2283794	        Methanomada group
+0.8043	3	0	class	183939	          Methanococci
+0.8043	3	0	order	2182	            Methanococcales
+0.8043	3	0	family	196117	              Methanocaldococcaceae
+0.8043	3	0	genus	196118	                Methanocaldococcus
+0.8043	3	0	species	2190	                  Methanocaldococcus jannaschii
+0.8043	3	3	strain	243232	                    Methanocaldococcus jannaschii DSM 2661
+0.5362	2	0	class	183925	          Methanobacteria
+0.5362	2	0	order	2158	            Methanobacteriales
+0.5362	2	0	family	2159	              Methanobacteriaceae
+0.5362	2	1	genus	145260	                Methanothermobacter
+0.2681	1	0	species	145262	                  Methanothermobacter thermautotrophicus
+0.2681	1	1	strain	187420	                    Methanothermobacter thermautotrophicus str. Delta H
+0.2681	1	0	class	183968	        Thermococci
+0.2681	1	0	order	2258	          Thermococcales
+0.2681	1	0	family	2259	            Thermococcaceae
+0.2681	1	0	genus	2260	              Pyrococcus
+0.2681	1	0	species	2261	                Pyrococcus furiosus
+0.2681	1	1	strain	186497	                  Pyrococcus furiosus DSM 3638
+2.4129	9	2	superkingdom	2759	    Eukaryota
+0.8043	3	2	clade	33154	      Opisthokonta
+0.2681	1	0	kingdom	33208	        Metazoa
+0.2681	1	0	clade	6072	          Eumetazoa
+0.2681	1	1	clade	33213	            Bilateria
+0.5362	2	0	kingdom	33090	      Viridiplantae
+0.5362	2	0	phylum	35493	        Streptophyta
+0.5362	2	0	subphylum	131221	          Streptophytina
+0.5362	2	0	clade	3193	            Embryophyta
+0.5362	2	0	clade	58023	              Tracheophyta
+0.5362	2	0	clade	78536	                Euphyllophyta
+0.5362	2	0	clade	58024	                  Spermatophyta
+0.5362	2	0	class	3398	                    Magnoliopsida
+0.5362	2	1	clade	1437183	                      Mesangiospermae
+0.2681	1	0	clade	4447	                        Liliopsida
+0.2681	1	0	subclass	1437197	                          Petrosaviidae
+0.2681	1	0	order	73496	                            Asparagales
+0.2681	1	0	family	4747	                              Orchidaceae
+0.2681	1	0	subfamily	158332	                                Epidendroideae
+0.2681	1	0	tribe	158397	                                  Vandeae
+0.2681	1	0	subtribe	158424	                                    Aeridinae
+0.2681	1	0	genus	36459	                                      Phalaenopsis
+0.2681	1	0	species	212056	                                        Phalaenopsis aphrodite
+0.2681	1	1	subspecies	308872	                                          Phalaenopsis aphrodite subsp. formosana
+0.5362	2	0	clade	554915	      Amoebozoa
+0.5362	2	0	phylum	2605435	        Evosea
+0.5362	2	0	class	142796	          Eumycetozoa
+0.5362	2	0	clade	33083	            Dictyostelia
+0.5362	2	0	order	2058949	              Dictyosteliales
+0.5362	2	0	family	2058185	                Dictyosteliaceae
+0.5362	2	0	genus	5782	                  Dictyostelium
+0.5362	2	2	species	44689	                    Dictyostelium discoideum
+0.5362	2	0	superkingdom	10239	  Viruses
+0.5362	2	0	clade	2731341	    Duplodnaviria
+0.5362	2	0	kingdom	2731360	      Heunggongvirae
+0.5362	2	0	phylum	2731618	        Uroviricota
+0.5362	2	0	class	2731619	          Caudoviricetes
+0.2681	1	0	genus	186765	            Lambdavirus
+0.2681	1	0	no rank	335795	              unclassified Lambdavirus
+0.2681	1	1	species	10723	                Bacillus phage SPO2
+0.2681	1	0	family	2842328	            Salasmaviridae
+0.2681	1	0	genus	1982583	              Cepunavirus
+0.2681	1	0	species	1982584	                Cepunavirus Cp1
+0.2681	1	1	no rank	10747	                  Streptococcus phage Cp1

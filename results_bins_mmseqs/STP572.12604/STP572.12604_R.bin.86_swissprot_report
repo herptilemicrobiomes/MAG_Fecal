@@ -1,0 +1,180 @@
+2.1834	5	5	no rank	0	unclassified
+97.8166	224	1	no rank	1	root
+97.3799	223	12	no rank	131567	  cellular organisms
+90.3930	207	33	superkingdom	2	    Bacteria
+62.0087	142	4	clade	1783272	      Terrabacteria group
+58.5153	134	35	phylum	1239	        Bacillota
+21.8341	50	3	class	91061	          Bacilli
+18.3406	42	5	order	1385	            Bacillales
+14.8472	34	6	family	186817	              Bacillaceae
+10.9170	25	0	genus	1386	                Bacillus
+10.9170	25	1	species group	653685	                  Bacillus subtilis group
+10.4803	24	0	species	1423	                    Bacillus subtilis
+10.4803	24	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+10.4803	24	24	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+1.3100	3	1	genus	129337	                Geobacillus
+0.8734	2	2	species	1422	                  Geobacillus stearothermophilus
+1.3100	3	0	family	90964	              Staphylococcaceae
+1.3100	3	1	genus	1279	                Staphylococcus
+0.8734	2	2	species	1280	                  Staphylococcus aureus
+2.1834	5	0	order	186826	            Lactobacillales
+1.3100	3	1	family	1300	              Streptococcaceae
+0.4367	1	0	genus	1301	                Streptococcus
+0.4367	1	1	species	1311	                  Streptococcus agalactiae
+0.4367	1	0	genus	1357	                Lactococcus
+0.4367	1	0	species	1358	                  Lactococcus lactis
+0.4367	1	0	subspecies	1360	                    Lactococcus lactis subsp. lactis
+0.4367	1	1	strain	272623	                      Lactococcus lactis subsp. lactis Il1403
+0.4367	1	0	family	33958	              Lactobacillaceae
+0.4367	1	0	genus	2767842	                Lactiplantibacillus
+0.4367	1	0	species	1590	                  Lactiplantibacillus plantarum
+0.4367	1	1	strain	220668	                    Lactiplantibacillus plantarum WCFS1
+0.4367	1	0	family	81852	              Enterococcaceae
+0.4367	1	0	genus	1350	                Enterococcus
+0.4367	1	0	species	1351	                  Enterococcus faecalis
+0.4367	1	1	strain	226185	                    Enterococcus faecalis V583
+20.9607	48	13	class	186801	          Clostridia
+8.7336	20	9	order	186802	            Eubacteriales
+3.0568	7	1	family	31979	              Clostridiaceae
+2.6201	6	3	genus	1485	                Clostridium
+1.3100	3	2	species	1502	                  Clostridium perfringens
+0.4367	1	1	strain	195102	                    Clostridium perfringens str. 13
+0.8734	2	0	family	186804	              Peptostreptococcaceae
+0.8734	2	0	genus	186831	                Acetoanaerobium
+0.8734	2	0	species	1511	                  Acetoanaerobium sticklandii
+0.8734	2	2	strain	499177	                    Acetoanaerobium sticklandii DSM 519
+0.4367	1	0	family	186803	              Lachnospiraceae
+0.4367	1	0	genus	1506553	                Lachnoclostridium
+0.4367	1	1	species	1512	                  [Clostridium] symbiosum
+0.4367	1	0	family	216572	              Oscillospiraceae
+0.4367	1	0	genus	35829	                Acetivibrio
+0.4367	1	1	species	1515	                  Acetivibrio thermocellus
+6.5502	15	2	order	68295	            Thermoanaerobacterales
+4.8035	11	4	family	186814	              Thermoanaerobacteraceae
+2.1834	5	0	genus	249529	                Caldanaerobacter
+2.1834	5	0	species	911092	                  Caldanaerobacter subterraneus
+2.1834	5	0	subspecies	119072	                    Caldanaerobacter subterraneus subsp. tengcongensis
+2.1834	5	5	strain	273068	                      Caldanaerobacter subterraneus subsp. tengcongensis MB4
+0.8734	2	0	no rank	42857	                Moorella group
+0.8734	2	0	genus	44260	                  Moorella
+0.8734	2	0	species	1525	                    Moorella thermoacetica
+0.8734	2	2	strain	264732	                      Moorella thermoacetica ATCC 39073
+0.8734	2	0	family	543371	              Thermoanaerobacterales Family III. Incertae Sedis
+0.8734	2	1	genus	44000	                Caldicellulosiruptor
+0.4367	1	0	species	31899	                  Caldicellulosiruptor bescii
+0.4367	1	1	strain	521460	                    Caldicellulosiruptor bescii DSM 6725
+0.4367	1	1	class	909932	          Negativicutes
+0.8734	2	0	clade	1798711	        Cyanobacteriota/Melainabacteria group
+0.8734	2	0	phylum	1117	          Cyanobacteriota
+0.8734	2	0	class	3028117	            Cyanophyceae
+0.8734	2	0	order	1890424	              Synechococcales
+0.8734	2	0	family	1890428	                Merismopediaceae
+0.8734	2	0	genus	1142	                  Synechocystis
+0.8734	2	0	no rank	2640012	                    unclassified Synechocystis
+0.8734	2	0	species	1148	                      Synechocystis sp. PCC 6803
+0.8734	2	2	no rank	1111708	                        Synechocystis sp. PCC 6803 substr. Kazusa
+0.4367	1	0	phylum	201174	        Actinomycetota
+0.4367	1	0	class	1760	          Actinomycetes
+0.4367	1	1	order	85007	            Corynebacteriales
+0.4367	1	0	phylum	544448	        Mycoplasmatota
+0.4367	1	0	class	31969	          Mollicutes
+0.4367	1	0	order	186329	            Acholeplasmatales
+0.4367	1	0	family	2146	              Acholeplasmataceae
+0.4367	1	0	genus	33926	                Candidatus Phytoplasma
+0.4367	1	0	species group	85632	                  16SrXII (Stolbur group)
+0.4367	1	1	species	59748	                    Candidatus Phytoplasma australiense
+9.6070	22	4	phylum	1224	      Pseudomonadota
+4.8035	11	4	class	1236	        Gammaproteobacteria
+1.7467	4	1	order	91347	          Enterobacterales
+1.3100	3	2	family	543	            Enterobacteriaceae
+0.4367	1	0	genus	561	              Escherichia
+0.4367	1	0	species	562	                Escherichia coli
+0.4367	1	1	strain	83333	                  Escherichia coli K-12
+0.8734	2	0	order	135625	          Pasteurellales
+0.8734	2	0	family	712	            Pasteurellaceae
+0.4367	1	0	genus	724	              Haemophilus
+0.4367	1	0	species	727	                Haemophilus influenzae
+0.4367	1	1	strain	71421	                  Haemophilus influenzae Rd KW20
+0.4367	1	0	genus	697331	              Basfia
+0.4367	1	0	species	157673	                [Mannheimia] succiniciproducens
+0.4367	1	1	strain	221988	                  [Mannheimia] succiniciproducens MBEL55E
+0.4367	1	0	order	135613	          Chromatiales
+0.4367	1	0	family	72276	            Ectothiorhodospiraceae
+0.4367	1	0	genus	133193	              Alkalilimnicola
+0.4367	1	0	species	351052	                Alkalilimnicola ehrlichii
+0.4367	1	1	strain	187272	                  Alkalilimnicola ehrlichii MLHE-1
+2.1834	5	0	class	28211	        Alphaproteobacteria
+1.3100	3	0	order	356	          Hyphomicrobiales
+1.3100	3	0	family	82115	            Rhizobiaceae
+1.3100	3	0	no rank	227292	              Sinorhizobium/Ensifer group
+1.3100	3	0	genus	28105	                Sinorhizobium
+1.3100	3	0	species	382	                  Sinorhizobium meliloti
+1.3100	3	3	strain	266834	                    Sinorhizobium meliloti 1021
+0.4367	1	0	order	766	          Rickettsiales
+0.4367	1	0	family	775	            Rickettsiaceae
+0.4367	1	0	tribe	33988	              Rickettsieae
+0.4367	1	1	genus	780	                Rickettsia
+0.4367	1	0	order	204441	          Rhodospirillales
+0.4367	1	0	family	41295	            Rhodospirillaceae
+0.4367	1	0	genus	1081	              Rhodospirillum
+0.4367	1	0	species	1085	                Rhodospirillum rubrum
+0.4367	1	1	strain	269796	                  Rhodospirillum rubrum ATCC 11170
+0.8734	2	0	subphylum	68525	        delta/epsilon subdivisions
+0.8734	2	0	class	28221	          Deltaproteobacteria
+0.8734	2	0	order	213115	            Desulfovibrionales
+0.8734	2	0	family	194924	              Desulfovibrionaceae
+0.8734	2	0	genus	2910984	                Solidesulfovibrio
+0.8734	2	2	species	878	                  Solidesulfovibrio fructosivorans
+1.7467	4	0	phylum	200918	      Thermotogota
+1.7467	4	0	class	188708	        Thermotogae
+1.7467	4	0	order	2419	          Thermotogales
+1.7467	4	0	family	188709	            Thermotogaceae
+1.7467	4	0	genus	2335	              Thermotoga
+1.7467	4	0	species	2336	                Thermotoga maritima
+1.7467	4	4	strain	243274	                  Thermotoga maritima MSB8
+1.3100	3	0	phylum	200783	      Aquificae
+1.3100	3	0	class	187857	        Aquificae
+1.3100	3	0	order	32069	          Aquificales
+1.3100	3	0	family	64898	            Aquificaceae
+1.3100	3	0	genus	2713	              Aquifex
+1.3100	3	0	species	63363	                Aquifex aeolicus
+1.3100	3	3	strain	224324	                  Aquifex aeolicus VF5
+0.4367	1	0	phylum	68297	      Dictyoglomi
+0.4367	1	0	class	203486	        Dictyoglomia
+0.4367	1	0	order	203487	          Dictyoglomales
+0.4367	1	0	family	203488	            Dictyoglomaceae
+0.4367	1	0	genus	13	              Dictyoglomus
+0.4367	1	1	species	14	                Dictyoglomus thermophilum
+0.4367	1	0	phylum	203691	      Spirochaetota
+0.4367	1	0	class	203692	        Spirochaetia
+0.4367	1	1	order	136	          Spirochaetales
+0.4367	1	0	clade	1783270	      FCB group
+0.4367	1	0	clade	68336	        Bacteroidetes/Chlorobi group
+0.4367	1	0	phylum	976	          Bacteroidota
+0.4367	1	0	class	200643	            Bacteroidia
+0.4367	1	0	order	171549	              Bacteroidales
+0.4367	1	0	family	171551	                Porphyromonadaceae
+0.4367	1	0	genus	836	                  Porphyromonas
+0.4367	1	0	species	837	                    Porphyromonas gingivalis
+0.4367	1	1	strain	242619	                      Porphyromonas gingivalis W83
+0.8734	2	0	superkingdom	2157	    Archaea
+0.8734	2	0	phylum	28890	      Euryarchaeota
+0.8734	2	0	clade	2283794	        Methanomada group
+0.4367	1	0	class	183925	          Methanobacteria
+0.4367	1	0	order	2158	            Methanobacteriales
+0.4367	1	0	family	2159	              Methanobacteriaceae
+0.4367	1	1	genus	145260	                Methanothermobacter
+0.4367	1	0	class	183939	          Methanococci
+0.4367	1	0	order	2182	            Methanococcales
+0.4367	1	0	family	196117	              Methanocaldococcaceae
+0.4367	1	0	genus	196118	                Methanocaldococcus
+0.4367	1	0	species	2190	                  Methanocaldococcus jannaschii
+0.4367	1	1	strain	243232	                    Methanocaldococcus jannaschii DSM 2661
+0.8734	2	0	superkingdom	2759	    Eukaryota
+0.8734	2	1	clade	33154	      Opisthokonta
+0.4367	1	0	kingdom	4751	        Fungi
+0.4367	1	0	subkingdom	451864	          Dikarya
+0.4367	1	0	phylum	4890	            Ascomycota
+0.4367	1	0	clade	716545	              saccharomyceta
+0.4367	1	0	subphylum	147538	                Pezizomycotina
+0.4367	1	1	clade	716546	                  leotiomyceta

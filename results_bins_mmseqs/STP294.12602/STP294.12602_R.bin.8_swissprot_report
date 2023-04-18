@@ -1,0 +1,139 @@
+1.4563	3	3	no rank	0	unclassified
+98.5437	203	0	no rank	1	root
+98.5437	203	11	no rank	131567	  cellular organisms
+91.2621	188	70	superkingdom	2	    Bacteria
+38.8350	80	0	clade	1783270	      FCB group
+38.8350	80	0	clade	68336	        Bacteroidetes/Chlorobi group
+38.8350	80	13	phylum	976	          Bacteroidota
+29.6117	61	0	class	200643	            Bacteroidia
+29.6117	61	20	order	171549	              Bacteroidales
+10.6796	22	1	family	2005525	                Tannerellaceae
+10.1942	21	0	genus	375288	                  Parabacteroides
+10.1942	21	0	species	823	                    Parabacteroides distasonis
+10.1942	21	21	strain	435591	                      Parabacteroides distasonis ATCC 8503
+8.2524	17	4	family	815	                Bacteroidaceae
+6.3107	13	1	genus	816	                  Bacteroides
+2.9126	6	3	species	817	                    Bacteroides fragilis
+1.4563	3	3	strain	295405	                      Bacteroides fragilis YCH46
+2.9126	6	0	species	818	                    Bacteroides thetaiotaomicron
+2.9126	6	6	strain	226186	                      Bacteroides thetaiotaomicron VPI-5482
+0.9709	2	0	family	171551	                Porphyromonadaceae
+0.9709	2	0	genus	836	                  Porphyromonas
+0.9709	2	1	species	837	                    Porphyromonas gingivalis
+0.4854	1	1	strain	242619	                      Porphyromonas gingivalis W83
+2.9126	6	0	class	117743	            Flavobacteriia
+2.9126	6	0	order	200644	              Flavobacteriales
+2.9126	6	0	family	49546	                Flavobacteriaceae
+2.9126	6	0	genus	225842	                  Formosa
+2.9126	6	0	species	320324	                    Formosa agariphila
+2.9126	6	6	strain	1347342	                      Formosa agariphila KMM 3901
+8.7379	18	4	phylum	1224	      Pseudomonadota
+6.3107	13	3	class	1236	        Gammaproteobacteria
+2.9126	6	1	order	91347	          Enterobacterales
+2.4272	5	1	family	543	            Enterobacteriaceae
+1.9417	4	0	genus	561	              Escherichia
+1.9417	4	1	species	562	                Escherichia coli
+1.4563	3	3	strain	83333	                  Escherichia coli K-12
+0.9709	2	0	order	72274	          Pseudomonadales
+0.9709	2	1	family	135621	            Pseudomonadaceae
+0.4854	1	0	subfamily	351	              Azotobacter group
+0.4854	1	0	genus	352	                Azotobacter
+0.4854	1	0	species	353	                  Azotobacter chroococcum
+0.4854	1	1	strain	355	                    Azotobacter chroococcum (strain mcd 1)
+0.9709	2	0	order	135625	          Pasteurellales
+0.9709	2	0	family	712	            Pasteurellaceae
+0.9709	2	0	genus	724	              Haemophilus
+0.9709	2	0	species	727	                Haemophilus influenzae
+0.9709	2	2	strain	71421	                  Haemophilus influenzae Rd KW20
+0.4854	1	0	class	28211	        Alphaproteobacteria
+0.4854	1	0	order	356	          Hyphomicrobiales
+0.4854	1	0	family	82115	            Rhizobiaceae
+0.4854	1	0	no rank	227290	              Rhizobium/Agrobacterium group
+0.4854	1	0	genus	357	                Agrobacterium
+0.4854	1	0	species group	1183400	                  Agrobacterium tumefaciens complex
+0.4854	1	0	species	1176649	                    Agrobacterium fabrum
+0.4854	1	1	strain	176299	                      Agrobacterium fabrum str. C58
+8.2524	17	0	clade	1783272	      Terrabacteria group
+6.7961	14	2	phylum	1239	        Bacillota
+4.8544	10	0	class	91061	          Bacilli
+4.3689	9	1	order	1385	            Bacillales
+3.8835	8	0	family	186817	              Bacillaceae
+3.8835	8	0	genus	1386	                Bacillus
+3.8835	8	0	species group	653685	                  Bacillus subtilis group
+3.8835	8	0	species	1423	                    Bacillus subtilis
+3.8835	8	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+3.8835	8	8	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+0.4854	1	0	order	186826	            Lactobacillales
+0.4854	1	0	family	1300	              Streptococcaceae
+0.4854	1	0	genus	1357	                Lactococcus
+0.4854	1	0	species	1358	                  Lactococcus lactis
+0.4854	1	0	subspecies	1360	                    Lactococcus lactis subsp. lactis
+0.4854	1	1	strain	272623	                      Lactococcus lactis subsp. lactis Il1403
+0.9709	2	0	class	186801	          Clostridia
+0.9709	2	0	order	186802	            Eubacteriales
+0.4854	1	0	family	186804	              Peptostreptococcaceae
+0.4854	1	0	genus	1870884	                Clostridioides
+0.4854	1	1	species	1496	                  Clostridioides difficile
+0.4854	1	0	family	216572	              Oscillospiraceae
+0.4854	1	0	genus	2304691	                Thermoclostridium
+0.4854	1	1	species	1510	                  Thermoclostridium stercorarium
+1.4563	3	0	phylum	201174	        Actinomycetota
+1.4563	3	0	class	1760	          Actinomycetes
+0.4854	1	0	order	85004	            Bifidobacteriales
+0.4854	1	0	family	31953	              Bifidobacteriaceae
+0.4854	1	0	genus	1678	                Bifidobacterium
+0.4854	1	0	species	216816	                  Bifidobacterium longum
+0.4854	1	0	subspecies	1679	                    Bifidobacterium longum subsp. longum
+0.4854	1	1	strain	565042	                      Bifidobacterium longum subsp. longum JCM 1217
+0.4854	1	0	order	85007	            Corynebacteriales
+0.4854	1	0	family	1762	              Mycobacteriaceae
+0.4854	1	0	genus	1763	                Mycobacterium
+0.4854	1	0	species group	77643	                  Mycobacterium tuberculosis complex
+0.4854	1	1	species	1773	                    Mycobacterium tuberculosis
+0.4854	1	0	order	85011	            Streptomycetales
+0.4854	1	0	family	2062	              Streptomycetaceae
+0.4854	1	0	genus	1883	                Streptomyces
+0.4854	1	1	species	1969	                  Streptomyces chartreusis
+0.9709	2	0	phylum	203691	      Spirochaetota
+0.9709	2	0	class	203692	        Spirochaetia
+0.9709	2	0	order	136	          Spirochaetales
+0.4854	1	0	family	1643685	            Borreliaceae
+0.4854	1	0	genus	64895	              Borreliella
+0.4854	1	0	species	139	                Borreliella burgdorferi
+0.4854	1	1	strain	224326	                  Borreliella burgdorferi B31
+0.4854	1	0	family	2845253	            Treponemataceae
+0.4854	1	0	genus	157	              Treponema
+0.4854	1	0	species	160	                Treponema pallidum
+0.4854	1	0	subspecies	161	                  Treponema pallidum subsp. pallidum
+0.4854	1	1	strain	243276	                    Treponema pallidum subsp. pallidum str. Nichols
+0.4854	1	0	phylum	32066	      Fusobacteriota
+0.4854	1	0	class	203490	        Fusobacteriia
+0.4854	1	0	order	203491	          Fusobacteriales
+0.4854	1	0	family	203492	            Fusobacteriaceae
+0.4854	1	0	genus	848	              Fusobacterium
+0.4854	1	0	species	851	                Fusobacterium nucleatum
+0.4854	1	0	subspecies	76856	                  Fusobacterium nucleatum subsp. nucleatum
+0.4854	1	1	strain	190304	                    Fusobacterium nucleatum subsp. nucleatum ATCC 25586
+1.4563	3	0	superkingdom	2759	    Eukaryota
+0.9709	2	0	kingdom	33090	      Viridiplantae
+0.9709	2	0	phylum	35493	        Streptophyta
+0.9709	2	0	subphylum	131221	          Streptophytina
+0.9709	2	0	clade	3193	            Embryophyta
+0.9709	2	0	clade	58023	              Tracheophyta
+0.9709	2	0	clade	78536	                Euphyllophyta
+0.9709	2	0	clade	58024	                  Spermatophyta
+0.9709	2	0	class	3398	                    Magnoliopsida
+0.9709	2	2	clade	1437183	                      Mesangiospermae
+0.4854	1	0	clade	33154	      Opisthokonta
+0.4854	1	0	kingdom	4751	        Fungi
+0.4854	1	0	subkingdom	451864	          Dikarya
+0.4854	1	0	phylum	4890	            Ascomycota
+0.4854	1	0	subphylum	451866	              Taphrinomycotina
+0.4854	1	0	class	147554	                Schizosaccharomycetes
+0.4854	1	0	order	34346	                  Schizosaccharomycetales
+0.4854	1	0	family	4894	                    Schizosaccharomycetaceae
+0.4854	1	0	genus	4895	                      Schizosaccharomyces
+0.4854	1	0	species	4896	                        Schizosaccharomyces pombe
+0.4854	1	1	strain	284812	                          Schizosaccharomyces pombe 972h-
+0.4854	1	0	superkingdom	2157	    Archaea
+0.4854	1	1	phylum	28890	      Euryarchaeota

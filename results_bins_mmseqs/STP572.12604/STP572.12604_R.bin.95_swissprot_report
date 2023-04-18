@@ -1,0 +1,39 @@
+3.1250	1	1	no rank	0	unclassified
+96.8750	31	0	no rank	1	root
+96.8750	31	0	no rank	131567	  cellular organisms
+96.8750	31	6	superkingdom	2	    Bacteria
+65.6250	21	0	clade	1783272	      Terrabacteria group
+62.5000	20	0	phylum	201174	        Actinomycetota
+62.5000	20	15	class	1760	          Actinomycetes
+9.3750	3	1	order	85006	            Micrococcales
+6.2500	2	1	family	85023	              Microbacteriaceae
+3.1250	1	0	genus	110932	                Leifsonia
+3.1250	1	0	species	1575	                  Leifsonia xyli
+3.1250	1	0	subspecies	59736	                    Leifsonia xyli subsp. xyli
+3.1250	1	1	strain	281090	                      Leifsonia xyli subsp. xyli str. CTCB07
+6.2500	2	0	order	85007	            Corynebacteriales
+3.1250	1	0	family	1653	              Corynebacteriaceae
+3.1250	1	1	genus	1716	                Corynebacterium
+3.1250	1	0	family	1762	              Mycobacteriaceae
+3.1250	1	0	genus	1763	                Mycobacterium
+3.1250	1	0	species group	77643	                  Mycobacterium tuberculosis complex
+3.1250	1	1	species	1773	                    Mycobacterium tuberculosis
+3.1250	1	0	phylum	1239	        Bacillota
+3.1250	1	0	class	91061	          Bacilli
+3.1250	1	0	order	1385	            Bacillales
+3.1250	1	0	family	186817	              Bacillaceae
+3.1250	1	0	genus	1386	                Bacillus
+3.1250	1	0	species group	653685	                  Bacillus subtilis group
+3.1250	1	0	species	1423	                    Bacillus subtilis
+3.1250	1	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+3.1250	1	1	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+12.5000	4	2	phylum	1224	      Pseudomonadota
+3.1250	1	0	class	1236	        Gammaproteobacteria
+3.1250	1	0	order	91347	          Enterobacterales
+3.1250	1	1	family	543	            Enterobacteriaceae
+3.1250	1	0	class	28211	        Alphaproteobacteria
+3.1250	1	0	order	356	          Hyphomicrobiales
+3.1250	1	0	family	82115	            Rhizobiaceae
+3.1250	1	0	no rank	227290	              Rhizobium/Agrobacterium group
+3.1250	1	0	genus	357	                Agrobacterium
+3.1250	1	1	species	373	                  Agrobacterium vitis

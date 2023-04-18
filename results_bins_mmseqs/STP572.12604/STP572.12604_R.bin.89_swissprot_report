@@ -1,0 +1,94 @@
+8.0000	4	4	no rank	0	unclassified
+92.0000	46	0	no rank	1	root
+90.0000	45	2	no rank	131567	  cellular organisms
+84.0000	42	3	superkingdom	2	    Bacteria
+38.0000	19	0	clade	1783270	      FCB group
+38.0000	19	0	clade	68336	        Bacteroidetes/Chlorobi group
+38.0000	19	0	phylum	976	          Bacteroidota
+32.0000	16	0	class	200643	            Bacteroidia
+32.0000	16	9	order	171549	              Bacteroidales
+10.0000	5	2	family	815	                Bacteroidaceae
+6.0000	3	1	genus	816	                  Bacteroides
+4.0000	2	0	species	817	                    Bacteroides fragilis
+4.0000	2	2	strain	295405	                      Bacteroides fragilis YCH46
+2.0000	1	0	family	171551	                Porphyromonadaceae
+2.0000	1	0	genus	836	                  Porphyromonas
+2.0000	1	1	species	837	                    Porphyromonas gingivalis
+2.0000	1	0	no rank	333046	                Bacteroidales incertae sedis
+2.0000	1	0	genus	511434	                  Candidatus Azobacteroides
+2.0000	1	0	species	511435	                    Candidatus Azobacteroides pseudotrichonymphae
+2.0000	1	1	isolate	511995	                      Candidatus Azobacteroides pseudotrichonymphae genomovar. CFP2
+4.0000	2	0	no rank	171558	            Bacteroidetes incertae sedis
+4.0000	2	0	family	563843	              Rhodothermaceae
+4.0000	2	0	genus	29548	                Rhodothermus
+4.0000	2	1	species	29549	                  Rhodothermus marinus
+2.0000	1	1	strain	518766	                    Rhodothermus marinus DSM 4252
+2.0000	1	0	class	117747	            Sphingobacteriia
+2.0000	1	0	order	200666	              Sphingobacteriales
+2.0000	1	0	family	84566	                Sphingobacteriaceae
+2.0000	1	0	genus	84567	                  Pedobacter
+2.0000	1	0	species	984	                    Pedobacter heparinus
+2.0000	1	1	strain	485917	                      Pedobacter heparinus DSM 2366
+22.0000	11	0	phylum	1224	      Pseudomonadota
+18.0000	9	0	class	1236	        Gammaproteobacteria
+14.0000	7	1	order	91347	          Enterobacterales
+12.0000	6	2	family	543	            Enterobacteriaceae
+8.0000	4	0	genus	561	              Escherichia
+8.0000	4	1	species	562	                Escherichia coli
+6.0000	3	3	strain	83333	                  Escherichia coli K-12
+2.0000	1	0	order	135624	          Aeromonadales
+2.0000	1	0	family	84642	            Aeromonadaceae
+2.0000	1	0	genus	642	              Aeromonas
+2.0000	1	1	species	644	                Aeromonas hydrophila
+2.0000	1	0	order	135625	          Pasteurellales
+2.0000	1	0	family	712	            Pasteurellaceae
+2.0000	1	0	genus	724	              Haemophilus
+2.0000	1	0	species	727	                Haemophilus influenzae
+2.0000	1	1	strain	71421	                  Haemophilus influenzae Rd KW20
+2.0000	1	0	class	28211	        Alphaproteobacteria
+2.0000	1	0	order	766	          Rickettsiales
+2.0000	1	0	family	775	            Rickettsiaceae
+2.0000	1	0	tribe	33988	              Rickettsieae
+2.0000	1	1	genus	780	                Rickettsia
+2.0000	1	0	subphylum	68525	        delta/epsilon subdivisions
+2.0000	1	0	class	29547	          Epsilonproteobacteria
+2.0000	1	0	order	213849	            Campylobacterales
+2.0000	1	0	family	72293	              Helicobacteraceae
+2.0000	1	0	genus	843	                Wolinella
+2.0000	1	0	species	844	                  Wolinella succinogenes
+2.0000	1	1	strain	273121	                    Wolinella succinogenes DSM 1740
+12.0000	6	0	clade	1783272	      Terrabacteria group
+12.0000	6	0	phylum	1239	        Bacillota
+12.0000	6	2	class	91061	          Bacilli
+8.0000	4	1	order	1385	            Bacillales
+6.0000	3	1	family	186817	              Bacillaceae
+4.0000	2	0	genus	1386	                Bacillus
+4.0000	2	0	species group	653685	                  Bacillus subtilis group
+4.0000	2	0	species	1423	                    Bacillus subtilis
+4.0000	2	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+4.0000	2	2	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+2.0000	1	0	no rank	48479	      environmental samples
+2.0000	1	1	species	2725	        unidentified prokaryotic organism
+2.0000	1	0	phylum	200918	      Thermotogota
+2.0000	1	0	class	188708	        Thermotogae
+2.0000	1	0	order	2419	          Thermotogales
+2.0000	1	0	family	188709	            Thermotogaceae
+2.0000	1	0	genus	2335	              Thermotoga
+2.0000	1	0	species	2336	                Thermotoga maritima
+2.0000	1	1	strain	243274	                  Thermotoga maritima MSB8
+2.0000	1	0	phylum	203691	      Spirochaetota
+2.0000	1	0	class	203692	        Spirochaetia
+2.0000	1	1	order	136	          Spirochaetales
+2.0000	1	0	superkingdom	2759	    Eukaryota
+2.0000	1	0	clade	33154	      Opisthokonta
+2.0000	1	0	kingdom	33208	        Metazoa
+2.0000	1	0	clade	6072	          Eumetazoa
+2.0000	1	1	clade	33213	            Bilateria
+2.0000	1	0	superkingdom	10239	  Viruses
+2.0000	1	0	clade	2731341	    Duplodnaviria
+2.0000	1	0	kingdom	2731360	      Heunggongvirae
+2.0000	1	0	phylum	2731618	        Uroviricota
+2.0000	1	0	class	2731619	          Caudoviricetes
+2.0000	1	0	family	2946170	            Straboviridae
+2.0000	1	0	subfamily	1198136	              Tevenvirinae
+2.0000	1	1	genus	10663	                Tequatrovirus

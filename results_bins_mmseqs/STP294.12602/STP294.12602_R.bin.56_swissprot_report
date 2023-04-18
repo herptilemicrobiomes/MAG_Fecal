@@ -1,0 +1,135 @@
+5.1282	4	4	no rank	0	unclassified
+94.8718	74	1	no rank	1	root
+93.5897	73	3	no rank	131567	  cellular organisms
+84.6154	66	17	superkingdom	2	    Bacteria
+50.0000	39	0	clade	1783272	      Terrabacteria group
+47.4359	37	2	phylum	1239	        Bacillota
+28.2051	22	2	class	186801	          Clostridia
+20.5128	16	3	order	186802	            Eubacteriales
+6.4103	5	1	family	31979	              Clostridiaceae
+3.8462	3	1	genus	1485	                Clostridium
+1.2821	1	0	species	1488	                  Clostridium acetobutylicum
+1.2821	1	1	strain	272562	                    Clostridium acetobutylicum ATCC 824
+1.2821	1	1	species	1491	                  Clostridium botulinum
+1.2821	1	0	genus	114627	                Alkaliphilus
+1.2821	1	0	species	461876	                  Alkaliphilus oremlandii
+1.2821	1	1	strain	350688	                    Alkaliphilus oremlandii OhILAs
+5.1282	4	1	family	186804	              Peptostreptococcaceae
+2.5641	2	0	genus	1870884	                Clostridioides
+2.5641	2	0	species	1496	                  Clostridioides difficile
+2.5641	2	2	strain	272563	                    Clostridioides difficile 630
+1.2821	1	0	genus	186831	                Acetoanaerobium
+1.2821	1	0	species	1511	                  Acetoanaerobium sticklandii
+1.2821	1	1	strain	499177	                    Acetoanaerobium sticklandii DSM 519
+2.5641	2	0	family	186806	              Eubacteriaceae
+2.5641	2	0	genus	1730	                Eubacterium
+2.5641	2	2	species	1528	                  Eubacterium barkeri
+1.2821	1	0	family	186803	              Lachnospiraceae
+1.2821	1	0	genus	1506553	                Lachnoclostridium
+1.2821	1	0	species	66219	                  Lachnoclostridium phytofermentans
+1.2821	1	1	strain	357809	                    Lachnoclostridium phytofermentans ISDg
+1.2821	1	0	family	216572	              Oscillospiraceae
+1.2821	1	0	genus	35829	                Acetivibrio
+1.2821	1	0	species	1515	                  Acetivibrio thermocellus
+1.2821	1	1	strain	203119	                    Acetivibrio thermocellus ATCC 27405
+3.8462	3	0	order	68295	            Thermoanaerobacterales
+3.8462	3	0	family	186814	              Thermoanaerobacteraceae
+2.5641	2	0	genus	249529	                Caldanaerobacter
+2.5641	2	0	species	911092	                  Caldanaerobacter subterraneus
+2.5641	2	0	subspecies	119072	                    Caldanaerobacter subterraneus subsp. tengcongensis
+2.5641	2	2	strain	273068	                      Caldanaerobacter subterraneus subsp. tengcongensis MB4
+1.2821	1	0	no rank	42857	                Moorella group
+1.2821	1	0	genus	44260	                  Moorella
+1.2821	1	1	species	1525	                    Moorella thermoacetica
+1.2821	1	0	order	53433	            Halanaerobiales
+1.2821	1	0	family	972	              Halanaerobiaceae
+1.2821	1	0	genus	32636	                Halothermothrix
+1.2821	1	0	species	31909	                  Halothermothrix orenii
+1.2821	1	1	strain	373903	                    Halothermothrix orenii H 168
+16.6667	13	1	class	91061	          Bacilli
+12.8205	10	1	order	1385	            Bacillales
+10.2564	8	1	family	186817	              Bacillaceae
+7.6923	6	0	genus	1386	                Bacillus
+7.6923	6	0	species group	653685	                  Bacillus subtilis group
+7.6923	6	0	species	1423	                    Bacillus subtilis
+7.6923	6	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+7.6923	6	6	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+1.2821	1	0	genus	129337	                Geobacillus
+1.2821	1	0	species group	1505648	                  Geobacillus thermoleovorans group
+1.2821	1	0	species	1462	                    Geobacillus kaustophilus
+1.2821	1	1	strain	235909	                      Geobacillus kaustophilus HTA426
+1.2821	1	0	no rank	539002	              Bacillales incertae sedis
+1.2821	1	0	no rank	539742	                Bacillales Family XII. Incertae Sedis
+1.2821	1	0	genus	33986	                  Exiguobacterium
+1.2821	1	0	species	332410	                    Exiguobacterium sibiricum
+1.2821	1	1	strain	262543	                      Exiguobacterium sibiricum 255-15
+2.5641	2	1	order	186826	            Lactobacillales
+1.2821	1	0	family	81852	              Enterococcaceae
+1.2821	1	0	genus	1350	                Enterococcus
+1.2821	1	1	species	1352	                  Enterococcus faecium
+1.2821	1	0	phylum	201174	        Actinomycetota
+1.2821	1	0	class	1760	          Actinomycetes
+1.2821	1	0	order	85004	            Bifidobacteriales
+1.2821	1	0	family	31953	              Bifidobacteriaceae
+1.2821	1	0	genus	1678	                Bifidobacterium
+1.2821	1	0	species	216816	                  Bifidobacterium longum
+1.2821	1	0	subspecies	1679	                    Bifidobacterium longum subsp. longum
+1.2821	1	1	strain	565042	                      Bifidobacterium longum subsp. longum JCM 1217
+1.2821	1	0	clade	1798711	        Cyanobacteriota/Melainabacteria group
+1.2821	1	0	phylum	1117	          Cyanobacteriota
+1.2821	1	0	class	3028117	            Cyanophyceae
+1.2821	1	0	order	1161	              Nostocales
+1.2821	1	0	family	1162	                Nostocaceae
+1.2821	1	0	genus	1177	                  Nostoc
+1.2821	1	1	species	1178	                    Nostoc commune
+10.2564	8	1	phylum	1224	      Pseudomonadota
+6.4103	5	0	class	1236	        Gammaproteobacteria
+5.1282	4	1	order	91347	          Enterobacterales
+3.8462	3	2	family	543	            Enterobacteriaceae
+1.2821	1	0	genus	590	              Salmonella
+1.2821	1	0	species	28901	                Salmonella enterica
+1.2821	1	0	subspecies	59201	                  Salmonella enterica subsp. enterica
+1.2821	1	0	no rank	90371	                    Salmonella enterica subsp. enterica serovar Typhimurium
+1.2821	1	1	strain	99287	                      Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+1.2821	1	0	order	135625	          Pasteurellales
+1.2821	1	0	family	712	            Pasteurellaceae
+1.2821	1	0	genus	724	              Haemophilus
+1.2821	1	0	species	727	                Haemophilus influenzae
+1.2821	1	1	strain	71421	                  Haemophilus influenzae Rd KW20
+1.2821	1	0	class	28216	        Betaproteobacteria
+1.2821	1	0	order	80840	          Burkholderiales
+1.2821	1	0	family	119060	            Burkholderiaceae
+1.2821	1	0	genus	106589	              Cupriavidus
+1.2821	1	0	species	106590	                Cupriavidus necator
+1.2821	1	1	strain	381666	                  Cupriavidus necator H16
+1.2821	1	0	subphylum	68525	        delta/epsilon subdivisions
+1.2821	1	1	class	28221	          Deltaproteobacteria
+1.2821	1	0	phylum	32066	      Fusobacteriota
+1.2821	1	0	class	203490	        Fusobacteriia
+1.2821	1	0	order	203491	          Fusobacteriales
+1.2821	1	0	family	203492	            Fusobacteriaceae
+1.2821	1	0	genus	2332	              Propionigenium
+1.2821	1	1	species	2333	                Propionigenium modestum
+1.2821	1	0	phylum	203691	      Spirochaetota
+1.2821	1	0	class	203692	        Spirochaetia
+1.2821	1	0	order	136	          Spirochaetales
+1.2821	1	0	family	2845253	            Treponemataceae
+1.2821	1	0	genus	157	              Treponema
+1.2821	1	0	species	160	                Treponema pallidum
+1.2821	1	0	subspecies	161	                  Treponema pallidum subsp. pallidum
+1.2821	1	1	strain	243276	                    Treponema pallidum subsp. pallidum str. Nichols
+5.1282	4	0	superkingdom	2157	    Archaea
+5.1282	4	1	phylum	28890	      Euryarchaeota
+2.5641	2	1	clade	2283794	        Methanomada group
+1.2821	1	0	class	183939	          Methanococci
+1.2821	1	0	order	2182	            Methanococcales
+1.2821	1	0	family	196117	              Methanocaldococcaceae
+1.2821	1	0	genus	196118	                Methanocaldococcus
+1.2821	1	0	species	2190	                  Methanocaldococcus jannaschii
+1.2821	1	1	strain	243232	                    Methanocaldococcus jannaschii DSM 2661
+1.2821	1	0	class	183968	        Thermococci
+1.2821	1	0	order	2258	          Thermococcales
+1.2821	1	0	family	2259	            Thermococcaceae
+1.2821	1	0	genus	2260	              Pyrococcus
+1.2821	1	0	species	2261	                Pyrococcus furiosus
+1.2821	1	1	strain	186497	                  Pyrococcus furiosus DSM 3638

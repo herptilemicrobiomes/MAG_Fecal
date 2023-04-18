@@ -1,0 +1,49 @@
+100.0000	82	0	no rank	1	root
+100.0000	82	3	no rank	131567	  cellular organisms
+95.1220	78	44	superkingdom	2	    Bacteria
+30.4878	25	0	clade	1783270	      FCB group
+30.4878	25	0	clade	68336	        Bacteroidetes/Chlorobi group
+30.4878	25	9	phylum	976	          Bacteroidota
+19.5122	16	0	class	200643	            Bacteroidia
+19.5122	16	12	order	171549	              Bacteroidales
+3.6585	3	1	family	815	                Bacteroidaceae
+2.4390	2	0	genus	816	                  Bacteroides
+2.4390	2	0	species	818	                    Bacteroides thetaiotaomicron
+2.4390	2	2	strain	226186	                      Bacteroides thetaiotaomicron VPI-5482
+1.2195	1	0	family	171551	                Porphyromonadaceae
+1.2195	1	0	genus	836	                  Porphyromonas
+1.2195	1	0	species	837	                    Porphyromonas gingivalis
+1.2195	1	1	strain	242619	                      Porphyromonas gingivalis W83
+6.0976	5	2	phylum	1224	      Pseudomonadota
+3.6585	3	1	class	1236	        Gammaproteobacteria
+2.4390	2	0	order	91347	          Enterobacterales
+2.4390	2	0	family	543	            Enterobacteriaceae
+1.2195	1	0	genus	561	              Escherichia
+1.2195	1	0	species	562	                Escherichia coli
+1.2195	1	1	strain	83333	                  Escherichia coli K-12
+1.2195	1	0	genus	590	              Salmonella
+1.2195	1	0	species	28901	                Salmonella enterica
+1.2195	1	0	subspecies	59201	                  Salmonella enterica subsp. enterica
+1.2195	1	1	no rank	90370	                    Salmonella enterica subsp. enterica serovar Typhi
+4.8780	4	0	clade	1783272	      Terrabacteria group
+2.4390	2	1	phylum	1239	        Bacillota
+1.2195	1	0	class	91061	          Bacilli
+1.2195	1	0	order	1385	            Bacillales
+1.2195	1	0	family	186817	              Bacillaceae
+1.2195	1	0	genus	1386	                Bacillus
+1.2195	1	0	species group	653685	                  Bacillus subtilis group
+1.2195	1	0	species	1423	                    Bacillus subtilis
+1.2195	1	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+1.2195	1	1	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+1.2195	1	0	phylum	201174	        Actinomycetota
+1.2195	1	1	class	1760	          Actinomycetes
+1.2195	1	0	clade	1798711	        Cyanobacteriota/Melainabacteria group
+1.2195	1	0	phylum	1117	          Cyanobacteriota
+1.2195	1	0	class	3028117	            Cyanophyceae
+1.2195	1	0	order	1890424	              Synechococcales
+1.2195	1	0	family	1890428	                Merismopediaceae
+1.2195	1	0	genus	1142	                  Synechocystis
+1.2195	1	0	no rank	2640012	                    unclassified Synechocystis
+1.2195	1	0	species	1148	                      Synechocystis sp. PCC 6803
+1.2195	1	1	no rank	1111708	                        Synechocystis sp. PCC 6803 substr. Kazusa
+1.2195	1	1	superkingdom	2157	    Archaea

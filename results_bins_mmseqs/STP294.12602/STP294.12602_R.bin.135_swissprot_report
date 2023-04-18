@@ -1,0 +1,53 @@
+2.0833	1	1	no rank	0	unclassified
+97.9167	47	1	no rank	1	root
+95.8333	46	2	no rank	131567	  cellular organisms
+89.5833	43	8	superkingdom	2	    Bacteria
+56.2500	27	0	clade	1783272	      Terrabacteria group
+56.2500	27	5	phylum	1239	        Bacillota
+37.5000	18	3	class	91061	          Bacilli
+27.0833	13	2	order	1385	            Bacillales
+22.9167	11	1	family	186817	              Bacillaceae
+20.8333	10	0	genus	1386	                Bacillus
+20.8333	10	0	species group	653685	                  Bacillus subtilis group
+20.8333	10	0	species	1423	                    Bacillus subtilis
+20.8333	10	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+20.8333	10	10	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+4.1667	2	0	order	186826	            Lactobacillales
+4.1667	2	0	family	1300	              Streptococcaceae
+4.1667	2	0	genus	1357	                Lactococcus
+2.0833	1	0	species	1358	                  Lactococcus lactis
+2.0833	1	0	subspecies	1360	                    Lactococcus lactis subsp. lactis
+2.0833	1	1	strain	272623	                      Lactococcus lactis subsp. lactis Il1403
+2.0833	1	1	species	1359	                  Lactococcus cremoris
+8.3333	4	3	class	186801	          Clostridia
+2.0833	1	0	order	186802	            Eubacteriales
+2.0833	1	0	family	31979	              Clostridiaceae
+2.0833	1	1	genus	1485	                Clostridium
+16.6667	8	2	phylum	1224	      Pseudomonadota
+10.4167	5	1	class	1236	        Gammaproteobacteria
+4.1667	2	0	order	91347	          Enterobacterales
+4.1667	2	0	family	543	            Enterobacteriaceae
+4.1667	2	0	genus	561	              Escherichia
+4.1667	2	0	species	562	                Escherichia coli
+4.1667	2	2	strain	83333	                  Escherichia coli K-12
+4.1667	2	0	order	135625	          Pasteurellales
+4.1667	2	0	family	712	            Pasteurellaceae
+4.1667	2	0	genus	724	              Haemophilus
+4.1667	2	0	species	727	                Haemophilus influenzae
+4.1667	2	2	strain	71421	                  Haemophilus influenzae Rd KW20
+2.0833	1	0	subphylum	68525	        delta/epsilon subdivisions
+2.0833	1	0	class	29547	          Epsilonproteobacteria
+2.0833	1	0	order	213849	            Campylobacterales
+2.0833	1	0	family	72294	              Campylobacteraceae
+2.0833	1	0	genus	194	                Campylobacter
+2.0833	1	0	species	197	                  Campylobacter jejuni
+2.0833	1	0	subspecies	32022	                    Campylobacter jejuni subsp. jejuni
+2.0833	1	1	strain	192222	                      Campylobacter jejuni subsp. jejuni NCTC 11168 = ATCC 700819
+2.0833	1	0	superkingdom	2157	    Archaea
+2.0833	1	0	phylum	28890	      Euryarchaeota
+2.0833	1	0	class	183968	        Thermococci
+2.0833	1	0	order	2258	          Thermococcales
+2.0833	1	0	family	2259	            Thermococcaceae
+2.0833	1	0	genus	2260	              Pyrococcus
+2.0833	1	0	species	2261	                Pyrococcus furiosus
+2.0833	1	1	strain	186497	                  Pyrococcus furiosus DSM 3638

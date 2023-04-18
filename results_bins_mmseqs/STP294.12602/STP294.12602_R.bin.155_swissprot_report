@@ -1,0 +1,56 @@
+100.0000	27	1	no rank	1	root
+96.2963	26	1	no rank	131567	  cellular organisms
+92.5926	25	6	superkingdom	2	    Bacteria
+25.9259	7	1	phylum	1224	      Pseudomonadota
+18.5185	5	1	class	1236	        Gammaproteobacteria
+11.1111	3	0	order	91347	          Enterobacterales
+11.1111	3	1	family	543	            Enterobacteriaceae
+7.4074	2	0	genus	561	              Escherichia
+7.4074	2	0	species	562	                Escherichia coli
+7.4074	2	2	strain	83333	                  Escherichia coli K-12
+3.7037	1	0	order	72274	          Pseudomonadales
+3.7037	1	1	family	135621	            Pseudomonadaceae
+3.7037	1	0	class	28211	        Alphaproteobacteria
+3.7037	1	0	order	766	          Rickettsiales
+3.7037	1	0	family	775	            Rickettsiaceae
+3.7037	1	0	tribe	33988	              Rickettsieae
+3.7037	1	1	genus	780	                Rickettsia
+25.9259	7	0	clade	1783270	      FCB group
+25.9259	7	0	clade	68336	        Bacteroidetes/Chlorobi group
+25.9259	7	1	phylum	976	          Bacteroidota
+14.8148	4	0	class	200643	            Bacteroidia
+14.8148	4	0	order	171549	              Bacteroidales
+14.8148	4	1	family	815	                Bacteroidaceae
+11.1111	3	2	genus	816	                  Bacteroides
+3.7037	1	1	species	817	                    Bacteroides fragilis
+7.4074	2	0	class	117743	            Flavobacteriia
+7.4074	2	0	order	200644	              Flavobacteriales
+7.4074	2	0	family	49546	                Flavobacteriaceae
+7.4074	2	0	genus	225842	                  Formosa
+7.4074	2	0	species	320324	                    Formosa agariphila
+7.4074	2	2	strain	1347342	                      Formosa agariphila KMM 3901
+18.5185	5	0	clade	1783272	      Terrabacteria group
+14.8148	4	0	phylum	1239	        Bacillota
+14.8148	4	0	class	91061	          Bacilli
+11.1111	3	0	order	186826	            Lactobacillales
+7.4074	2	0	family	1300	              Streptococcaceae
+3.7037	1	0	genus	1301	                Streptococcus
+3.7037	1	0	species	1313	                  Streptococcus pneumoniae
+3.7037	1	1	strain	170187	                    Streptococcus pneumoniae TIGR4
+3.7037	1	0	genus	1357	                Lactococcus
+3.7037	1	1	species	1359	                  Lactococcus cremoris
+3.7037	1	0	family	81852	              Enterococcaceae
+3.7037	1	0	genus	1350	                Enterococcus
+3.7037	1	0	species	1351	                  Enterococcus faecalis
+3.7037	1	1	strain	226185	                    Enterococcus faecalis V583
+3.7037	1	0	order	1385	            Bacillales
+3.7037	1	1	family	186817	              Bacillaceae
+3.7037	1	0	clade	1798711	        Cyanobacteriota/Melainabacteria group
+3.7037	1	0	phylum	1117	          Cyanobacteriota
+3.7037	1	0	class	3028117	            Cyanophyceae
+3.7037	1	0	order	1890424	              Synechococcales
+3.7037	1	0	family	1890428	                Merismopediaceae
+3.7037	1	0	genus	1142	                  Synechocystis
+3.7037	1	0	no rank	2640012	                    unclassified Synechocystis
+3.7037	1	0	species	1148	                      Synechocystis sp. PCC 6803
+3.7037	1	1	no rank	1111708	                        Synechocystis sp. PCC 6803 substr. Kazusa

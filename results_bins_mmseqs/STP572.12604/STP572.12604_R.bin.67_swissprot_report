@@ -1,0 +1,80 @@
+100.0000	129	0	no rank	1	root
+99.2248	128	7	no rank	131567	  cellular organisms
+93.0233	120	24	superkingdom	2	    Bacteria
+70.5426	91	35	phylum	1224	      Pseudomonadota
+34.1085	44	2	subphylum	68525	        delta/epsilon subdivisions
+32.5581	42	2	class	28221	          Deltaproteobacteria
+30.2326	39	0	order	213115	            Desulfovibrionales
+30.2326	39	24	family	194924	              Desulfovibrionaceae
+10.8527	14	5	genus	872	                Desulfovibrio
+5.4264	7	6	species	881	                  Desulfovibrio vulgaris
+0.7752	1	1	strain	882	                    Desulfovibrio vulgaris str. Hildenborough
+1.5504	2	0	species	876	                  Desulfovibrio desulfuricans
+1.5504	2	2	strain	525146	                    Desulfovibrio desulfuricans ATCC 27774
+0.7752	1	0	genus	2910978	                Megalodesulfovibrio
+0.7752	1	1	species	879	                  Megalodesulfovibrio gigas
+0.7752	1	0	order	2914038	            Syntrophales
+0.7752	1	0	family	213468	              Syntrophaceae
+0.7752	1	0	genus	43773	                Syntrophus
+0.7752	1	0	species	316277	                  Syntrophus aciditrophicus
+0.7752	1	1	strain	56780	                    Syntrophus aciditrophicus SB
+8.5271	11	7	class	1236	        Gammaproteobacteria
+0.7752	1	0	order	72274	          Pseudomonadales
+0.7752	1	0	family	135621	            Pseudomonadaceae
+0.7752	1	0	genus	286	              Pseudomonas
+0.7752	1	0	species group	136841	                Pseudomonas aeruginosa group
+0.7752	1	0	species	287	                  Pseudomonas aeruginosa
+0.7752	1	1	strain	208964	                    Pseudomonas aeruginosa PAO1
+0.7752	1	0	order	91347	          Enterobacterales
+0.7752	1	1	family	543	            Enterobacteriaceae
+0.7752	1	0	order	118969	          Legionellales
+0.7752	1	0	family	444	            Legionellaceae
+0.7752	1	0	genus	445	              Legionella
+0.7752	1	0	species	446	                Legionella pneumophila
+0.7752	1	0	subspecies	91891	                  Legionella pneumophila subsp. pneumophila
+0.7752	1	1	strain	272624	                    Legionella pneumophila subsp. pneumophila str. Philadelphia 1
+0.7752	1	0	order	135615	          Cardiobacteriales
+0.7752	1	0	family	868	            Cardiobacteriaceae
+0.7752	1	0	genus	869	              Dichelobacter
+0.7752	1	1	species	870	                Dichelobacter nodosus
+0.7752	1	0	class	28211	        Alphaproteobacteria
+0.7752	1	0	order	204455	          Rhodobacterales
+0.7752	1	1	family	2854170	            Roseobacteraceae
+2.3256	3	0	clade	1783272	      Terrabacteria group
+1.5504	2	1	phylum	1239	        Bacillota
+0.7752	1	0	class	186801	          Clostridia
+0.7752	1	0	order	186802	            Eubacteriales
+0.7752	1	0	family	31979	              Clostridiaceae
+0.7752	1	0	genus	1485	                Clostridium
+0.7752	1	0	species	1513	                  Clostridium tetani
+0.7752	1	1	strain	212717	                    Clostridium tetani E88
+0.7752	1	0	phylum	200795	        Chloroflexota
+0.7752	1	0	class	301297	          Dehalococcoidia
+0.7752	1	0	order	1202465	            Dehalococcoidales
+0.7752	1	0	family	1202464	              Dehalococcoidaceae
+0.7752	1	0	genus	61434	                Dehalococcoides
+0.7752	1	0	species	61435	                  Dehalococcoides mccartyi
+0.7752	1	1	strain	243164	                    Dehalococcoides mccartyi 195
+0.7752	1	0	phylum	203691	      Spirochaetota
+0.7752	1	0	class	203692	        Spirochaetia
+0.7752	1	0	order	1643688	          Leptospirales
+0.7752	1	0	family	170	            Leptospiraceae
+0.7752	1	0	genus	171	              Leptospira
+0.7752	1	0	species	174	                Leptospira borgpetersenii
+0.7752	1	0	no rank	338217	                  Leptospira borgpetersenii serovar Hardjo-bovis
+0.7752	1	1	strain	355277	                    Leptospira borgpetersenii serovar Hardjo-bovis str. JB197
+0.7752	1	0	clade	1783270	      FCB group
+0.7752	1	0	clade	68336	        Bacteroidetes/Chlorobi group
+0.7752	1	0	phylum	1090	          Chlorobiota
+0.7752	1	0	class	191410	            Chlorobiia
+0.7752	1	0	order	191411	              Chlorobiales
+0.7752	1	1	family	191412	                Chlorobiaceae
+0.7752	1	0	superkingdom	2157	    Archaea
+0.7752	1	1	phylum	28890	      Euryarchaeota
+0.7752	1	0	superkingdom	10239	  Viruses
+0.7752	1	0	clade	2731341	    Duplodnaviria
+0.7752	1	0	kingdom	2731360	      Heunggongvirae
+0.7752	1	0	phylum	2731618	        Uroviricota
+0.7752	1	0	class	2731619	          Caudoviricetes
+0.7752	1	0	genus	186777	            Muvirus
+0.7752	1	1	species	10677	              Muvirus mu

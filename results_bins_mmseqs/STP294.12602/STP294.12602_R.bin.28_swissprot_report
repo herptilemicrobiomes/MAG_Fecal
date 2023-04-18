@@ -1,0 +1,127 @@
+1.7751	3	3	no rank	0	unclassified
+98.2249	166	1	no rank	1	root
+97.0414	164	10	no rank	131567	  cellular organisms
+88.1657	149	44	superkingdom	2	    Bacteria
+52.6627	89	1	clade	1783272	      Terrabacteria group
+52.0710	88	39	phylum	1239	        Bacillota
+15.3846	26	7	class	186801	          Clostridia
+10.6509	18	5	order	186802	            Eubacteriales
+2.9586	5	1	family	186803	              Lachnospiraceae
+1.7751	3	0	genus	1506553	                Lachnoclostridium
+1.1834	2	0	species	66219	                  Lachnoclostridium phytofermentans
+1.1834	2	2	strain	357809	                    Lachnoclostridium phytofermentans ISDg
+0.5917	1	1	species	1512	                  [Clostridium] symbiosum
+0.5917	1	0	genus	830	                Butyrivibrio
+0.5917	1	1	species	831	                  Butyrivibrio fibrisolvens
+1.7751	3	1	family	186804	              Peptostreptococcaceae
+1.1834	2	0	genus	1481960	                Peptoclostridium
+1.1834	2	2	species	1731	                  Peptoclostridium acidaminophilum
+1.7751	3	0	family	216572	              Oscillospiraceae
+1.7751	3	0	genus	35829	                Acetivibrio
+1.7751	3	0	species	1515	                  Acetivibrio thermocellus
+1.7751	3	3	strain	203119	                    Acetivibrio thermocellus ATCC 27405
+1.1834	2	0	family	31979	              Clostridiaceae
+1.1834	2	0	genus	1485	                Clostridium
+0.5917	1	0	species	1488	                  Clostridium acetobutylicum
+0.5917	1	1	strain	272562	                    Clostridium acetobutylicum ATCC 824
+0.5917	1	1	species	1520	                  Clostridium beijerinckii
+0.5917	1	0	order	53433	            Halanaerobiales
+0.5917	1	0	family	972	              Halanaerobiaceae
+0.5917	1	0	genus	32636	                Halothermothrix
+0.5917	1	0	species	31909	                  Halothermothrix orenii
+0.5917	1	1	strain	373903	                    Halothermothrix orenii H 168
+13.6095	23	7	class	91061	          Bacilli
+7.1006	12	1	order	1385	            Bacillales
+5.9172	10	2	family	186817	              Bacillaceae
+4.7337	8	0	genus	1386	                Bacillus
+4.7337	8	0	species group	653685	                  Bacillus subtilis group
+4.7337	8	1	species	1423	                    Bacillus subtilis
+4.1420	7	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+4.1420	7	7	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+0.5917	1	0	family	186820	              Listeriaceae
+0.5917	1	1	genus	1637	                Listeria
+2.3669	4	0	order	186826	            Lactobacillales
+1.7751	3	0	family	1300	              Streptococcaceae
+1.1834	2	1	genus	1301	                Streptococcus
+0.5917	1	1	species	1313	                  Streptococcus pneumoniae
+0.5917	1	0	genus	1357	                Lactococcus
+0.5917	1	1	species	1359	                  Lactococcus cremoris
+0.5917	1	0	family	81852	              Enterococcaceae
+0.5917	1	0	genus	1350	                Enterococcus
+0.5917	1	1	species	1352	                  Enterococcus faecium
+8.8757	15	2	phylum	1224	      Pseudomonadota
+6.5089	11	1	class	1236	        Gammaproteobacteria
+3.5503	6	0	order	91347	          Enterobacterales
+3.5503	6	0	family	543	            Enterobacteriaceae
+3.5503	6	0	genus	561	              Escherichia
+3.5503	6	1	species	562	                Escherichia coli
+2.9586	5	5	strain	83333	                  Escherichia coli K-12
+0.5917	1	0	order	72274	          Pseudomonadales
+0.5917	1	1	family	135621	            Pseudomonadaceae
+0.5917	1	0	order	135619	          Oceanospirillales
+0.5917	1	0	family	224379	            Hahellaceae
+0.5917	1	0	genus	158481	              Hahella
+0.5917	1	0	species	158327	                Hahella chejuensis
+0.5917	1	1	strain	349521	                  Hahella chejuensis KCTC 2396
+0.5917	1	0	order	135622	          Alteromonadales
+0.5917	1	0	family	267890	            Shewanellaceae
+0.5917	1	0	genus	22	              Shewanella
+0.5917	1	1	species	24	                Shewanella putrefaciens
+0.5917	1	0	order	135623	          Vibrionales
+0.5917	1	0	family	641	            Vibrionaceae
+0.5917	1	0	genus	662	              Vibrio
+0.5917	1	0	species	666	                Vibrio cholerae
+0.5917	1	0	serogroup	127906	                  Vibrio cholerae O1
+0.5917	1	0	no rank	686	                    Vibrio cholerae O1 biovar El Tor
+0.5917	1	1	strain	243277	                      Vibrio cholerae O1 biovar El Tor str. N16961
+0.5917	1	0	class	28211	        Alphaproteobacteria
+0.5917	1	0	order	204441	          Rhodospirillales
+0.5917	1	0	family	2829815	            Azospirillaceae
+0.5917	1	0	genus	191	              Azospirillum
+0.5917	1	1	species	192	                Azospirillum brasilense
+0.5917	1	0	subphylum	68525	        delta/epsilon subdivisions
+0.5917	1	0	class	28221	          Deltaproteobacteria
+0.5917	1	0	order	213115	            Desulfovibrionales
+0.5917	1	0	family	194924	              Desulfovibrionaceae
+0.5917	1	0	genus	872	                Desulfovibrio
+0.5917	1	0	species	876	                  Desulfovibrio desulfuricans
+0.5917	1	1	strain	525146	                    Desulfovibrio desulfuricans ATCC 27774
+0.5917	1	0	phylum	203691	      Spirochaetota
+0.5917	1	0	class	203692	        Spirochaetia
+0.5917	1	0	order	136	          Spirochaetales
+0.5917	1	0	family	2845253	            Treponemataceae
+0.5917	1	0	genus	157	              Treponema
+0.5917	1	0	species	160	                Treponema pallidum
+0.5917	1	0	subspecies	161	                  Treponema pallidum subsp. pallidum
+0.5917	1	1	strain	243276	                    Treponema pallidum subsp. pallidum str. Nichols
+1.7751	3	0	superkingdom	2759	    Eukaryota
+1.7751	3	0	clade	33154	      Opisthokonta
+1.1834	2	0	kingdom	4751	        Fungi
+1.1834	2	0	subkingdom	451864	          Dikarya
+1.1834	2	1	phylum	4890	            Ascomycota
+0.5917	1	0	clade	716545	              saccharomyceta
+0.5917	1	0	subphylum	147537	                Saccharomycotina
+0.5917	1	0	class	4891	                  Saccharomycetes
+0.5917	1	0	order	4892	                    Saccharomycetales
+0.5917	1	0	family	4893	                      Saccharomycetaceae
+0.5917	1	0	genus	4930	                        Saccharomyces
+0.5917	1	0	species	4932	                          Saccharomyces cerevisiae
+0.5917	1	1	strain	559292	                            Saccharomyces cerevisiae S288C
+0.5917	1	0	kingdom	33208	        Metazoa
+0.5917	1	1	clade	6072	          Eumetazoa
+1.1834	2	0	superkingdom	2157	    Archaea
+1.1834	2	1	phylum	28890	      Euryarchaeota
+0.5917	1	0	clade	2283794	        Methanomada group
+0.5917	1	0	class	183939	          Methanococci
+0.5917	1	0	order	2182	            Methanococcales
+0.5917	1	0	family	196117	              Methanocaldococcaceae
+0.5917	1	0	genus	196118	                Methanocaldococcus
+0.5917	1	0	species	2190	                  Methanocaldococcus jannaschii
+0.5917	1	1	strain	243232	                    Methanocaldococcus jannaschii DSM 2661
+0.5917	1	0	superkingdom	10239	  Viruses
+0.5917	1	0	clade	2731341	    Duplodnaviria
+0.5917	1	0	kingdom	2731360	      Heunggongvirae
+0.5917	1	0	phylum	2731618	        Uroviricota
+0.5917	1	0	class	2731619	          Caudoviricetes
+0.5917	1	0	genus	186765	            Lambdavirus
+0.5917	1	1	species	10710	              Lambdavirus lambda

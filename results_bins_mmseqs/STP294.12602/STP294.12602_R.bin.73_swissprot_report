@@ -1,0 +1,62 @@
+0.8547	1	1	no rank	0	unclassified
+99.1453	116	0	no rank	1	root
+96.5812	113	2	no rank	131567	  cellular organisms
+93.1624	109	49	superkingdom	2	    Bacteria
+44.4444	52	2	clade	1783272	      Terrabacteria group
+41.0256	48	26	phylum	1239	        Bacillota
+12.8205	15	5	class	91061	          Bacilli
+8.5470	10	2	order	1385	            Bacillales
+6.8376	8	4	family	186817	              Bacillaceae
+3.4188	4	0	genus	1386	                Bacillus
+3.4188	4	0	species group	653685	                  Bacillus subtilis group
+3.4188	4	0	species	1423	                    Bacillus subtilis
+3.4188	4	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+3.4188	4	4	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+5.9829	7	4	class	186801	          Clostridia
+2.5641	3	3	order	186802	            Eubacteriales
+1.7094	2	0	phylum	201174	        Actinomycetota
+1.7094	2	0	class	1760	          Actinomycetes
+0.8547	1	0	order	85006	            Micrococcales
+0.8547	1	0	family	85016	              Cellulomonadaceae
+0.8547	1	0	genus	1707	                Cellulomonas
+0.8547	1	1	species	1708	                  Cellulomonas fimi
+0.8547	1	0	order	85007	            Corynebacteriales
+0.8547	1	0	family	1762	              Mycobacteriaceae
+0.8547	1	0	genus	1763	                Mycobacterium
+0.8547	1	0	species group	77643	                  Mycobacterium tuberculosis complex
+0.8547	1	1	species	1773	                    Mycobacterium tuberculosis
+5.9829	7	3	phylum	1224	      Pseudomonadota
+2.5641	3	0	class	1236	        Gammaproteobacteria
+2.5641	3	0	order	91347	          Enterobacterales
+2.5641	3	2	family	543	            Enterobacteriaceae
+0.8547	1	0	genus	590	              Salmonella
+0.8547	1	0	species	28901	                Salmonella enterica
+0.8547	1	0	subspecies	59201	                  Salmonella enterica subsp. enterica
+0.8547	1	1	no rank	90370	                    Salmonella enterica subsp. enterica serovar Typhi
+0.8547	1	0	subphylum	68525	        delta/epsilon subdivisions
+0.8547	1	0	class	28221	          Deltaproteobacteria
+0.8547	1	0	order	213115	            Desulfovibrionales
+0.8547	1	0	family	194924	              Desulfovibrionaceae
+0.8547	1	0	genus	2910984	                Solidesulfovibrio
+0.8547	1	1	species	878	                  Solidesulfovibrio fructosivorans
+0.8547	1	0	phylum	200918	      Thermotogota
+0.8547	1	0	class	188708	        Thermotogae
+0.8547	1	0	order	2419	          Thermotogales
+0.8547	1	0	family	188709	            Thermotogaceae
+0.8547	1	0	genus	2335	              Thermotoga
+0.8547	1	0	species	2336	                Thermotoga maritima
+0.8547	1	1	strain	243274	                  Thermotoga maritima MSB8
+1.7094	2	0	superkingdom	2759	    Eukaryota
+1.7094	2	1	clade	33154	      Opisthokonta
+0.8547	1	0	kingdom	33208	        Metazoa
+0.8547	1	1	clade	6072	          Eumetazoa
+2.5641	3	0	superkingdom	10239	  Viruses
+2.5641	3	0	clade	2731341	    Duplodnaviria
+2.5641	3	0	kingdom	2731360	      Heunggongvirae
+2.5641	3	0	phylum	2731618	        Uroviricota
+2.5641	3	0	class	2731619	          Caudoviricetes
+1.7094	2	0	genus	1912144	            Lubbockvirus
+1.7094	2	0	species	320122	              Lubbockvirus CD119
+1.7094	2	2	no rank	1283341	                Clostridium phage phiCD119 USA/Govind/2006
+0.8547	1	0	no rank	2788787	            unclassified Caudoviricetes
+0.8547	1	1	species	10724	              Bacillus phage SPP1

@@ -1,0 +1,57 @@
+100.0000	91	0	no rank	1	root
+100.0000	91	1	no rank	131567	  cellular organisms
+95.6044	87	13	superkingdom	2	    Bacteria
+79.1209	72	0	clade	1783272	      Terrabacteria group
+79.1209	72	33	phylum	1239	        Bacillota
+25.2747	23	4	class	186801	          Clostridia
+19.7802	18	6	order	186802	            Eubacteriales
+9.8901	9	0	family	186804	              Peptostreptococcaceae
+9.8901	9	0	genus	1870884	                Clostridioides
+9.8901	9	0	species	1496	                  Clostridioides difficile
+9.8901	9	9	strain	272563	                    Clostridioides difficile 630
+3.2967	3	0	family	31979	              Clostridiaceae
+3.2967	3	1	genus	1485	                Clostridium
+2.1978	2	2	species	1502	                  Clostridium perfringens
+1.0989	1	0	order	68295	            Thermoanaerobacterales
+1.0989	1	0	family	186814	              Thermoanaerobacteraceae
+1.0989	1	0	no rank	42857	                Moorella group
+1.0989	1	0	genus	44260	                  Moorella
+1.0989	1	1	species	1525	                    Moorella thermoacetica
+17.5824	16	0	class	91061	          Bacilli
+16.4835	15	3	order	1385	            Bacillales
+13.1868	12	0	family	186817	              Bacillaceae
+13.1868	12	1	genus	1386	                Bacillus
+12.0879	11	0	species group	653685	                  Bacillus subtilis group
+12.0879	11	0	species	1423	                    Bacillus subtilis
+12.0879	11	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+12.0879	11	11	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+1.0989	1	0	order	186826	            Lactobacillales
+1.0989	1	0	family	81852	              Enterococcaceae
+1.0989	1	0	genus	1350	                Enterococcus
+1.0989	1	1	species	1353	                  Enterococcus gallinarum
+2.1978	2	0	phylum	1224	      Pseudomonadota
+2.1978	2	0	class	1236	        Gammaproteobacteria
+1.0989	1	0	order	91347	          Enterobacterales
+1.0989	1	0	family	543	            Enterobacteriaceae
+1.0989	1	0	genus	561	              Escherichia
+1.0989	1	0	species	562	                Escherichia coli
+1.0989	1	1	strain	83333	                  Escherichia coli K-12
+1.0989	1	0	order	135625	          Pasteurellales
+1.0989	1	0	family	712	            Pasteurellaceae
+1.0989	1	0	genus	724	              Haemophilus
+1.0989	1	0	species	727	                Haemophilus influenzae
+1.0989	1	1	strain	71421	                  Haemophilus influenzae Rd KW20
+2.1978	2	0	superkingdom	2157	    Archaea
+2.1978	2	0	phylum	28890	      Euryarchaeota
+2.1978	2	0	clade	2283794	        Methanomada group
+2.1978	2	0	class	183939	          Methanococci
+2.1978	2	0	order	2182	            Methanococcales
+2.1978	2	0	family	196117	              Methanocaldococcaceae
+2.1978	2	0	genus	196118	                Methanocaldococcus
+2.1978	2	0	species	2190	                  Methanocaldococcus jannaschii
+2.1978	2	2	strain	243232	                    Methanocaldococcus jannaschii DSM 2661
+1.0989	1	0	superkingdom	2759	    Eukaryota
+1.0989	1	0	clade	33154	      Opisthokonta
+1.0989	1	0	kingdom	33208	        Metazoa
+1.0989	1	0	clade	6072	          Eumetazoa
+1.0989	1	1	clade	33213	            Bilateria

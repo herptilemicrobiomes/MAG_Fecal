@@ -1,0 +1,92 @@
+3.7736	2	2	no rank	0	unclassified
+96.2264	51	1	no rank	1	root
+94.3396	50	8	no rank	131567	  cellular organisms
+75.4717	40	7	superkingdom	2	    Bacteria
+35.8491	19	0	clade	1783270	      FCB group
+35.8491	19	0	clade	68336	        Bacteroidetes/Chlorobi group
+35.8491	19	1	phylum	976	          Bacteroidota
+30.1887	16	0	class	200643	            Bacteroidia
+30.1887	16	3	order	171549	              Bacteroidales
+16.9811	9	0	family	2005525	                Tannerellaceae
+16.9811	9	0	genus	375288	                  Parabacteroides
+16.9811	9	0	species	823	                    Parabacteroides distasonis
+16.9811	9	9	strain	435591	                      Parabacteroides distasonis ATCC 8503
+7.5472	4	0	family	815	                Bacteroidaceae
+7.5472	4	2	genus	816	                  Bacteroides
+1.8868	1	0	species	818	                    Bacteroides thetaiotaomicron
+1.8868	1	1	strain	226186	                      Bacteroides thetaiotaomicron VPI-5482
+1.8868	1	0	species	28116	                    Bacteroides ovatus
+1.8868	1	1	strain	411476	                      Bacteroides ovatus ATCC 8483
+1.8868	1	0	class	117743	            Flavobacteriia
+1.8868	1	0	order	200644	              Flavobacteriales
+1.8868	1	0	family	49546	                Flavobacteriaceae
+1.8868	1	0	genus	225842	                  Formosa
+1.8868	1	0	species	320324	                    Formosa agariphila
+1.8868	1	1	strain	1347342	                      Formosa agariphila KMM 3901
+1.8868	1	0	class	117747	            Sphingobacteriia
+1.8868	1	0	order	200666	              Sphingobacteriales
+1.8868	1	0	family	84566	                Sphingobacteriaceae
+1.8868	1	0	genus	84567	                  Pedobacter
+1.8868	1	0	species	984	                    Pedobacter heparinus
+1.8868	1	1	strain	485917	                      Pedobacter heparinus DSM 2366
+16.9811	9	4	phylum	1224	      Pseudomonadota
+5.6604	3	0	subphylum	68525	        delta/epsilon subdivisions
+5.6604	3	0	class	28221	          Deltaproteobacteria
+3.7736	2	0	order	213115	            Desulfovibrionales
+3.7736	2	1	family	194924	              Desulfovibrionaceae
+1.8868	1	0	genus	2910984	                Solidesulfovibrio
+1.8868	1	1	species	878	                  Solidesulfovibrio fructosivorans
+1.8868	1	0	order	213462	            Syntrophobacterales
+1.8868	1	0	family	213465	              Syntrophobacteraceae
+1.8868	1	0	genus	29526	                Syntrophobacter
+1.8868	1	0	species	119484	                  Syntrophobacter fumaroxidans
+1.8868	1	1	strain	335543	                    Syntrophobacter fumaroxidans MPOB
+3.7736	2	1	class	1236	        Gammaproteobacteria
+1.8868	1	0	order	91347	          Enterobacterales
+1.8868	1	0	family	543	            Enterobacteriaceae
+1.8868	1	0	genus	561	              Escherichia
+1.8868	1	1	species	562	                Escherichia coli
+5.6604	3	0	clade	1783272	      Terrabacteria group
+5.6604	3	0	phylum	1239	        Bacillota
+5.6604	3	0	class	91061	          Bacilli
+5.6604	3	1	order	1385	            Bacillales
+3.7736	2	0	family	186817	              Bacillaceae
+3.7736	2	0	genus	1386	                Bacillus
+3.7736	2	0	species group	653685	                  Bacillus subtilis group
+3.7736	2	0	species	1423	                    Bacillus subtilis
+3.7736	2	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+3.7736	2	2	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+1.8868	1	0	phylum	200783	      Aquificae
+1.8868	1	0	class	187857	        Aquificae
+1.8868	1	0	order	32069	          Aquificales
+1.8868	1	0	family	64898	            Aquificaceae
+1.8868	1	0	genus	2713	              Aquifex
+1.8868	1	0	species	63363	                Aquifex aeolicus
+1.8868	1	1	strain	224324	                  Aquifex aeolicus VF5
+1.8868	1	0	phylum	203691	      Spirochaetota
+1.8868	1	0	class	203692	        Spirochaetia
+1.8868	1	0	order	136	          Spirochaetales
+1.8868	1	0	family	2845253	            Treponemataceae
+1.8868	1	0	genus	157	              Treponema
+1.8868	1	0	species	160	                Treponema pallidum
+1.8868	1	0	subspecies	161	                  Treponema pallidum subsp. pallidum
+1.8868	1	1	strain	243276	                    Treponema pallidum subsp. pallidum str. Nichols
+1.8868	1	0	superkingdom	2157	    Archaea
+1.8868	1	0	phylum	28890	      Euryarchaeota
+1.8868	1	0	clade	2283794	        Methanomada group
+1.8868	1	0	class	183939	          Methanococci
+1.8868	1	0	order	2182	            Methanococcales
+1.8868	1	0	family	196117	              Methanocaldococcaceae
+1.8868	1	0	genus	196118	                Methanocaldococcus
+1.8868	1	0	species	2190	                  Methanocaldococcus jannaschii
+1.8868	1	1	strain	243232	                    Methanocaldococcus jannaschii DSM 2661
+1.8868	1	0	superkingdom	2759	    Eukaryota
+1.8868	1	0	kingdom	33090	      Viridiplantae
+1.8868	1	0	phylum	35493	        Streptophyta
+1.8868	1	0	subphylum	131221	          Streptophytina
+1.8868	1	0	clade	3193	            Embryophyta
+1.8868	1	0	clade	58023	              Tracheophyta
+1.8868	1	0	clade	78536	                Euphyllophyta
+1.8868	1	0	clade	58024	                  Spermatophyta
+1.8868	1	0	class	3398	                    Magnoliopsida
+1.8868	1	1	clade	1437183	                      Mesangiospermae

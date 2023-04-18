@@ -1,0 +1,109 @@
+100.0000	105	1	no rank	1	root
+99.0476	104	5	no rank	131567	  cellular organisms
+93.3333	98	25	superkingdom	2	    Bacteria
+55.2381	58	0	clade	1783272	      Terrabacteria group
+53.3333	56	26	phylum	1239	        Bacillota
+17.1429	18	9	class	186801	          Clostridia
+7.6190	8	2	order	186802	            Eubacteriales
+1.9048	2	0	family	31979	              Clostridiaceae
+1.9048	2	0	genus	1485	                Clostridium
+0.9524	1	0	species	1520	                  Clostridium beijerinckii
+0.9524	1	1	strain	290402	                    Clostridium beijerinckii NCIMB 8052
+0.9524	1	0	species	1534	                  Clostridium kluyveri
+0.9524	1	1	strain	431943	                    Clostridium kluyveri DSM 555
+1.9048	2	0	family	186804	              Peptostreptococcaceae
+1.9048	2	0	genus	186831	                Acetoanaerobium
+1.9048	2	0	species	1511	                  Acetoanaerobium sticklandii
+1.9048	2	2	strain	499177	                    Acetoanaerobium sticklandii DSM 519
+0.9524	1	0	family	216572	              Oscillospiraceae
+0.9524	1	0	genus	35829	                Acetivibrio
+0.9524	1	0	species	1515	                  Acetivibrio thermocellus
+0.9524	1	1	strain	203119	                    Acetivibrio thermocellus ATCC 27405
+0.9524	1	0	family	2937909	              Desulfitobacteriaceae
+0.9524	1	0	genus	36853	                Desulfitobacterium
+0.9524	1	1	species	49338	                  Desulfitobacterium hafniense
+0.9524	1	0	order	68295	            Thermoanaerobacterales
+0.9524	1	0	family	186814	              Thermoanaerobacteraceae
+0.9524	1	0	genus	249529	                Caldanaerobacter
+0.9524	1	0	species	911092	                  Caldanaerobacter subterraneus
+0.9524	1	0	subspecies	119072	                    Caldanaerobacter subterraneus subsp. tengcongensis
+0.9524	1	1	strain	273068	                      Caldanaerobacter subterraneus subsp. tengcongensis MB4
+11.4286	12	2	class	91061	          Bacilli
+8.5714	9	3	order	1385	            Bacillales
+5.7143	6	1	family	186817	              Bacillaceae
+4.7619	5	0	genus	1386	                Bacillus
+4.7619	5	0	species group	653685	                  Bacillus subtilis group
+4.7619	5	1	species	1423	                    Bacillus subtilis
+3.8095	4	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+3.8095	4	4	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+0.9524	1	0	order	186826	            Lactobacillales
+0.9524	1	1	family	1300	              Streptococcaceae
+0.9524	1	0	phylum	1297	        Deinococcota
+0.9524	1	0	class	188787	          Deinococci
+0.9524	1	0	order	118964	            Deinococcales
+0.9524	1	0	family	183710	              Deinococcaceae
+0.9524	1	0	genus	1298	                Deinococcus
+0.9524	1	0	species	1299	                  Deinococcus radiodurans
+0.9524	1	1	strain	243230	                    Deinococcus radiodurans R1
+0.9524	1	0	clade	1798711	        Cyanobacteriota/Melainabacteria group
+0.9524	1	0	phylum	1117	          Cyanobacteriota
+0.9524	1	1	class	3028117	            Cyanophyceae
+11.4286	12	2	phylum	1224	      Pseudomonadota
+7.6190	8	1	class	1236	        Gammaproteobacteria
+4.7619	5	1	order	91347	          Enterobacterales
+3.8095	4	1	family	543	            Enterobacteriaceae
+1.9048	2	0	genus	590	              Salmonella
+1.9048	2	0	species	28901	                Salmonella enterica
+1.9048	2	0	subspecies	59201	                  Salmonella enterica subsp. enterica
+1.9048	2	0	no rank	90371	                    Salmonella enterica subsp. enterica serovar Typhimurium
+1.9048	2	2	strain	99287	                      Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+0.9524	1	0	genus	561	              Escherichia
+0.9524	1	0	species	562	                Escherichia coli
+0.9524	1	1	strain	83333	                  Escherichia coli K-12
+0.9524	1	0	order	135625	          Pasteurellales
+0.9524	1	0	family	712	            Pasteurellaceae
+0.9524	1	0	genus	724	              Haemophilus
+0.9524	1	0	species	727	                Haemophilus influenzae
+0.9524	1	1	strain	71421	                  Haemophilus influenzae Rd KW20
+0.9524	1	0	order	2887326	          Moraxellales
+0.9524	1	0	family	468	            Moraxellaceae
+0.9524	1	0	genus	469	              Acinetobacter
+0.9524	1	0	species group	909768	                Acinetobacter calcoaceticus/baumannii complex
+0.9524	1	0	species	470	                  Acinetobacter baumannii
+0.9524	1	1	strain	575584	                    Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841
+0.9524	1	0	class	28216	        Betaproteobacteria
+0.9524	1	0	order	206351	          Neisseriales
+0.9524	1	0	family	481	            Neisseriaceae
+0.9524	1	1	genus	482	              Neisseria
+0.9524	1	0	subphylum	68525	        delta/epsilon subdivisions
+0.9524	1	0	class	29547	          Epsilonproteobacteria
+0.9524	1	0	order	213849	            Campylobacterales
+0.9524	1	0	family	72294	              Campylobacteraceae
+0.9524	1	0	genus	194	                Campylobacter
+0.9524	1	0	species	197	                  Campylobacter jejuni
+0.9524	1	0	subspecies	32022	                    Campylobacter jejuni subsp. jejuni
+0.9524	1	1	strain	192222	                      Campylobacter jejuni subsp. jejuni NCTC 11168 = ATCC 700819
+0.9524	1	0	phylum	32066	      Fusobacteriota
+0.9524	1	0	class	203490	        Fusobacteriia
+0.9524	1	0	order	203491	          Fusobacteriales
+0.9524	1	0	family	203492	            Fusobacteriaceae
+0.9524	1	0	genus	2332	              Propionigenium
+0.9524	1	1	species	2333	                Propionigenium modestum
+0.9524	1	0	phylum	200918	      Thermotogota
+0.9524	1	0	class	188708	        Thermotogae
+0.9524	1	0	order	2419	          Thermotogales
+0.9524	1	0	family	188709	            Thermotogaceae
+0.9524	1	0	genus	2335	              Thermotoga
+0.9524	1	0	species	2336	                Thermotoga maritima
+0.9524	1	1	strain	243274	                  Thermotoga maritima MSB8
+0.9524	1	0	clade	1783270	      FCB group
+0.9524	1	0	clade	68336	        Bacteroidetes/Chlorobi group
+0.9524	1	0	phylum	976	          Bacteroidota
+0.9524	1	0	class	200643	            Bacteroidia
+0.9524	1	0	order	171549	              Bacteroidales
+0.9524	1	0	family	815	                Bacteroidaceae
+0.9524	1	0	genus	816	                  Bacteroides
+0.9524	1	0	species	818	                    Bacteroides thetaiotaomicron
+0.9524	1	1	strain	226186	                      Bacteroides thetaiotaomicron VPI-5482
+0.9524	1	0	superkingdom	2157	    Archaea
+0.9524	1	1	phylum	28890	      Euryarchaeota

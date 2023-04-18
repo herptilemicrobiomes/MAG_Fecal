@@ -1,0 +1,108 @@
+100.0000	92	2	no rank	1	root
+97.8261	90	5	no rank	131567	  cellular organisms
+89.1304	82	37	superkingdom	2	    Bacteria
+29.3478	27	0	clade	1783270	      FCB group
+29.3478	27	0	clade	68336	        Bacteroidetes/Chlorobi group
+29.3478	27	10	phylum	976	          Bacteroidota
+17.3913	16	0	class	200643	            Bacteroidia
+17.3913	16	3	order	171549	              Bacteroidales
+14.1304	13	5	family	815	                Bacteroidaceae
+5.4348	5	2	genus	816	                  Bacteroides
+2.1739	2	1	species	817	                    Bacteroides fragilis
+1.0870	1	1	strain	295405	                      Bacteroides fragilis YCH46
+1.0870	1	0	species	818	                    Bacteroides thetaiotaomicron
+1.0870	1	1	strain	226186	                      Bacteroides thetaiotaomicron VPI-5482
+3.2609	3	0	genus	909656	                  Phocaeicola
+3.2609	3	0	species	821	                    Phocaeicola vulgatus
+3.2609	3	3	strain	435590	                      Phocaeicola vulgatus ATCC 8482
+1.0870	1	0	class	117743	            Flavobacteriia
+1.0870	1	0	order	200644	              Flavobacteriales
+1.0870	1	0	family	49546	                Flavobacteriaceae
+1.0870	1	0	genus	225842	                  Formosa
+1.0870	1	0	species	320324	                    Formosa agariphila
+1.0870	1	1	strain	1347342	                      Formosa agariphila KMM 3901
+11.9565	11	3	phylum	1224	      Pseudomonadota
+6.5217	6	1	class	1236	        Gammaproteobacteria
+2.1739	2	0	order	91347	          Enterobacterales
+2.1739	2	1	family	543	            Enterobacteriaceae
+1.0870	1	0	genus	561	              Escherichia
+1.0870	1	0	species	562	                Escherichia coli
+1.0870	1	1	strain	83333	                  Escherichia coli K-12
+2.1739	2	0	order	135625	          Pasteurellales
+2.1739	2	0	family	712	            Pasteurellaceae
+2.1739	2	0	genus	724	              Haemophilus
+2.1739	2	0	species	727	                Haemophilus influenzae
+2.1739	2	2	strain	71421	                  Haemophilus influenzae Rd KW20
+1.0870	1	0	order	72274	          Pseudomonadales
+1.0870	1	0	family	135621	            Pseudomonadaceae
+1.0870	1	0	genus	286	              Pseudomonas
+1.0870	1	0	species group	136841	                Pseudomonas aeruginosa group
+1.0870	1	0	species	287	                  Pseudomonas aeruginosa
+1.0870	1	1	strain	208964	                    Pseudomonas aeruginosa PAO1
+2.1739	2	0	subphylum	68525	        delta/epsilon subdivisions
+1.0870	1	0	class	28221	          Deltaproteobacteria
+1.0870	1	0	order	213115	            Desulfovibrionales
+1.0870	1	0	family	194924	              Desulfovibrionaceae
+1.0870	1	0	genus	2910984	                Solidesulfovibrio
+1.0870	1	1	species	878	                  Solidesulfovibrio fructosivorans
+1.0870	1	0	class	29547	          Epsilonproteobacteria
+1.0870	1	0	order	213849	            Campylobacterales
+1.0870	1	0	family	72294	              Campylobacteraceae
+1.0870	1	0	genus	194	                Campylobacter
+1.0870	1	0	species	197	                  Campylobacter jejuni
+1.0870	1	1	subspecies	32022	                    Campylobacter jejuni subsp. jejuni
+7.6087	7	0	clade	1783272	      Terrabacteria group
+6.5217	6	1	phylum	1239	        Bacillota
+4.3478	4	0	class	91061	          Bacilli
+4.3478	4	1	order	1385	            Bacillales
+3.2609	3	0	family	186817	              Bacillaceae
+3.2609	3	0	genus	1386	                Bacillus
+3.2609	3	0	species group	653685	                  Bacillus subtilis group
+3.2609	3	0	species	1423	                    Bacillus subtilis
+3.2609	3	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+3.2609	3	3	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+1.0870	1	0	class	186801	          Clostridia
+1.0870	1	0	order	186802	            Eubacteriales
+1.0870	1	0	family	31979	              Clostridiaceae
+1.0870	1	0	genus	1485	                Clostridium
+1.0870	1	1	species	1502	                  Clostridium perfringens
+1.0870	1	0	phylum	544448	        Mycoplasmatota
+1.0870	1	0	order	2790996	          Mycoplasmoidales
+1.0870	1	0	family	2895623	            Metamycoplasmataceae
+1.0870	1	1	genus	2995234	              Mycoplasmoides
+3.2609	3	1	superkingdom	2759	    Eukaryota
+1.0870	1	0	kingdom	33090	      Viridiplantae
+1.0870	1	0	phylum	35493	        Streptophyta
+1.0870	1	0	subphylum	131221	          Streptophytina
+1.0870	1	0	clade	3193	            Embryophyta
+1.0870	1	0	clade	58023	              Tracheophyta
+1.0870	1	0	clade	78536	                Euphyllophyta
+1.0870	1	0	clade	58024	                  Spermatophyta
+1.0870	1	0	class	3398	                    Magnoliopsida
+1.0870	1	0	clade	1437183	                      Mesangiospermae
+1.0870	1	0	clade	71240	                        eudicotyledons
+1.0870	1	0	clade	91827	                          Gunneridae
+1.0870	1	0	clade	1437201	                            Pentapetalae
+1.0870	1	0	clade	71275	                              rosids
+1.0870	1	0	clade	91836	                                malvids
+1.0870	1	0	order	3699	                                  Brassicales
+1.0870	1	0	family	3700	                                    Brassicaceae
+1.0870	1	0	tribe	980083	                                      Camelineae
+1.0870	1	0	genus	3701	                                        Arabidopsis
+1.0870	1	1	species	3702	                                          Arabidopsis thaliana
+1.0870	1	0	clade	33154	      Opisthokonta
+1.0870	1	0	kingdom	33208	        Metazoa
+1.0870	1	0	clade	6072	          Eumetazoa
+1.0870	1	0	clade	33213	            Bilateria
+1.0870	1	0	clade	33317	              Protostomia
+1.0870	1	0	clade	1206794	                Ecdysozoa
+1.0870	1	0	phylum	6231	                  Nematoda
+1.0870	1	0	class	119089	                    Chromadorea
+1.0870	1	0	order	6236	                      Rhabditida
+1.0870	1	0	suborder	2301116	                        Rhabditina
+1.0870	1	0	infraorder	2301119	                          Rhabditomorpha
+1.0870	1	0	superfamily	55879	                            Rhabditoidea
+1.0870	1	0	family	6243	                              Rhabditidae
+1.0870	1	0	subfamily	55885	                                Peloderinae
+1.0870	1	0	genus	6237	                                  Caenorhabditis
+1.0870	1	1	species	6239	                                    Caenorhabditis elegans

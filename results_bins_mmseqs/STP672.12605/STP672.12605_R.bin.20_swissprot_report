@@ -1,0 +1,51 @@
+100.0000	84	0	no rank	1	root
+100.0000	84	2	no rank	131567	  cellular organisms
+96.4286	81	26	superkingdom	2	    Bacteria
+61.9048	52	0	clade	1783272	      Terrabacteria group
+58.3333	49	19	phylum	1239	        Bacillota
+32.1429	27	17	class	91061	          Bacilli
+11.9048	10	4	order	1385	            Bacillales
+7.1429	6	1	family	186817	              Bacillaceae
+5.9524	5	2	genus	1386	                Bacillus
+3.5714	3	0	species group	653685	                  Bacillus subtilis group
+3.5714	3	0	species	1423	                    Bacillus subtilis
+3.5714	3	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+3.5714	3	3	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+3.5714	3	0	class	186801	          Clostridia
+3.5714	3	1	order	186802	            Eubacteriales
+1.1905	1	0	family	186803	              Lachnospiraceae
+1.1905	1	0	genus	2316020	                Mediterraneibacter
+1.1905	1	0	species	33038	                  [Ruminococcus] gnavus
+1.1905	1	1	strain	411470	                    [Ruminococcus] gnavus ATCC 29149
+1.1905	1	0	family	216572	              Oscillospiraceae
+1.1905	1	0	genus	1508657	                Ruminiclostridium
+1.1905	1	0	species	1521	                  Ruminiclostridium cellulolyticum
+1.1905	1	1	strain	394503	                    Ruminiclostridium cellulolyticum H10
+2.3810	2	0	phylum	201174	        Actinomycetota
+2.3810	2	0	class	1760	          Actinomycetes
+2.3810	2	1	order	85007	            Corynebacteriales
+1.1905	1	0	family	1762	              Mycobacteriaceae
+1.1905	1	0	genus	1763	                Mycobacterium
+1.1905	1	0	species group	77643	                  Mycobacterium tuberculosis complex
+1.1905	1	0	species	1773	                    Mycobacterium tuberculosis
+1.1905	1	1	strain	83332	                      Mycobacterium tuberculosis H37Rv
+1.1905	1	0	phylum	544448	        Mycoplasmatota
+1.1905	1	0	order	2790996	          Mycoplasmoidales
+1.1905	1	0	family	2895623	            Metamycoplasmataceae
+1.1905	1	1	genus	2995234	              Mycoplasmoides
+3.5714	3	1	phylum	1224	      Pseudomonadota
+1.1905	1	0	class	1236	        Gammaproteobacteria
+1.1905	1	0	order	91347	          Enterobacterales
+1.1905	1	0	family	543	            Enterobacteriaceae
+1.1905	1	0	genus	561	              Escherichia
+1.1905	1	0	species	562	                Escherichia coli
+1.1905	1	1	strain	83333	                  Escherichia coli K-12
+1.1905	1	0	subphylum	68525	        delta/epsilon subdivisions
+1.1905	1	0	class	28221	          Deltaproteobacteria
+1.1905	1	0	order	29	            Myxococcales
+1.1905	1	0	suborder	80811	              Cystobacterineae
+1.1905	1	0	family	31	                Myxococcaceae
+1.1905	1	0	genus	32	                  Myxococcus
+1.1905	1	1	species	34	                    Myxococcus xanthus
+1.1905	1	0	superkingdom	2157	    Archaea
+1.1905	1	1	phylum	28890	      Euryarchaeota

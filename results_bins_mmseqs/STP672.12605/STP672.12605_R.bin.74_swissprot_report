@@ -1,0 +1,82 @@
+100.0000	117	0	no rank	1	root
+100.0000	117	1	no rank	131567	  cellular organisms
+96.5812	113	55	superkingdom	2	    Bacteria
+33.3333	39	0	clade	1783270	      FCB group
+33.3333	39	0	clade	68336	        Bacteroidetes/Chlorobi group
+33.3333	39	14	phylum	976	          Bacteroidota
+20.5128	24	0	class	200643	            Bacteroidia
+20.5128	24	3	order	171549	              Bacteroidales
+17.0940	20	7	family	815	                Bacteroidaceae
+5.9829	7	2	genus	816	                  Bacteroides
+2.5641	3	1	species	817	                    Bacteroides fragilis
+0.8547	1	1	strain	272559	                      Bacteroides fragilis NCTC 9343
+0.8547	1	1	strain	295405	                      Bacteroides fragilis YCH46
+1.7094	2	0	species	818	                    Bacteroides thetaiotaomicron
+1.7094	2	2	strain	226186	                      Bacteroides thetaiotaomicron VPI-5482
+5.1282	6	0	genus	909656	                  Phocaeicola
+5.1282	6	0	species	821	                    Phocaeicola vulgatus
+5.1282	6	6	strain	435590	                      Phocaeicola vulgatus ATCC 8482
+0.8547	1	0	family	171551	                Porphyromonadaceae
+0.8547	1	0	genus	836	                  Porphyromonas
+0.8547	1	1	species	837	                    Porphyromonas gingivalis
+0.8547	1	0	class	117743	            Flavobacteriia
+0.8547	1	0	order	200644	              Flavobacteriales
+0.8547	1	0	family	49546	                Flavobacteriaceae
+0.8547	1	0	genus	225842	                  Formosa
+0.8547	1	0	species	320324	                    Formosa agariphila
+0.8547	1	1	strain	1347342	                      Formosa agariphila KMM 3901
+11.9658	14	2	phylum	1224	      Pseudomonadota
+8.5470	10	6	class	1236	        Gammaproteobacteria
+1.7094	2	0	order	72274	          Pseudomonadales
+1.7094	2	0	family	135621	            Pseudomonadaceae
+1.7094	2	0	subfamily	351	              Azotobacter group
+1.7094	2	0	genus	352	                Azotobacter
+1.7094	2	0	species	353	                  Azotobacter chroococcum
+1.7094	2	2	strain	355	                    Azotobacter chroococcum (strain mcd 1)
+1.7094	2	0	order	91347	          Enterobacterales
+1.7094	2	0	family	543	            Enterobacteriaceae
+1.7094	2	0	genus	561	              Escherichia
+1.7094	2	0	species	562	                Escherichia coli
+1.7094	2	2	strain	83333	                  Escherichia coli K-12
+1.7094	2	0	subphylum	68525	        delta/epsilon subdivisions
+0.8547	1	0	class	28221	          Deltaproteobacteria
+0.8547	1	0	order	213115	            Desulfovibrionales
+0.8547	1	0	family	194924	              Desulfovibrionaceae
+0.8547	1	0	genus	2910984	                Solidesulfovibrio
+0.8547	1	1	species	878	                  Solidesulfovibrio fructosivorans
+0.8547	1	0	class	29547	          Epsilonproteobacteria
+0.8547	1	0	order	213849	            Campylobacterales
+0.8547	1	0	family	72294	              Campylobacteraceae
+0.8547	1	0	genus	194	                Campylobacter
+0.8547	1	0	species	197	                  Campylobacter jejuni
+0.8547	1	0	subspecies	32022	                    Campylobacter jejuni subsp. jejuni
+0.8547	1	1	strain	192222	                      Campylobacter jejuni subsp. jejuni NCTC 11168 = ATCC 700819
+4.2735	5	0	clade	1783272	      Terrabacteria group
+3.4188	4	0	phylum	1239	        Bacillota
+3.4188	4	2	class	91061	          Bacilli
+1.7094	2	0	order	1385	            Bacillales
+1.7094	2	0	family	186817	              Bacillaceae
+1.7094	2	0	genus	1386	                Bacillus
+1.7094	2	0	species group	653685	                  Bacillus subtilis group
+1.7094	2	0	species	1423	                    Bacillus subtilis
+1.7094	2	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+1.7094	2	2	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+0.8547	1	0	phylum	201174	        Actinomycetota
+0.8547	1	0	class	1760	          Actinomycetes
+0.8547	1	0	order	85011	            Streptomycetales
+0.8547	1	0	family	2062	              Streptomycetaceae
+0.8547	1	0	genus	1883	                Streptomyces
+0.8547	1	1	species	38300	                  Streptomyces pristinaespiralis
+1.7094	2	1	superkingdom	2759	    Eukaryota
+0.8547	1	0	clade	33154	      Opisthokonta
+0.8547	1	0	kingdom	33208	        Metazoa
+0.8547	1	1	clade	6072	          Eumetazoa
+0.8547	1	0	superkingdom	2157	    Archaea
+0.8547	1	0	phylum	28890	      Euryarchaeota
+0.8547	1	0	clade	2283794	        Methanomada group
+0.8547	1	0	class	183925	          Methanobacteria
+0.8547	1	0	order	2158	            Methanobacteriales
+0.8547	1	0	family	2159	              Methanobacteriaceae
+0.8547	1	0	genus	145260	                Methanothermobacter
+0.8547	1	0	species	145262	                  Methanothermobacter thermautotrophicus
+0.8547	1	1	strain	187420	                    Methanothermobacter thermautotrophicus str. Delta H

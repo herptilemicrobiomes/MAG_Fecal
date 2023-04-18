@@ -1,0 +1,87 @@
+3.5461	5	5	no rank	0	unclassified
+96.4539	136	0	no rank	1	root
+96.4539	136	3	no rank	131567	  cellular organisms
+92.9078	131	8	superkingdom	2759	    Eukaryota
+87.2340	123	6	clade	33154	      Opisthokonta
+82.2695	116	0	kingdom	4751	        Fungi
+82.2695	116	3	subkingdom	451864	          Dikarya
+79.4326	112	24	phylum	4890	            Ascomycota
+52.4823	74	12	clade	716545	              saccharomyceta
+41.1348	58	0	subphylum	147537	                Saccharomycotina
+41.1348	58	0	class	4891	                  Saccharomycetes
+41.1348	58	15	order	4892	                    Saccharomycetales
+26.2411	37	2	family	4893	                      Saccharomycetaceae
+24.8227	35	1	genus	4930	                        Saccharomyces
+24.1135	34	0	species	4932	                          Saccharomyces cerevisiae
+24.1135	34	34	strain	559292	                            Saccharomyces cerevisiae S288C
+2.1277	3	0	family	34353	                      Dipodascaceae
+2.1277	3	0	genus	4951	                        Yarrowia
+2.1277	3	0	species	4952	                          Yarrowia lipolytica
+2.1277	3	3	strain	284591	                            Yarrowia lipolytica CLIB122
+1.4184	2	0	no rank	241407	                      Saccharomycetales incertae sedis
+1.4184	2	1	genus	75735	                        Starmerella
+0.7092	1	1	species	75736	                          Starmerella bombicola
+0.7092	1	0	clade	2916678	                      CUG-Ser1 clade
+0.7092	1	0	family	766764	                        Debaryomycetaceae
+0.7092	1	0	clade	1535325	                          Candida/Lodderomyces clade
+0.7092	1	0	genus	5475	                            Candida
+0.7092	1	0	species	5476	                              Candida albicans
+0.7092	1	1	strain	237561	                                Candida albicans SC5314
+2.8369	4	1	subphylum	147538	                Pezizomycotina
+2.1277	3	0	clade	716546	                  leotiomyceta
+2.1277	3	0	clade	715989	                    sordariomyceta
+2.1277	3	0	class	147550	                      Sordariomycetes
+1.4184	2	0	subclass	222544	                        Sordariomycetidae
+0.7092	1	0	order	5139	                          Sordariales
+0.7092	1	0	family	35718	                            Chaetomiaceae
+0.7092	1	0	genus	2944547	                              Thermochaetoides
+0.7092	1	0	species	209285	                                Thermochaetoides thermophila
+0.7092	1	1	strain	759272	                                  Thermochaetoides thermophila DSM 1495
+0.7092	1	0	order	639021	                          Magnaporthales
+0.7092	1	0	family	2528436	                            Pyriculariaceae
+0.7092	1	0	genus	48558	                              Pyricularia
+0.7092	1	0	species	318829	                                Pyricularia oryzae
+0.7092	1	1	strain	242507	                                  Pyricularia oryzae 70-15
+0.7092	1	0	subclass	222543	                        Hypocreomycetidae
+0.7092	1	0	order	5125	                          Hypocreales
+0.7092	1	0	family	110618	                            Nectriaceae
+0.7092	1	0	genus	5506	                              Fusarium
+0.7092	1	0	species group	171627	                                Fusarium fujikuroi species complex
+0.7092	1	0	species	117187	                                  Fusarium verticillioides
+0.7092	1	1	strain	334819	                                    Fusarium verticillioides 7600
+9.9291	14	0	subphylum	451866	              Taphrinomycotina
+9.9291	14	0	class	147554	                Schizosaccharomycetes
+9.9291	14	0	order	34346	                  Schizosaccharomycetales
+9.9291	14	0	family	4894	                    Schizosaccharomycetaceae
+9.9291	14	0	genus	4895	                      Schizosaccharomyces
+9.9291	14	0	species	4896	                        Schizosaccharomyces pombe
+9.9291	14	14	strain	284812	                          Schizosaccharomyces pombe 972h-
+0.7092	1	1	phylum	5204	            Basidiomycota
+0.7092	1	0	kingdom	33208	        Metazoa
+0.7092	1	0	clade	6072	          Eumetazoa
+0.7092	1	0	clade	33213	            Bilateria
+0.7092	1	0	clade	33511	              Deuterostomia
+0.7092	1	0	phylum	7711	                Chordata
+0.7092	1	0	subphylum	89593	                  Craniata
+0.7092	1	0	clade	7742	                    Vertebrata
+0.7092	1	0	clade	7776	                      Gnathostomata
+0.7092	1	0	clade	117570	                        Teleostomi
+0.7092	1	0	clade	117571	                          Euteleostomi
+0.7092	1	0	superclass	7898	                            Actinopterygii
+0.7092	1	0	class	186623	                              Actinopteri
+0.7092	1	0	subclass	41665	                                Neopterygii
+0.7092	1	0	infraclass	32443	                                  Teleostei
+0.7092	1	0	clade	1489341	                                    Osteoglossocephalai
+0.7092	1	0	no rank	186625	                                      Clupeocephala
+0.7092	1	0	cohort	1489388	                                        Euteleosteomorpha
+0.7092	1	0	clade	41705	                                          Protacanthopterygii
+0.7092	1	0	order	8006	                                            Salmoniformes
+0.7092	1	0	family	8015	                                              Salmonidae
+0.7092	1	0	subfamily	504568	                                                Salmoninae
+0.7092	1	0	genus	8028	                                                  Salmo
+0.7092	1	1	species	8030	                                                    Salmo salar
+1.4184	2	1	superkingdom	2	    Bacteria
+0.7092	1	0	phylum	1224	      Pseudomonadota
+0.7092	1	0	class	1236	        Gammaproteobacteria
+0.7092	1	0	order	91347	          Enterobacterales
+0.7092	1	1	family	543	            Enterobacteriaceae

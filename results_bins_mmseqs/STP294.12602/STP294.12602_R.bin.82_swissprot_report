@@ -1,0 +1,144 @@
+4.7244	6	6	no rank	0	unclassified
+95.2756	121	1	no rank	1	root
+94.4882	120	8	no rank	131567	  cellular organisms
+82.6772	105	24	superkingdom	2	    Bacteria
+48.8189	62	1	clade	1783272	      Terrabacteria group
+46.4567	59	10	phylum	1239	        Bacillota
+21.2598	27	1	class	91061	          Bacilli
+18.1102	23	3	order	1385	            Bacillales
+14.9606	19	3	family	186817	              Bacillaceae
+12.5984	16	1	genus	1386	                Bacillus
+11.8110	15	0	species group	653685	                  Bacillus subtilis group
+11.8110	15	0	species	1423	                    Bacillus subtilis
+11.8110	15	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+11.8110	15	15	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+0.7874	1	0	family	90964	              Staphylococcaceae
+0.7874	1	1	genus	1279	                Staphylococcus
+2.3622	3	0	order	186826	            Lactobacillales
+1.5748	2	0	family	1300	              Streptococcaceae
+1.5748	2	0	genus	1301	                Streptococcus
+1.5748	2	0	species	1309	                  Streptococcus mutans
+1.5748	2	2	strain	210007	                    Streptococcus mutans UA159
+0.7874	1	0	family	81852	              Enterococcaceae
+0.7874	1	0	genus	1350	                Enterococcus
+0.7874	1	0	species	1351	                  Enterococcus faecalis
+0.7874	1	1	strain	226185	                    Enterococcus faecalis V583
+17.3228	22	2	class	186801	          Clostridia
+14.1732	18	3	order	186802	            Eubacteriales
+4.7244	6	0	family	31979	              Clostridiaceae
+4.7244	6	1	genus	1485	                Clostridium
+2.3622	3	0	species	1488	                  Clostridium acetobutylicum
+2.3622	3	3	strain	272562	                    Clostridium acetobutylicum ATCC 824
+0.7874	1	1	species	1492	                  Clostridium butyricum
+0.7874	1	0	species	1513	                  Clostridium tetani
+0.7874	1	1	strain	212717	                    Clostridium tetani E88
+3.9370	5	1	family	186803	              Lachnospiraceae
+3.1496	4	0	genus	1506553	                Lachnoclostridium
+3.1496	4	0	species	66219	                  Lachnoclostridium phytofermentans
+3.1496	4	4	strain	357809	                    Lachnoclostridium phytofermentans ISDg
+2.3622	3	2	family	216572	              Oscillospiraceae
+0.7874	1	0	genus	35829	                Acetivibrio
+0.7874	1	0	species	1515	                  Acetivibrio thermocellus
+0.7874	1	1	strain	203119	                    Acetivibrio thermocellus ATCC 27405
+0.7874	1	0	family	2937909	              Desulfitobacteriaceae
+0.7874	1	0	genus	36853	                Desulfitobacterium
+0.7874	1	1	species	49338	                  Desulfitobacterium hafniense
+0.7874	1	0	order	53433	            Halanaerobiales
+0.7874	1	0	family	972	              Halanaerobiaceae
+0.7874	1	0	genus	32636	                Halothermothrix
+0.7874	1	0	species	31909	                  Halothermothrix orenii
+0.7874	1	1	strain	373903	                    Halothermothrix orenii H 168
+0.7874	1	0	order	68295	            Thermoanaerobacterales
+0.7874	1	0	family	543371	              Thermoanaerobacterales Family III. Incertae Sedis
+0.7874	1	0	genus	28895	                Thermoanaerobacterium
+0.7874	1	1	species	33950	                  Thermoanaerobacterium thermosulfurigenes
+1.5748	2	0	phylum	201174	        Actinomycetota
+1.5748	2	0	class	1760	          Actinomycetes
+1.5748	2	0	order	85007	            Corynebacteriales
+1.5748	2	0	family	1762	              Mycobacteriaceae
+1.5748	2	2	genus	1763	                Mycobacterium
+10.2362	13	3	phylum	1224	      Pseudomonadota
+7.0866	9	2	class	1236	        Gammaproteobacteria
+5.5118	7	0	order	91347	          Enterobacterales
+5.5118	7	2	family	543	            Enterobacteriaceae
+2.3622	3	0	genus	561	              Escherichia
+2.3622	3	2	species	562	                Escherichia coli
+0.7874	1	1	strain	83333	                  Escherichia coli K-12
+1.5748	2	0	genus	590	              Salmonella
+1.5748	2	0	species	28901	                Salmonella enterica
+1.5748	2	0	subspecies	59201	                  Salmonella enterica subsp. enterica
+1.5748	2	0	no rank	90371	                    Salmonella enterica subsp. enterica serovar Typhimurium
+1.5748	2	2	strain	99287	                      Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+0.7874	1	0	class	28211	        Alphaproteobacteria
+0.7874	1	0	order	204455	          Rhodobacterales
+0.7874	1	0	family	2854170	            Roseobacteraceae
+0.7874	1	0	genus	2433	              Roseobacter
+0.7874	1	0	species	2434	                Roseobacter denitrificans
+0.7874	1	1	strain	375451	                  Roseobacter denitrificans OCh 114
+1.5748	2	0	phylum	32066	      Fusobacteriota
+1.5748	2	0	class	203490	        Fusobacteriia
+1.5748	2	0	order	203491	          Fusobacteriales
+1.5748	2	0	family	203492	            Fusobacteriaceae
+1.5748	2	0	genus	848	              Fusobacterium
+1.5748	2	0	species	851	                Fusobacterium nucleatum
+1.5748	2	0	subspecies	76856	                  Fusobacterium nucleatum subsp. nucleatum
+1.5748	2	2	strain	190304	                    Fusobacterium nucleatum subsp. nucleatum ATCC 25586
+1.5748	2	0	phylum	200918	      Thermotogota
+1.5748	2	0	class	188708	        Thermotogae
+1.5748	2	0	order	2419	          Thermotogales
+1.5748	2	0	family	188709	            Thermotogaceae
+1.5748	2	0	genus	2335	              Thermotoga
+1.5748	2	0	species	2336	                Thermotoga maritima
+1.5748	2	2	strain	243274	                  Thermotoga maritima MSB8
+1.5748	2	0	phylum	203691	      Spirochaetota
+1.5748	2	0	class	203692	        Spirochaetia
+1.5748	2	0	order	136	          Spirochaetales
+0.7874	1	0	family	137	            Spirochaetaceae
+0.7874	1	0	genus	146	              Spirochaeta
+0.7874	1	0	species	154	                Spirochaeta thermophila
+0.7874	1	1	strain	665571	                  Spirochaeta thermophila DSM 6192
+0.7874	1	0	family	2845253	            Treponemataceae
+0.7874	1	0	genus	157	              Treponema
+0.7874	1	0	species	160	                Treponema pallidum
+0.7874	1	0	subspecies	161	                  Treponema pallidum subsp. pallidum
+0.7874	1	1	strain	243276	                    Treponema pallidum subsp. pallidum str. Nichols
+4.7244	6	0	superkingdom	2157	    Archaea
+3.1496	4	2	phylum	28890	      Euryarchaeota
+0.7874	1	0	class	183968	        Thermococci
+0.7874	1	0	order	2258	          Thermococcales
+0.7874	1	1	family	2259	            Thermococcaceae
+0.7874	1	0	clade	2283794	        Methanomada group
+0.7874	1	0	class	183925	          Methanobacteria
+0.7874	1	0	order	2158	            Methanobacteriales
+0.7874	1	0	family	2159	              Methanobacteriaceae
+0.7874	1	1	genus	145260	                Methanothermobacter
+0.7874	1	0	clade	1783275	      TACK group
+0.7874	1	0	phylum	28889	        Crenarchaeota
+0.7874	1	0	class	183924	          Thermoprotei
+0.7874	1	0	order	2281	            Sulfolobales
+0.7874	1	0	family	118883	              Sulfolobaceae
+0.7874	1	0	genus	2100760	                Saccharolobus
+0.7874	1	1	species	2287	                  Saccharolobus solfataricus
+0.7874	1	0	phylum	2283796	      Candidatus Thermoplasmatota
+0.7874	1	0	class	183967	        Thermoplasmata
+0.7874	1	0	order	2301	          Thermoplasmatales
+0.7874	1	0	family	46659	            Thermoplasmataceae
+0.7874	1	0	genus	2302	              Thermoplasma
+0.7874	1	0	species	2303	                Thermoplasma acidophilum
+0.7874	1	1	strain	273075	                  Thermoplasma acidophilum DSM 1728
+0.7874	1	0	superkingdom	2759	    Eukaryota
+0.7874	1	0	clade	33154	      Opisthokonta
+0.7874	1	0	kingdom	33208	        Metazoa
+0.7874	1	0	clade	6072	          Eumetazoa
+0.7874	1	0	clade	33213	            Bilateria
+0.7874	1	0	clade	33511	              Deuterostomia
+0.7874	1	0	phylum	7711	                Chordata
+0.7874	1	0	subphylum	89593	                  Craniata
+0.7874	1	0	clade	7742	                    Vertebrata
+0.7874	1	0	clade	7776	                      Gnathostomata
+0.7874	1	0	clade	117570	                        Teleostomi
+0.7874	1	0	clade	117571	                          Euteleostomi
+0.7874	1	0	superclass	8287	                            Sarcopterygii
+0.7874	1	0	clade	1338369	                              Dipnotetrapodomorpha
+0.7874	1	0	clade	32523	                                Tetrapoda
+0.7874	1	1	clade	32524	                                  Amniota

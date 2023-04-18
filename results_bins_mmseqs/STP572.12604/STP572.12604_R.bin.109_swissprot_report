@@ -1,0 +1,73 @@
+1.5267	2	2	no rank	0	unclassified
+98.4733	129	1	no rank	1	root
+97.7099	128	3	no rank	131567	  cellular organisms
+93.8931	123	29	superkingdom	2	    Bacteria
+64.8855	85	1	clade	1783272	      Terrabacteria group
+62.5954	82	38	phylum	1239	        Bacillota
+19.0840	25	8	class	91061	          Bacilli
+12.2137	16	1	order	1385	            Bacillales
+9.9237	13	3	family	186817	              Bacillaceae
+7.6336	10	1	genus	1386	                Bacillus
+6.8702	9	0	species group	653685	                  Bacillus subtilis group
+6.8702	9	1	species	1423	                    Bacillus subtilis
+6.1069	8	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+6.1069	8	8	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+1.5267	2	0	family	90964	              Staphylococcaceae
+1.5267	2	1	genus	1279	                Staphylococcus
+0.7634	1	1	species	1280	                  Staphylococcus aureus
+0.7634	1	1	order	186826	            Lactobacillales
+14.5038	19	8	class	186801	          Clostridia
+7.6336	10	6	order	186802	            Eubacteriales
+1.5267	2	0	family	186806	              Eubacteriaceae
+1.5267	2	0	genus	33951	                Acetobacterium
+1.5267	2	1	species	33952	                  Acetobacterium woodii
+0.7634	1	1	strain	931626	                    Acetobacterium woodii DSM 1030
+0.7634	1	0	family	31979	              Clostridiaceae
+0.7634	1	0	genus	1485	                Clostridium
+0.7634	1	1	species	1553	                  Clostridium tetanomorphum
+0.7634	1	0	family	216572	              Oscillospiraceae
+0.7634	1	0	genus	35829	                Acetivibrio
+0.7634	1	0	species	1515	                  Acetivibrio thermocellus
+0.7634	1	1	strain	203119	                    Acetivibrio thermocellus ATCC 27405
+0.7634	1	0	order	68295	            Thermoanaerobacterales
+0.7634	1	0	family	543371	              Thermoanaerobacterales Family III. Incertae Sedis
+0.7634	1	0	genus	44000	                Caldicellulosiruptor
+0.7634	1	0	no rank	2622462	                  unclassified Caldicellulosiruptor
+0.7634	1	1	species	28238	                    Caldicellulosiruptor sp. Rt8B.4
+0.7634	1	0	phylum	201174	        Actinomycetota
+0.7634	1	1	class	1760	          Actinomycetes
+0.7634	1	0	clade	1798711	        Cyanobacteriota/Melainabacteria group
+0.7634	1	0	phylum	1117	          Cyanobacteriota
+0.7634	1	0	class	3028117	            Cyanophyceae
+0.7634	1	0	order	1890424	              Synechococcales
+0.7634	1	0	family	1890428	                Merismopediaceae
+0.7634	1	0	genus	1142	                  Synechocystis
+0.7634	1	0	no rank	2640012	                    unclassified Synechocystis
+0.7634	1	0	species	1148	                      Synechocystis sp. PCC 6803
+0.7634	1	1	no rank	1111708	                        Synechocystis sp. PCC 6803 substr. Kazusa
+6.1069	8	2	phylum	1224	      Pseudomonadota
+4.5802	6	4	class	1236	        Gammaproteobacteria
+1.5267	2	0	order	91347	          Enterobacterales
+1.5267	2	0	family	543	            Enterobacteriaceae
+1.5267	2	0	genus	561	              Escherichia
+1.5267	2	1	species	562	                Escherichia coli
+0.7634	1	1	strain	83333	                  Escherichia coli K-12
+0.7634	1	0	phylum	203691	      Spirochaetota
+0.7634	1	0	class	203692	        Spirochaetia
+0.7634	1	0	order	1643686	          Brachyspirales
+0.7634	1	0	family	143786	            Brachyspiraceae
+0.7634	1	0	genus	29521	              Brachyspira
+0.7634	1	0	species	159	                Brachyspira hyodysenteriae
+0.7634	1	1	strain	565034	                  Brachyspira hyodysenteriae WA1
+0.7634	1	0	superkingdom	2157	    Archaea
+0.7634	1	1	phylum	28890	      Euryarchaeota
+0.7634	1	0	superkingdom	2759	    Eukaryota
+0.7634	1	0	kingdom	33090	      Viridiplantae
+0.7634	1	0	phylum	35493	        Streptophyta
+0.7634	1	0	subphylum	131221	          Streptophytina
+0.7634	1	0	clade	3193	            Embryophyta
+0.7634	1	0	clade	58023	              Tracheophyta
+0.7634	1	0	clade	78536	                Euphyllophyta
+0.7634	1	0	clade	58024	                  Spermatophyta
+0.7634	1	0	class	3398	                    Magnoliopsida
+0.7634	1	1	clade	1437183	                      Mesangiospermae

@@ -1,0 +1,137 @@
+0.7937	1	1	no rank	0	unclassified
+99.2063	125	0	no rank	1	root
+99.2063	125	5	no rank	131567	  cellular organisms
+91.2698	115	29	superkingdom	2	    Bacteria
+58.7302	74	4	clade	1783272	      Terrabacteria group
+54.7619	69	33	phylum	1239	        Bacillota
+22.2222	28	5	class	91061	          Bacilli
+13.4921	17	3	order	1385	            Bacillales
+10.3175	13	1	family	186817	              Bacillaceae
+9.5238	12	0	genus	1386	                Bacillus
+8.7302	11	0	species group	653685	                  Bacillus subtilis group
+8.7302	11	0	species	1423	                    Bacillus subtilis
+8.7302	11	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+8.7302	11	11	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+0.7937	1	0	species group	86661	                  Bacillus cereus group
+0.7937	1	0	species	1428	                    Bacillus thuringiensis
+0.7937	1	1	no rank	1434	                      Bacillus thuringiensis serovar berliner
+0.7937	1	0	family	186820	              Listeriaceae
+0.7937	1	0	genus	1637	                Listeria
+0.7937	1	0	species	1639	                  Listeria monocytogenes
+0.7937	1	1	strain	169963	                    Listeria monocytogenes EGD-e
+4.7619	6	0	order	186826	            Lactobacillales
+3.9683	5	0	family	1300	              Streptococcaceae
+2.3810	3	0	genus	1301	                Streptococcus
+1.5873	2	2	species	1313	                  Streptococcus pneumoniae
+0.7937	1	0	species	1309	                  Streptococcus mutans
+0.7937	1	1	strain	210007	                    Streptococcus mutans UA159
+1.5873	2	0	genus	1357	                Lactococcus
+1.5873	2	2	species	1359	                  Lactococcus cremoris
+0.7937	1	0	family	33958	              Lactobacillaceae
+0.7937	1	0	genus	1578	                Lactobacillus
+0.7937	1	0	species	1584	                  Lactobacillus delbrueckii
+0.7937	1	0	subspecies	1585	                    Lactobacillus delbrueckii subsp. bulgaricus
+0.7937	1	1	strain	390333	                      Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 = JCM 1002
+6.3492	8	4	class	186801	          Clostridia
+3.1746	4	3	order	186802	            Eubacteriales
+0.7937	1	0	family	216572	              Oscillospiraceae
+0.7937	1	0	genus	35829	                Acetivibrio
+0.7937	1	0	species	1515	                  Acetivibrio thermocellus
+0.7937	1	1	strain	203119	                    Acetivibrio thermocellus ATCC 27405
+0.7937	1	0	phylum	201174	        Actinomycetota
+0.7937	1	0	class	1760	          Actinomycetes
+0.7937	1	0	order	85004	            Bifidobacteriales
+0.7937	1	0	family	31953	              Bifidobacteriaceae
+0.7937	1	0	genus	1678	                Bifidobacterium
+0.7937	1	0	species	216816	                  Bifidobacterium longum
+0.7937	1	0	subspecies	1679	                    Bifidobacterium longum subsp. longum
+0.7937	1	1	strain	565042	                      Bifidobacterium longum subsp. longum JCM 1217
+8.7302	11	1	phylum	1224	      Pseudomonadota
+6.3492	8	0	class	1236	        Gammaproteobacteria
+4.7619	6	0	order	91347	          Enterobacterales
+3.9683	5	1	family	543	            Enterobacteriaceae
+2.3810	3	0	genus	561	              Escherichia
+2.3810	3	0	species	562	                Escherichia coli
+2.3810	3	3	strain	83333	                  Escherichia coli K-12
+0.7937	1	0	genus	620	              Shigella
+0.7937	1	1	species	624	                Shigella sonnei
+0.7937	1	0	family	1903411	            Yersiniaceae
+0.7937	1	0	genus	629	              Yersinia
+0.7937	1	1	species	935293	                Yersinia entomophaga
+0.7937	1	0	order	135622	          Alteromonadales
+0.7937	1	0	family	267890	            Shewanellaceae
+0.7937	1	0	genus	22	              Shewanella
+0.7937	1	0	species	60961	                Shewanella woodyi
+0.7937	1	1	strain	392500	                  Shewanella woodyi ATCC 51908
+0.7937	1	0	order	135625	          Pasteurellales
+0.7937	1	0	family	712	            Pasteurellaceae
+0.7937	1	0	genus	724	              Haemophilus
+0.7937	1	0	species	727	                Haemophilus influenzae
+0.7937	1	1	strain	71421	                  Haemophilus influenzae Rd KW20
+0.7937	1	0	class	28216	        Betaproteobacteria
+0.7937	1	0	order	206351	          Neisseriales
+0.7937	1	0	family	481	            Neisseriaceae
+0.7937	1	0	genus	482	              Neisseria
+0.7937	1	1	species	485	                Neisseria gonorrhoeae
+0.7937	1	0	subphylum	68525	        delta/epsilon subdivisions
+0.7937	1	0	class	29547	          Epsilonproteobacteria
+0.7937	1	0	order	213849	            Campylobacterales
+0.7937	1	0	family	72293	              Helicobacteraceae
+0.7937	1	0	genus	209	                Helicobacter
+0.7937	1	0	species	32025	                  Helicobacter hepaticus
+0.7937	1	1	strain	235279	                    Helicobacter hepaticus ATCC 51449
+0.7937	1	0	phylum	200918	      Thermotogota
+0.7937	1	0	class	188708	        Thermotogae
+0.7937	1	0	order	2419	          Thermotogales
+0.7937	1	0	family	188709	            Thermotogaceae
+0.7937	1	0	genus	2335	              Thermotoga
+0.7937	1	0	species	2336	                Thermotoga maritima
+0.7937	1	1	strain	243274	                  Thermotoga maritima MSB8
+3.9683	5	1	superkingdom	2759	    Eukaryota
+1.5873	2	0	clade	33154	      Opisthokonta
+1.5873	2	0	kingdom	33208	        Metazoa
+1.5873	2	1	clade	6072	          Eumetazoa
+0.7937	1	0	clade	33213	            Bilateria
+0.7937	1	0	clade	33511	              Deuterostomia
+0.7937	1	0	phylum	7711	                Chordata
+0.7937	1	0	subphylum	89593	                  Craniata
+0.7937	1	0	clade	7742	                    Vertebrata
+0.7937	1	0	clade	7776	                      Gnathostomata
+0.7937	1	0	clade	117570	                        Teleostomi
+0.7937	1	0	clade	117571	                          Euteleostomi
+0.7937	1	0	superclass	8287	                            Sarcopterygii
+0.7937	1	0	clade	1338369	                              Dipnotetrapodomorpha
+0.7937	1	0	clade	32523	                                Tetrapoda
+0.7937	1	0	clade	32524	                                  Amniota
+0.7937	1	0	class	40674	                                    Mammalia
+0.7937	1	0	clade	32525	                                      Theria
+0.7937	1	0	clade	9347	                                        Eutheria
+0.7937	1	0	clade	1437010	                                          Boreoeutheria
+0.7937	1	1	superorder	314146	                                            Euarchontoglires
+0.7937	1	0	kingdom	33090	      Viridiplantae
+0.7937	1	0	phylum	35493	        Streptophyta
+0.7937	1	0	subphylum	131221	          Streptophytina
+0.7937	1	0	clade	3193	            Embryophyta
+0.7937	1	0	clade	58023	              Tracheophyta
+0.7937	1	0	clade	78536	                Euphyllophyta
+0.7937	1	0	clade	58024	                  Spermatophyta
+0.7937	1	0	class	3398	                    Magnoliopsida
+0.7937	1	0	clade	1437183	                      Mesangiospermae
+0.7937	1	0	clade	71240	                        eudicotyledons
+0.7937	1	0	clade	91827	                          Gunneridae
+0.7937	1	0	clade	1437201	                            Pentapetalae
+0.7937	1	0	clade	71275	                              rosids
+0.7937	1	0	clade	91836	                                malvids
+0.7937	1	0	order	3699	                                  Brassicales
+0.7937	1	0	family	3700	                                    Brassicaceae
+0.7937	1	0	tribe	980083	                                      Camelineae
+0.7937	1	0	genus	3701	                                        Arabidopsis
+0.7937	1	1	species	3702	                                          Arabidopsis thaliana
+0.7937	1	0	clade	554915	      Amoebozoa
+0.7937	1	0	phylum	2605435	        Evosea
+0.7937	1	0	class	142796	          Eumycetozoa
+0.7937	1	0	clade	33083	            Dictyostelia
+0.7937	1	0	order	2058949	              Dictyosteliales
+0.7937	1	0	family	2058185	                Dictyosteliaceae
+0.7937	1	0	genus	5782	                  Dictyostelium
+0.7937	1	1	species	44689	                    Dictyostelium discoideum

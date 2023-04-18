@@ -1,0 +1,178 @@
+2.4876	5	5	no rank	0	unclassified
+97.5124	196	1	no rank	1	root
+96.0199	193	13	no rank	131567	  cellular organisms
+86.0697	173	39	superkingdom	2	    Bacteria
+56.7164	114	3	clade	1783272	      Terrabacteria group
+52.7363	106	49	phylum	1239	        Bacillota
+19.9005	40	4	class	91061	          Bacilli
+14.9254	30	9	order	1385	            Bacillales
+8.9552	18	4	family	186817	              Bacillaceae
+6.9652	14	0	genus	1386	                Bacillus
+6.9652	14	0	species group	653685	                  Bacillus subtilis group
+6.9652	14	0	species	1423	                    Bacillus subtilis
+6.9652	14	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+6.9652	14	14	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+0.4975	1	0	family	90964	              Staphylococcaceae
+0.4975	1	1	genus	1279	                Staphylococcus
+0.4975	1	0	family	186820	              Listeriaceae
+0.4975	1	1	genus	1637	                Listeria
+0.4975	1	0	family	186822	              Paenibacillaceae
+0.4975	1	0	no rank	85151	                Aneurinibacillus group
+0.4975	1	0	genus	55079	                  Aneurinibacillus
+0.4975	1	1	species	143495	                    Aneurinibacillus thermoaerophilus
+2.9851	6	2	order	186826	            Lactobacillales
+1.9900	4	0	family	1300	              Streptococcaceae
+1.9900	4	2	genus	1301	                Streptococcus
+0.4975	1	1	species	1311	                  Streptococcus agalactiae
+0.4975	1	0	species	1313	                  Streptococcus pneumoniae
+0.4975	1	1	strain	170187	                    Streptococcus pneumoniae TIGR4
+8.4577	17	8	class	186801	          Clostridia
+3.4826	7	1	order	186802	            Eubacteriales
+1.4925	3	0	family	31979	              Clostridiaceae
+1.4925	3	2	genus	1485	                Clostridium
+0.4975	1	0	species	1520	                  Clostridium beijerinckii
+0.4975	1	1	strain	290402	                    Clostridium beijerinckii NCIMB 8052
+0.4975	1	1	family	186803	              Lachnospiraceae
+0.4975	1	0	family	186804	              Peptostreptococcaceae
+0.4975	1	0	genus	1870884	                Clostridioides
+0.4975	1	0	species	1496	                  Clostridioides difficile
+0.4975	1	1	strain	272563	                    Clostridioides difficile 630
+0.4975	1	0	family	216572	              Oscillospiraceae
+0.4975	1	0	genus	1508657	                Ruminiclostridium
+0.4975	1	0	species	1521	                  Ruminiclostridium cellulolyticum
+0.4975	1	1	strain	394503	                    Ruminiclostridium cellulolyticum H10
+0.9950	2	0	order	68295	            Thermoanaerobacterales
+0.4975	1	0	family	186814	              Thermoanaerobacteraceae
+0.4975	1	0	no rank	42857	                Moorella group
+0.4975	1	0	genus	44260	                  Moorella
+0.4975	1	0	species	1525	                    Moorella thermoacetica
+0.4975	1	1	strain	264732	                      Moorella thermoacetica ATCC 39073
+0.4975	1	0	family	543371	              Thermoanaerobacterales Family III. Incertae Sedis
+0.4975	1	1	genus	44000	                Caldicellulosiruptor
+0.9950	2	0	phylum	201174	        Actinomycetota
+0.9950	2	0	class	1760	          Actinomycetes
+0.9950	2	0	order	85007	            Corynebacteriales
+0.9950	2	0	family	1762	              Mycobacteriaceae
+0.9950	2	0	genus	1763	                Mycobacterium
+0.9950	2	0	species group	77643	                  Mycobacterium tuberculosis complex
+0.9950	2	1	species	1773	                    Mycobacterium tuberculosis
+0.4975	1	1	strain	83332	                      Mycobacterium tuberculosis H37Rv
+0.9950	2	0	clade	1798711	        Cyanobacteriota/Melainabacteria group
+0.9950	2	0	phylum	1117	          Cyanobacteriota
+0.9950	2	1	class	3028117	            Cyanophyceae
+0.4975	1	0	order	1890424	              Synechococcales
+0.4975	1	0	family	1890428	                Merismopediaceae
+0.4975	1	0	genus	1142	                  Synechocystis
+0.4975	1	0	no rank	2640012	                    unclassified Synechocystis
+0.4975	1	0	species	1148	                      Synechocystis sp. PCC 6803
+0.4975	1	1	no rank	1111708	                        Synechocystis sp. PCC 6803 substr. Kazusa
+0.4975	1	0	phylum	544448	        Mycoplasmatota
+0.4975	1	0	order	2790996	          Mycoplasmoidales
+0.4975	1	0	family	2790998	            Mycoplasmoidaceae
+0.4975	1	0	genus	2791001	              Malacoplasma
+0.4975	1	1	species	2116	                Malacoplasma iowae
+8.4577	17	6	phylum	1224	      Pseudomonadota
+3.9801	8	0	class	1236	        Gammaproteobacteria
+2.9851	6	0	order	91347	          Enterobacterales
+2.9851	6	1	family	543	            Enterobacteriaceae
+1.9900	4	0	genus	561	              Escherichia
+1.9900	4	4	species	562	                Escherichia coli
+0.4975	1	0	genus	590	              Salmonella
+0.4975	1	0	species	28901	                Salmonella enterica
+0.4975	1	1	subspecies	59201	                  Salmonella enterica subsp. enterica
+0.9950	2	0	order	135625	          Pasteurellales
+0.9950	2	0	family	712	            Pasteurellaceae
+0.9950	2	0	genus	724	              Haemophilus
+0.9950	2	0	species	727	                Haemophilus influenzae
+0.9950	2	2	strain	71421	                  Haemophilus influenzae Rd KW20
+0.9950	2	0	subphylum	68525	        delta/epsilon subdivisions
+0.4975	1	0	class	28221	          Deltaproteobacteria
+0.4975	1	0	order	213115	            Desulfovibrionales
+0.4975	1	0	family	194924	              Desulfovibrionaceae
+0.4975	1	0	genus	2910984	                Solidesulfovibrio
+0.4975	1	1	species	878	                  Solidesulfovibrio fructosivorans
+0.4975	1	0	class	29547	          Epsilonproteobacteria
+0.4975	1	0	order	213849	            Campylobacterales
+0.4975	1	0	family	72294	              Campylobacteraceae
+0.4975	1	0	genus	194	                Campylobacter
+0.4975	1	0	species	197	                  Campylobacter jejuni
+0.4975	1	0	subspecies	32022	                    Campylobacter jejuni subsp. jejuni
+0.4975	1	1	strain	407148	                      Campylobacter jejuni subsp. jejuni 81116
+0.4975	1	0	class	28211	        Alphaproteobacteria
+0.4975	1	0	order	766	          Rickettsiales
+0.4975	1	0	family	775	            Rickettsiaceae
+0.4975	1	0	tribe	33988	              Rickettsieae
+0.4975	1	1	genus	780	                Rickettsia
+0.4975	1	0	phylum	32066	      Fusobacteriota
+0.4975	1	0	class	203490	        Fusobacteriia
+0.4975	1	0	order	203491	          Fusobacteriales
+0.4975	1	0	family	203492	            Fusobacteriaceae
+0.4975	1	0	genus	2332	              Propionigenium
+0.4975	1	1	species	2333	                Propionigenium modestum
+0.4975	1	0	phylum	200918	      Thermotogota
+0.4975	1	0	class	188708	        Thermotogae
+0.4975	1	0	order	2419	          Thermotogales
+0.4975	1	0	family	188709	            Thermotogaceae
+0.4975	1	0	genus	2335	              Thermotoga
+0.4975	1	0	species	2336	                Thermotoga maritima
+0.4975	1	1	strain	243274	                  Thermotoga maritima MSB8
+0.4975	1	0	clade	1783270	      FCB group
+0.4975	1	0	clade	68336	        Bacteroidetes/Chlorobi group
+0.4975	1	0	phylum	1090	          Chlorobiota
+0.4975	1	0	class	191410	            Chlorobiia
+0.4975	1	0	order	191411	              Chlorobiales
+0.4975	1	1	family	191412	                Chlorobiaceae
+2.4876	5	1	superkingdom	2759	    Eukaryota
+1.4925	3	0	clade	33154	      Opisthokonta
+0.9950	2	0	kingdom	4751	        Fungi
+0.4975	1	0	no rank	112252	          Fungi incertae sedis
+0.4975	1	0	phylum	1913637	            Mucoromycota
+0.4975	1	0	subphylum	451507	              Mucoromycotina
+0.4975	1	0	class	2212703	                Mucoromycetes
+0.4975	1	0	order	4827	                  Mucorales
+0.4975	1	0	suborder	1344963	                    Mucorineae
+0.4975	1	0	family	34489	                      Mucoraceae
+0.4975	1	0	genus	4830	                        Mucor
+0.4975	1	1	species	29924	                          Mucor lusitanicus
+0.4975	1	0	subkingdom	451864	          Dikarya
+0.4975	1	0	phylum	4890	            Ascomycota
+0.4975	1	0	clade	716545	              saccharomyceta
+0.4975	1	0	subphylum	147537	                Saccharomycotina
+0.4975	1	0	class	4891	                  Saccharomycetes
+0.4975	1	0	order	4892	                    Saccharomycetales
+0.4975	1	0	family	4893	                      Saccharomycetaceae
+0.4975	1	0	genus	4930	                        Saccharomyces
+0.4975	1	0	species	4932	                          Saccharomyces cerevisiae
+0.4975	1	1	strain	559292	                            Saccharomyces cerevisiae S288C
+0.4975	1	0	kingdom	33208	        Metazoa
+0.4975	1	0	clade	6072	          Eumetazoa
+0.4975	1	1	clade	33213	            Bilateria
+0.4975	1	0	clade	554915	      Amoebozoa
+0.4975	1	0	phylum	2605435	        Evosea
+0.4975	1	0	class	142796	          Eumycetozoa
+0.4975	1	0	clade	33083	            Dictyostelia
+0.4975	1	0	order	2058949	              Dictyosteliales
+0.4975	1	0	family	2058185	                Dictyosteliaceae
+0.4975	1	0	genus	5782	                  Dictyostelium
+0.4975	1	1	species	44689	                    Dictyostelium discoideum
+0.9950	2	0	superkingdom	2157	    Archaea
+0.9950	2	0	phylum	28890	      Euryarchaeota
+0.9950	2	0	clade	2283794	        Methanomada group
+0.4975	1	0	class	183925	          Methanobacteria
+0.4975	1	0	order	2158	            Methanobacteriales
+0.4975	1	0	family	2159	              Methanobacteriaceae
+0.4975	1	1	genus	145260	                Methanothermobacter
+0.4975	1	0	class	183939	          Methanococci
+0.4975	1	0	order	2182	            Methanococcales
+0.4975	1	0	family	196117	              Methanocaldococcaceae
+0.4975	1	0	genus	196118	                Methanocaldococcus
+0.4975	1	0	species	2190	                  Methanocaldococcus jannaschii
+0.4975	1	1	strain	243232	                    Methanocaldococcus jannaschii DSM 2661
+0.9950	2	0	superkingdom	10239	  Viruses
+0.4975	1	0	no rank	12333	    unclassified bacterial viruses
+0.4975	1	1	species	12375	      Lactococcus phage (ISOLATE 7-9)
+0.4975	1	0	clade	2731341	    Duplodnaviria
+0.4975	1	0	kingdom	2731360	      Heunggongvirae
+0.4975	1	0	phylum	2731618	        Uroviricota
+0.4975	1	0	class	2731619	          Caudoviricetes
+0.4975	1	1	genus	186764	            Fromanvirus

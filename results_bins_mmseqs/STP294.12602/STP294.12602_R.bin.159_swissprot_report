@@ -1,0 +1,111 @@
+1.6393	1	1	no rank	0	unclassified
+98.3607	60	0	no rank	1	root
+98.3607	60	3	no rank	131567	  cellular organisms
+90.1639	55	5	superkingdom	2	    Bacteria
+65.5738	40	0	clade	1783272	      Terrabacteria group
+60.6557	37	0	phylum	201174	        Actinomycetota
+60.6557	37	9	class	1760	          Actinomycetes
+22.9508	14	2	order	85007	            Corynebacteriales
+19.6721	12	0	family	1762	              Mycobacteriaceae
+19.6721	12	6	genus	1763	                Mycobacterium
+9.8361	6	0	species group	77643	                  Mycobacterium tuberculosis complex
+9.8361	6	5	species	1773	                    Mycobacterium tuberculosis
+1.6393	1	1	strain	83332	                      Mycobacterium tuberculosis H37Rv
+13.1148	8	0	order	85006	            Micrococcales
+9.8361	6	1	family	85023	              Microbacteriaceae
+4.9180	3	0	genus	110932	                Leifsonia
+4.9180	3	0	species	1575	                  Leifsonia xyli
+4.9180	3	0	subspecies	59736	                    Leifsonia xyli subsp. xyli
+4.9180	3	3	strain	281090	                      Leifsonia xyli subsp. xyli str. CTCB07
+3.2787	2	0	genus	1573	                Clavibacter
+3.2787	2	1	species	28447	                  Clavibacter michiganensis
+1.6393	1	0	subspecies	33013	                    Clavibacter michiganensis subsp. michiganensis
+1.6393	1	1	strain	443906	                      Clavibacter michiganensis subsp. michiganensis NCPPB 382
+3.2787	2	0	family	1268	              Micrococcaceae
+1.6393	1	0	genus	1269	                Micrococcus
+1.6393	1	1	species	1270	                  Micrococcus luteus
+1.6393	1	0	genus	1663	                Arthrobacter
+1.6393	1	1	species	1665	                  Arthrobacter globiformis
+9.8361	6	0	order	85011	            Streptomycetales
+9.8361	6	0	family	2062	              Streptomycetaceae
+8.1967	5	1	genus	1883	                Streptomyces
+3.2787	2	0	species group	1477431	                  Streptomyces albidoflavus group
+3.2787	2	0	species	1902	                    Streptomyces coelicolor
+3.2787	2	2	strain	100226	                      Streptomyces coelicolor A3(2)
+1.6393	1	1	species	1914	                  Streptomyces lavendulae
+1.6393	1	1	species	1916	                  Streptomyces lividans
+1.6393	1	0	genus	2063	                Kitasatospora
+1.6393	1	1	species	1894	                  Kitasatospora aureofaciens
+4.9180	3	0	phylum	1239	        Bacillota
+4.9180	3	0	class	91061	          Bacilli
+3.2787	2	0	order	1385	            Bacillales
+3.2787	2	0	family	186817	              Bacillaceae
+3.2787	2	0	genus	1386	                Bacillus
+3.2787	2	0	species group	653685	                  Bacillus subtilis group
+3.2787	2	0	species	1423	                    Bacillus subtilis
+3.2787	2	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+3.2787	2	2	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+1.6393	1	0	order	186826	            Lactobacillales
+1.6393	1	0	family	33958	              Lactobacillaceae
+1.6393	1	0	genus	2767842	                Lactiplantibacillus
+1.6393	1	0	species	1590	                  Lactiplantibacillus plantarum
+1.6393	1	1	strain	220668	                    Lactiplantibacillus plantarum WCFS1
+16.3934	10	2	phylum	1224	      Pseudomonadota
+11.4754	7	2	class	1236	        Gammaproteobacteria
+3.2787	2	0	order	91347	          Enterobacterales
+3.2787	2	0	family	543	            Enterobacteriaceae
+3.2787	2	0	genus	561	              Escherichia
+3.2787	2	0	species	562	                Escherichia coli
+3.2787	2	2	strain	83333	                  Escherichia coli K-12
+1.6393	1	0	order	72274	          Pseudomonadales
+1.6393	1	0	family	135621	            Pseudomonadaceae
+1.6393	1	0	genus	2901164	              Stutzerimonas
+1.6393	1	0	species group	136846	                Stutzerimonas stutzeri group
+1.6393	1	0	species subgroup	578833	                  Stutzerimonas stutzeri subgroup
+1.6393	1	1	species	316	                    Stutzerimonas stutzeri
+1.6393	1	0	order	135625	          Pasteurellales
+1.6393	1	0	family	712	            Pasteurellaceae
+1.6393	1	0	genus	724	              Haemophilus
+1.6393	1	0	species	727	                Haemophilus influenzae
+1.6393	1	1	strain	71421	                  Haemophilus influenzae Rd KW20
+1.6393	1	0	order	2887326	          Moraxellales
+1.6393	1	0	family	468	            Moraxellaceae
+1.6393	1	0	genus	469	              Acinetobacter
+1.6393	1	0	species	202950	                Acinetobacter baylyi
+1.6393	1	1	strain	62977	                  Acinetobacter baylyi ADP1
+1.6393	1	0	class	28211	        Alphaproteobacteria
+1.6393	1	0	order	356	          Hyphomicrobiales
+1.6393	1	0	family	82115	            Rhizobiaceae
+1.6393	1	0	no rank	227290	              Rhizobium/Agrobacterium group
+1.6393	1	0	genus	357	                Agrobacterium
+1.6393	1	1	species	373	                  Agrobacterium vitis
+3.2787	2	0	superkingdom	2759	    Eukaryota
+1.6393	1	0	kingdom	33090	      Viridiplantae
+1.6393	1	0	phylum	35493	        Streptophyta
+1.6393	1	0	subphylum	131221	          Streptophytina
+1.6393	1	0	clade	3193	            Embryophyta
+1.6393	1	0	clade	58023	              Tracheophyta
+1.6393	1	0	clade	78536	                Euphyllophyta
+1.6393	1	0	clade	58024	                  Spermatophyta
+1.6393	1	0	class	3398	                    Magnoliopsida
+1.6393	1	0	clade	1437183	                      Mesangiospermae
+1.6393	1	0	clade	71240	                        eudicotyledons
+1.6393	1	0	clade	91827	                          Gunneridae
+1.6393	1	0	clade	1437201	                            Pentapetalae
+1.6393	1	0	clade	71275	                              rosids
+1.6393	1	0	clade	91836	                                malvids
+1.6393	1	0	order	3699	                                  Brassicales
+1.6393	1	0	family	3700	                                    Brassicaceae
+1.6393	1	0	tribe	980083	                                      Camelineae
+1.6393	1	0	genus	3701	                                        Arabidopsis
+1.6393	1	1	species	3702	                                          Arabidopsis thaliana
+1.6393	1	0	clade	33154	      Opisthokonta
+1.6393	1	0	kingdom	4751	        Fungi
+1.6393	1	0	subkingdom	451864	          Dikarya
+1.6393	1	0	phylum	4890	            Ascomycota
+1.6393	1	0	clade	716545	              saccharomyceta
+1.6393	1	0	subphylum	147538	                Pezizomycotina
+1.6393	1	0	clade	716546	                  leotiomyceta
+1.6393	1	0	class	147545	                    Eurotiomycetes
+1.6393	1	0	subclass	451871	                      Eurotiomycetidae
+1.6393	1	1	order	5042	                        Eurotiales

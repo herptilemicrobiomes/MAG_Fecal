@@ -1,0 +1,95 @@
+3.7736	2	2	no rank	0	unclassified
+96.2264	51	0	no rank	1	root
+96.2264	51	4	no rank	131567	  cellular organisms
+81.1321	43	12	superkingdom	2	    Bacteria
+50.9434	27	1	clade	1783272	      Terrabacteria group
+45.2830	24	4	phylum	1239	        Bacillota
+24.5283	13	0	class	91061	          Bacilli
+22.6415	12	0	order	1385	            Bacillales
+20.7547	11	0	family	186817	              Bacillaceae
+20.7547	11	1	genus	1386	                Bacillus
+18.8679	10	0	species group	653685	                  Bacillus subtilis group
+18.8679	10	0	species	1423	                    Bacillus subtilis
+18.8679	10	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+18.8679	10	10	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+1.8868	1	0	family	90964	              Staphylococcaceae
+1.8868	1	0	genus	1279	                Staphylococcus
+1.8868	1	0	species	1280	                  Staphylococcus aureus
+1.8868	1	1	strain	93061	                    Staphylococcus aureus subsp. aureus NCTC 8325
+1.8868	1	0	order	186826	            Lactobacillales
+1.8868	1	0	family	81852	              Enterococcaceae
+1.8868	1	0	genus	1350	                Enterococcus
+1.8868	1	0	species	1351	                  Enterococcus faecalis
+1.8868	1	1	strain	226185	                    Enterococcus faecalis V583
+13.2075	7	1	class	186801	          Clostridia
+11.3208	6	1	order	186802	            Eubacteriales
+5.6604	3	0	family	31979	              Clostridiaceae
+5.6604	3	1	genus	1485	                Clostridium
+3.7736	2	0	species	1488	                  Clostridium acetobutylicum
+3.7736	2	2	strain	272562	                    Clostridium acetobutylicum ATCC 824
+3.7736	2	1	family	216572	              Oscillospiraceae
+1.8868	1	0	genus	1263	                Ruminococcus
+1.8868	1	0	species	1264	                  Ruminococcus albus
+1.8868	1	1	strain	697329	                    Ruminococcus albus 7 = DSM 20455
+1.8868	1	0	phylum	201174	        Actinomycetota
+1.8868	1	0	class	1760	          Actinomycetes
+1.8868	1	0	order	85007	            Corynebacteriales
+1.8868	1	0	family	1653	              Corynebacteriaceae
+1.8868	1	0	genus	1716	                Corynebacterium
+1.8868	1	0	species	1717	                  Corynebacterium diphtheriae
+1.8868	1	1	strain	257309	                    Corynebacterium diphtheriae NCTC 13129
+1.8868	1	0	clade	1798711	        Cyanobacteriota/Melainabacteria group
+1.8868	1	0	phylum	1117	          Cyanobacteriota
+1.8868	1	0	class	3028117	            Cyanophyceae
+1.8868	1	0	order	1161	              Nostocales
+1.8868	1	0	family	1162	                Nostocaceae
+1.8868	1	0	genus	1177	                  Nostoc
+1.8868	1	1	species	1178	                    Nostoc commune
+3.7736	2	1	phylum	1224	      Pseudomonadota
+1.8868	1	0	class	1236	        Gammaproteobacteria
+1.8868	1	0	order	135625	          Pasteurellales
+1.8868	1	0	family	712	            Pasteurellaceae
+1.8868	1	0	genus	697331	              Basfia
+1.8868	1	0	species	157673	                [Mannheimia] succiniciproducens
+1.8868	1	1	strain	221988	                  [Mannheimia] succiniciproducens MBEL55E
+1.8868	1	0	phylum	200918	      Thermotogota
+1.8868	1	0	class	188708	        Thermotogae
+1.8868	1	0	order	2419	          Thermotogales
+1.8868	1	0	family	188709	            Thermotogaceae
+1.8868	1	0	genus	2335	              Thermotoga
+1.8868	1	0	species	2336	                Thermotoga maritima
+1.8868	1	1	strain	243274	                  Thermotoga maritima MSB8
+1.8868	1	0	clade	1783270	      FCB group
+1.8868	1	0	clade	68336	        Bacteroidetes/Chlorobi group
+1.8868	1	0	phylum	1090	          Chlorobiota
+1.8868	1	0	class	191410	            Chlorobiia
+1.8868	1	0	order	191411	              Chlorobiales
+1.8868	1	1	family	191412	                Chlorobiaceae
+7.5472	4	1	superkingdom	2759	    Eukaryota
+3.7736	2	1	clade	33154	      Opisthokonta
+1.8868	1	0	kingdom	33208	        Metazoa
+1.8868	1	0	clade	6072	          Eumetazoa
+1.8868	1	0	clade	33213	            Bilateria
+1.8868	1	0	clade	33511	              Deuterostomia
+1.8868	1	0	phylum	7711	                Chordata
+1.8868	1	0	subphylum	89593	                  Craniata
+1.8868	1	0	clade	7742	                    Vertebrata
+1.8868	1	0	clade	7776	                      Gnathostomata
+1.8868	1	0	clade	117570	                        Teleostomi
+1.8868	1	0	clade	117571	                          Euteleostomi
+1.8868	1	0	superclass	8287	                            Sarcopterygii
+1.8868	1	0	clade	1338369	                              Dipnotetrapodomorpha
+1.8868	1	0	clade	32523	                                Tetrapoda
+1.8868	1	0	clade	32524	                                  Amniota
+1.8868	1	0	class	40674	                                    Mammalia
+1.8868	1	0	clade	32525	                                      Theria
+1.8868	1	0	clade	9347	                                        Eutheria
+1.8868	1	1	clade	1437010	                                          Boreoeutheria
+1.8868	1	0	clade	554915	      Amoebozoa
+1.8868	1	0	phylum	2605435	        Evosea
+1.8868	1	0	class	142796	          Eumycetozoa
+1.8868	1	0	clade	33083	            Dictyostelia
+1.8868	1	0	order	2058949	              Dictyosteliales
+1.8868	1	0	family	2058185	                Dictyosteliaceae
+1.8868	1	0	genus	5782	                  Dictyostelium
+1.8868	1	1	species	44689	                    Dictyostelium discoideum

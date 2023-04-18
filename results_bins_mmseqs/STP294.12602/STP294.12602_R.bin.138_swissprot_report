@@ -1,0 +1,90 @@
+1.7241	1	1	no rank	0	unclassified
+98.2759	57	0	no rank	1	root
+98.2759	57	7	no rank	131567	  cellular organisms
+81.0345	47	10	superkingdom	2	    Bacteria
+48.2759	28	0	clade	1783272	      Terrabacteria group
+44.8276	26	3	phylum	1239	        Bacillota
+22.4138	13	1	class	91061	          Bacilli
+17.2414	10	0	order	1385	            Bacillales
+17.2414	10	2	family	186817	              Bacillaceae
+12.0690	7	0	genus	1386	                Bacillus
+12.0690	7	0	species group	653685	                  Bacillus subtilis group
+12.0690	7	0	species	1423	                    Bacillus subtilis
+12.0690	7	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+12.0690	7	7	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+1.7241	1	0	genus	129337	                Geobacillus
+1.7241	1	1	species	1422	                  Geobacillus stearothermophilus
+3.4483	2	1	order	186826	            Lactobacillales
+1.7241	1	0	family	1300	              Streptococcaceae
+1.7241	1	1	genus	1301	                Streptococcus
+17.2414	10	4	class	186801	          Clostridia
+8.6207	5	0	order	186802	            Eubacteriales
+5.1724	3	0	family	31979	              Clostridiaceae
+5.1724	3	1	genus	1485	                Clostridium
+1.7241	1	0	species	1513	                  Clostridium tetani
+1.7241	1	1	strain	212717	                    Clostridium tetani E88
+1.7241	1	0	species	1534	                  Clostridium kluyveri
+1.7241	1	1	strain	431943	                    Clostridium kluyveri DSM 555
+1.7241	1	0	family	186803	              Lachnospiraceae
+1.7241	1	0	genus	1506553	                Lachnoclostridium
+1.7241	1	0	species	66219	                  Lachnoclostridium phytofermentans
+1.7241	1	1	strain	357809	                    Lachnoclostridium phytofermentans ISDg
+1.7241	1	1	family	216572	              Oscillospiraceae
+1.7241	1	0	order	68295	            Thermoanaerobacterales
+1.7241	1	0	family	186814	              Thermoanaerobacteraceae
+1.7241	1	0	genus	129957	                Carboxydothermus
+1.7241	1	0	species	129958	                  Carboxydothermus hydrogenoformans
+1.7241	1	1	strain	246194	                    Carboxydothermus hydrogenoformans Z-2901
+1.7241	1	0	phylum	201174	        Actinomycetota
+1.7241	1	0	class	1760	          Actinomycetes
+1.7241	1	0	order	85009	            Propionibacteriales
+1.7241	1	0	family	31957	              Propionibacteriaceae
+1.7241	1	0	genus	1912216	                Cutibacterium
+1.7241	1	0	species	1747	                  Cutibacterium acnes
+1.7241	1	1	strain	267747	                    Cutibacterium acnes KPA171202
+1.7241	1	0	phylum	544448	        Mycoplasmatota
+1.7241	1	0	order	2790996	          Mycoplasmoidales
+1.7241	1	0	family	2895623	            Metamycoplasmataceae
+1.7241	1	0	genus	2995234	              Mycoplasmoides
+1.7241	1	0	species	2097	                Mycoplasmoides genitalium
+1.7241	1	1	strain	243273	                  Mycoplasmoides genitalium G37
+13.7931	8	2	phylum	1224	      Pseudomonadota
+8.6207	5	1	class	1236	        Gammaproteobacteria
+6.8966	4	0	order	91347	          Enterobacterales
+6.8966	4	0	family	543	            Enterobacteriaceae
+5.1724	3	0	genus	561	              Escherichia
+5.1724	3	1	species	562	                Escherichia coli
+3.4483	2	2	strain	83333	                  Escherichia coli K-12
+1.7241	1	0	genus	590	              Salmonella
+1.7241	1	0	species	28901	                Salmonella enterica
+1.7241	1	0	subspecies	59201	                  Salmonella enterica subsp. enterica
+1.7241	1	0	no rank	90371	                    Salmonella enterica subsp. enterica serovar Typhimurium
+1.7241	1	1	strain	99287	                      Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+1.7241	1	0	class	28211	        Alphaproteobacteria
+1.7241	1	0	order	356	          Hyphomicrobiales
+1.7241	1	0	family	82115	            Rhizobiaceae
+1.7241	1	0	no rank	227292	              Sinorhizobium/Ensifer group
+1.7241	1	0	genus	28105	                Sinorhizobium
+1.7241	1	0	species	382	                  Sinorhizobium meliloti
+1.7241	1	1	strain	266834	                    Sinorhizobium meliloti 1021
+1.7241	1	0	phylum	200918	      Thermotogota
+1.7241	1	0	class	188708	        Thermotogae
+1.7241	1	0	order	2419	          Thermotogales
+1.7241	1	0	family	188709	            Thermotogaceae
+1.7241	1	0	genus	2335	              Thermotoga
+1.7241	1	0	species	2336	                Thermotoga maritima
+1.7241	1	1	strain	243274	                  Thermotoga maritima MSB8
+3.4483	2	1	superkingdom	2759	    Eukaryota
+1.7241	1	0	clade	33154	      Opisthokonta
+1.7241	1	0	kingdom	4751	        Fungi
+1.7241	1	0	subkingdom	451864	          Dikarya
+1.7241	1	1	phylum	4890	            Ascomycota
+1.7241	1	0	superkingdom	2157	    Archaea
+1.7241	1	0	phylum	28890	      Euryarchaeota
+1.7241	1	0	clade	2283794	        Methanomada group
+1.7241	1	0	class	183939	          Methanococci
+1.7241	1	0	order	2182	            Methanococcales
+1.7241	1	0	family	196117	              Methanocaldococcaceae
+1.7241	1	0	genus	196118	                Methanocaldococcus
+1.7241	1	0	species	2190	                  Methanocaldococcus jannaschii
+1.7241	1	1	strain	243232	                    Methanocaldococcus jannaschii DSM 2661

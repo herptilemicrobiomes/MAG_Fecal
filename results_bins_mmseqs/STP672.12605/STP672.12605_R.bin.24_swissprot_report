@@ -1,0 +1,41 @@
+100.0000	66	0	no rank	1	root
+100.0000	66	0	no rank	131567	  cellular organisms
+96.9697	64	51	superkingdom	2	    Bacteria
+13.6364	9	1	phylum	1224	      Pseudomonadota
+6.0606	4	0	class	1236	        Gammaproteobacteria
+6.0606	4	1	order	91347	          Enterobacterales
+4.5455	3	1	family	543	            Enterobacteriaceae
+3.0303	2	0	genus	561	              Escherichia
+3.0303	2	0	species	562	                Escherichia coli
+3.0303	2	2	strain	83333	                  Escherichia coli K-12
+6.0606	4	0	subphylum	68525	        delta/epsilon subdivisions
+6.0606	4	1	class	28221	          Deltaproteobacteria
+4.5455	3	0	order	69541	            Desulfuromonadales
+3.0303	2	0	family	2812024	              Syntrophotaleaceae
+3.0303	2	0	genus	2812025	                Syntrophotalea
+3.0303	2	2	species	29542	                  Syntrophotalea acetylenica
+1.5152	1	0	family	213421	              Desulfuromonadaceae
+1.5152	1	0	genus	18	                Pelobacter
+1.5152	1	1	species	35816	                  Pelobacter acidigallici
+6.0606	4	2	clade	1783272	      Terrabacteria group
+3.0303	2	1	phylum	1239	        Bacillota
+1.5152	1	0	class	91061	          Bacilli
+1.5152	1	0	order	1385	            Bacillales
+1.5152	1	0	family	186817	              Bacillaceae
+1.5152	1	0	genus	1386	                Bacillus
+1.5152	1	0	species group	653685	                  Bacillus subtilis group
+1.5152	1	0	species	1423	                    Bacillus subtilis
+1.5152	1	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+1.5152	1	1	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+1.5152	1	0	superkingdom	2157	    Archaea
+1.5152	1	0	clade	1783275	      TACK group
+1.5152	1	0	phylum	28889	        Crenarchaeota
+1.5152	1	0	class	183924	          Thermoprotei
+1.5152	1	0	order	2281	            Sulfolobales
+1.5152	1	0	family	118883	              Sulfolobaceae
+1.5152	1	0	genus	2100760	                Saccharolobus
+1.5152	1	1	species	2287	                  Saccharolobus solfataricus
+1.5152	1	0	superkingdom	2759	    Eukaryota
+1.5152	1	0	clade	33154	      Opisthokonta
+1.5152	1	0	kingdom	33208	        Metazoa
+1.5152	1	1	clade	6072	          Eumetazoa

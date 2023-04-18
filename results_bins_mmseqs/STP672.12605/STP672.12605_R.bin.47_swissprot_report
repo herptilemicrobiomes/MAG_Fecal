@@ -1,0 +1,38 @@
+1.8018	2	2	no rank	0	unclassified
+98.1982	109	0	no rank	1	root
+98.1982	109	1	no rank	131567	  cellular organisms
+97.2973	108	36	superkingdom	2	    Bacteria
+58.5586	65	0	clade	1783272	      Terrabacteria group
+57.6577	64	21	phylum	1239	        Bacillota
+36.0360	40	18	class	91061	          Bacilli
+18.9189	21	11	order	1385	            Bacillales
+8.1081	9	1	family	186817	              Bacillaceae
+6.3063	7	0	genus	1386	                Bacillus
+6.3063	7	0	species group	653685	                  Bacillus subtilis group
+6.3063	7	0	species	1423	                    Bacillus subtilis
+6.3063	7	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+6.3063	7	7	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+0.9009	1	0	genus	2893055	                Halalkalibacterium (ex Joshi et al. 2022)
+0.9009	1	0	species	86665	                  Halalkalibacterium halodurans
+0.9009	1	1	strain	272558	                    Halalkalibacterium halodurans C-125
+0.9009	1	0	family	90964	              Staphylococcaceae
+0.9009	1	1	genus	1279	                Staphylococcus
+0.9009	1	0	order	186826	            Lactobacillales
+0.9009	1	1	family	1300	              Streptococcaceae
+2.7027	3	0	class	186801	          Clostridia
+2.7027	3	1	order	186802	            Eubacteriales
+1.8018	2	0	family	31979	              Clostridiaceae
+1.8018	2	2	genus	1485	                Clostridium
+0.9009	1	0	phylum	544448	        Mycoplasmatota
+0.9009	1	0	order	2790996	          Mycoplasmoidales
+0.9009	1	0	family	2895623	            Metamycoplasmataceae
+0.9009	1	0	genus	2995234	              Mycoplasmoides
+0.9009	1	0	species	2097	                Mycoplasmoides genitalium
+0.9009	1	1	strain	243273	                  Mycoplasmoides genitalium G37
+6.3063	7	3	phylum	1224	      Pseudomonadota
+3.6036	4	2	class	1236	        Gammaproteobacteria
+1.8018	2	0	order	91347	          Enterobacterales
+1.8018	2	0	family	543	            Enterobacteriaceae
+1.8018	2	0	genus	561	              Escherichia
+1.8018	2	0	species	562	                Escherichia coli
+1.8018	2	2	strain	83333	                  Escherichia coli K-12

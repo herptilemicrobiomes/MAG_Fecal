@@ -1,0 +1,101 @@
+0.7812	1	1	no rank	0	unclassified
+99.2188	127	1	no rank	1	root
+98.4375	126	5	no rank	131567	  cellular organisms
+92.1875	118	56	superkingdom	2	    Bacteria
+29.6875	38	0	clade	1783270	      FCB group
+29.6875	38	0	clade	68336	        Bacteroidetes/Chlorobi group
+28.9062	37	19	phylum	976	          Bacteroidota
+14.0625	18	0	class	200643	            Bacteroidia
+14.0625	18	15	order	171549	              Bacteroidales
+2.3438	3	0	family	815	                Bacteroidaceae
+2.3438	3	1	genus	816	                  Bacteroides
+0.7812	1	0	species	817	                    Bacteroides fragilis
+0.7812	1	1	strain	295405	                      Bacteroides fragilis YCH46
+0.7812	1	0	species	818	                    Bacteroides thetaiotaomicron
+0.7812	1	1	strain	226186	                      Bacteroides thetaiotaomicron VPI-5482
+0.7812	1	0	phylum	1090	          Chlorobiota
+0.7812	1	0	class	191410	            Chlorobiia
+0.7812	1	0	order	191411	              Chlorobiales
+0.7812	1	1	family	191412	                Chlorobiaceae
+11.7188	15	2	phylum	1224	      Pseudomonadota
+7.8125	10	5	class	1236	        Gammaproteobacteria
+3.1250	4	0	order	91347	          Enterobacterales
+3.1250	4	1	family	543	            Enterobacteriaceae
+1.5625	2	0	genus	561	              Escherichia
+1.5625	2	0	species	562	                Escherichia coli
+1.5625	2	2	strain	83333	                  Escherichia coli K-12
+0.7812	1	0	genus	590	              Salmonella
+0.7812	1	0	species	28901	                Salmonella enterica
+0.7812	1	0	subspecies	59201	                  Salmonella enterica subsp. enterica
+0.7812	1	1	no rank	90370	                    Salmonella enterica subsp. enterica serovar Typhi
+0.7812	1	0	order	135625	          Pasteurellales
+0.7812	1	0	family	712	            Pasteurellaceae
+0.7812	1	0	genus	724	              Haemophilus
+0.7812	1	0	species	727	                Haemophilus influenzae
+0.7812	1	1	strain	71421	                  Haemophilus influenzae Rd KW20
+1.5625	2	1	class	28211	        Alphaproteobacteria
+0.7812	1	0	order	204457	          Sphingomonadales
+0.7812	1	0	family	2844881	            Zymomonadaceae
+0.7812	1	0	genus	541	              Zymomonas
+0.7812	1	0	species	542	                Zymomonas mobilis
+0.7812	1	0	subspecies	120045	                  Zymomonas mobilis subsp. mobilis
+0.7812	1	1	strain	264203	                    Zymomonas mobilis subsp. mobilis ZM4 = ATCC 31821
+0.7812	1	1	subphylum	68525	        delta/epsilon subdivisions
+6.2500	8	0	clade	1783272	      Terrabacteria group
+5.4688	7	0	phylum	1239	        Bacillota
+4.6875	6	2	class	91061	          Bacilli
+3.1250	4	0	order	1385	            Bacillales
+3.1250	4	1	family	186817	              Bacillaceae
+2.3438	3	0	genus	1386	                Bacillus
+2.3438	3	0	species group	653685	                  Bacillus subtilis group
+2.3438	3	0	species	1423	                    Bacillus subtilis
+2.3438	3	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+2.3438	3	3	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+0.7812	1	0	class	186801	          Clostridia
+0.7812	1	1	order	186802	            Eubacteriales
+0.7812	1	0	phylum	201174	        Actinomycetota
+0.7812	1	0	class	1760	          Actinomycetes
+0.7812	1	0	order	85007	            Corynebacteriales
+0.7812	1	0	family	1762	              Mycobacteriaceae
+0.7812	1	0	genus	1763	                Mycobacterium
+0.7812	1	0	species group	77643	                  Mycobacterium tuberculosis complex
+0.7812	1	1	species	1773	                    Mycobacterium tuberculosis
+0.7812	1	0	clade	1783257	      PVC group
+0.7812	1	0	phylum	204428	        Chlamydiota
+0.7812	1	0	class	204429	          Chlamydiia
+0.7812	1	0	order	51291	            Chlamydiales
+0.7812	1	0	family	809	              Chlamydiaceae
+0.7812	1	0	no rank	1113537	                Chlamydia/Chlamydophila group
+0.7812	1	1	genus	810	                  Chlamydia
+2.3438	3	0	superkingdom	2759	    Eukaryota
+0.7812	1	0	kingdom	33090	      Viridiplantae
+0.7812	1	0	phylum	35493	        Streptophyta
+0.7812	1	0	subphylum	131221	          Streptophytina
+0.7812	1	0	clade	3193	            Embryophyta
+0.7812	1	0	clade	58023	              Tracheophyta
+0.7812	1	0	clade	78536	                Euphyllophyta
+0.7812	1	0	clade	58024	                  Spermatophyta
+0.7812	1	0	class	3398	                    Magnoliopsida
+0.7812	1	0	clade	1437183	                      Mesangiospermae
+0.7812	1	0	clade	71240	                        eudicotyledons
+0.7812	1	0	clade	91827	                          Gunneridae
+0.7812	1	0	clade	1437201	                            Pentapetalae
+0.7812	1	0	clade	71275	                              rosids
+0.7812	1	0	clade	91836	                                malvids
+0.7812	1	0	order	3699	                                  Brassicales
+0.7812	1	0	family	3700	                                    Brassicaceae
+0.7812	1	0	tribe	980083	                                      Camelineae
+0.7812	1	0	genus	3701	                                        Arabidopsis
+0.7812	1	1	species	3702	                                          Arabidopsis thaliana
+0.7812	1	0	clade	33154	      Opisthokonta
+0.7812	1	0	kingdom	33208	        Metazoa
+0.7812	1	0	clade	6072	          Eumetazoa
+0.7812	1	1	clade	33213	            Bilateria
+0.7812	1	0	clade	554915	      Amoebozoa
+0.7812	1	0	phylum	2605435	        Evosea
+0.7812	1	0	class	142796	          Eumycetozoa
+0.7812	1	0	clade	33083	            Dictyostelia
+0.7812	1	0	order	2058949	              Dictyosteliales
+0.7812	1	0	family	2058185	                Dictyosteliaceae
+0.7812	1	0	genus	5782	                  Dictyostelium
+0.7812	1	1	species	44689	                    Dictyostelium discoideum

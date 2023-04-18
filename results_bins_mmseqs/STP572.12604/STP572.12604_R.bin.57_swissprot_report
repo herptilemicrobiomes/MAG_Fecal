@@ -1,0 +1,41 @@
+100.0000	83	0	no rank	1	root
+100.0000	83	3	no rank	131567	  cellular organisms
+96.3855	80	20	superkingdom	2	    Bacteria
+66.2651	55	0	clade	1783272	      Terrabacteria group
+66.2651	55	0	phylum	201174	        Actinomycetota
+66.2651	55	28	class	1760	          Actinomycetes
+14.4578	12	4	order	85006	            Micrococcales
+8.4337	7	5	family	85023	              Microbacteriaceae
+2.4096	2	0	genus	110932	                Leifsonia
+2.4096	2	0	species	1575	                  Leifsonia xyli
+2.4096	2	0	subspecies	59736	                    Leifsonia xyli subsp. xyli
+2.4096	2	2	strain	281090	                      Leifsonia xyli subsp. xyli str. CTCB07
+1.2048	1	0	family	1268	              Micrococcaceae
+1.2048	1	0	genus	1663	                Arthrobacter
+1.2048	1	0	no rank	235627	                  unclassified Arthrobacter
+1.2048	1	1	species	196628	                    Arthrobacter sp. KUJ8602
+13.2530	11	2	order	85007	            Corynebacteriales
+10.8434	9	3	family	1762	              Mycobacteriaceae
+6.0241	5	3	genus	1763	                Mycobacterium
+2.4096	2	0	species group	77643	                  Mycobacterium tuberculosis complex
+2.4096	2	2	species	1773	                    Mycobacterium tuberculosis
+1.2048	1	0	genus	1866885	                Mycolicibacterium
+1.2048	1	1	species	1772	                  Mycolicibacterium smegmatis
+3.6145	3	0	order	85011	            Streptomycetales
+3.6145	3	0	family	2062	              Streptomycetaceae
+3.6145	3	0	genus	1883	                Streptomyces
+2.4096	2	0	species group	1477431	                  Streptomyces albidoflavus group
+2.4096	2	0	species	1902	                    Streptomyces coelicolor
+2.4096	2	2	strain	100226	                      Streptomyces coelicolor A3(2)
+1.2048	1	1	species	1916	                  Streptomyces lividans
+1.2048	1	0	order	85004	            Bifidobacteriales
+1.2048	1	0	family	31953	              Bifidobacteriaceae
+1.2048	1	0	genus	1678	                Bifidobacterium
+1.2048	1	1	species	216816	                  Bifidobacterium longum
+6.0241	5	1	phylum	1224	      Pseudomonadota
+4.8193	4	2	class	1236	        Gammaproteobacteria
+2.4096	2	0	order	91347	          Enterobacterales
+2.4096	2	1	family	543	            Enterobacteriaceae
+1.2048	1	0	genus	561	              Escherichia
+1.2048	1	0	species	562	                Escherichia coli
+1.2048	1	1	strain	83333	                  Escherichia coli K-12

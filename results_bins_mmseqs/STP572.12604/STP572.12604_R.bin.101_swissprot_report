@@ -1,0 +1,27 @@
+100.0000	41	0	no rank	1	root
+100.0000	41	0	no rank	131567	  cellular organisms
+100.0000	41	19	superkingdom	2	    Bacteria
+34.1463	14	0	clade	1783270	      FCB group
+34.1463	14	0	clade	68336	        Bacteroidetes/Chlorobi group
+34.1463	14	1	phylum	976	          Bacteroidota
+31.7073	13	0	class	200643	            Bacteroidia
+31.7073	13	11	order	171549	              Bacteroidales
+2.4390	1	0	family	815	                Bacteroidaceae
+2.4390	1	0	genus	816	                  Bacteroides
+2.4390	1	1	species	817	                    Bacteroides fragilis
+2.4390	1	0	family	2005525	                Tannerellaceae
+2.4390	1	0	genus	375288	                  Parabacteroides
+2.4390	1	0	species	823	                    Parabacteroides distasonis
+2.4390	1	1	strain	435591	                      Parabacteroides distasonis ATCC 8503
+14.6341	6	2	phylum	1224	      Pseudomonadota
+9.7561	4	1	class	1236	        Gammaproteobacteria
+7.3171	3	0	order	91347	          Enterobacterales
+7.3171	3	2	family	543	            Enterobacteriaceae
+2.4390	1	0	genus	561	              Escherichia
+2.4390	1	1	species	562	                Escherichia coli
+2.4390	1	0	no rank	48479	      environmental samples
+2.4390	1	1	species	2725	        unidentified prokaryotic organism
+2.4390	1	0	clade	1783272	      Terrabacteria group
+2.4390	1	0	phylum	1239	        Bacillota
+2.4390	1	0	class	91061	          Bacilli
+2.4390	1	1	order	1385	            Bacillales

@@ -1,0 +1,59 @@
+100.0000	75	0	no rank	1	root
+98.6667	74	3	no rank	131567	  cellular organisms
+93.3333	70	37	superkingdom	2	    Bacteria
+33.3333	25	0	clade	1783270	      FCB group
+33.3333	25	0	clade	68336	        Bacteroidetes/Chlorobi group
+33.3333	25	12	phylum	976	          Bacteroidota
+14.6667	11	0	class	200643	            Bacteroidia
+14.6667	11	7	order	171549	              Bacteroidales
+2.6667	2	0	family	171551	                Porphyromonadaceae
+2.6667	2	1	genus	836	                  Porphyromonas
+1.3333	1	0	species	837	                    Porphyromonas gingivalis
+1.3333	1	1	strain	242619	                      Porphyromonas gingivalis W83
+1.3333	1	1	family	815	                Bacteroidaceae
+1.3333	1	0	family	2005525	                Tannerellaceae
+1.3333	1	0	genus	375288	                  Parabacteroides
+1.3333	1	0	species	823	                    Parabacteroides distasonis
+1.3333	1	1	strain	435591	                      Parabacteroides distasonis ATCC 8503
+2.6667	2	0	class	768503	            Cytophagia
+2.6667	2	1	order	768507	              Cytophagales
+1.3333	1	0	family	89373	                Cytophagaceae
+1.3333	1	0	genus	978	                  Cytophaga
+1.3333	1	0	species	985	                    Cytophaga hutchinsonii
+1.3333	1	1	strain	269798	                      Cytophaga hutchinsonii ATCC 33406
+6.6667	5	0	phylum	1224	      Pseudomonadota
+5.3333	4	1	class	1236	        Gammaproteobacteria
+4.0000	3	0	order	91347	          Enterobacterales
+4.0000	3	1	family	543	            Enterobacteriaceae
+1.3333	1	0	genus	561	              Escherichia
+1.3333	1	0	species	562	                Escherichia coli
+1.3333	1	1	strain	83333	                  Escherichia coli K-12
+1.3333	1	0	genus	590	              Salmonella
+1.3333	1	0	species	28901	                Salmonella enterica
+1.3333	1	1	subspecies	59201	                  Salmonella enterica subsp. enterica
+1.3333	1	0	class	28216	        Betaproteobacteria
+1.3333	1	0	order	206351	          Neisseriales
+1.3333	1	0	family	481	            Neisseriaceae
+1.3333	1	0	genus	482	              Neisseria
+1.3333	1	1	species	485	                Neisseria gonorrhoeae
+2.6667	2	0	clade	1783272	      Terrabacteria group
+2.6667	2	0	phylum	1239	        Bacillota
+2.6667	2	1	class	91061	          Bacilli
+1.3333	1	1	order	1385	            Bacillales
+1.3333	1	0	phylum	200783	      Aquificae
+1.3333	1	0	class	187857	        Aquificae
+1.3333	1	0	order	32069	          Aquificales
+1.3333	1	0	family	64898	            Aquificaceae
+1.3333	1	0	genus	2713	              Aquifex
+1.3333	1	0	species	63363	                Aquifex aeolicus
+1.3333	1	1	strain	224324	                  Aquifex aeolicus VF5
+1.3333	1	1	superkingdom	2759	    Eukaryota
+1.3333	1	0	superkingdom	10239	  Viruses
+1.3333	1	0	clade	2731341	    Duplodnaviria
+1.3333	1	0	kingdom	2731360	      Heunggongvirae
+1.3333	1	0	phylum	2731618	        Uroviricota
+1.3333	1	0	class	2731619	          Caudoviricetes
+1.3333	1	0	subfamily	2842527	            Hendrixvirinae
+1.3333	1	0	genus	2842574	              Byrnievirus
+1.3333	1	0	species	37554	                Byrnievirus HK97
+1.3333	1	1	no rank	2681617	                  Escherichia phage HK97

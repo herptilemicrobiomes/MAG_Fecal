@@ -1,0 +1,111 @@
+3.8674	7	7	no rank	0	unclassified
+96.1326	174	0	no rank	1	root
+96.1326	174	21	no rank	131567	  cellular organisms
+81.2155	147	79	superkingdom	2	    Bacteria
+12.7072	23	11	phylum	1224	      Pseudomonadota
+4.4199	8	3	class	1236	        Gammaproteobacteria
+2.7624	5	0	order	91347	          Enterobacterales
+2.7624	5	3	family	543	            Enterobacteriaceae
+1.1050	2	0	genus	561	              Escherichia
+1.1050	2	0	species	562	                Escherichia coli
+1.1050	2	2	strain	83333	                  Escherichia coli K-12
+1.6575	3	0	subphylum	68525	        delta/epsilon subdivisions
+1.1050	2	0	class	28221	          Deltaproteobacteria
+0.5525	1	0	order	213115	            Desulfovibrionales
+0.5525	1	1	family	194924	              Desulfovibrionaceae
+0.5525	1	0	order	213462	            Syntrophobacterales
+0.5525	1	0	family	213465	              Syntrophobacteraceae
+0.5525	1	0	genus	29526	                Syntrophobacter
+0.5525	1	0	species	119484	                  Syntrophobacter fumaroxidans
+0.5525	1	1	strain	335543	                    Syntrophobacter fumaroxidans MPOB
+0.5525	1	0	class	29547	          Epsilonproteobacteria
+0.5525	1	1	order	213849	            Campylobacterales
+0.5525	1	0	class	28211	        Alphaproteobacteria
+0.5525	1	0	order	204455	          Rhodobacterales
+0.5525	1	0	family	31989	            Paracoccaceae
+0.5525	1	0	genus	1060	              Rhodobacter
+0.5525	1	0	species	1061	                Rhodobacter capsulatus
+0.5525	1	1	strain	272942	                  Rhodobacter capsulatus SB 1003
+10.4972	19	0	clade	1783257	      PVC group
+10.4972	19	0	phylum	74201	        Verrucomicrobiota
+10.4972	19	0	class	203494	          Verrucomicrobiae
+10.4972	19	0	order	48461	            Verrucomicrobiales
+10.4972	19	0	family	1647988	              Akkermansiaceae
+10.4972	19	0	genus	239934	                Akkermansia
+10.4972	19	0	species	239935	                  Akkermansia muciniphila
+10.4972	19	19	strain	349741	                    Akkermansia muciniphila ATCC BAA-835
+9.9448	18	3	clade	1783272	      Terrabacteria group
+7.1823	13	1	phylum	1239	        Bacillota
+5.5249	10	2	class	91061	          Bacilli
+3.8674	7	2	order	1385	            Bacillales
+2.7624	5	1	family	186817	              Bacillaceae
+2.2099	4	0	genus	1386	                Bacillus
+1.6575	3	0	species group	653685	                  Bacillus subtilis group
+1.6575	3	0	species	1423	                    Bacillus subtilis
+1.6575	3	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+1.6575	3	3	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+0.5525	1	1	species	1425	                  Bacillus thermoamyloliquefaciens
+0.5525	1	0	order	186826	            Lactobacillales
+0.5525	1	0	family	33958	              Lactobacillaceae
+0.5525	1	0	genus	2767842	                Lactiplantibacillus
+0.5525	1	0	species	1590	                  Lactiplantibacillus plantarum
+0.5525	1	1	strain	220668	                    Lactiplantibacillus plantarum WCFS1
+1.1050	2	0	class	186801	          Clostridia
+1.1050	2	0	order	186802	            Eubacteriales
+1.1050	2	0	family	31979	              Clostridiaceae
+1.1050	2	0	genus	1485	                Clostridium
+0.5525	1	0	species	1513	                  Clostridium tetani
+0.5525	1	1	strain	212717	                    Clostridium tetani E88
+0.5525	1	0	species	1520	                  Clostridium beijerinckii
+0.5525	1	1	strain	290402	                    Clostridium beijerinckii NCIMB 8052
+1.1050	2	0	clade	1798711	        Cyanobacteriota/Melainabacteria group
+1.1050	2	0	phylum	1117	          Cyanobacteriota
+1.1050	2	1	class	3028117	            Cyanophyceae
+0.5525	1	0	order	1890424	              Synechococcales
+0.5525	1	0	family	1890428	                Merismopediaceae
+0.5525	1	0	genus	1142	                  Synechocystis
+0.5525	1	0	no rank	2640012	                    unclassified Synechocystis
+0.5525	1	0	species	1148	                      Synechocystis sp. PCC 6803
+0.5525	1	1	no rank	1111708	                        Synechocystis sp. PCC 6803 substr. Kazusa
+2.7624	5	0	clade	1783270	      FCB group
+2.7624	5	0	clade	68336	        Bacteroidetes/Chlorobi group
+2.7624	5	0	phylum	976	          Bacteroidota
+2.7624	5	0	class	200643	            Bacteroidia
+2.7624	5	1	order	171549	              Bacteroidales
+1.6575	3	0	family	815	                Bacteroidaceae
+1.6575	3	0	genus	816	                  Bacteroides
+1.6575	3	0	species	818	                    Bacteroides thetaiotaomicron
+1.6575	3	3	strain	226186	                      Bacteroides thetaiotaomicron VPI-5482
+0.5525	1	0	family	171551	                Porphyromonadaceae
+0.5525	1	0	genus	836	                  Porphyromonas
+0.5525	1	0	species	837	                    Porphyromonas gingivalis
+0.5525	1	1	strain	242619	                      Porphyromonas gingivalis W83
+1.1050	2	0	phylum	203691	      Spirochaetota
+1.1050	2	0	class	203692	        Spirochaetia
+1.1050	2	1	order	136	          Spirochaetales
+0.5525	1	0	family	2845253	            Treponemataceae
+0.5525	1	0	genus	157	              Treponema
+0.5525	1	0	species	160	                Treponema pallidum
+0.5525	1	0	subspecies	161	                  Treponema pallidum subsp. pallidum
+0.5525	1	1	strain	243276	                    Treponema pallidum subsp. pallidum str. Nichols
+0.5525	1	0	phylum	57723	      Acidobacteriota
+0.5525	1	0	class	204432	        Terriglobia
+0.5525	1	0	order	332160	          Bryobacterales
+0.5525	1	0	family	332161	            Solibacteraceae
+0.5525	1	0	genus	332162	              Candidatus Solibacter
+0.5525	1	0	species	332163	                Candidatus Solibacter usitatus
+0.5525	1	1	isolate	234267	                  Candidatus Solibacter usitatus Ellin6076
+3.3149	6	2	superkingdom	2759	    Eukaryota
+1.1050	2	0	kingdom	33090	      Viridiplantae
+1.1050	2	0	phylum	35493	        Streptophyta
+1.1050	2	0	subphylum	131221	          Streptophytina
+1.1050	2	0	clade	3193	            Embryophyta
+1.1050	2	0	clade	58023	              Tracheophyta
+1.1050	2	0	clade	78536	                Euphyllophyta
+1.1050	2	0	clade	58024	                  Spermatophyta
+1.1050	2	0	class	3398	                    Magnoliopsida
+1.1050	2	2	clade	1437183	                      Mesangiospermae
+1.1050	2	0	clade	33154	      Opisthokonta
+1.1050	2	0	kingdom	33208	        Metazoa
+1.1050	2	0	clade	6072	          Eumetazoa
+1.1050	2	2	clade	33213	            Bilateria

@@ -1,0 +1,37 @@
+100.0000	49	1	no rank	1	root
+89.7959	44	3	no rank	131567	  cellular organisms
+77.5510	38	34	superkingdom	2	    Bacteria
+6.1224	3	2	phylum	1224	      Pseudomonadota
+2.0408	1	0	subphylum	68525	        delta/epsilon subdivisions
+2.0408	1	1	class	28221	          Deltaproteobacteria
+2.0408	1	0	clade	1783270	      FCB group
+2.0408	1	0	clade	68336	        Bacteroidetes/Chlorobi group
+2.0408	1	0	phylum	976	          Bacteroidota
+2.0408	1	0	class	117743	            Flavobacteriia
+2.0408	1	0	order	200644	              Flavobacteriales
+2.0408	1	1	family	49546	                Flavobacteriaceae
+6.1224	3	1	superkingdom	2759	    Eukaryota
+4.0816	2	0	clade	33154	      Opisthokonta
+4.0816	2	0	kingdom	4751	        Fungi
+4.0816	2	0	subkingdom	451864	          Dikarya
+4.0816	2	0	phylum	4890	            Ascomycota
+4.0816	2	0	clade	716545	              saccharomyceta
+4.0816	2	0	subphylum	147538	                Pezizomycotina
+4.0816	2	0	clade	716546	                  leotiomyceta
+4.0816	2	0	class	147545	                    Eurotiomycetes
+4.0816	2	0	subclass	451871	                      Eurotiomycetidae
+4.0816	2	0	order	5042	                        Eurotiales
+4.0816	2	0	family	1131492	                          Aspergillaceae
+4.0816	2	0	genus	5052	                            Aspergillus
+4.0816	2	0	subgenus	2720870	                              Aspergillus subgen. Nidulantes
+4.0816	2	0	species	162425	                                Aspergillus nidulans
+4.0816	2	2	strain	227321	                                  Aspergillus nidulans FGSC A4
+8.1633	4	0	superkingdom	10239	  Viruses
+8.1633	4	0	clade	2731341	    Duplodnaviria
+8.1633	4	0	kingdom	2731360	      Heunggongvirae
+8.1633	4	0	phylum	2731618	        Uroviricota
+8.1633	4	0	class	2731619	          Caudoviricetes
+8.1633	4	2	family	2946167	            Peduoviridae
+4.0816	2	0	genus	1196844	              Hpunavirus
+4.0816	2	0	species	10690	                Hpunavirus HP1
+4.0816	2	2	no rank	1289570	                  Haemophilus phage HP1c1

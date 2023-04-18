@@ -1,0 +1,92 @@
+100.0000	85	1	no rank	1	root
+98.8235	84	1	no rank	131567	  cellular organisms
+94.1176	80	35	superkingdom	2	    Bacteria
+35.2941	30	0	clade	1783270	      FCB group
+35.2941	30	0	clade	68336	        Bacteroidetes/Chlorobi group
+35.2941	30	9	phylum	976	          Bacteroidota
+21.1765	18	0	class	200643	            Bacteroidia
+21.1765	18	7	order	171549	              Bacteroidales
+12.9412	11	3	family	815	                Bacteroidaceae
+9.4118	8	5	genus	816	                  Bacteroides
+2.3529	2	0	species	818	                    Bacteroides thetaiotaomicron
+2.3529	2	2	strain	226186	                      Bacteroides thetaiotaomicron VPI-5482
+1.1765	1	1	species	817	                    Bacteroides fragilis
+3.5294	3	0	class	117743	            Flavobacteriia
+3.5294	3	0	order	200644	              Flavobacteriales
+3.5294	3	0	family	49546	                Flavobacteriaceae
+3.5294	3	0	genus	225842	                  Formosa
+3.5294	3	0	species	320324	                    Formosa agariphila
+3.5294	3	3	strain	1347342	                      Formosa agariphila KMM 3901
+10.5882	9	3	phylum	1224	      Pseudomonadota
+4.7059	4	2	class	1236	        Gammaproteobacteria
+1.1765	1	0	order	91347	          Enterobacterales
+1.1765	1	0	family	543	            Enterobacteriaceae
+1.1765	1	0	genus	561	              Escherichia
+1.1765	1	0	species	562	                Escherichia coli
+1.1765	1	1	strain	83333	                  Escherichia coli K-12
+1.1765	1	0	order	135625	          Pasteurellales
+1.1765	1	0	family	712	            Pasteurellaceae
+1.1765	1	0	genus	724	              Haemophilus
+1.1765	1	0	species	727	                Haemophilus influenzae
+1.1765	1	1	strain	71421	                  Haemophilus influenzae Rd KW20
+1.1765	1	0	class	28211	        Alphaproteobacteria
+1.1765	1	0	order	204441	          Rhodospirillales
+1.1765	1	0	family	433	            Acetobacteraceae
+1.1765	1	0	genus	441	              Gluconobacter
+1.1765	1	0	species	442	                Gluconobacter oxydans
+1.1765	1	1	strain	290633	                  Gluconobacter oxydans 621H
+1.1765	1	0	subphylum	68525	        delta/epsilon subdivisions
+1.1765	1	0	class	29547	          Epsilonproteobacteria
+1.1765	1	0	order	213849	            Campylobacterales
+1.1765	1	0	family	72293	              Helicobacteraceae
+1.1765	1	0	genus	209	                Helicobacter
+1.1765	1	0	species	32025	                  Helicobacter hepaticus
+1.1765	1	1	strain	235279	                    Helicobacter hepaticus ATCC 51449
+5.8824	5	0	clade	1783272	      Terrabacteria group
+5.8824	5	0	phylum	1239	        Bacillota
+5.8824	5	1	class	91061	          Bacilli
+4.7059	4	0	order	1385	            Bacillales
+4.7059	4	0	family	186817	              Bacillaceae
+3.5294	3	0	genus	1386	                Bacillus
+3.5294	3	0	species group	653685	                  Bacillus subtilis group
+3.5294	3	0	species	1423	                    Bacillus subtilis
+3.5294	3	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+3.5294	3	3	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+1.1765	1	0	genus	2837506	                Niallia
+1.1765	1	1	species	1397	                  Niallia circulans
+1.1765	1	0	phylum	203691	      Spirochaetota
+1.1765	1	0	class	203692	        Spirochaetia
+1.1765	1	0	order	136	          Spirochaetales
+1.1765	1	0	family	1643685	            Borreliaceae
+1.1765	1	0	genus	64895	              Borreliella
+1.1765	1	0	species	139	                Borreliella burgdorferi
+1.1765	1	1	strain	224326	                  Borreliella burgdorferi B31
+2.3529	2	0	superkingdom	2157	    Archaea
+1.1765	1	0	phylum	28890	      Euryarchaeota
+1.1765	1	0	clade	2283794	        Methanomada group
+1.1765	1	0	class	183939	          Methanococci
+1.1765	1	0	order	2182	            Methanococcales
+1.1765	1	0	family	196117	              Methanocaldococcaceae
+1.1765	1	0	genus	196118	                Methanocaldococcus
+1.1765	1	0	species	2190	                  Methanocaldococcus jannaschii
+1.1765	1	1	strain	243232	                    Methanocaldococcus jannaschii DSM 2661
+1.1765	1	0	clade	1783275	      TACK group
+1.1765	1	0	phylum	28889	        Crenarchaeota
+1.1765	1	0	class	183924	          Thermoprotei
+1.1765	1	0	order	2281	            Sulfolobales
+1.1765	1	0	family	118883	              Sulfolobaceae
+1.1765	1	0	genus	2100760	                Saccharolobus
+1.1765	1	0	species	2287	                  Saccharolobus solfataricus
+1.1765	1	1	strain	273057	                    Saccharolobus solfataricus P2
+1.1765	1	0	superkingdom	2759	    Eukaryota
+1.1765	1	0	clade	33154	      Opisthokonta
+1.1765	1	0	kingdom	33208	        Metazoa
+1.1765	1	0	clade	6072	          Eumetazoa
+1.1765	1	0	clade	33213	            Bilateria
+1.1765	1	0	clade	33511	              Deuterostomia
+1.1765	1	0	phylum	7711	                Chordata
+1.1765	1	0	subphylum	89593	                  Craniata
+1.1765	1	0	clade	7742	                    Vertebrata
+1.1765	1	0	clade	7776	                      Gnathostomata
+1.1765	1	0	clade	117570	                        Teleostomi
+1.1765	1	1	clade	117571	                          Euteleostomi

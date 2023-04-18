@@ -1,0 +1,151 @@
+3.0488	5	5	no rank	0	unclassified
+96.9512	159	0	no rank	1	root
+96.3415	158	12	no rank	131567	  cellular organisms
+87.1951	143	76	superkingdom	2	    Bacteria
+26.2195	43	8	clade	1783272	      Terrabacteria group
+15.8537	26	4	phylum	1239	        Bacillota
+10.3659	17	1	class	91061	          Bacilli
+9.7561	16	1	order	1385	            Bacillales
+8.5366	14	5	family	186817	              Bacillaceae
+5.4878	9	0	genus	1386	                Bacillus
+5.4878	9	0	species group	653685	                  Bacillus subtilis group
+5.4878	9	1	species	1423	                    Bacillus subtilis
+4.8780	8	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+4.8780	8	8	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+0.6098	1	0	family	90964	              Staphylococcaceae
+0.6098	1	0	genus	1279	                Staphylococcus
+0.6098	1	0	species	1280	                  Staphylococcus aureus
+0.6098	1	1	strain	93061	                    Staphylococcus aureus subsp. aureus NCTC 8325
+3.0488	5	1	class	186801	          Clostridia
+1.8293	3	1	order	186802	            Eubacteriales
+0.6098	1	0	family	2937909	              Desulfitobacteriaceae
+0.6098	1	0	genus	36853	                Desulfitobacterium
+0.6098	1	1	species	49338	                  Desulfitobacterium hafniense
+0.6098	1	0	family	2937910	              Desulfotomaculaceae
+0.6098	1	0	genus	191373	                Pelotomaculum
+0.6098	1	0	species	110500	                  Pelotomaculum thermopropionicum
+0.6098	1	1	strain	370438	                    Pelotomaculum thermopropionicum SI
+0.6098	1	0	order	68295	            Thermoanaerobacterales
+0.6098	1	0	family	186814	              Thermoanaerobacteraceae
+0.6098	1	0	genus	1754	                Thermoanaerobacter
+0.6098	1	1	species	1757	                  Thermoanaerobacter ethanolicus
+3.6585	6	0	clade	1798711	        Cyanobacteriota/Melainabacteria group
+3.6585	6	0	phylum	1117	          Cyanobacteriota
+3.6585	6	4	class	3028117	            Cyanophyceae
+1.2195	2	0	order	1890424	              Synechococcales
+1.2195	2	0	family	1890428	                Merismopediaceae
+1.2195	2	0	genus	1142	                  Synechocystis
+1.2195	2	0	no rank	2640012	                    unclassified Synechocystis
+1.2195	2	0	species	1148	                      Synechocystis sp. PCC 6803
+1.2195	2	2	no rank	1111708	                        Synechocystis sp. PCC 6803 substr. Kazusa
+1.8293	3	0	phylum	201174	        Actinomycetota
+1.8293	3	0	class	1760	          Actinomycetes
+1.2195	2	0	order	85006	            Micrococcales
+1.2195	2	0	family	85019	              Brevibacteriaceae
+1.2195	2	0	genus	1696	                Brevibacterium
+1.2195	2	2	species	1698	                  Brevibacterium epidermidis
+0.6098	1	0	order	85007	            Corynebacteriales
+0.6098	1	0	family	1653	              Corynebacteriaceae
+0.6098	1	1	genus	1716	                Corynebacterium
+11.5854	19	7	phylum	1224	      Pseudomonadota
+5.4878	9	3	class	1236	        Gammaproteobacteria
+3.6585	6	0	order	91347	          Enterobacterales
+3.6585	6	2	family	543	            Enterobacteriaceae
+2.4390	4	0	genus	561	              Escherichia
+2.4390	4	1	species	562	                Escherichia coli
+1.8293	3	3	strain	83333	                  Escherichia coli K-12
+1.2195	2	0	subphylum	68525	        delta/epsilon subdivisions
+0.6098	1	0	class	28221	          Deltaproteobacteria
+0.6098	1	0	order	69541	            Desulfuromonadales
+0.6098	1	0	family	213422	              Geobacteraceae
+0.6098	1	0	genus	28231	                Geobacter
+0.6098	1	0	species	35554	                  Geobacter sulfurreducens
+0.6098	1	1	strain	243231	                    Geobacter sulfurreducens PCA
+0.6098	1	0	class	29547	          Epsilonproteobacteria
+0.6098	1	0	order	213849	            Campylobacterales
+0.6098	1	0	family	72294	              Campylobacteraceae
+0.6098	1	0	genus	194	                Campylobacter
+0.6098	1	1	species	197	                  Campylobacter jejuni
+0.6098	1	0	class	28211	        Alphaproteobacteria
+0.6098	1	0	order	204458	          Caulobacterales
+0.6098	1	0	family	76892	            Caulobacteraceae
+0.6098	1	0	genus	75	              Caulobacter
+0.6098	1	1	species	155892	                Caulobacter vibrioides
+1.2195	2	0	clade	1783270	      FCB group
+1.2195	2	0	clade	68336	        Bacteroidetes/Chlorobi group
+0.6098	1	0	phylum	976	          Bacteroidota
+0.6098	1	0	class	117743	            Flavobacteriia
+0.6098	1	0	order	200644	              Flavobacteriales
+0.6098	1	0	family	49546	                Flavobacteriaceae
+0.6098	1	0	genus	237	                  Flavobacterium
+0.6098	1	0	species	96345	                    Flavobacterium psychrophilum
+0.6098	1	1	strain	402612	                      Flavobacterium psychrophilum JIP02/86
+0.6098	1	0	phylum	1090	          Chlorobiota
+0.6098	1	0	class	191410	            Chlorobiia
+0.6098	1	0	order	191411	              Chlorobiales
+0.6098	1	0	family	191412	                Chlorobiaceae
+0.6098	1	0	genus	256319	                  Chlorobaculum
+0.6098	1	0	species	1097	                    Chlorobaculum tepidum
+0.6098	1	1	strain	194439	                      Chlorobaculum tepidum TLS
+0.6098	1	0	phylum	74152	      Elusimicrobia
+0.6098	1	0	class	641853	        Elusimicrobia
+0.6098	1	0	order	641854	          Elusimicrobiales
+0.6098	1	0	family	641876	            Elusimicrobiaceae
+0.6098	1	0	genus	423604	              Elusimicrobium
+0.6098	1	0	species	423605	                Elusimicrobium minutum
+0.6098	1	1	strain	445932	                  Elusimicrobium minutum Pei191
+0.6098	1	0	phylum	200783	      Aquificae
+0.6098	1	0	class	187857	        Aquificae
+0.6098	1	0	order	32069	          Aquificales
+0.6098	1	0	family	64898	            Aquificaceae
+0.6098	1	0	genus	2713	              Aquifex
+0.6098	1	0	species	63363	                Aquifex aeolicus
+0.6098	1	1	strain	224324	                  Aquifex aeolicus VF5
+0.6098	1	0	phylum	200918	      Thermotogota
+0.6098	1	0	class	188708	        Thermotogae
+0.6098	1	0	order	2419	          Thermotogales
+0.6098	1	0	family	188709	            Thermotogaceae
+0.6098	1	0	genus	2335	              Thermotoga
+0.6098	1	0	species	2336	                Thermotoga maritima
+0.6098	1	1	strain	243274	                  Thermotoga maritima MSB8
+1.8293	3	0	superkingdom	2759	    Eukaryota
+1.2195	2	0	kingdom	33090	      Viridiplantae
+1.2195	2	0	phylum	35493	        Streptophyta
+1.2195	2	0	subphylum	131221	          Streptophytina
+1.2195	2	0	clade	3193	            Embryophyta
+1.2195	2	0	clade	58023	              Tracheophyta
+1.2195	2	0	clade	78536	                Euphyllophyta
+1.2195	2	0	clade	58024	                  Spermatophyta
+1.2195	2	0	class	3398	                    Magnoliopsida
+1.2195	2	1	clade	1437183	                      Mesangiospermae
+0.6098	1	0	clade	71240	                        eudicotyledons
+0.6098	1	0	clade	91827	                          Gunneridae
+0.6098	1	0	clade	1437201	                            Pentapetalae
+0.6098	1	0	clade	71275	                              rosids
+0.6098	1	0	clade	91836	                                malvids
+0.6098	1	0	order	3699	                                  Brassicales
+0.6098	1	0	family	3700	                                    Brassicaceae
+0.6098	1	0	tribe	980083	                                      Camelineae
+0.6098	1	0	genus	3701	                                        Arabidopsis
+0.6098	1	1	species	3702	                                          Arabidopsis thaliana
+0.6098	1	0	clade	33154	      Opisthokonta
+0.6098	1	0	kingdom	4751	        Fungi
+0.6098	1	0	subkingdom	451864	          Dikarya
+0.6098	1	0	phylum	4890	            Ascomycota
+0.6098	1	0	clade	716545	              saccharomyceta
+0.6098	1	0	subphylum	147537	                Saccharomycotina
+0.6098	1	0	class	4891	                  Saccharomycetes
+0.6098	1	0	order	4892	                    Saccharomycetales
+0.6098	1	0	family	4893	                      Saccharomycetaceae
+0.6098	1	0	genus	4930	                        Saccharomyces
+0.6098	1	0	species	4932	                          Saccharomyces cerevisiae
+0.6098	1	1	strain	559292	                            Saccharomyces cerevisiae S288C
+0.6098	1	0	superkingdom	10239	  Viruses
+0.6098	1	0	clade	2732004	    Varidnaviria
+0.6098	1	0	kingdom	2732005	      Bamfordvirae
+0.6098	1	0	phylum	2732007	        Nucleocytoviricota
+0.6098	1	0	class	2732523	          Megaviricetes
+0.6098	1	0	order	2732554	            Imitervirales
+0.6098	1	0	family	549779	              Mimiviridae
+0.6098	1	0	genus	315393	                Mimivirus
+0.6098	1	1	species	212035	                  Acanthamoeba polyphaga mimivirus

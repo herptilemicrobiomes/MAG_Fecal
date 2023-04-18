@@ -1,0 +1,132 @@
+6.1728	5	5	no rank	0	unclassified
+93.8272	76	0	no rank	1	root
+93.8272	76	8	no rank	131567	  cellular organisms
+76.5432	62	14	superkingdom	2	    Bacteria
+44.4444	36	1	clade	1783272	      Terrabacteria group
+40.7407	33	4	phylum	1239	        Bacillota
+25.9259	21	3	class	186801	          Clostridia
+19.7531	16	4	order	186802	            Eubacteriales
+6.1728	5	0	family	31979	              Clostridiaceae
+4.9383	4	3	genus	1485	                Clostridium
+1.2346	1	0	species	1502	                  Clostridium perfringens
+1.2346	1	1	strain	195102	                    Clostridium perfringens str. 13
+1.2346	1	0	genus	44258	                Caloramator
+1.2346	1	1	species	908809	                  Caloramator mitchellensis
+3.7037	3	1	family	186803	              Lachnospiraceae
+2.4691	2	0	genus	1506553	                Lachnoclostridium
+1.2346	1	1	species	1512	                  [Clostridium] symbiosum
+1.2346	1	0	species	66219	                  Lachnoclostridium phytofermentans
+1.2346	1	1	strain	357809	                    Lachnoclostridium phytofermentans ISDg
+2.4691	2	0	family	186806	              Eubacteriaceae
+1.2346	1	0	genus	1730	                Eubacterium
+1.2346	1	1	species	1528	                  Eubacterium barkeri
+1.2346	1	0	genus	33951	                Acetobacterium
+1.2346	1	0	species	33952	                  Acetobacterium woodii
+1.2346	1	1	strain	931626	                    Acetobacterium woodii DSM 1030
+1.2346	1	1	family	216572	              Oscillospiraceae
+1.2346	1	0	family	543349	              Symbiobacteriaceae
+1.2346	1	0	genus	2733	                Symbiobacterium
+1.2346	1	0	species	2734	                  Symbiobacterium thermophilum
+1.2346	1	1	strain	292459	                    Symbiobacterium thermophilum IAM 14863
+2.4691	2	1	order	68295	            Thermoanaerobacterales
+1.2346	1	0	family	186814	              Thermoanaerobacteraceae
+1.2346	1	0	genus	249529	                Caldanaerobacter
+1.2346	1	0	species	911092	                  Caldanaerobacter subterraneus
+1.2346	1	0	subspecies	119072	                    Caldanaerobacter subterraneus subsp. tengcongensis
+1.2346	1	1	strain	273068	                      Caldanaerobacter subterraneus subsp. tengcongensis MB4
+9.8765	8	1	class	91061	          Bacilli
+8.6420	7	0	order	1385	            Bacillales
+7.4074	6	0	family	186817	              Bacillaceae
+7.4074	6	0	genus	1386	                Bacillus
+7.4074	6	0	species group	653685	                  Bacillus subtilis group
+7.4074	6	1	species	1423	                    Bacillus subtilis
+6.1728	5	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+6.1728	5	5	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+1.2346	1	0	family	186820	              Listeriaceae
+1.2346	1	1	genus	1637	                Listeria
+2.4691	2	0	phylum	201174	        Actinomycetota
+2.4691	2	0	class	1760	          Actinomycetes
+1.2346	1	0	order	85007	            Corynebacteriales
+1.2346	1	0	family	1762	              Mycobacteriaceae
+1.2346	1	0	genus	1763	                Mycobacterium
+1.2346	1	0	species group	77643	                  Mycobacterium tuberculosis complex
+1.2346	1	1	species	1773	                    Mycobacterium tuberculosis
+1.2346	1	0	order	85011	            Streptomycetales
+1.2346	1	0	family	2062	              Streptomycetaceae
+1.2346	1	0	genus	1883	                Streptomyces
+1.2346	1	0	species	33903	                  Streptomyces avermitilis
+1.2346	1	1	strain	227882	                    Streptomyces avermitilis MA-4680 = NBRC 14893
+13.5802	11	3	phylum	1224	      Pseudomonadota
+6.1728	5	1	class	1236	        Gammaproteobacteria
+3.7037	3	1	order	91347	          Enterobacterales
+2.4691	2	0	family	543	            Enterobacteriaceae
+1.2346	1	0	genus	561	              Escherichia
+1.2346	1	0	species	562	                Escherichia coli
+1.2346	1	1	strain	83333	                  Escherichia coli K-12
+1.2346	1	0	genus	590	              Salmonella
+1.2346	1	0	species	28901	                Salmonella enterica
+1.2346	1	0	subspecies	59201	                  Salmonella enterica subsp. enterica
+1.2346	1	0	no rank	90371	                    Salmonella enterica subsp. enterica serovar Typhimurium
+1.2346	1	1	strain	99287	                      Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+1.2346	1	0	order	135623	          Vibrionales
+1.2346	1	0	family	641	            Vibrionaceae
+1.2346	1	0	genus	662	              Vibrio
+1.2346	1	0	no rank	2614977	                unclassified Vibrio
+1.2346	1	1	species	47913	                  Vibrio sp. JT0107
+3.7037	3	0	subphylum	68525	        delta/epsilon subdivisions
+3.7037	3	0	class	28221	          Deltaproteobacteria
+2.4691	2	0	order	69541	            Desulfuromonadales
+2.4691	2	0	family	213422	              Geobacteraceae
+2.4691	2	0	genus	28231	                Geobacter
+1.2346	1	0	species	28232	                  Geobacter metallireducens
+1.2346	1	1	strain	269799	                    Geobacter metallireducens GS-15
+1.2346	1	0	species	35554	                  Geobacter sulfurreducens
+1.2346	1	1	strain	243231	                    Geobacter sulfurreducens PCA
+1.2346	1	0	order	213115	            Desulfovibrionales
+1.2346	1	0	family	194924	              Desulfovibrionaceae
+1.2346	1	0	genus	872	                Desulfovibrio
+1.2346	1	0	species	876	                  Desulfovibrio desulfuricans
+1.2346	1	1	strain	525146	                    Desulfovibrio desulfuricans ATCC 27774
+1.2346	1	0	phylum	200918	      Thermotogota
+1.2346	1	0	class	188708	        Thermotogae
+1.2346	1	0	order	2419	          Thermotogales
+1.2346	1	0	family	188709	            Thermotogaceae
+1.2346	1	0	genus	2335	              Thermotoga
+1.2346	1	0	species	2336	                Thermotoga maritima
+1.2346	1	1	strain	243274	                  Thermotoga maritima MSB8
+6.1728	5	1	superkingdom	2759	    Eukaryota
+3.7037	3	1	clade	33154	      Opisthokonta
+2.4691	2	0	kingdom	33208	        Metazoa
+2.4691	2	0	clade	6072	          Eumetazoa
+2.4691	2	0	clade	33213	            Bilateria
+2.4691	2	0	clade	33511	              Deuterostomia
+2.4691	2	0	phylum	7711	                Chordata
+2.4691	2	0	subphylum	89593	                  Craniata
+2.4691	2	0	clade	7742	                    Vertebrata
+2.4691	2	0	clade	7776	                      Gnathostomata
+2.4691	2	0	clade	117570	                        Teleostomi
+2.4691	2	0	clade	117571	                          Euteleostomi
+2.4691	2	0	superclass	8287	                            Sarcopterygii
+2.4691	2	0	clade	1338369	                              Dipnotetrapodomorpha
+2.4691	2	0	clade	32523	                                Tetrapoda
+2.4691	2	0	clade	32524	                                  Amniota
+2.4691	2	0	class	40674	                                    Mammalia
+2.4691	2	0	clade	32525	                                      Theria
+2.4691	2	0	clade	9347	                                        Eutheria
+2.4691	2	1	clade	1437010	                                          Boreoeutheria
+1.2346	1	1	superorder	314146	                                            Euarchontoglires
+1.2346	1	0	clade	554915	      Amoebozoa
+1.2346	1	0	phylum	2605435	        Evosea
+1.2346	1	0	class	142796	          Eumycetozoa
+1.2346	1	0	clade	33083	            Dictyostelia
+1.2346	1	0	order	2058949	              Dictyosteliales
+1.2346	1	0	family	2058185	                Dictyosteliaceae
+1.2346	1	0	genus	5782	                  Dictyostelium
+1.2346	1	1	species	44689	                    Dictyostelium discoideum
+1.2346	1	0	superkingdom	2157	    Archaea
+1.2346	1	0	phylum	28890	      Euryarchaeota
+1.2346	1	0	clade	2283794	        Methanomada group
+1.2346	1	0	class	183925	          Methanobacteria
+1.2346	1	0	order	2158	            Methanobacteriales
+1.2346	1	0	family	2159	              Methanobacteriaceae
+1.2346	1	1	genus	145260	                Methanothermobacter

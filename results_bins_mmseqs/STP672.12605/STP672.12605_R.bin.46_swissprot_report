@@ -1,0 +1,78 @@
+3.0928	3	3	no rank	0	unclassified
+96.9072	94	0	no rank	1	root
+96.9072	94	6	no rank	131567	  cellular organisms
+87.6289	85	17	superkingdom	2	    Bacteria
+57.7320	56	0	clade	1783272	      Terrabacteria group
+54.6392	53	5	phylum	1239	        Bacillota
+34.0206	33	4	class	91061	          Bacilli
+26.8041	26	3	order	1385	            Bacillales
+22.6804	22	4	family	186817	              Bacillaceae
+18.5567	18	0	genus	1386	                Bacillus
+18.5567	18	0	species group	653685	                  Bacillus subtilis group
+18.5567	18	0	species	1423	                    Bacillus subtilis
+18.5567	18	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+18.5567	18	18	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+1.0309	1	0	family	186820	              Listeriaceae
+1.0309	1	0	genus	1637	                Listeria
+1.0309	1	0	species	1642	                  Listeria innocua
+1.0309	1	1	strain	272626	                    Listeria innocua Clip11262
+3.0928	3	0	order	186826	            Lactobacillales
+2.0619	2	0	family	1300	              Streptococcaceae
+2.0619	2	1	genus	1357	                Lactococcus
+1.0309	1	0	species	1358	                  Lactococcus lactis
+1.0309	1	0	subspecies	1360	                    Lactococcus lactis subsp. lactis
+1.0309	1	1	strain	272623	                      Lactococcus lactis subsp. lactis Il1403
+1.0309	1	0	family	81852	              Enterococcaceae
+1.0309	1	0	genus	1350	                Enterococcus
+1.0309	1	1	species	1352	                  Enterococcus faecium
+15.4639	15	5	class	186801	          Clostridia
+10.3093	10	4	order	186802	            Eubacteriales
+3.0928	3	0	family	31979	              Clostridiaceae
+2.0619	2	0	genus	1485	                Clostridium
+1.0309	1	1	species	1491	                  Clostridium botulinum
+1.0309	1	1	species	1504	                  Clostridium septicum
+1.0309	1	0	genus	44258	                Caloramator
+1.0309	1	1	species	908809	                  Caloramator mitchellensis
+2.0619	2	0	family	216572	              Oscillospiraceae
+2.0619	2	0	genus	35829	                Acetivibrio
+2.0619	2	0	species	1515	                  Acetivibrio thermocellus
+2.0619	2	2	strain	203119	                    Acetivibrio thermocellus ATCC 27405
+1.0309	1	0	family	186803	              Lachnospiraceae
+1.0309	1	0	genus	1506553	                Lachnoclostridium
+1.0309	1	1	species	1512	                  [Clostridium] symbiosum
+3.0928	3	0	phylum	201174	        Actinomycetota
+3.0928	3	0	class	1760	          Actinomycetes
+3.0928	3	0	order	85007	            Corynebacteriales
+3.0928	3	0	family	1762	              Mycobacteriaceae
+3.0928	3	1	genus	1763	                Mycobacterium
+2.0619	2	0	species group	77643	                  Mycobacterium tuberculosis complex
+2.0619	2	2	species	1773	                    Mycobacterium tuberculosis
+12.3711	12	2	phylum	1224	      Pseudomonadota
+9.2784	9	2	class	1236	        Gammaproteobacteria
+6.1856	6	0	order	91347	          Enterobacterales
+5.1546	5	3	family	543	            Enterobacteriaceae
+2.0619	2	0	genus	561	              Escherichia
+2.0619	2	1	species	562	                Escherichia coli
+1.0309	1	1	strain	83333	                  Escherichia coli K-12
+1.0309	1	0	family	1903411	            Yersiniaceae
+1.0309	1	0	genus	613	              Serratia
+1.0309	1	1	species	615	                Serratia marcescens
+1.0309	1	0	order	135622	          Alteromonadales
+1.0309	1	0	family	267890	            Shewanellaceae
+1.0309	1	0	genus	22	              Shewanella
+1.0309	1	0	species	70863	                Shewanella oneidensis
+1.0309	1	1	strain	211586	                  Shewanella oneidensis MR-1
+1.0309	1	0	subphylum	68525	        delta/epsilon subdivisions
+1.0309	1	0	class	28221	          Deltaproteobacteria
+1.0309	1	0	order	29	            Myxococcales
+1.0309	1	1	suborder	80811	              Cystobacterineae
+2.0619	2	0	superkingdom	2157	    Archaea
+2.0619	2	0	clade	1783275	      TACK group
+2.0619	2	0	phylum	28889	        Crenarchaeota
+2.0619	2	0	class	183924	          Thermoprotei
+2.0619	2	0	order	2281	            Sulfolobales
+2.0619	2	0	family	118883	              Sulfolobaceae
+2.0619	2	0	genus	2100760	                Saccharolobus
+2.0619	2	0	species	2287	                  Saccharolobus solfataricus
+2.0619	2	2	strain	273057	                    Saccharolobus solfataricus P2
+1.0309	1	1	superkingdom	2759	    Eukaryota

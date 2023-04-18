@@ -1,0 +1,47 @@
+100.0000	86	0	no rank	1	root
+100.0000	86	2	no rank	131567	  cellular organisms
+96.5116	83	24	superkingdom	2	    Bacteria
+65.1163	56	1	clade	1783272	      Terrabacteria group
+63.9535	55	34	phylum	1239	        Bacillota
+16.2791	14	1	class	186801	          Clostridia
+15.1163	13	8	order	186802	            Eubacteriales
+3.4884	3	0	family	31979	              Clostridiaceae
+3.4884	3	0	genus	1485	                Clostridium
+2.3256	2	0	species	1488	                  Clostridium acetobutylicum
+2.3256	2	2	strain	272562	                    Clostridium acetobutylicum ATCC 824
+1.1628	1	0	species	1509	                  Clostridium sporogenes
+1.1628	1	1	strain	1075091	                    Clostridium sporogenes PA 3679
+2.3256	2	1	family	186803	              Lachnospiraceae
+1.1628	1	0	genus	830	                Butyrivibrio
+1.1628	1	1	species	831	                  Butyrivibrio fibrisolvens
+8.1395	7	1	class	91061	          Bacilli
+4.6512	4	1	order	1385	            Bacillales
+3.4884	3	1	family	186817	              Bacillaceae
+2.3256	2	0	genus	1386	                Bacillus
+1.1628	1	0	species group	86661	                  Bacillus cereus group
+1.1628	1	0	species	1396	                    Bacillus cereus
+1.1628	1	1	strain	361100	                      Bacillus cereus Q1
+1.1628	1	0	species group	653685	                  Bacillus subtilis group
+1.1628	1	0	species	1423	                    Bacillus subtilis
+1.1628	1	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+1.1628	1	1	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+2.3256	2	0	order	186826	            Lactobacillales
+1.1628	1	0	family	1300	              Streptococcaceae
+1.1628	1	1	genus	1301	                Streptococcus
+1.1628	1	0	family	33958	              Lactobacillaceae
+1.1628	1	0	genus	1243	                Leuconostoc
+1.1628	1	1	species	33964	                  Leuconostoc citreum
+2.3256	2	0	phylum	1224	      Pseudomonadota
+2.3256	2	1	class	1236	        Gammaproteobacteria
+1.1628	1	0	order	135625	          Pasteurellales
+1.1628	1	0	family	712	            Pasteurellaceae
+1.1628	1	0	genus	697331	              Basfia
+1.1628	1	0	species	157673	                [Mannheimia] succiniciproducens
+1.1628	1	1	strain	221988	                  [Mannheimia] succiniciproducens MBEL55E
+1.1628	1	0	clade	1783270	      FCB group
+1.1628	1	0	clade	68336	        Bacteroidetes/Chlorobi group
+1.1628	1	0	phylum	976	          Bacteroidota
+1.1628	1	0	class	200643	            Bacteroidia
+1.1628	1	0	order	171549	              Bacteroidales
+1.1628	1	1	family	815	                Bacteroidaceae
+1.1628	1	1	superkingdom	2759	    Eukaryota

@@ -1,0 +1,32 @@
+2.5641	1	1	no rank	0	unclassified
+97.4359	38	0	no rank	1	root
+97.4359	38	3	no rank	131567	  cellular organisms
+89.7436	35	12	superkingdom	2	    Bacteria
+46.1538	18	0	clade	1783272	      Terrabacteria group
+46.1538	18	13	phylum	1239	        Bacillota
+7.6923	3	1	class	186801	          Clostridia
+5.1282	2	0	order	186802	            Eubacteriales
+5.1282	2	0	family	186803	              Lachnospiraceae
+5.1282	2	0	genus	1506553	                Lachnoclostridium
+2.5641	1	1	species	1512	                  [Clostridium] symbiosum
+2.5641	1	0	species	66219	                  Lachnoclostridium phytofermentans
+2.5641	1	1	strain	357809	                    Lachnoclostridium phytofermentans ISDg
+5.1282	2	0	class	91061	          Bacilli
+5.1282	2	1	order	1385	            Bacillales
+2.5641	1	0	family	186817	              Bacillaceae
+2.5641	1	0	genus	1386	                Bacillus
+2.5641	1	0	species group	86661	                  Bacillus cereus group
+2.5641	1	0	species	1396	                    Bacillus cereus
+2.5641	1	1	strain	222523	                      Bacillus cereus ATCC 10987
+10.2564	4	1	phylum	1224	      Pseudomonadota
+7.6923	3	0	class	1236	        Gammaproteobacteria
+7.6923	3	0	order	91347	          Enterobacterales
+7.6923	3	0	family	543	            Enterobacteriaceae
+7.6923	3	0	genus	561	              Escherichia
+7.6923	3	2	species	562	                Escherichia coli
+2.5641	1	1	strain	83333	                  Escherichia coli K-12
+2.5641	1	0	clade	1783270	      FCB group
+2.5641	1	0	clade	68336	        Bacteroidetes/Chlorobi group
+2.5641	1	0	phylum	1090	          Chlorobiota
+2.5641	1	0	class	191410	            Chlorobiia
+2.5641	1	1	order	191411	              Chlorobiales

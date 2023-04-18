@@ -1,0 +1,68 @@
+1.4286	1	1	no rank	0	unclassified
+98.5714	69	2	no rank	1	root
+95.7143	67	3	no rank	131567	  cellular organisms
+87.1429	61	29	superkingdom	2	    Bacteria
+28.5714	20	0	clade	1783270	      FCB group
+28.5714	20	0	clade	68336	        Bacteroidetes/Chlorobi group
+27.1429	19	9	phylum	976	          Bacteroidota
+12.8571	9	0	class	200643	            Bacteroidia
+12.8571	9	5	order	171549	              Bacteroidales
+2.8571	2	0	family	815	                Bacteroidaceae
+2.8571	2	1	genus	816	                  Bacteroides
+1.4286	1	0	species	818	                    Bacteroides thetaiotaomicron
+1.4286	1	1	strain	226186	                      Bacteroides thetaiotaomicron VPI-5482
+2.8571	2	0	family	171551	                Porphyromonadaceae
+2.8571	2	0	genus	836	                  Porphyromonas
+2.8571	2	1	species	837	                    Porphyromonas gingivalis
+1.4286	1	1	strain	242619	                      Porphyromonas gingivalis W83
+1.4286	1	0	class	1853228	            Chitinophagia
+1.4286	1	0	order	1853229	              Chitinophagales
+1.4286	1	0	family	563835	                Chitinophagaceae
+1.4286	1	0	genus	79328	                  Chitinophaga
+1.4286	1	0	species	79329	                    Chitinophaga pinensis
+1.4286	1	1	strain	485918	                      Chitinophaga pinensis DSM 2588
+1.4286	1	0	phylum	1090	          Chlorobiota
+1.4286	1	0	class	191410	            Chlorobiia
+1.4286	1	0	order	191411	              Chlorobiales
+1.4286	1	1	family	191412	                Chlorobiaceae
+10.0000	7	2	phylum	1224	      Pseudomonadota
+7.1429	5	1	class	1236	        Gammaproteobacteria
+2.8571	2	0	order	72274	          Pseudomonadales
+2.8571	2	0	family	135621	            Pseudomonadaceae
+2.8571	2	0	genus	286	              Pseudomonas
+2.8571	2	0	species group	136841	                Pseudomonas aeruginosa group
+2.8571	2	0	species	287	                  Pseudomonas aeruginosa
+2.8571	2	2	strain	208964	                    Pseudomonas aeruginosa PAO1
+2.8571	2	0	order	135625	          Pasteurellales
+2.8571	2	2	family	712	            Pasteurellaceae
+5.7143	4	0	clade	1783272	      Terrabacteria group
+5.7143	4	0	phylum	1239	        Bacillota
+5.7143	4	0	class	91061	          Bacilli
+4.2857	3	0	order	1385	            Bacillales
+4.2857	3	2	family	186817	              Bacillaceae
+1.4286	1	0	genus	1386	                Bacillus
+1.4286	1	0	species group	653685	                  Bacillus subtilis group
+1.4286	1	0	species	1423	                    Bacillus subtilis
+1.4286	1	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+1.4286	1	1	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+1.4286	1	0	order	186826	            Lactobacillales
+1.4286	1	0	family	1300	              Streptococcaceae
+1.4286	1	0	genus	1301	                Streptococcus
+1.4286	1	1	species	1314	                  Streptococcus pyogenes
+1.4286	1	0	phylum	203691	      Spirochaetota
+1.4286	1	0	class	203692	        Spirochaetia
+1.4286	1	0	order	136	          Spirochaetales
+1.4286	1	0	family	1643685	            Borreliaceae
+1.4286	1	0	genus	64895	              Borreliella
+1.4286	1	0	species	139	                Borreliella burgdorferi
+1.4286	1	1	strain	224326	                  Borreliella burgdorferi B31
+2.8571	2	2	superkingdom	2759	    Eukaryota
+1.4286	1	0	superkingdom	2157	    Archaea
+1.4286	1	0	phylum	28890	      Euryarchaeota
+1.4286	1	0	clade	2283794	        Methanomada group
+1.4286	1	0	class	183939	          Methanococci
+1.4286	1	0	order	2182	            Methanococcales
+1.4286	1	0	family	196117	              Methanocaldococcaceae
+1.4286	1	0	genus	196118	                Methanocaldococcus
+1.4286	1	0	species	2190	                  Methanocaldococcus jannaschii
+1.4286	1	1	strain	243232	                    Methanocaldococcus jannaschii DSM 2661

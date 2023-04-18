@@ -1,0 +1,59 @@
+100.0000	119	0	no rank	1	root
+100.0000	119	8	no rank	131567	  cellular organisms
+91.5966	109	59	superkingdom	2	    Bacteria
+31.9328	38	0	clade	1783270	      FCB group
+31.9328	38	0	clade	68336	        Bacteroidetes/Chlorobi group
+31.9328	38	6	phylum	976	          Bacteroidota
+25.2101	30	0	class	200643	            Bacteroidia
+25.2101	30	10	order	171549	              Bacteroidales
+7.5630	9	0	family	2005525	                Tannerellaceae
+7.5630	9	0	genus	375288	                  Parabacteroides
+7.5630	9	0	species	823	                    Parabacteroides distasonis
+7.5630	9	9	strain	435591	                      Parabacteroides distasonis ATCC 8503
+5.8824	7	0	family	815	                Bacteroidaceae
+5.8824	7	3	genus	816	                  Bacteroides
+2.5210	3	0	species	818	                    Bacteroides thetaiotaomicron
+2.5210	3	3	strain	226186	                      Bacteroides thetaiotaomicron VPI-5482
+0.8403	1	0	species	817	                    Bacteroides fragilis
+0.8403	1	1	strain	295405	                      Bacteroides fragilis YCH46
+2.5210	3	0	family	171551	                Porphyromonadaceae
+2.5210	3	0	genus	836	                  Porphyromonas
+2.5210	3	3	species	837	                    Porphyromonas gingivalis
+0.8403	1	0	family	171552	                Prevotellaceae
+0.8403	1	0	genus	838	                  Prevotella
+0.8403	1	0	species	839	                    Prevotella ruminicola
+0.8403	1	1	strain	264731	                      Prevotella ruminicola 23
+1.6807	2	0	class	117743	            Flavobacteriia
+1.6807	2	0	order	200644	              Flavobacteriales
+1.6807	2	0	family	49546	                Flavobacteriaceae
+1.6807	2	0	genus	225842	                  Formosa
+1.6807	2	0	species	320324	                    Formosa agariphila
+1.6807	2	2	strain	1347342	                      Formosa agariphila KMM 3901
+5.8824	7	2	phylum	1224	      Pseudomonadota
+4.2017	5	2	class	1236	        Gammaproteobacteria
+2.5210	3	0	order	91347	          Enterobacterales
+2.5210	3	1	family	543	            Enterobacteriaceae
+1.6807	2	0	genus	561	              Escherichia
+1.6807	2	0	species	562	                Escherichia coli
+1.6807	2	2	strain	83333	                  Escherichia coli K-12
+4.2017	5	0	clade	1783272	      Terrabacteria group
+3.3613	4	1	phylum	1239	        Bacillota
+1.6807	2	0	class	91061	          Bacilli
+1.6807	2	1	order	1385	            Bacillales
+0.8403	1	1	family	186817	              Bacillaceae
+0.8403	1	0	class	186801	          Clostridia
+0.8403	1	0	order	186802	            Eubacteriales
+0.8403	1	0	family	31979	              Clostridiaceae
+0.8403	1	0	genus	1485	                Clostridium
+0.8403	1	0	species	1520	                  Clostridium beijerinckii
+0.8403	1	1	strain	290402	                    Clostridium beijerinckii NCIMB 8052
+0.8403	1	0	phylum	201174	        Actinomycetota
+0.8403	1	1	class	1760	          Actinomycetes
+1.6807	2	0	superkingdom	2157	    Archaea
+1.6807	2	1	phylum	28890	      Euryarchaeota
+0.8403	1	0	class	183980	        Archaeoglobi
+0.8403	1	0	order	2231	          Archaeoglobales
+0.8403	1	0	family	2232	            Archaeoglobaceae
+0.8403	1	0	genus	2233	              Archaeoglobus
+0.8403	1	0	species	2234	                Archaeoglobus fulgidus
+0.8403	1	1	strain	224325	                  Archaeoglobus fulgidus DSM 4304

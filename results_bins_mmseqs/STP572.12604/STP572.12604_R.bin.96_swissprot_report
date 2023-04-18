@@ -1,0 +1,85 @@
+100.0000	114	2	no rank	1	root
+98.2456	112	2	no rank	131567	  cellular organisms
+94.7368	108	35	superkingdom	2	    Bacteria
+55.2632	63	0	clade	1783272	      Terrabacteria group
+54.3860	62	27	phylum	1239	        Bacillota
+26.3158	30	12	class	91061	          Bacilli
+14.9123	17	2	order	1385	            Bacillales
+11.4035	13	2	family	186817	              Bacillaceae
+8.7719	10	2	genus	1386	                Bacillus
+7.0175	8	0	species group	653685	                  Bacillus subtilis group
+7.0175	8	0	species	1423	                    Bacillus subtilis
+7.0175	8	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+7.0175	8	8	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+0.8772	1	0	genus	2893055	                Halalkalibacterium (ex Joshi et al. 2022)
+0.8772	1	0	species	86665	                  Halalkalibacterium halodurans
+0.8772	1	1	strain	272558	                    Halalkalibacterium halodurans C-125
+0.8772	1	0	family	90964	              Staphylococcaceae
+0.8772	1	0	genus	1279	                Staphylococcus
+0.8772	1	1	species	1280	                  Staphylococcus aureus
+0.8772	1	0	family	186820	              Listeriaceae
+0.8772	1	1	genus	1637	                Listeria
+0.8772	1	0	order	186826	            Lactobacillales
+0.8772	1	0	family	1300	              Streptococcaceae
+0.8772	1	0	genus	1357	                Lactococcus
+0.8772	1	1	species	1359	                  Lactococcus cremoris
+4.3860	5	0	class	186801	          Clostridia
+4.3860	5	1	order	186802	            Eubacteriales
+2.6316	3	0	family	31979	              Clostridiaceae
+2.6316	3	0	genus	1485	                Clostridium
+2.6316	3	1	species	1502	                  Clostridium perfringens
+1.7544	2	2	strain	195102	                    Clostridium perfringens str. 13
+0.8772	1	0	family	216572	              Oscillospiraceae
+0.8772	1	0	genus	35829	                Acetivibrio
+0.8772	1	0	species	1515	                  Acetivibrio thermocellus
+0.8772	1	1	strain	203119	                    Acetivibrio thermocellus ATCC 27405
+0.8772	1	0	phylum	201174	        Actinomycetota
+0.8772	1	0	class	1760	          Actinomycetes
+0.8772	1	0	order	85007	            Corynebacteriales
+0.8772	1	0	family	1762	              Mycobacteriaceae
+0.8772	1	0	genus	1763	                Mycobacterium
+0.8772	1	0	species group	77643	                  Mycobacterium tuberculosis complex
+0.8772	1	1	species	1773	                    Mycobacterium tuberculosis
+7.0175	8	2	phylum	1224	      Pseudomonadota
+3.5088	4	1	class	1236	        Gammaproteobacteria
+2.6316	3	0	order	91347	          Enterobacterales
+2.6316	3	0	family	543	            Enterobacteriaceae
+2.6316	3	0	genus	561	              Escherichia
+2.6316	3	2	species	562	                Escherichia coli
+0.8772	1	1	strain	83333	                  Escherichia coli K-12
+1.7544	2	0	class	28211	        Alphaproteobacteria
+0.8772	1	0	order	356	          Hyphomicrobiales
+0.8772	1	0	family	82115	            Rhizobiaceae
+0.8772	1	0	no rank	227292	              Sinorhizobium/Ensifer group
+0.8772	1	1	genus	28105	                Sinorhizobium
+0.8772	1	0	order	204458	          Caulobacterales
+0.8772	1	0	family	76892	            Caulobacteraceae
+0.8772	1	0	genus	75	              Caulobacter
+0.8772	1	1	species	155892	                Caulobacter vibrioides
+1.7544	2	0	clade	1783270	      FCB group
+1.7544	2	0	clade	68336	        Bacteroidetes/Chlorobi group
+1.7544	2	0	phylum	976	          Bacteroidota
+1.7544	2	0	class	200643	            Bacteroidia
+1.7544	2	0	order	171549	              Bacteroidales
+1.7544	2	0	family	815	                Bacteroidaceae
+1.7544	2	2	genus	816	                  Bacteroides
+1.7544	2	0	superkingdom	2759	    Eukaryota
+1.7544	2	0	kingdom	33090	      Viridiplantae
+1.7544	2	0	phylum	35493	        Streptophyta
+1.7544	2	0	subphylum	131221	          Streptophytina
+1.7544	2	0	clade	3193	            Embryophyta
+1.7544	2	0	clade	58023	              Tracheophyta
+1.7544	2	0	clade	78536	                Euphyllophyta
+1.7544	2	0	clade	58024	                  Spermatophyta
+1.7544	2	0	class	3398	                    Magnoliopsida
+1.7544	2	1	clade	1437183	                      Mesangiospermae
+0.8772	1	0	clade	71240	                        eudicotyledons
+0.8772	1	0	clade	91827	                          Gunneridae
+0.8772	1	0	clade	1437201	                            Pentapetalae
+0.8772	1	0	clade	71275	                              rosids
+0.8772	1	0	clade	91836	                                malvids
+0.8772	1	0	order	3699	                                  Brassicales
+0.8772	1	0	family	3700	                                    Brassicaceae
+0.8772	1	0	tribe	980083	                                      Camelineae
+0.8772	1	0	genus	3701	                                        Arabidopsis
+0.8772	1	1	species	3702	                                          Arabidopsis thaliana

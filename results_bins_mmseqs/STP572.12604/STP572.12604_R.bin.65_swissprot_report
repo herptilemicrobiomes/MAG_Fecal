@@ -1,0 +1,98 @@
+2.2901	3	3	no rank	0	unclassified
+97.7099	128	0	no rank	1	root
+96.9466	127	3	no rank	131567	  cellular organisms
+90.0763	118	28	superkingdom	2	    Bacteria
+61.8321	81	1	clade	1783272	      Terrabacteria group
+59.5420	78	33	phylum	1239	        Bacillota
+22.9008	30	7	class	91061	          Bacilli
+17.5573	23	1	order	1385	            Bacillales
+16.0305	21	4	family	186817	              Bacillaceae
+12.9771	17	0	genus	1386	                Bacillus
+12.9771	17	0	species group	653685	                  Bacillus subtilis group
+12.9771	17	0	species	1423	                    Bacillus subtilis
+12.9771	17	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+12.9771	17	17	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+0.7634	1	0	family	90964	              Staphylococcaceae
+0.7634	1	0	genus	1279	                Staphylococcus
+0.7634	1	1	species	1280	                  Staphylococcus aureus
+11.4504	15	7	class	186801	          Clostridia
+3.8168	5	1	order	186802	            Eubacteriales
+1.5267	2	1	family	31979	              Clostridiaceae
+0.7634	1	1	genus	1485	                Clostridium
+0.7634	1	0	family	31984	              Heliobacteriaceae
+0.7634	1	0	genus	2831443	                Heliomicrobium
+0.7634	1	0	species	35701	                  Heliomicrobium modesticaldum
+0.7634	1	1	strain	498761	                    Heliomicrobium modesticaldum Ice1
+0.7634	1	0	family	2937910	              Desulfotomaculaceae
+0.7634	1	0	genus	191373	                Pelotomaculum
+0.7634	1	0	species	110500	                  Pelotomaculum thermopropionicum
+0.7634	1	1	strain	370438	                    Pelotomaculum thermopropionicum SI
+1.5267	2	0	order	68295	            Thermoanaerobacterales
+1.5267	2	0	family	186814	              Thermoanaerobacteraceae
+0.7634	1	0	no rank	42857	                Moorella group
+0.7634	1	0	genus	44260	                  Moorella
+0.7634	1	0	species	1525	                    Moorella thermoacetica
+0.7634	1	1	strain	264732	                      Moorella thermoacetica ATCC 39073
+0.7634	1	0	genus	249529	                Caldanaerobacter
+0.7634	1	0	species	911092	                  Caldanaerobacter subterraneus
+0.7634	1	0	subspecies	119072	                    Caldanaerobacter subterraneus subsp. tengcongensis
+0.7634	1	1	strain	273068	                      Caldanaerobacter subterraneus subsp. tengcongensis MB4
+0.7634	1	0	order	53433	            Halanaerobiales
+0.7634	1	0	family	972	              Halanaerobiaceae
+0.7634	1	0	genus	32636	                Halothermothrix
+0.7634	1	0	species	31909	                  Halothermothrix orenii
+0.7634	1	1	strain	373903	                    Halothermothrix orenii H 168
+1.5267	2	0	phylum	201174	        Actinomycetota
+1.5267	2	0	class	1760	          Actinomycetes
+1.5267	2	0	order	85007	            Corynebacteriales
+1.5267	2	0	family	1762	              Mycobacteriaceae
+1.5267	2	1	genus	1763	                Mycobacterium
+0.7634	1	0	species group	77643	                  Mycobacterium tuberculosis complex
+0.7634	1	1	species	1773	                    Mycobacterium tuberculosis
+6.1069	8	3	phylum	1224	      Pseudomonadota
+1.5267	2	1	class	1236	        Gammaproteobacteria
+0.7634	1	1	order	91347	          Enterobacterales
+1.5267	2	0	subphylum	68525	        delta/epsilon subdivisions
+1.5267	2	1	class	28221	          Deltaproteobacteria
+0.7634	1	1	order	69541	            Desulfuromonadales
+0.7634	1	0	class	28211	        Alphaproteobacteria
+0.7634	1	0	order	204441	          Rhodospirillales
+0.7634	1	0	family	2829815	            Azospirillaceae
+0.7634	1	0	genus	191	              Azospirillum
+0.7634	1	1	species	192	                Azospirillum brasilense
+0.7634	1	0	phylum	203691	      Spirochaetota
+0.7634	1	0	class	203692	        Spirochaetia
+0.7634	1	0	order	1643688	          Leptospirales
+0.7634	1	0	family	170	            Leptospiraceae
+0.7634	1	0	genus	171	              Leptospira
+0.7634	1	1	species	29508	                Leptospira meyeri
+4.5802	6	1	superkingdom	2157	    Archaea
+3.8168	5	0	phylum	28890	      Euryarchaeota
+2.2901	3	0	clade	2283794	        Methanomada group
+2.2901	3	0	class	183939	          Methanococci
+2.2901	3	0	order	2182	            Methanococcales
+2.2901	3	0	family	196117	              Methanocaldococcaceae
+2.2901	3	0	genus	196118	                Methanocaldococcus
+2.2901	3	0	species	2190	                  Methanocaldococcus jannaschii
+2.2901	3	3	strain	243232	                    Methanocaldococcus jannaschii DSM 2661
+0.7634	1	0	class	183968	        Thermococci
+0.7634	1	0	order	2258	          Thermococcales
+0.7634	1	0	family	2259	            Thermococcaceae
+0.7634	1	0	genus	2260	              Pyrococcus
+0.7634	1	0	species	2261	                Pyrococcus furiosus
+0.7634	1	1	strain	186497	                  Pyrococcus furiosus DSM 3638
+0.7634	1	0	clade	2290931	        Stenosarchaea group
+0.7634	1	0	class	183963	          Halobacteria
+0.7634	1	0	order	2235	            Halobacteriales
+0.7634	1	0	family	2236	              Halobacteriaceae
+0.7634	1	0	genus	2239	                Halobacterium
+0.7634	1	1	species	2242	                  Halobacterium salinarum
+0.7634	1	0	superkingdom	10239	  Viruses
+0.7634	1	0	clade	2731341	    Duplodnaviria
+0.7634	1	0	kingdom	2731360	      Heunggongvirae
+0.7634	1	0	phylum	2731618	        Uroviricota
+0.7634	1	0	class	2731619	          Caudoviricetes
+0.7634	1	0	family	2946170	            Straboviridae
+0.7634	1	0	subfamily	1198136	              Tevenvirinae
+0.7634	1	0	genus	10663	                Tequatrovirus
+0.7634	1	1	species	10665	                  Tequatrovirus T4

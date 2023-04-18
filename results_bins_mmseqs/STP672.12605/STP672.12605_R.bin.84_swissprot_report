@@ -1,0 +1,114 @@
+100.0000	107	0	no rank	1	root
+97.1963	104	7	no rank	131567	  cellular organisms
+86.9159	93	22	superkingdom	2	    Bacteria
+59.8131	64	0	clade	1783272	      Terrabacteria group
+57.9439	62	36	phylum	1239	        Bacillota
+14.0187	15	2	class	91061	          Bacilli
+10.2804	11	1	order	1385	            Bacillales
+8.4112	9	2	family	186817	              Bacillaceae
+6.5421	7	0	genus	1386	                Bacillus
+5.6075	6	0	species group	653685	                  Bacillus subtilis group
+5.6075	6	0	species	1423	                    Bacillus subtilis
+5.6075	6	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+5.6075	6	6	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+0.9346	1	0	species group	86661	                  Bacillus cereus group
+0.9346	1	0	species	1428	                    Bacillus thuringiensis
+0.9346	1	1	no rank	1434	                      Bacillus thuringiensis serovar berliner
+0.9346	1	0	family	186820	              Listeriaceae
+0.9346	1	0	genus	1637	                Listeria
+0.9346	1	0	species	1639	                  Listeria monocytogenes
+0.9346	1	1	strain	169963	                    Listeria monocytogenes EGD-e
+1.8692	2	0	order	186826	            Lactobacillales
+1.8692	2	0	family	1300	              Streptococcaceae
+1.8692	2	0	genus	1357	                Lactococcus
+1.8692	2	2	species	1359	                  Lactococcus cremoris
+10.2804	11	0	class	186801	          Clostridia
+10.2804	11	7	order	186802	            Eubacteriales
+2.8037	3	1	family	186803	              Lachnospiraceae
+0.9346	1	0	genus	1506553	                Lachnoclostridium
+0.9346	1	0	species	66219	                  Lachnoclostridium phytofermentans
+0.9346	1	1	strain	357809	                    Lachnoclostridium phytofermentans ISDg
+0.9346	1	0	no rank	2840493	                Lachnospiraceae incertae sedis
+0.9346	1	0	species	39491	                  [Eubacterium] rectale
+0.9346	1	1	strain	515619	                    [Eubacterium] rectale ATCC 33656
+0.9346	1	0	family	31979	              Clostridiaceae
+0.9346	1	0	genus	1485	                Clostridium
+0.9346	1	0	species	1488	                  Clostridium acetobutylicum
+0.9346	1	1	strain	272562	                    Clostridium acetobutylicum ATCC 824
+0.9346	1	0	phylum	1297	        Deinococcota
+0.9346	1	0	class	188787	          Deinococci
+0.9346	1	0	order	118964	            Deinococcales
+0.9346	1	0	family	183710	              Deinococcaceae
+0.9346	1	0	genus	1298	                Deinococcus
+0.9346	1	0	species	1299	                  Deinococcus radiodurans
+0.9346	1	1	strain	243230	                    Deinococcus radiodurans R1
+0.9346	1	0	phylum	201174	        Actinomycetota
+0.9346	1	0	class	1760	          Actinomycetes
+0.9346	1	0	order	85011	            Streptomycetales
+0.9346	1	0	family	2062	              Streptomycetaceae
+0.9346	1	0	genus	1883	                Streptomyces
+0.9346	1	1	species	38300	                  Streptomyces pristinaespiralis
+6.5421	7	3	phylum	1224	      Pseudomonadota
+3.7383	4	1	class	1236	        Gammaproteobacteria
+1.8692	2	0	order	91347	          Enterobacterales
+1.8692	2	0	family	543	            Enterobacteriaceae
+0.9346	1	0	genus	561	              Escherichia
+0.9346	1	0	species	562	                Escherichia coli
+0.9346	1	1	strain	83333	                  Escherichia coli K-12
+0.9346	1	0	genus	590	              Salmonella
+0.9346	1	0	species	28901	                Salmonella enterica
+0.9346	1	1	subspecies	59201	                  Salmonella enterica subsp. enterica
+0.9346	1	0	order	135625	          Pasteurellales
+0.9346	1	0	family	712	            Pasteurellaceae
+0.9346	1	0	genus	724	              Haemophilus
+0.9346	1	0	species	727	                Haemophilus influenzae
+0.9346	1	1	strain	71421	                  Haemophilus influenzae Rd KW20
+2.8037	3	1	superkingdom	2759	    Eukaryota
+1.8692	2	0	clade	33154	      Opisthokonta
+0.9346	1	0	kingdom	4751	        Fungi
+0.9346	1	0	subkingdom	451864	          Dikarya
+0.9346	1	0	phylum	4890	            Ascomycota
+0.9346	1	0	clade	716545	              saccharomyceta
+0.9346	1	0	subphylum	147537	                Saccharomycotina
+0.9346	1	0	class	4891	                  Saccharomycetes
+0.9346	1	0	order	4892	                    Saccharomycetales
+0.9346	1	0	no rank	241407	                      Saccharomycetales incertae sedis
+0.9346	1	0	genus	75735	                        Starmerella
+0.9346	1	1	species	75736	                          Starmerella bombicola
+0.9346	1	0	kingdom	33208	        Metazoa
+0.9346	1	0	clade	6072	          Eumetazoa
+0.9346	1	0	clade	33213	            Bilateria
+0.9346	1	0	clade	33511	              Deuterostomia
+0.9346	1	0	phylum	7711	                Chordata
+0.9346	1	0	subphylum	89593	                  Craniata
+0.9346	1	0	clade	7742	                    Vertebrata
+0.9346	1	0	clade	7776	                      Gnathostomata
+0.9346	1	0	clade	117570	                        Teleostomi
+0.9346	1	0	clade	117571	                          Euteleostomi
+0.9346	1	0	superclass	8287	                            Sarcopterygii
+0.9346	1	0	clade	1338369	                              Dipnotetrapodomorpha
+0.9346	1	0	clade	32523	                                Tetrapoda
+0.9346	1	0	clade	32524	                                  Amniota
+0.9346	1	0	class	40674	                                    Mammalia
+0.9346	1	0	clade	32525	                                      Theria
+0.9346	1	0	clade	9347	                                        Eutheria
+0.9346	1	1	clade	1437010	                                          Boreoeutheria
+0.9346	1	0	superkingdom	2157	    Archaea
+0.9346	1	0	phylum	28890	      Euryarchaeota
+0.9346	1	0	clade	2283794	        Methanomada group
+0.9346	1	0	class	183939	          Methanococci
+0.9346	1	0	order	2182	            Methanococcales
+0.9346	1	0	family	196117	              Methanocaldococcaceae
+0.9346	1	0	genus	196118	                Methanocaldococcus
+0.9346	1	0	species	2190	                  Methanocaldococcus jannaschii
+0.9346	1	1	strain	243232	                    Methanocaldococcus jannaschii DSM 2661
+2.8037	3	0	superkingdom	10239	  Viruses
+2.8037	3	0	clade	2731341	    Duplodnaviria
+2.8037	3	0	kingdom	2731360	      Heunggongvirae
+2.8037	3	0	phylum	2731618	        Uroviricota
+2.8037	3	1	class	2731619	          Caudoviricetes
+0.9346	1	0	genus	1912144	            Lubbockvirus
+0.9346	1	0	species	320122	              Lubbockvirus CD119
+0.9346	1	1	no rank	1283341	                Clostridium phage phiCD119 USA/Govind/2006
+0.9346	1	0	no rank	2788787	            unclassified Caudoviricetes
+0.9346	1	1	species	10724	              Bacillus phage SPP1

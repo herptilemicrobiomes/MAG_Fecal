@@ -1,0 +1,50 @@
+100.0000	64	0	no rank	1	root
+100.0000	64	1	no rank	131567	  cellular organisms
+93.7500	60	35	superkingdom	2	    Bacteria
+28.1250	18	0	clade	1783270	      FCB group
+28.1250	18	0	clade	68336	        Bacteroidetes/Chlorobi group
+28.1250	18	12	phylum	976	          Bacteroidota
+7.8125	5	0	class	200643	            Bacteroidia
+7.8125	5	4	order	171549	              Bacteroidales
+1.5625	1	0	family	171551	                Porphyromonadaceae
+1.5625	1	0	genus	836	                  Porphyromonas
+1.5625	1	0	species	837	                    Porphyromonas gingivalis
+1.5625	1	1	strain	242619	                      Porphyromonas gingivalis W83
+1.5625	1	0	class	117743	            Flavobacteriia
+1.5625	1	0	order	200644	              Flavobacteriales
+1.5625	1	0	family	49546	                Flavobacteriaceae
+1.5625	1	0	genus	237	                  Flavobacterium
+1.5625	1	0	species	96345	                    Flavobacterium psychrophilum
+1.5625	1	1	strain	402612	                      Flavobacterium psychrophilum JIP02/86
+4.6875	3	2	phylum	1224	      Pseudomonadota
+1.5625	1	1	class	1236	        Gammaproteobacteria
+4.6875	3	0	clade	1783272	      Terrabacteria group
+4.6875	3	0	phylum	1239	        Bacillota
+4.6875	3	0	class	91061	          Bacilli
+4.6875	3	0	order	1385	            Bacillales
+3.1250	2	1	family	186817	              Bacillaceae
+1.5625	1	0	genus	1386	                Bacillus
+1.5625	1	0	species group	653685	                  Bacillus subtilis group
+1.5625	1	0	species	1423	                    Bacillus subtilis
+1.5625	1	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+1.5625	1	1	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+1.5625	1	0	family	186822	              Paenibacillaceae
+1.5625	1	0	genus	44249	                Paenibacillus
+1.5625	1	1	species	198119	                  Paenibacillus barcinonensis
+1.5625	1	0	clade	1783257	      PVC group
+1.5625	1	0	phylum	204428	        Chlamydiota
+1.5625	1	0	class	204429	          Chlamydiia
+1.5625	1	0	order	51291	            Chlamydiales
+1.5625	1	0	family	809	              Chlamydiaceae
+1.5625	1	0	no rank	1113537	                Chlamydia/Chlamydophila group
+1.5625	1	1	genus	810	                  Chlamydia
+3.1250	2	2	superkingdom	2759	    Eukaryota
+1.5625	1	0	superkingdom	2157	    Archaea
+1.5625	1	0	phylum	28890	      Euryarchaeota
+1.5625	1	0	clade	2283794	        Methanomada group
+1.5625	1	0	class	183939	          Methanococci
+1.5625	1	0	order	2182	            Methanococcales
+1.5625	1	0	family	196117	              Methanocaldococcaceae
+1.5625	1	0	genus	196118	                Methanocaldococcus
+1.5625	1	0	species	2190	                  Methanocaldococcus jannaschii
+1.5625	1	1	strain	243232	                    Methanocaldococcus jannaschii DSM 2661

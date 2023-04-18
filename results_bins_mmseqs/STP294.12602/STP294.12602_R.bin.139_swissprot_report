@@ -1,0 +1,70 @@
+5.4054	2	2	no rank	0	unclassified
+94.5946	35	0	no rank	1	root
+94.5946	35	1	no rank	131567	  cellular organisms
+89.1892	33	7	superkingdom	2	    Bacteria
+43.2432	16	0	clade	1783272	      Terrabacteria group
+40.5405	15	1	phylum	1239	        Bacillota
+29.7297	11	1	class	91061	          Bacilli
+24.3243	9	1	order	1385	            Bacillales
+21.6216	8	0	family	186817	              Bacillaceae
+21.6216	8	0	genus	1386	                Bacillus
+21.6216	8	0	species group	653685	                  Bacillus subtilis group
+21.6216	8	0	species	1423	                    Bacillus subtilis
+21.6216	8	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+21.6216	8	8	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+2.7027	1	0	order	186826	            Lactobacillales
+2.7027	1	0	family	1300	              Streptococcaceae
+2.7027	1	0	genus	1301	                Streptococcus
+2.7027	1	0	species	1309	                  Streptococcus mutans
+2.7027	1	1	strain	210007	                    Streptococcus mutans UA159
+8.1081	3	0	class	186801	          Clostridia
+8.1081	3	0	order	186802	            Eubacteriales
+2.7027	1	0	family	31979	              Clostridiaceae
+2.7027	1	1	genus	1485	                Clostridium
+2.7027	1	0	family	186803	              Lachnospiraceae
+2.7027	1	0	genus	1506553	                Lachnoclostridium
+2.7027	1	0	species	66219	                  Lachnoclostridium phytofermentans
+2.7027	1	1	strain	357809	                    Lachnoclostridium phytofermentans ISDg
+2.7027	1	0	family	216572	              Oscillospiraceae
+2.7027	1	0	genus	35829	                Acetivibrio
+2.7027	1	0	species	1515	                  Acetivibrio thermocellus
+2.7027	1	1	strain	203119	                    Acetivibrio thermocellus ATCC 27405
+2.7027	1	0	phylum	201174	        Actinomycetota
+2.7027	1	0	class	1760	          Actinomycetes
+2.7027	1	0	order	85004	            Bifidobacteriales
+2.7027	1	0	family	31953	              Bifidobacteriaceae
+2.7027	1	0	genus	1678	                Bifidobacterium
+2.7027	1	0	species	216816	                  Bifidobacterium longum
+2.7027	1	0	subspecies	1679	                    Bifidobacterium longum subsp. longum
+2.7027	1	1	strain	565042	                      Bifidobacterium longum subsp. longum JCM 1217
+27.0270	10	2	phylum	1224	      Pseudomonadota
+16.2162	6	1	class	1236	        Gammaproteobacteria
+10.8108	4	0	order	91347	          Enterobacterales
+10.8108	4	1	family	543	            Enterobacteriaceae
+8.1081	3	0	genus	561	              Escherichia
+8.1081	3	0	species	562	                Escherichia coli
+8.1081	3	3	strain	83333	                  Escherichia coli K-12
+2.7027	1	0	order	72274	          Pseudomonadales
+2.7027	1	1	family	135621	            Pseudomonadaceae
+2.7027	1	0	class	28211	        Alphaproteobacteria
+2.7027	1	0	order	204457	          Sphingomonadales
+2.7027	1	0	family	41297	            Sphingomonadaceae
+2.7027	1	0	genus	165697	              Sphingopyxis
+2.7027	1	1	species	33050	                Sphingopyxis macrogoltabida
+2.7027	1	0	subphylum	68525	        delta/epsilon subdivisions
+2.7027	1	0	class	28221	          Deltaproteobacteria
+2.7027	1	0	order	69541	            Desulfuromonadales
+2.7027	1	0	family	2812024	              Syntrophotaleaceae
+2.7027	1	0	genus	2812025	                Syntrophotalea
+2.7027	1	0	species	19	                  Syntrophotalea carbinolica
+2.7027	1	1	strain	338963	                    Syntrophotalea carbinolica DSM 2380
+2.7027	1	0	superkingdom	2759	    Eukaryota
+2.7027	1	0	kingdom	33090	      Viridiplantae
+2.7027	1	0	phylum	35493	        Streptophyta
+2.7027	1	0	subphylum	131221	          Streptophytina
+2.7027	1	0	clade	3193	            Embryophyta
+2.7027	1	0	clade	58023	              Tracheophyta
+2.7027	1	0	clade	78536	                Euphyllophyta
+2.7027	1	0	clade	58024	                  Spermatophyta
+2.7027	1	0	class	3398	                    Magnoliopsida
+2.7027	1	1	clade	1437183	                      Mesangiospermae

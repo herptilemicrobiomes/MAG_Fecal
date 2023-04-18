@@ -1,0 +1,102 @@
+5.5556	3	3	no rank	0	unclassified
+94.4444	51	0	no rank	1	root
+94.4444	51	1	no rank	131567	  cellular organisms
+81.4815	44	6	superkingdom	2	    Bacteria
+57.4074	31	2	clade	1783272	      Terrabacteria group
+53.7037	29	4	phylum	1239	        Bacillota
+31.4815	17	5	class	91061	          Bacilli
+16.6667	9	2	order	1385	            Bacillales
+12.9630	7	0	family	186817	              Bacillaceae
+12.9630	7	0	genus	1386	                Bacillus
+12.9630	7	0	species group	653685	                  Bacillus subtilis group
+12.9630	7	0	species	1423	                    Bacillus subtilis
+12.9630	7	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+12.9630	7	7	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+5.5556	3	0	order	186826	            Lactobacillales
+3.7037	2	0	family	81852	              Enterococcaceae
+3.7037	2	0	genus	1350	                Enterococcus
+1.8519	1	1	species	1351	                  Enterococcus faecalis
+1.8519	1	1	species	1352	                  Enterococcus faecium
+1.8519	1	0	family	1300	              Streptococcaceae
+1.8519	1	1	genus	1301	                Streptococcus
+14.8148	8	2	class	186801	          Clostridia
+11.1111	6	2	order	186802	            Eubacteriales
+3.7037	2	0	family	31979	              Clostridiaceae
+3.7037	2	1	genus	1485	                Clostridium
+1.8519	1	0	no rank	2614128	                  unclassified Clostridium
+1.8519	1	1	species	1042156	                    Clostridium sp. SY8519
+1.8519	1	1	family	186803	              Lachnospiraceae
+1.8519	1	0	family	186804	              Peptostreptococcaceae
+1.8519	1	0	genus	1870884	                Clostridioides
+1.8519	1	0	species	1496	                  Clostridioides difficile
+1.8519	1	1	strain	272563	                    Clostridioides difficile 630
+11.1111	6	1	phylum	1224	      Pseudomonadota
+7.4074	4	1	class	1236	        Gammaproteobacteria
+3.7037	2	0	order	91347	          Enterobacterales
+3.7037	2	0	family	543	            Enterobacteriaceae
+3.7037	2	0	genus	561	              Escherichia
+3.7037	2	0	species	562	                Escherichia coli
+3.7037	2	2	strain	83333	                  Escherichia coli K-12
+1.8519	1	0	order	135625	          Pasteurellales
+1.8519	1	0	family	712	            Pasteurellaceae
+1.8519	1	0	genus	713	              Actinobacillus
+1.8519	1	1	species	715	                Actinobacillus pleuropneumoniae
+1.8519	1	0	subphylum	68525	        delta/epsilon subdivisions
+1.8519	1	0	class	28221	          Deltaproteobacteria
+1.8519	1	0	order	69541	            Desulfuromonadales
+1.8519	1	0	family	213422	              Geobacteraceae
+1.8519	1	0	genus	28231	                Geobacter
+1.8519	1	0	species	28232	                  Geobacter metallireducens
+1.8519	1	1	strain	269799	                    Geobacter metallireducens GS-15
+1.8519	1	0	phylum	200783	      Aquificae
+1.8519	1	0	class	187857	        Aquificae
+1.8519	1	0	order	32069	          Aquificales
+1.8519	1	0	family	64898	            Aquificaceae
+1.8519	1	0	genus	2713	              Aquifex
+1.8519	1	0	species	63363	                Aquifex aeolicus
+1.8519	1	1	strain	224324	                  Aquifex aeolicus VF5
+7.4074	4	1	superkingdom	2759	    Eukaryota
+3.7037	2	0	kingdom	33090	      Viridiplantae
+3.7037	2	0	phylum	35493	        Streptophyta
+3.7037	2	0	subphylum	131221	          Streptophytina
+3.7037	2	0	clade	3193	            Embryophyta
+3.7037	2	0	clade	58023	              Tracheophyta
+3.7037	2	0	clade	78536	                Euphyllophyta
+3.7037	2	0	clade	58024	                  Spermatophyta
+3.7037	2	0	class	3398	                    Magnoliopsida
+3.7037	2	0	clade	1437183	                      Mesangiospermae
+1.8519	1	0	clade	4447	                        Liliopsida
+1.8519	1	0	subclass	1437197	                          Petrosaviidae
+1.8519	1	0	clade	4734	                            commelinids
+1.8519	1	0	order	38820	                              Poales
+1.8519	1	0	family	4479	                                Poaceae
+1.8519	1	0	clade	359160	                                  BOP clade
+1.8519	1	0	subfamily	147367	                                    Oryzoideae
+1.8519	1	0	tribe	147380	                                      Oryzeae
+1.8519	1	0	subtribe	1648021	                                        Oryzinae
+1.8519	1	0	genus	4527	                                          Oryza
+1.8519	1	0	species	4530	                                            Oryza sativa
+1.8519	1	1	no rank	39947	                                              Oryza sativa Japonica Group
+1.8519	1	0	clade	71240	                        eudicotyledons
+1.8519	1	0	clade	91827	                          Gunneridae
+1.8519	1	0	clade	1437201	                            Pentapetalae
+1.8519	1	0	clade	71275	                              rosids
+1.8519	1	0	clade	91836	                                malvids
+1.8519	1	0	order	3699	                                  Brassicales
+1.8519	1	0	family	3700	                                    Brassicaceae
+1.8519	1	0	tribe	980083	                                      Camelineae
+1.8519	1	0	genus	3701	                                        Arabidopsis
+1.8519	1	1	species	3702	                                          Arabidopsis thaliana
+1.8519	1	0	clade	2611341	      Metamonada
+1.8519	1	0	phylum	5719	        Parabasalia
+1.8519	1	0	order	740972	          Tritrichomonadida
+1.8519	1	0	family	740983	            Tritrichomonadidae
+1.8519	1	0	genus	5723	              Tritrichomonas
+1.8519	1	1	species	56690	                Tritrichomonas suis
+3.7037	2	0	superkingdom	2157	    Archaea
+3.7037	2	1	phylum	28890	      Euryarchaeota
+1.8519	1	0	clade	2283794	        Methanomada group
+1.8519	1	0	class	183925	          Methanobacteria
+1.8519	1	0	order	2158	            Methanobacteriales
+1.8519	1	0	family	2159	              Methanobacteriaceae
+1.8519	1	1	genus	145260	                Methanothermobacter
