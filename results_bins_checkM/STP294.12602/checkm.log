@@ -1,0 +1,50 @@
+[2023-04-18 11:45:18] INFO: CheckM v1.2.1
+[2023-04-18 11:45:18] INFO: checkm lineage_wf -t 16 -x fa ../results/STP294.12602 ./STP294.12602
+[2023-04-18 11:45:18] INFO: CheckM data: /bigdata/operations/pkgadmin/opt/linux/centos/8.x/x86_64/pkgs/checkm/1.2.1/checkm_data
+[2023-04-18 11:45:18] INFO: [CheckM - tree] Placing bins in reference genome tree.
+[2023-04-18 11:45:18] ERROR: No bins found. Check the extension (-x) used to identify bins.
+[2023-04-18 11:45:26] INFO: CheckM v1.2.1
+[2023-04-18 11:45:26] INFO: checkm lineage_wf -t 16 -x .fafa ../results/STP294.12602 ./STP294.12602
+[2023-04-18 11:45:26] INFO: CheckM data: /bigdata/operations/pkgadmin/opt/linux/centos/8.x/x86_64/pkgs/checkm/1.2.1/checkm_data
+[2023-04-18 11:45:26] INFO: [CheckM - tree] Placing bins in reference genome tree.
+[2023-04-18 11:45:26] ERROR: No bins found. Check the extension (-x) used to identify bins.
+[2023-04-18 11:45:36] INFO: CheckM v1.2.1
+[2023-04-18 11:45:36] INFO: checkm lineage_wf -t 16 -x .fa ../results/STP294.12602 ./STP294.12602
+[2023-04-18 11:45:36] INFO: CheckM data: /bigdata/operations/pkgadmin/opt/linux/centos/8.x/x86_64/pkgs/checkm/1.2.1/checkm_data
+[2023-04-18 11:45:36] INFO: [CheckM - tree] Placing bins in reference genome tree.
+[2023-04-18 11:45:36] ERROR: No bins found. Check the extension (-x) used to identify bins.
+[2023-04-18 11:45:46] INFO: CheckM v1.2.1
+[2023-04-18 11:45:46] INFO: checkm lineage_wf -t 16 -x fa ../results/STP294.12602/bins ./STP294.12602
+[2023-04-18 11:45:46] INFO: CheckM data: /bigdata/operations/pkgadmin/opt/linux/centos/8.x/x86_64/pkgs/checkm/1.2.1/checkm_data
+[2023-04-18 11:45:46] INFO: [CheckM - tree] Placing bins in reference genome tree.
+[2023-04-18 11:45:50] INFO: Identifying marker genes in 159 bins with 16 threads:
+[2023-04-18 11:50:25] INFO: Saving HMM info to file.
+[2023-04-18 11:50:25] INFO: Calculating genome statistics for 159 bins with 16 threads:
+[2023-04-18 11:50:27] INFO: Extracting marker genes to align.
+[2023-04-18 11:50:27] INFO: Parsing HMM hits to marker genes:
+[2023-04-18 11:50:32] INFO: Extracting 43 HMMs with 16 threads:
+[2023-04-18 11:50:33] INFO: Aligning 43 marker genes with 16 threads:
+[2023-04-18 11:50:37] INFO: Reading marker alignment files.
+[2023-04-18 11:50:37] INFO: Concatenating alignments.
+[2023-04-18 11:50:37] INFO: Placing 159 bins into the genome tree with pplacer (be patient).
+[2023-04-18 12:04:01] INFO: { Current stage: 0:18:15.661 || Total: 0:18:15.661 }
+[2023-04-18 12:04:01] INFO: [CheckM - lineage_set] Inferring lineage-specific marker sets.
+[2023-04-18 12:04:01] INFO: Reading HMM info from file.
+[2023-04-18 12:04:01] INFO: Parsing HMM hits to marker genes:
+[2023-04-18 12:04:06] INFO: Determining marker sets for each genome bin.
+[2023-04-18 12:04:18] INFO: Marker set written to: ./STP294.12602/lineage.ms
+[2023-04-18 12:04:18] INFO: { Current stage: 0:00:17.030 || Total: 0:18:32.691 }
+[2023-04-18 12:04:18] INFO: [CheckM - analyze] Identifying marker genes in bins.
+[2023-04-18 12:04:20] INFO: Identifying marker genes in 159 bins with 16 threads:
+[2023-04-18 12:12:48] INFO: Saving HMM info to file.
+[2023-04-18 12:12:51] INFO: { Current stage: 0:08:33.142 || Total: 0:27:05.833 }
+[2023-04-18 12:12:51] INFO: Parsing HMM hits to marker genes:
+[2023-04-18 12:13:08] INFO: Aligning marker genes with multiple hits in a single bin:
+[2023-04-18 12:14:58] INFO: { Current stage: 0:02:06.204 || Total: 0:29:12.038 }
+[2023-04-18 12:14:58] INFO: Calculating genome statistics for 159 bins with 16 threads:
+[2023-04-18 12:15:00] INFO: { Current stage: 0:00:02.074 || Total: 0:29:14.113 }
+[2023-04-18 12:15:00] INFO: [CheckM - qa] Tabulating genome statistics.
+[2023-04-18 12:15:00] INFO: Calculating AAI between multi-copy marker genes.
+[2023-04-18 12:15:00] INFO: Reading HMM info from file.
+[2023-04-18 12:15:02] INFO: Parsing HMM hits to marker genes:
+[2023-04-18 12:15:19] INFO: { Current stage: 0:00:19.593 || Total: 0:29:33.707 }

@@ -1,5 +1,5 @@
 #!/usr/bin/bash -l
-#SBATCH -p short -C ryzen -N 1 -n 1 -c 4 --mem 48gb --out logs/fastp.%a.log
+#SBATCH -p short -N 1 -n 1 -c 4 --mem 48gb --out logs/fastp.%a.log
 
 module load fastp
 
