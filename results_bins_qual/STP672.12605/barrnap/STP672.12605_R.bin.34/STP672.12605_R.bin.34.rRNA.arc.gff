@@ -1,0 +1,4 @@
+##gff-version 3
+k141_213632	barrnap:0.9	rRNA	14903	15014	1.1e-16	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+k141_213776	barrnap:0.9	rRNA	28511	28622	1.3e-16	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+k141_250885	barrnap:0.9	rRNA	4	95	6.7e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 77 percent of the 5S ribosomal RNA

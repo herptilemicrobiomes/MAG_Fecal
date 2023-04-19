@@ -1,0 +1,3 @@
+##gff-version 3
+k141_50107	barrnap:0.9	rRNA	5649	7176	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+k141_50107	barrnap:0.9	rRNA	7843	9647	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 55 percent of the 23S ribosomal RNA

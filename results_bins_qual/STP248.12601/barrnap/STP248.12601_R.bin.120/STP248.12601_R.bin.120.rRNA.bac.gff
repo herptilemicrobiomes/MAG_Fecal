@@ -1,0 +1,4 @@
+##gff-version 3
+k141_135547	barrnap:0.9	rRNA	19	123	4.2e-15	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+k141_491858	barrnap:0.9	rRNA	109031	109128	9e-15	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+k141_582521	barrnap:0.9	rRNA	363258	363362	4.2e-15	-	.	Name=5S_rRNA;product=5S ribosomal RNA

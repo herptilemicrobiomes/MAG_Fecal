@@ -1,0 +1,4 @@
+##gff-version 3
+k141_148640	barrnap:0.9	rRNA	55153	56662	1.9e-232	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+k141_148640	barrnap:0.9	rRNA	57075	60051	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+k141_148640	barrnap:0.9	rRNA	60195	60304	4.5e-11	+	.	Name=5S_rRNA;product=5S ribosomal RNA
