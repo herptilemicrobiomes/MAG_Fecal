@@ -1,0 +1,10 @@
+user_genome	classification	fastani_reference	fastani_reference_radius	fastani_taxonomy	fastani_ani	fastani_af	closest_placement_reference	closest_placement_radius	closest_placement_taxonomy	closest_placement_ani	closest_placement_af	pplacer_taxonomy	classification_method	note	other_related_references(genome_id,species_name,radius,ANI,AF)	msa_percent	translation_table	red_value	warnings
+STP701.12606_R.bin.1.fa	Unclassified	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	No bacterial or archaeal marker
+STP701.12606_R.bin.10.fa	Unclassified	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	No bacterial or archaeal marker
+STP701.12606_R.bin.3.fa	Unclassified	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	No bacterial or archaeal marker
+STP701.12606_R.bin.4.fa	Unclassified	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	No bacterial or archaeal marker
+STP701.12606_R.bin.5.fa	d__Bacteria;p__Campylobacterota;c__Campylobacteria;o__Campylobacterales;f__Helicobacteraceae;g__;s__	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	d__Bacteria;p__Campylobacterota;c__Campylobacteria;o__Campylobacterales;f__Helicobacteraceae;g__;s__	taxonomic novelty determined using RED	classification based on placement in class-level tree	N/A	93.19	11	0.8819072162307077	N/A
+STP701.12606_R.bin.6.fa	Unclassified	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	No bacterial or archaeal marker
+STP701.12606_R.bin.7.fa	Unclassified	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	No bacterial or archaeal marker
+STP701.12606_R.bin.8.fa	Unclassified	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	No bacterial or archaeal marker
+STP701.12606_R.bin.9.fa	Unclassified	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	No bacterial or archaeal marker
