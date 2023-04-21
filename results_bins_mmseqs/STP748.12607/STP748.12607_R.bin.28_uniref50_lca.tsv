@@ -1,0 +1,346 @@
+k141_1204107	84998	class	Coriobacteriia	1	1	1	1.000	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_524697	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_187740	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_1873181	2052159	species	Coriobacteriia bacterium	3	1	1	1.000	unknown;Actinobacteria;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;-_unclassified Coriobacteriia;s_Coriobacteriia bacterium
+k141_2217625	1643826	family	Eggerthellaceae	2	2	2	1.000	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae
+k141_1873364	1926677	genus	Raoultibacter	2	1	1	1.000	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae;g_Raoultibacter
+k141_2218585	2	superkingdom	Bacteria	2	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_528738	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_1209147	2	superkingdom	Bacteria	3	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1549785	2	superkingdom	Bacteria	5	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1842927	84998	class	Coriobacteriia	2	2	2	1.000	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_1177089	2	superkingdom	Bacteria	4	4	3	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1517031	1643824	family	Atopobiaceae	2	1	1	1.000	unknown;Actinobacteria;Atopobiaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Coriobacteriales;f_Atopobiaceae
+k141_1846458	84998	class	Coriobacteriia	2	2	1	0.500	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_1179186	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_1518596	1262868	species	Cryptobacterium sp. CAG:338	2	2	1	0.500	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae;g_Cryptobacterium;-_environmental samples;s_Cryptobacterium sp. CAG:338
+k141_1518935	543	family	Enterobacteriaceae	5	4	2	0.500	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+k141_839786	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1180335	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1520229	2	superkingdom	Bacteria	2	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1310330	1783272	clade	Terrabacteria group	4	3	3	1.000	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_2319764	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1648420	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1648934	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2326095	2	superkingdom	Bacteria	4	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_297289	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1657642	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1982536	84998	class	Coriobacteriia	5	4	3	0.680	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_981312	1224	phylum	Proteobacteria	2	2	1	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1660535	201174	phylum	Actinobacteria	2	2	1	0.500	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_999984	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_660200	201174	phylum	Actinobacteria	2	2	1	0.500	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_1680299	2	superkingdom	Bacteria	3	3	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_321332	1	no rank	root	1	1	1	1.000	unknown;unknown;unknown	-_root
+k141_1682139	1783272	clade	Terrabacteria group	2	2	1	0.500	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_1345862	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2354317	1643826	family	Eggerthellaceae	2	2	1	0.500	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae
+k141_1004083	1783272	clade	Terrabacteria group	2	2	2	1.000	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_664061	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1346564	84998	class	Coriobacteriia	3	3	2	0.670	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_1744579	2	superkingdom	Bacteria	2	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_57554	572010	species	Slackia isoflavoniconvertens	3	2	1	0.500	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae;g_Slackia;s_Slackia isoflavoniconvertens
+k141_394321	1643826	family	Eggerthellaceae	4	4	2	0.500	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae
+k141_2421691	1643826	family	Eggerthellaceae	2	2	1	0.500	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae
+k141_2087912	84998	class	Coriobacteriia	2	2	2	1.000	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_1075786	84998	class	Coriobacteriia	3	3	1	0.880	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_736717	2	superkingdom	Bacteria	4	4	3	0.680	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_62371	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1750054	1643826	family	Eggerthellaceae	2	2	1	0.500	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae
+k141_1750298	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2382746	84998	class	Coriobacteriia	1	1	1	1.000	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_2383888	1262876	species	Eggerthella sp. CAG:298	2	2	1	0.500	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae;g_Eggerthella;-_environmental samples;s_Eggerthella sp. CAG:298
+k141_698591	84998	class	Coriobacteriia	3	3	2	0.520	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_698635	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_23484	84998	class	Coriobacteriia	1	1	1	1.000	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_360882	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2049200	28216	class	Betaproteobacteria	5	5	3	0.970	unknown;Proteobacteria;uc_Betaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria
+k141_2387114	201174	phylum	Actinobacteria	4	3	2	0.670	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_363024	201174	phylum	Actinobacteria	3	3	2	0.950	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_703413	2	superkingdom	Bacteria	2	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_324365	84998	class	Coriobacteriia	4	3	2	0.520	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_2009588	84998	class	Coriobacteriia	2	2	2	1.000	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_667053	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_327233	242230	species	Eggerthella sinensis	2	2	1	0.500	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae;g_Eggerthella;s_Eggerthella sinensis
+k141_2011948	2	superkingdom	Bacteria	2	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_332077	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_681153	1783272	clade	Terrabacteria group	3	3	2	0.670	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_2031544	2	superkingdom	Bacteria	4	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1022927	1972561	species	Eggerthellaceae bacterium	2	2	1	0.500	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae;-_unclassified Eggerthellaceae;s_Eggerthellaceae bacterium
+k141_1699673	2	superkingdom	Bacteria	2	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1498448	644652	genus	Gordonibacter	2	1	1	1.000	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae;g_Gordonibacter
+k141_2173772	242230	species	Eggerthella sinensis	2	1	1	1.000	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae;g_Eggerthella;s_Eggerthella sinensis
+k141_822565	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_824590	84998	class	Coriobacteriia	3	3	2	0.510	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_825712	201174	phylum	Actinobacteria	4	4	2	0.660	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_828616	1643826	family	Eggerthellaceae	2	1	1	1.000	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae
+k141_1169072	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_152267	2	superkingdom	Bacteria	5	4	3	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1170731	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_832476	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_530189	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1878058	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_873640	1678	genus	Bifidobacterium	1	1	1	1.000	unknown;Actinobacteria;Bifidobacteriaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Bifidobacteriales;f_Bifidobacteriaceae;g_Bifidobacterium
+k141_1553719	84998	class	Coriobacteriia	2	2	1	0.910	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_877639	201174	phylum	Actinobacteria	3	2	1	0.500	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_538649	2	superkingdom	Bacteria	3	3	2	0.980	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1558573	1643826	family	Eggerthellaceae	5	5	3	0.520	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae
+k141_880828	2	superkingdom	Bacteria	4	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1223671	1643826	family	Eggerthellaceae	2	2	1	0.500	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae
+k141_543622	84998	class	Coriobacteriia	2	2	1	0.500	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_982666	1783272	clade	Terrabacteria group	3	3	3	1.000	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_2662512	84998	class	Coriobacteriia	1	1	1	1.000	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_1986224	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_983619	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_303068	1780377	species	Coriobacteriaceae bacterium CHKCI002	2	2	1	0.500	unknown;Actinobacteria;Coriobacteriaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Coriobacteriales;f_Coriobacteriaceae;-_unclassified Coriobacteriaceae;s_Coriobacteriaceae bacterium CHKCI002
+k141_1662844	2	superkingdom	Bacteria	3	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1664822	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1664873	2	superkingdom	Bacteria	2	2	1	0.930	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_305512	447020	genus	Adlercreutzia	2	2	1	0.500	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae;g_Adlercreutzia
+k141_305774	84998	class	Coriobacteriia	2	2	2	1.000	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_1947648	201174	phylum	Actinobacteria	1	1	1	1.000	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_1948437	84998	class	Coriobacteriia	3	2	1	0.500	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_1287949	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2298326	2	superkingdom	Bacteria	5	5	4	0.760	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2299544	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2303317	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1294733	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1958575	2	superkingdom	Bacteria	6	5	4	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1636188	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2308542	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_126129	1643826	family	Eggerthellaceae	1	1	1	1.000	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae
+k141_2154935	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_464309	186802	order	Eubacteriales	2	2	1	0.960	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_1143899	84998	class	Coriobacteriia	2	2	1	0.500	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_804212	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_129124	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2158928	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2160661	84998	class	Coriobacteriia	2	2	2	1.000	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_469734	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1149554	854	species	Fusobacterium russii	1	1	1	1.000	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Fusobacterium;s_Fusobacterium russii
+k141_688431	2	superkingdom	Bacteria	2	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1026851	2	superkingdom	Bacteria	4	4	3	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2377214	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2377308	84998	class	Coriobacteriia	5	5	3	0.730	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_1366181	201174	phylum	Actinobacteria	3	3	2	0.990	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_2378369	644652	genus	Gordonibacter	4	3	2	0.520	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae;g_Gordonibacter
+k141_691838	1239	phylum	Firmicutes	3	2	1	0.500	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_2378678	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1704426	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_694432	84111	genus	Eggerthella	2	2	1	0.500	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae;g_Eggerthella
+k141_771457	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1111854	1643826	family	Eggerthellaceae	3	3	2	0.670	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae
+k141_1453004	1643826	family	Eggerthellaceae	2	1	1	1.000	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae
+k141_774281	84998	class	Coriobacteriia	2	2	2	1.000	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_775050	1643826	family	Eggerthellaceae	2	2	1	0.500	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae
+k141_1454544	1239	phylum	Firmicutes	2	2	1	0.500	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_776418	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1116022	2	superkingdom	Bacteria	3	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_777035	84998	class	Coriobacteriia	2	2	2	1.000	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_1789754	84998	class	Coriobacteriia	4	4	2	0.510	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_1961504	1	no rank	root	3	2	2	1.000	unknown;unknown;unknown	-_root
+k141_1301362	2052159	species	Coriobacteriia bacterium	2	2	1	0.960	unknown;Actinobacteria;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;-_unclassified Coriobacteriia;s_Coriobacteriia bacterium
+k141_279975	1926677	genus	Raoultibacter	2	2	1	0.500	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae;g_Raoultibacter
+k141_961498	1262956	species	Ruminococcus sp. CAG:379	2	2	1	0.500	unknown;Firmicutes;Oscillospiraceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales;f_Oscillospiraceae;g_Ruminococcus;-_environmental samples;s_Ruminococcus sp. CAG:379
+k141_1639770	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1640482	1239	phylum	Firmicutes	4	4	2	0.640	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_622173	1643826	family	Eggerthellaceae	2	2	1	0.500	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae
+k141_1968166	84998	class	Coriobacteriia	2	2	1	0.500	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_284877	2	superkingdom	Bacteria	4	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_966523	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_442731	1335613	species	Gordonibacter urolithinfaciens	2	2	1	0.500	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae;g_Gordonibacter;s_Gordonibacter urolithinfaciens
+k141_107608	2	superkingdom	Bacteria	9	7	6	0.810	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_107895	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_786928	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_786993	0	no rank	unclassified	2	0	0	0.000		
+k141_112034	1643826	family	Eggerthellaceae	2	2	1	0.500	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae
+k141_1127033	2	superkingdom	Bacteria	10	10	9	0.890	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_788805	1780377	species	Coriobacteriaceae bacterium CHKCI002	2	2	1	0.500	unknown;Actinobacteria;Coriobacteriaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Coriobacteriales;f_Coriobacteriaceae;-_unclassified Coriobacteriaceae;s_Coriobacteriaceae bacterium CHKCI002
+k141_450134	84998	class	Coriobacteriia	2	2	1	0.500	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_2142773	2	superkingdom	Bacteria	4	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_593990	201174	phylum	Actinobacteria	2	2	2	1.000	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_594959	1643826	family	Eggerthellaceae	2	2	1	0.500	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae
+k141_256360	80840	order	Burkholderiales	6	4	2	0.500	unknown;Proteobacteria;uc_Burkholderiales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales
+k141_1280516	2	superkingdom	Bacteria	2	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_939259	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_599191	2	superkingdom	Bacteria	4	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1620204	84998	class	Coriobacteriia	2	2	1	0.500	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_2623718	1783272	clade	Terrabacteria group	2	1	1	1.000	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_263226	84998	class	Coriobacteriia	1	1	1	1.000	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_1947411	201174	phylum	Actinobacteria	4	4	2	0.500	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_790383	84112	species	Eggerthella lenta	2	2	1	0.500	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae;g_Eggerthella;s_Eggerthella lenta
+k141_452508	2	superkingdom	Bacteria	3	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1133441	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_118836	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_1474180	84998	class	Coriobacteriia	1	1	1	1.000	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_2482178	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_456062	2	superkingdom	Bacteria	6	5	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_795714	84998	class	Coriobacteriia	4	4	3	0.670	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_2148089	1224	phylum	Proteobacteria	4	4	2	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_795849	0	no rank	unclassified	1	0	0	0.000		
+k141_1927061	84998	class	Coriobacteriia	2	2	2	1.000	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_1602497	1780377	species	Coriobacteriaceae bacterium CHKCI002	2	1	1	1.000	unknown;Actinobacteria;Coriobacteriaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Coriobacteriales;f_Coriobacteriaceae;-_unclassified Coriobacteriaceae;s_Coriobacteriaceae bacterium CHKCI002
+k141_924157	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1605001	1643826	family	Eggerthellaceae	2	2	1	0.500	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae
+k141_586302	2	superkingdom	Bacteria	3	3	2	0.510	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_590017	84998	class	Coriobacteriia	3	2	1	0.500	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_1609582	84998	class	Coriobacteriia	2	2	1	0.500	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_1935453	1783272	clade	Terrabacteria group	2	1	1	1.000	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_592613	2	superkingdom	Bacteria	2	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2615633	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_457656	2	superkingdom	Bacteria	4	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1807974	1643826	family	Eggerthellaceae	2	2	1	0.500	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae
+k141_2485318	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_122051	1643826	family	Eggerthellaceae	2	2	1	0.500	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae
+k141_1138330	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1138680	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_123150	84998	class	Coriobacteriia	1	1	1	1.000	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_1478915	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2152756	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1140888	84998	class	Coriobacteriia	2	2	1	0.500	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_1778982	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_428005	201174	phylum	Actinobacteria	3	3	2	0.670	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_1779513	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_768526	1643826	family	Eggerthellaceae	2	1	1	1.000	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae
+k141_769557	2	superkingdom	Bacteria	5	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_431708	84998	class	Coriobacteriia	8	8	4	0.500	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_163764	201174	phylum	Actinobacteria	3	3	2	0.510	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_1521182	84998	class	Coriobacteriia	4	4	2	0.950	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_2528107	80840	order	Burkholderiales	3	3	2	0.510	unknown;Proteobacteria;uc_Burkholderiales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales
+k141_165608	1643826	family	Eggerthellaceae	2	2	1	0.500	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae
+k141_2196007	1262807	species	Clostridium sp. CAG:440	2	2	1	0.500	unknown;Firmicutes;Clostridiaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales;f_Clostridiaceae;g_Clostridium;-_environmental samples;s_Clostridium sp. CAG:440
+k141_1853316	84998	class	Coriobacteriia	2	2	2	1.000	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_1526143	2	superkingdom	Bacteria	3	2	1	0.910	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_847552	213115	order	Desulfovibrionales	2	2	1	0.500	unknown;Proteobacteria;uc_Desulfovibrionales	-_cellular organisms;d_Bacteria;p_Proteobacteria;-_delta/epsilon subdivisions;c_Deltaproteobacteria;o_Desulfovibrionales
+k141_1526957	1	no rank	root	1	1	1	1.000	unknown;unknown;unknown	-_root
+k141_1857273	84998	class	Coriobacteriia	4	4	2	0.500	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_810375	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1491220	1972561	species	Eggerthellaceae bacterium	2	2	1	0.500	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae;-_unclassified Eggerthellaceae;s_Eggerthellaceae bacterium
+k141_1491332	2	superkingdom	Bacteria	2	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_812682	84111	genus	Eggerthella	3	3	3	1.000	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae;g_Eggerthella
+k141_2499856	2	superkingdom	Bacteria	3	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1824751	1	no rank	root	7	7	7	1.000	unknown;unknown;unknown	-_root
+k141_2168276	1783272	clade	Terrabacteria group	3	3	2	0.670	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_1825436	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2502820	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2502910	84998	class	Coriobacteriia	2	2	1	0.500	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_1089794	84998	class	Coriobacteriia	1	1	1	1.000	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_410839	1643826	family	Eggerthellaceae	2	2	2	1.000	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae
+k141_751522	1643826	family	Eggerthellaceae	4	4	3	0.680	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae
+k141_1765489	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_2106115	84998	class	Coriobacteriia	3	3	2	0.960	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_2442516	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1767139	186803	family	Lachnospiraceae	1	1	1	1.000	unknown;Firmicutes;Lachnospiraceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales;f_Lachnospiraceae
+k141_1435502	1643826	family	Eggerthellaceae	1	1	1	1.000	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae
+k141_2112241	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2448058	1643826	family	Eggerthellaceae	5	5	3	0.600	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae
+k141_1890470	1783272	clade	Terrabacteria group	3	3	3	1.000	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_545955	1	no rank	root	1	1	1	1.000	unknown;unknown;unknown	-_root
+k141_2570157	1643826	family	Eggerthellaceae	5	4	2	0.660	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae
+k141_2240457	1	no rank	root	1	1	1	1.000	unknown;unknown;unknown	-_root
+k141_889098	84998	class	Coriobacteriia	3	3	2	0.510	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_1895481	1643826	family	Eggerthellaceae	2	2	1	0.500	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae
+k141_1897341	84998	class	Coriobacteriia	2	2	2	1.000	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_894240	2	superkingdom	Bacteria	2	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_216775	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_2248287	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_174933	1783272	clade	Terrabacteria group	3	2	1	0.500	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_1192917	84998	class	Coriobacteriia	3	3	3	1.000	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_2205231	84998	class	Coriobacteriia	3	3	2	0.670	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_2206813	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2542533	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_519426	201174	phylum	Actinobacteria	2	2	1	0.500	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_520880	1643826	family	Eggerthellaceae	2	2	2	1.000	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae
+k141_521136	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_522085	201174	phylum	Actinobacteria	2	2	1	0.500	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_287829	2	superkingdom	Bacteria	5	5	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_29194	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1043906	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1719401	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2394727	1335613	species	Gordonibacter urolithinfaciens	2	2	1	0.960	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae;g_Gordonibacter;s_Gordonibacter urolithinfaciens
+k141_2057720	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1722202	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1050069	84112	species	Eggerthella lenta	2	2	2	1.000	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae;g_Eggerthella;s_Eggerthella lenta
+k141_36029	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_1051548	84998	class	Coriobacteriia	1	1	1	1.000	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_1392203	84998	class	Coriobacteriia	2	1	1	1.000	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_1668176	2	superkingdom	Bacteria	5	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2341291	2	superkingdom	Bacteria	4	4	3	0.930	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_650647	1066	species	Rhodocyclus tenuis	1	1	1	1.000	unknown;Proteobacteria;Rhodocyclaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Rhodocyclales;f_Rhodocyclaceae;g_Rhodocyclus;s_Rhodocyclus tenuis
+k141_2671352	1926677	genus	Raoultibacter	2	1	1	1.000	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae;g_Raoultibacter
+k141_2345165	2	superkingdom	Bacteria	3	3	2	0.520	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2674367	2	superkingdom	Bacteria	2	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1338353	1	no rank	root	1	1	1	1.000	unknown;unknown;unknown	-_root
+k141_1676278	1643826	family	Eggerthellaceae	5	5	2	0.630	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae
+k141_315997	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1678367	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1237699	1972561	species	Eggerthellaceae bacterium	2	2	1	0.500	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae;-_unclassified Eggerthellaceae;s_Eggerthellaceae bacterium
+k141_2580567	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1576779	1643826	family	Eggerthellaceae	2	2	1	0.500	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae
+k141_2582004	171549	order	Bacteroidales	1	1	1	1.000	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_900122	84998	class	Coriobacteriia	2	2	1	0.500	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_2252318	447020	genus	Adlercreutzia	3	2	1	0.500	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae;g_Adlercreutzia
+k141_900926	1907662	species	Raoultibacter timonensis	2	1	1	1.000	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae;g_Raoultibacter;s_Raoultibacter timonensis
+k141_2585117	644652	genus	Gordonibacter	3	2	1	0.500	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae;g_Gordonibacter
+k141_561786	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_563043	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1591567	657308	strain	Gordonibacter pamelaeae 7-10-1-b	3	3	1	0.930	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae;g_Gordonibacter;s_Gordonibacter pamelaeae;-_Gordonibacter pamelaeae 7-10-1-b
+k141_2596106	2	superkingdom	Bacteria	7	5	4	0.680	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1920223	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1595229	2	superkingdom	Bacteria	5	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_238208	201174	phylum	Actinobacteria	3	3	2	0.670	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_1924576	2	superkingdom	Bacteria	2	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1925449	2	superkingdom	Bacteria	3	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_242031	84998	class	Coriobacteriia	2	2	1	0.500	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_2272927	201174	phylum	Actinobacteria	3	3	2	0.510	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_1926339	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_1737126	2	superkingdom	Bacteria	5	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1402659	0	no rank	unclassified	1	0	0	0.000		
+k141_2412135	1643826	family	Eggerthellaceae	5	2	1	0.500	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae
+k141_1737836	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2413761	84998	class	Coriobacteriia	8	8	4	0.650	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_1067243	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1068848	2	superkingdom	Bacteria	6	6	4	0.680	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_729880	84998	class	Coriobacteriia	2	2	1	0.500	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_2418392	2304571	species	Enterorhabdus sp. P55	2	2	1	0.500	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae;g_Enterorhabdus;-_unclassified Enterorhabdus;s_Enterorhabdus sp. P55
+k141_57115	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1752049	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1420388	1643826	family	Eggerthellaceae	2	2	1	0.500	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae
+k141_2430513	2	superkingdom	Bacteria	3	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1422687	1897000	species	Eggerthella sp. 51_9	2	2	1	0.500	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae;g_Eggerthella;-_unclassified Eggerthella;s_Eggerthella sp. 51_9
+k141_69850	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2432791	1783272	clade	Terrabacteria group	3	3	2	0.990	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_1425147	0	no rank	unclassified	1	0	0	0.000		
+k141_1425920	2636013	no rank	unclassified Adlercreutzia	1	1	1	1.000	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae;g_Adlercreutzia;-_unclassified Adlercreutzia
+k141_1426477	1760	class	Actinomycetia	2	2	1	0.500	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_2102490	1	no rank	root	3	2	2	1.000	unknown;unknown;unknown	-_root
+k141_39593	84998	class	Coriobacteriia	2	1	1	1.000	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_1054227	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_377191	0	no rank	unclassified	1	0	0	0.000		
+k141_1055250	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_1056554	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2406263	84998	class	Coriobacteriia	3	3	3	1.000	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_44546	84998	class	Coriobacteriia	2	2	2	1.000	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_380719	1783272	clade	Terrabacteria group	1	1	1	1.000	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_1398376	1643826	family	Eggerthellaceae	4	4	2	0.500	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae
+k141_725342	84998	class	Coriobacteriia	2	2	1	0.500	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_2256418	2	superkingdom	Bacteria	3	3	2	0.510	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_564682	1643826	family	Eggerthellaceae	3	3	2	0.670	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae
+k141_1585770	1239	phylum	Firmicutes	2	2	1	0.930	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_1585905	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1912373	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1913324	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_570106	201174	phylum	Actinobacteria	2	2	1	0.500	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_231937	471189	species	Gordonibacter pamelaeae	3	2	1	0.500	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae;g_Gordonibacter;s_Gordonibacter pamelaeae
+k141_1916653	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1916748	1643826	family	Eggerthellaceae	2	2	1	0.500	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae
+k141_421006	0	no rank	unclassified	1	0	0	0.000		
+k141_761915	84998	class	Coriobacteriia	1	1	1	1.000	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_1776620	1907662	species	Raoultibacter timonensis	2	2	1	0.500	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae;g_Raoultibacter;s_Raoultibacter timonensis
+k141_90487	1783272	clade	Terrabacteria group	1	1	1	1.000	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_1444856	84998	class	Coriobacteriia	1	1	1	1.000	unknown;Actinobacteria;uc_Coriobacteriia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia
+k141_2118333	2	superkingdom	Bacteria	2	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2119078	2	superkingdom	Bacteria	4	4	3	0.530	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_91707	201174	phylum	Actinobacteria	2	2	1	0.500	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_1778576	1643826	family	Eggerthellaceae	2	2	1	0.500	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae
+k141_2119654	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria

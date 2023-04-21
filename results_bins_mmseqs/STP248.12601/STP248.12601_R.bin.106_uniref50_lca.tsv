@@ -1,0 +1,394 @@
+k141_22810	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_149180	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_770174	28118	species	Odoribacter splanchnicus	3	2	1	0.500	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae;g_Odoribacter;s_Odoribacter splanchnicus
+k141_647730	2530456	species	Pedobacter psychrodurus	2	1	1	1.000	unknown;Bacteroidetes;Sphingobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Sphingobacteriia;o_Sphingobacteriales;f_Sphingobacteriaceae;g_Pedobacter;s_Pedobacter psychrodurus
+k141_648512	171549	order	Bacteroidales	1	1	1	1.000	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_649008	28453	genus	Sphingobacterium	2	2	2	1.000	unknown;Bacteroidetes;Sphingobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Sphingobacteriia;o_Sphingobacteriales;f_Sphingobacteriaceae;g_Sphingobacterium
+k141_771308	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_771660	1853231	family	Odoribacteraceae	2	2	2	1.000	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae
+k141_525411	1	no rank	root	6	5	5	1.000	unknown;unknown;unknown	-_root
+k141_898628	1853231	family	Odoribacteraceae	5	5	4	0.800	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae
+k141_854175	171549	order	Bacteroidales	4	3	2	0.670	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_729547	283168	genus	Odoribacter	2	2	1	0.500	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae;g_Odoribacter
+k141_363126	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_729721	1573805	family	Marinifilaceae	4	4	2	0.500	unknown;Bacteroidetes;Marinifilaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Marinilabiliales;f_Marinifilaceae
+k141_854558	745408	species	Rhodococcus sp. JVH1	3	1	1	1.000	unknown;Actinobacteria;Nocardiaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Corynebacteriales;f_Nocardiaceae;g_Rhodococcus;-_unclassified Rhodococcus;s_Rhodococcus sp. JVH1
+k141_729914	171549	order	Bacteroidales	3	3	2	0.930	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_363978	1262736	species	Bacteroides sp. CAG:144	2	2	1	0.500	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;-_environmental samples;s_Bacteroides sp. CAG:144
+k141_974056	171549	order	Bacteroidales	6	6	5	0.800	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_483038	0	no rank	unclassified	1	0	0	0.000		
+k141_483168	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_253972	1	no rank	root	3	2	2	1.000	unknown;unknown;unknown	-_root
+k141_627476	171549	order	Bacteroidales	2	2	1	0.500	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_875908	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_751900	2	superkingdom	Bacteria	7	6	3	0.590	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_752066	2	superkingdom	Bacteria	4	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_6098	666	species	Vibrio cholerae	2	2	1	0.500	unknown;Proteobacteria;Vibrionaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Vibrionales;f_Vibrionaceae;g_Vibrio;s_Vibrio cholerae
+k141_504591	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_381007	2	superkingdom	Bacteria	5	5	3	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_381244	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_257600	171549	order	Bacteroidales	4	3	2	0.520	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_879329	131567	no rank	cellular organisms	1	1	1	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_259473	976	phylum	Bacteroidetes	5	4	2	0.500	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_259525	976	phylum	Bacteroidetes	1	1	1	1.000	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_880119	0	no rank	unclassified	1	0	0	0.000		
+k141_382642	171549	order	Bacteroidales	3	3	2	0.520	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_259789	2485111	species	Sphingobacterium sp. JUb78	3	2	1	0.580	unknown;Bacteroidetes;Sphingobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Sphingobacteriia;o_Sphingobacteriales;f_Sphingobacteriaceae;g_Sphingobacterium;-_unclassified Sphingobacterium;s_Sphingobacterium sp. JUb78
+k141_755933	1	no rank	root	5	3	3	1.000	unknown;unknown;unknown	-_root
+k141_756506	239759	genus	Alistipes	1	1	1	1.000	unknown;Bacteroidetes;Rikenellaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Rikenellaceae;g_Alistipes
+k141_10754	1853231	family	Odoribacteraceae	4	4	2	0.660	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae
+k141_11543	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_400291	1853231	family	Odoribacteraceae	2	2	1	0.500	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae
+k141_152628	0	no rank	unclassified	1	0	0	0.000		
+k141_650979	2	superkingdom	Bacteria	2	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_773675	976	phylum	Bacteroidetes	3	3	2	0.670	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_651700	976	phylum	Bacteroidetes	2	2	1	0.500	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_652243	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_401726	283168	genus	Odoribacter	2	2	1	0.500	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae;g_Odoribacter
+k141_401928	171549	order	Bacteroidales	3	3	2	0.670	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_281647	171549	order	Bacteroidales	2	2	1	0.500	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_27992	1853231	family	Odoribacteraceae	3	3	3	1.000	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae
+k141_93458	976	phylum	Bacteroidetes	7	7	4	0.500	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_227092	171549	order	Bacteroidales	3	2	1	0.500	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_966727	171549	order	Bacteroidales	4	3	2	0.670	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_473104	171549	order	Bacteroidales	4	4	2	0.500	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_967247	1853231	family	Odoribacteraceae	4	2	1	0.500	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae
+k141_723472	2044936	species	Bacteroidia bacterium	2	2	1	0.500	unknown;Bacteroidetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;-_unclassified Bacteroidia;s_Bacteroidia bacterium
+k141_356558	1853231	family	Odoribacteraceae	3	3	2	0.670	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae
+k141_356796	976	phylum	Bacteroidetes	2	2	1	0.500	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_724955	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_96940	171549	order	Bacteroidales	4	4	2	0.500	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_856238	976	phylum	Bacteroidetes	3	2	1	0.500	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_365046	171549	order	Bacteroidales	5	5	3	0.510	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_365407	2	superkingdom	Bacteria	2	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_975602	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_366325	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_105165	200643	class	Bacteroidia	2	1	1	1.000	unknown;Bacteroidetes;uc_Bacteroidia	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia
+k141_613127	171549	order	Bacteroidales	3	3	2	0.510	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_240260	171549	order	Bacteroidales	3	2	2	1.000	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_734134	158846	genus	Megamonas	2	2	1	0.590	unknown;Firmicutes;Selenomonadaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Negativicutes;o_Selenomonadales;f_Selenomonadaceae;g_Megamonas
+k141_240539	976	phylum	Bacteroidetes	3	3	2	0.670	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_816100	171549	order	Bacteroidales	3	3	2	0.670	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_816470	1	no rank	root	3	1	1	1.000	unknown;unknown;unknown	-_root
+k141_941155	1	no rank	root	2	1	1	1.000	unknown;unknown;unknown	-_root
+k141_325673	1262738	species	Bacteroides sp. CAG:20	2	2	1	0.500	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;-_environmental samples;s_Bacteroides sp. CAG:20
+k141_199029	200643	class	Bacteroidia	3	3	2	0.520	unknown;Bacteroidetes;uc_Bacteroidia	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia
+k141_67355	1	no rank	root	6	5	5	1.000	unknown;unknown;unknown	-_root
+k141_693504	171549	order	Bacteroidales	2	2	1	0.500	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_199335	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_67658	171549	order	Bacteroidales	4	4	3	0.750	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_818057	171549	order	Bacteroidales	3	3	2	0.670	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_441470	171549	order	Bacteroidales	4	3	2	0.670	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_195877	1853231	family	Odoribacteraceae	2	2	1	0.500	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae
+k141_196230	1	no rank	root	7	5	5	1.000	unknown;unknown;unknown	-_root
+k141_939322	1	no rank	root	1	1	1	1.000	unknown;unknown;unknown	-_root
+k141_618991	375288	genus	Parabacteroides	2	2	1	0.500	unknown;Bacteroidetes;Tannerellaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Tannerellaceae;g_Parabacteroides
+k141_739274	1	no rank	root	3	1	1	1.000	unknown;unknown;unknown	-_root
+k141_619237	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_865799	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_621629	1	no rank	root	3	2	2	1.000	unknown;unknown;unknown	-_root
+k141_113941	1239	phylum	Firmicutes	2	2	2	1.000	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_984965	1853231	family	Odoribacteraceae	2	2	1	0.500	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae
+k141_496684	0	no rank	unclassified	1	0	0	0.000		
+k141_742303	1853231	family	Odoribacteraceae	4	4	2	0.500	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae
+k141_742611	2	superkingdom	Bacteria	4	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_761825	1783270	clade	FCB group	4	4	2	0.500	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_FCB group
+k141_15852	2	superkingdom	Bacteria	4	4	2	0.650	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_141492	1853231	family	Odoribacteraceae	3	3	2	0.670	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae
+k141_515884	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_764013	0	no rank	unclassified	1	0	0	0.000		
+k141_641396	171549	order	Bacteroidales	1	1	1	1.000	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_641494	976	phylum	Bacteroidetes	3	3	2	0.520	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_517410	1853231	family	Odoribacteraceae	2	2	2	1.000	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae
+k141_143872	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_518211	1853231	family	Odoribacteraceae	2	1	1	1.000	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae
+k141_742713	283168	genus	Odoribacter	2	2	1	0.500	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae;g_Odoribacter
+k141_115883	1	no rank	root	2	1	1	1.000	unknown;unknown;unknown	-_root
+k141_742945	2	superkingdom	Bacteria	3	3	2	0.520	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_117088	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_870282	171549	order	Bacteroidales	7	7	5	0.830	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_745292	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_991793	171549	order	Bacteroidales	1	1	1	1.000	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_196909	976	phylum	Bacteroidetes	3	3	3	1.000	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_814607	1239	phylum	Firmicutes	2	2	1	0.500	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_691501	2	superkingdom	Bacteria	3	3	2	0.520	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_348975	976	phylum	Bacteroidetes	1	1	1	1.000	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_962013	76831	genus	Myroides	1	1	1	1.000	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Myroides
+k141_717288	2	superkingdom	Bacteria	7	7	4	0.570	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_350716	200643	class	Bacteroidia	1	1	1	1.000	unknown;Bacteroidetes;uc_Bacteroidia	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia
+k141_223011	171549	order	Bacteroidales	2	2	2	1.000	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_596644	1	no rank	root	8	7	7	1.000	unknown;unknown;unknown	-_root
+k141_351592	2	superkingdom	Bacteria	4	4	2	0.650	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_963665	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_963778	171549	order	Bacteroidales	3	3	2	0.670	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_351934	171549	order	Bacteroidales	9	8	4	0.500	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_180178	171549	order	Bacteroidales	6	5	3	0.600	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_180418	2	superkingdom	Bacteria	4	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_552306	1633201	species	Bacteroidales bacterium Barb6	3	1	1	1.000	unknown;Bacteroidetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;-_unclassified Bacteroidales;s_Bacteroidales bacterium Barb6
+k141_50720	283168	genus	Odoribacter	2	2	1	0.500	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae;g_Odoribacter
+k141_427119	2	superkingdom	Bacteria	2	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_553314	1	no rank	root	1	1	1	1.000	unknown;unknown;unknown	-_root
+k141_925528	171549	order	Bacteroidales	2	2	1	0.500	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_553818	2	superkingdom	Bacteria	11	9	6	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_308583	171549	order	Bacteroidales	3	3	2	0.670	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_800226	1	no rank	root	2	1	1	1.000	unknown;unknown;unknown	-_root
+k141_597687	256845	phylum	Lentisphaerae	1	1	1	1.000	unknown;Lentisphaerae;uc_Lentisphaerae	-_cellular organisms;d_Bacteria;-_PVC group;p_Lentisphaerae
+k141_352479	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_964615	171549	order	Bacteroidales	2	2	1	0.500	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_92445	131567	no rank	cellular organisms	5	5	5	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_845460	171549	order	Bacteroidales	3	3	3	1.000	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_534892	200643	class	Bacteroidia	4	4	2	0.500	unknown;Bacteroidetes;uc_Bacteroidia	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia
+k141_659400	171549	order	Bacteroidales	2	2	1	0.500	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_409096	171549	order	Bacteroidales	4	3	2	0.670	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_535760	976	phylum	Bacteroidetes	2	2	1	0.500	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_661690	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_311965	2049048	species	Rikenellaceae bacterium	1	1	1	1.000	unknown;Bacteroidetes;Rikenellaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Rikenellaceae;-_unclassified Rikenellaceae;s_Rikenellaceae bacterium
+k141_803293	171549	order	Bacteroidales	2	2	1	0.500	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_432442	171549	order	Bacteroidales	7	6	4	0.610	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_312733	976	phylum	Bacteroidetes	2	2	2	1.000	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_433178	171549	order	Bacteroidales	2	1	1	1.000	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_557909	1853231	family	Odoribacteraceae	3	3	2	0.670	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae
+k141_312865	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_930694	1	no rank	root	5	4	4	1.000	unknown;unknown;unknown	-_root
+k141_930964	171549	order	Bacteroidales	2	2	1	0.500	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_682299	1853231	family	Odoribacteraceae	6	5	3	0.740	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae
+k141_662796	171549	order	Bacteroidales	4	4	3	0.750	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_166255	171549	order	Bacteroidales	3	3	2	0.670	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_413075	171549	order	Bacteroidales	4	4	3	0.980	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_540660	171549	order	Bacteroidales	2	2	1	0.950	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_541139	1	no rank	root	3	2	2	1.000	unknown;unknown;unknown	-_root
+k141_913394	283168	genus	Odoribacter	2	2	1	0.500	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae;g_Odoribacter
+k141_415639	1898104	species	Bacteroidetes bacterium	1	1	1	1.000	unknown;Bacteroidetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;-_unclassified Bacteroidetes;s_Bacteroidetes bacterium
+k141_41490	68336	clade	Bacteroidetes/Chlorobi group	9	8	4	0.500	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group
+k141_296193	1852815	species	Bacteroidetes bacterium ADurb.BinA012	2	2	1	0.500	unknown;Bacteroidetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;-_unclassified Bacteroidetes;s_Bacteroidetes bacterium ADurb.BinA012
+k141_41851	171549	order	Bacteroidales	2	2	1	0.500	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_240595	171549	order	Bacteroidales	3	3	1	0.960	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_368448	2	superkingdom	Bacteria	4	4	3	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_487372	0	no rank	unclassified	1	0	0	0.000		
+k141_487381	2	superkingdom	Bacteria	3	3	2	0.510	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_241537	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_735279	186802	order	Eubacteriales	3	3	2	0.670	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_369483	283168	genus	Odoribacter	1	1	1	1.000	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae;g_Odoribacter
+k141_615228	171549	order	Bacteroidales	3	3	2	0.670	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_369756	171549	order	Bacteroidales	2	2	1	0.500	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_107315	2030927	species	Bacteroidales bacterium	2	2	1	0.500	unknown;Bacteroidetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;-_unclassified Bacteroidales;s_Bacteroidales bacterium
+k141_861031	976	phylum	Bacteroidetes	3	3	2	0.670	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_861183	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_370553	1853231	family	Odoribacteraceae	2	2	1	0.500	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae
+k141_979765	200643	class	Bacteroidia	6	6	3	0.500	unknown;Bacteroidetes;uc_Bacteroidia	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia
+k141_979815	2	superkingdom	Bacteria	3	3	2	0.950	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_371424	2	superkingdom	Bacteria	4	4	3	0.980	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_243973	171549	order	Bacteroidales	4	4	2	0.500	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_980396	2	superkingdom	Bacteria	8	6	3	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_108699	171549	order	Bacteroidales	2	2	1	0.500	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_244034	1	no rank	root	3	1	1	1.000	unknown;unknown;unknown	-_root
+k141_371773	171549	order	Bacteroidales	6	5	3	0.600	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_980822	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_109507	171549	order	Bacteroidales	3	3	2	0.960	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_372076	976	phylum	Bacteroidetes	5	4	3	0.680	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_491310	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_981181	976	phylum	Bacteroidetes	3	3	2	0.520	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_618585	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_864219	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_864283	1	no rank	root	12	11	11	1.000	unknown;unknown;unknown	-_root
+k141_864370	1853231	family	Odoribacteraceae	5	4	2	0.500	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae
+k141_603808	2	superkingdom	Bacteria	3	3	2	0.520	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_969214	200643	class	Bacteroidia	2	2	1	0.500	unknown;Bacteroidetes;uc_Bacteroidia	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia
+k141_97447	283168	genus	Odoribacter	2	2	1	0.500	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae;g_Odoribacter
+k141_970203	976	phylum	Bacteroidetes	3	3	2	0.670	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_605271	283168	genus	Odoribacter	2	2	1	0.500	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae;g_Odoribacter
+k141_605419	171549	order	Bacteroidales	6	5	2	0.640	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_231707	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_477938	2	superkingdom	Bacteria	6	6	3	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_477952	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_606190	171549	order	Bacteroidales	2	1	1	1.000	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_765929	2	superkingdom	Bacteria	6	6	3	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_890941	1853231	family	Odoribacteraceae	3	2	1	0.500	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae
+k141_271852	976	phylum	Bacteroidetes	5	5	4	0.750	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_766701	28118	species	Odoribacter splanchnicus	2	2	1	0.500	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae;g_Odoribacter;s_Odoribacter splanchnicus
+k141_20211	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_20627	28118	species	Odoribacter splanchnicus	2	2	2	1.000	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae;g_Odoribacter;s_Odoribacter splanchnicus
+k141_148110	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_769046	200643	class	Bacteroidia	1	1	1	1.000	unknown;Bacteroidetes;uc_Bacteroidia	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia
+k141_275676	1853231	family	Odoribacteraceae	2	2	1	0.500	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae
+k141_894877	2	superkingdom	Bacteria	2	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_446140	1	no rank	root	6	6	6	1.000	unknown;unknown;unknown	-_root
+k141_943298	1853231	family	Odoribacteraceae	3	3	2	0.980	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae
+k141_818781	1	no rank	root	3	2	2	1.000	unknown;unknown;unknown	-_root
+k141_818826	976	phylum	Bacteroidetes	6	6	4	0.610	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_328011	1853231	family	Odoribacteraceae	6	6	3	0.590	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae
+k141_68960	310300	species	Bacteroides pyogenes	5	5	3	0.600	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides pyogenes
+k141_200985	1853231	family	Odoribacteraceae	1	1	1	1.000	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae
+k141_819308	1853231	family	Odoribacteraceae	3	2	1	0.500	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae
+k141_819627	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_820098	1853231	family	Odoribacteraceae	2	2	1	0.500	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae
+k141_262540	201174	phylum	Actinobacteria	2	1	1	1.000	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_758059	171549	order	Bacteroidales	3	3	2	0.670	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_635065	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_884761	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_14057	1	no rank	root	8	5	5	1.000	unknown;unknown;unknown	-_root
+k141_637030	626932	species	Alistipes indistinctus	2	2	1	0.500	unknown;Bacteroidetes;Rikenellaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Rikenellaceae;g_Alistipes;s_Alistipes indistinctus
+k141_388831	1	no rank	root	2	1	1	1.000	unknown;unknown;unknown	-_root
+k141_512600	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_886944	200643	class	Bacteroidia	2	2	1	0.500	unknown;Bacteroidetes;uc_Bacteroidia	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia
+k141_139992	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_558693	171549	order	Bacteroidales	3	3	2	0.520	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_931397	171549	order	Bacteroidales	3	3	2	0.510	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_434700	1	no rank	root	3	1	1	1.000	unknown;unknown;unknown	-_root
+k141_806577	171549	order	Bacteroidales	3	3	2	0.510	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_560166	1853231	family	Odoribacteraceae	3	2	1	0.500	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae
+k141_933198	171549	order	Bacteroidales	3	2	1	0.500	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_561262	171549	order	Bacteroidales	4	3	2	0.670	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_435725	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_934613	1853231	family	Odoribacteraceae	7	6	3	0.600	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae
+k141_59730	1	no rank	root	1	1	1	1.000	unknown;unknown;unknown	-_root
+k141_202582	1853231	family	Odoribacteraceae	5	5	3	0.950	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae
+k141_698000	1853231	family	Odoribacteraceae	1	1	1	1.000	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae
+k141_449328	1	no rank	root	1	1	1	1.000	unknown;unknown;unknown	-_root
+k141_821925	2	superkingdom	Bacteria	4	4	2	0.660	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_71591	171549	order	Bacteroidales	2	2	1	0.500	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_577223	976	phylum	Bacteroidetes	4	3	2	0.670	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_823732	171549	order	Bacteroidales	2	2	1	0.500	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_334299	171549	order	Bacteroidales	2	2	2	1.000	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_334407	976	phylum	Bacteroidetes	4	4	2	0.500	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_701705	283168	genus	Odoribacter	3	3	2	0.670	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae;g_Odoribacter
+k141_585849	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_832071	171549	order	Bacteroidales	3	3	2	0.670	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_341169	1	no rank	root	3	2	2	1.000	unknown;unknown;unknown	-_root
+k141_79983	283168	genus	Odoribacter	2	2	1	0.500	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae;g_Odoribacter
+k141_586505	0	no rank	unclassified	3	0	0	0.000		
+k141_708852	976	phylum	Bacteroidetes	4	4	3	0.750	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_213919	283168	genus	Odoribacter	4	4	3	0.750	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae;g_Odoribacter
+k141_459859	171549	order	Bacteroidales	3	3	2	0.670	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_709724	28118	species	Odoribacter splanchnicus	2	2	1	0.500	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae;g_Odoribacter;s_Odoribacter splanchnicus
+k141_460359	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_211674	171549	order	Bacteroidales	3	3	2	0.520	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_339195	2	superkingdom	Bacteria	2	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_78485	1853231	family	Odoribacteraceae	2	2	2	1.000	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae
+k141_953311	2086575	species	Parabacteroides pacaensis	2	2	1	0.500	unknown;Bacteroidetes;Tannerellaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Tannerellaceae;g_Parabacteroides;s_Parabacteroides pacaensis
+k141_78640	186802	order	Eubacteriales	3	3	2	0.920	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_458055	171549	order	Bacteroidales	2	2	1	0.500	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_340462	171549	order	Bacteroidales	3	3	2	0.670	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_707467	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_831913	171549	order	Bacteroidales	3	3	2	0.960	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_340903	200643	class	Bacteroidia	3	2	1	0.500	unknown;Bacteroidetes;uc_Bacteroidia	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia
+k141_528344	283168	genus	Odoribacter	2	2	1	0.500	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae;g_Odoribacter
+k141_653182	1853231	family	Odoribacteraceae	3	3	3	1.000	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae
+k141_156169	1853231	family	Odoribacteraceae	2	2	1	0.500	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae
+k141_29258	2	superkingdom	Bacteria	4	4	3	0.530	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_29431	171549	order	Bacteroidales	3	3	2	0.980	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_404352	171549	order	Bacteroidales	4	4	2	0.650	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_283936	2	superkingdom	Bacteria	5	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_655117	2	superkingdom	Bacteria	8	7	5	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_404921	171549	order	Bacteroidales	6	5	3	0.600	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_404940	1	no rank	root	2	1	1	1.000	unknown;unknown;unknown	-_root
+k141_301831	171549	order	Bacteroidales	4	4	2	0.650	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_422693	200643	class	Bacteroidia	3	3	2	0.670	unknown;Bacteroidetes;uc_Bacteroidia	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia
+k141_422772	1	no rank	root	8	7	7	1.000	unknown;unknown;unknown	-_root
+k141_794918	976	phylum	Bacteroidetes	3	3	2	0.670	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_176566	976	phylum	Bacteroidetes	2	2	1	0.500	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_176766	1	no rank	root	8	7	7	1.000	unknown;unknown;unknown	-_root
+k141_423163	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_423227	2	superkingdom	Bacteria	6	6	4	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_672523	171549	order	Bacteroidales	2	2	1	0.500	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_303682	171549	order	Bacteroidales	1	1	1	1.000	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_531409	200643	class	Bacteroidia	2	2	1	0.920	unknown;Bacteroidetes;uc_Bacteroidia	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia
+k141_903759	1	no rank	root	5	4	4	1.000	unknown;unknown;unknown	-_root
+k141_406081	1853231	family	Odoribacteraceae	1	1	1	1.000	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae
+k141_32573	976	phylum	Bacteroidetes	4	4	2	0.510	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_32635	1	no rank	root	1	1	1	1.000	unknown;unknown;unknown	-_root
+k141_657847	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_780630	200643	class	Bacteroidia	3	3	2	0.670	unknown;Bacteroidetes;uc_Bacteroidia	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia
+k141_658668	1	no rank	root	5	4	4	1.000	unknown;unknown;unknown	-_root
+k141_906461	200643	class	Bacteroidia	4	4	2	0.500	unknown;Bacteroidetes;uc_Bacteroidia	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia
+k141_658987	1853231	family	Odoribacteraceae	2	2	1	0.980	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae
+k141_666942	171549	order	Bacteroidales	4	4	2	0.500	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_667263	2	superkingdom	Bacteria	5	5	3	0.510	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_42862	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_297964	2	superkingdom	Bacteria	5	5	3	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_668958	131567	no rank	cellular organisms	1	1	1	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_172990	283168	genus	Odoribacter	2	2	1	0.500	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae;g_Odoribacter
+k141_44558	171549	order	Bacteroidales	4	4	2	0.500	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_792338	171549	order	Bacteroidales	3	2	1	0.500	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_546115	1852915	species	Synergistetes bacterium ADurb.Bin520	2	1	1	1.000	unknown;Synergistetes;unknown	-_cellular organisms;d_Bacteria;p_Synergistetes;-_unclassified Synergistetes;s_Synergistetes bacterium ADurb.Bin520
+k141_45520	200643	class	Bacteroidia	3	3	2	0.670	unknown;Bacteroidetes;uc_Bacteroidia	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia
+k141_852266	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_361943	171549	order	Bacteroidales	4	4	4	1.000	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_607737	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_362276	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_607893	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_100766	171549	order	Bacteroidales	3	2	2	1.000	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_480446	283168	genus	Odoribacter	2	2	1	0.500	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae;g_Odoribacter
+k141_728923	976	phylum	Bacteroidetes	4	4	3	0.960	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_480676	171549	order	Bacteroidales	3	3	2	0.670	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_972277	171549	order	Bacteroidales	2	2	2	1.000	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_580558	28118	species	Odoribacter splanchnicus	3	2	1	0.500	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae;g_Odoribacter;s_Odoribacter splanchnicus
+k141_581527	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_704474	816	genus	Bacteroides	4	3	2	0.520	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+k141_704816	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_705081	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_455778	2	superkingdom	Bacteria	5	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_77507	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_338663	171549	order	Bacteroidales	2	2	2	1.000	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_338762	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_952567	200643	class	Bacteroidia	4	4	3	0.750	unknown;Bacteroidetes;uc_Bacteroidia	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia
+k141_713494	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_713786	1898207	species	Clostridiales bacterium	2	2	1	0.500	unknown;Firmicutes;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales;-_unclassified Eubacteriales;s_Clostridiales bacterium
+k141_463900	171549	order	Bacteroidales	2	2	1	0.500	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_958734	1239	phylum	Firmicutes	1	1	1	1.000	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_464301	283168	genus	Odoribacter	4	2	1	0.500	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae;g_Odoribacter
+k141_591579	171549	order	Bacteroidales	3	3	3	1.000	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_464479	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_714634	2304575	species	Odoribacter sp. Z80	2	2	1	0.500	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae;g_Odoribacter;-_unclassified Odoribacter;s_Odoribacter sp. Z80
+k141_86069	171549	order	Bacteroidales	6	6	4	0.670	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_592195	976	phylum	Bacteroidetes	3	2	1	0.500	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_562384	171549	order	Bacteroidales	3	2	1	0.500	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_192557	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_811123	171549	order	Bacteroidales	3	3	2	0.670	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_320781	1853231	family	Odoribacteraceae	3	3	2	0.670	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae
+k141_194390	1853231	family	Odoribacteraceae	3	2	1	0.500	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae
+k141_321608	283168	genus	Odoribacter	2	2	1	0.500	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae;g_Odoribacter
+k141_63543	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_63838	1	no rank	root	7	6	6	1.000	unknown;unknown;unknown	-_root
+k141_195228	1	no rank	root	9	9	9	1.000	unknown;unknown;unknown	-_root
+k141_63876	1853231	family	Odoribacteraceae	2	2	1	0.500	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae
+k141_554346	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_309233	0	no rank	unclassified	1	0	0	0.000		
+k141_309554	976	phylum	Bacteroidetes	6	3	2	0.670	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_555582	28118	species	Odoribacter splanchnicus	6	6	5	0.980	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae;g_Odoribacter;s_Odoribacter splanchnicus
+k141_555914	2	superkingdom	Bacteria	4	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_53837	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_310828	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_184640	976	phylum	Bacteroidetes	2	2	1	0.500	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_311531	2304575	species	Odoribacter sp. Z80	2	2	1	0.500	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae;g_Odoribacter;-_unclassified Odoribacter;s_Odoribacter sp. Z80
+k141_929284	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_177691	171549	order	Bacteroidales	6	5	3	0.510	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_673206	674529	species	Bacteroides faecis	2	2	1	0.990	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides faecis
+k141_922260	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_922336	2	superkingdom	Bacteria	7	6	5	0.760	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_922588	131567	no rank	cellular organisms	2	1	1	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_305346	1	no rank	root	2	1	1	1.000	unknown;unknown;unknown	-_root
+k141_674502	2	superkingdom	Bacteria	2	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_49587	1	no rank	root	1	1	1	1.000	unknown;unknown;unknown	-_root
+k141_425952	171549	order	Bacteroidales	4	3	3	1.000	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_426107	28118	species	Odoribacter splanchnicus	2	2	1	0.500	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae;g_Odoribacter;s_Odoribacter splanchnicus
+k141_833725	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_81240	1	no rank	root	8	6	6	1.000	unknown;unknown;unknown	-_root
+k141_81365	1869212	species	Chitinophagaceae bacterium	3	2	1	0.500	unknown;Bacteroidetes;Chitinophagaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Chitinophagia;o_Chitinophagales;f_Chitinophagaceae;-_unclassified Chitinophagaceae;s_Chitinophagaceae bacterium
+k141_343214	283168	genus	Odoribacter	1	1	1	1.000	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae;g_Odoribacter
+k141_460787	976	phylum	Bacteroidetes	5	5	3	0.600	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_216089	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_835950	574697	genus	Butyricimonas	2	2	1	0.500	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae;g_Butyricimonas
+k141_589421	283168	genus	Odoribacter	4	4	2	0.500	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae;g_Odoribacter
+k141_218122	171549	order	Bacteroidales	8	8	5	0.510	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_84344	2	superkingdom	Bacteria	6	5	3	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_125097	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_622664	283168	genus	Odoribacter	3	3	3	1.000	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae;g_Odoribacter
+k141_498430	171549	order	Bacteroidales	2	2	1	0.500	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_374805	1783272	clade	Terrabacteria group	4	4	4	1.000	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_1378	1853231	family	Odoribacteraceae	2	2	1	0.920	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae
+k141_2776	0	no rank	unclassified	3	0	0	0.000		
+k141_625103	1853231	family	Odoribacteraceae	4	3	3	1.000	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae
+k141_500385	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_500600	2304575	species	Odoribacter sp. Z80	2	1	1	1.000	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae;g_Odoribacter;-_unclassified Odoribacter;s_Odoribacter sp. Z80
+k141_500923	574697	genus	Butyricimonas	2	2	1	0.500	unknown;Bacteroidetes;Odoribacteraceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Odoribacteraceae;g_Butyricimonas
