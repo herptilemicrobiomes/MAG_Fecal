@@ -1,0 +1,55 @@
+0.6452	1	1	no rank	0	unclassified
+99.3548	154	0	no rank	1	root
+99.3548	154	0	no rank	131567	  cellular organisms
+99.3548	154	0	superkingdom	2759	    Eukaryota
+99.3548	154	0	clade	33154	      Opisthokonta
+99.3548	154	0	kingdom	33208	        Metazoa
+99.3548	154	1	clade	6072	          Eumetazoa
+98.7097	153	0	clade	33213	            Bilateria
+98.7097	153	1	clade	33511	              Deuterostomia
+98.0645	152	0	phylum	7711	                Chordata
+98.0645	152	0	subphylum	89593	                  Craniata
+98.0645	152	0	clade	7742	                    Vertebrata
+98.0645	152	0	clade	7776	                      Gnathostomata
+98.0645	152	0	clade	117570	                        Teleostomi
+98.0645	152	0	clade	117571	                          Euteleostomi
+98.0645	152	0	superclass	8287	                            Sarcopterygii
+98.0645	152	0	clade	1338369	                              Dipnotetrapodomorpha
+98.0645	152	1	clade	32523	                                Tetrapoda
+97.4194	151	0	clade	32524	                                  Amniota
+97.4194	151	0	clade	8457	                                    Sauropsida
+97.4194	151	13	clade	32561	                                      Sauria
+86.4516	134	0	class	8504	                                        Lepidosauria
+86.4516	134	0	order	8509	                                          Squamata
+86.4516	134	5	clade	1329961	                                            Bifurcata
+82.5806	128	0	clade	1329950	                                              Unidentata
+82.5806	128	0	clade	1329912	                                                Episquamata
+82.5806	128	0	clade	1329911	                                                  Toxicofera
+82.5806	128	15	suborder	8511	                                                    Iguania
+71.6129	111	0	family	2024747	                                                      Dactyloidae
+71.6129	111	0	genus	28376	                                                        Anolis
+71.6129	111	111	species	28377	                                                          Anolis carolinensis
+1.2903	2	0	clade	83232	                                                      Acrodonta
+1.2903	2	0	family	81953	                                                        Agamidae
+1.2903	2	0	subfamily	145349	                                                          Amphibolurinae
+1.2903	2	0	genus	52201	                                                            Pogona
+1.2903	2	2	species	103695	                                                              Pogona vitticeps
+0.6452	1	0	infraorder	8560	                                              Gekkota
+0.6452	1	0	family	8561	                                                Gekkonidae
+0.6452	1	0	subfamily	385256	                                                  Gekkoninae
+0.6452	1	0	genus	8565	                                                    Gekko
+0.6452	1	1	species	146911	                                                      Gekko japonicus
+2.5806	4	0	clade	1329799	                                        Archelosauria
+2.5806	4	0	subclass	2841271	                                          Testudinata
+2.5806	4	0	order	8459	                                            Testudines
+2.5806	4	1	suborder	8464	                                              Cryptodira
+1.2903	2	0	superfamily	1579275	                                                Trionychia
+1.2903	2	0	family	34907	                                                  Trionychidae
+1.2903	2	0	genus	204969	                                                    Pelodiscus
+1.2903	2	2	species	13735	                                                      Pelodiscus sinensis
+0.6452	1	0	clade	1579337	                                                Durocryptodira
+0.6452	1	0	superfamily	8486	                                                  Testudinoidea
+0.6452	1	0	family	8476	                                                    Emydidae
+0.6452	1	0	genus	8477	                                                      Chrysemys
+0.6452	1	0	species	8479	                                                        Chrysemys picta
+0.6452	1	1	subspecies	8478	                                                          Chrysemys picta bellii

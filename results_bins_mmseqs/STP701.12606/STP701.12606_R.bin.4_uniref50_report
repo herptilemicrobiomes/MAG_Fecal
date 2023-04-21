@@ -1,0 +1,56 @@
+1.5748	2	2	no rank	0	unclassified
+98.4252	125	2	no rank	1	root
+96.8504	123	10	no rank	131567	  cellular organisms
+88.9764	113	2	superkingdom	2759	    Eukaryota
+87.4016	111	0	clade	33154	      Opisthokonta
+87.4016	111	0	kingdom	33208	        Metazoa
+87.4016	111	0	clade	6072	          Eumetazoa
+87.4016	111	2	clade	33213	            Bilateria
+85.8268	109	2	clade	33511	              Deuterostomia
+84.2520	107	0	phylum	7711	                Chordata
+84.2520	107	0	subphylum	89593	                  Craniata
+84.2520	107	0	clade	7742	                    Vertebrata
+84.2520	107	1	clade	7776	                      Gnathostomata
+83.4646	106	0	clade	117570	                        Teleostomi
+83.4646	106	12	clade	117571	                          Euteleostomi
+74.0157	94	0	superclass	8287	                            Sarcopterygii
+74.0157	94	0	clade	1338369	                              Dipnotetrapodomorpha
+74.0157	94	78	clade	32523	                                Tetrapoda
+6.2992	8	1	class	8292	                                  Amphibia
+4.7244	6	0	superorder	41666	                                    Batrachia
+4.7244	6	0	order	8342	                                      Anura
+4.7244	6	0	superfamily	30319	                                        Pipoidea
+4.7244	6	0	family	8352	                                          Pipidae
+4.7244	6	0	subfamily	8360	                                            Xenopodinae
+4.7244	6	0	genus	8353	                                              Xenopus
+4.7244	6	0	subgenus	8363	                                                Silurana
+4.7244	6	6	species	8364	                                                  Xenopus tropicalis
+0.7874	1	0	order	8445	                                    Gymnophiona
+0.7874	1	0	family	1277737	                                      Siphonopidae
+0.7874	1	0	genus	264009	                                        Microcaecilia
+0.7874	1	1	species	1415580	                                          Microcaecilia unicolor
+6.2992	8	1	clade	32524	                                  Amniota
+3.9370	5	0	clade	8457	                                    Sauropsida
+3.9370	5	1	clade	32561	                                      Sauria
+3.1496	4	0	class	8504	                                        Lepidosauria
+3.1496	4	0	order	8509	                                          Squamata
+3.1496	4	1	clade	1329961	                                            Bifurcata
+2.3622	3	0	clade	1329950	                                              Unidentata
+2.3622	3	0	clade	1329912	                                                Episquamata
+1.5748	2	0	clade	1329976	                                                  Laterata
+1.5748	2	0	clade	1329975	                                                    Lacertibaenia
+1.5748	2	0	family	8522	                                                      Lacertidae
+1.5748	2	0	subfamily	162266	                                                        Lacertinae
+1.5748	2	0	genus	42163	                                                          Podarcis
+1.5748	2	2	species	64176	                                                            Podarcis muralis
+0.7874	1	0	clade	1329911	                                                  Toxicofera
+0.7874	1	0	suborder	8511	                                                    Iguania
+0.7874	1	0	family	2024747	                                                      Dactyloidae
+0.7874	1	0	genus	28376	                                                        Anolis
+0.7874	1	1	species	28377	                                                          Anolis carolinensis
+1.5748	2	0	class	40674	                                    Mammalia
+1.5748	2	0	clade	9254	                                      Prototheria
+1.5748	2	0	order	9255	                                        Monotremata
+1.5748	2	0	family	9256	                                          Ornithorhynchidae
+1.5748	2	0	genus	9257	                                            Ornithorhynchus
+1.5748	2	2	species	9258	                                              Ornithorhynchus anatinus

@@ -1,0 +1,60 @@
+0.5263	1	1	no rank	0	unclassified
+99.4737	189	0	no rank	1	root
+99.4737	189	3	no rank	131567	  cellular organisms
+97.8947	186	1	superkingdom	2759	    Eukaryota
+97.3684	185	0	clade	33154	      Opisthokonta
+97.3684	185	0	kingdom	33208	        Metazoa
+97.3684	185	0	clade	6072	          Eumetazoa
+97.3684	185	1	clade	33213	            Bilateria
+96.3158	183	1	clade	33511	              Deuterostomia
+95.7895	182	0	phylum	7711	                Chordata
+95.7895	182	0	subphylum	89593	                  Craniata
+95.7895	182	0	clade	7742	                    Vertebrata
+95.7895	182	0	clade	7776	                      Gnathostomata
+95.7895	182	0	clade	117570	                        Teleostomi
+95.7895	182	3	clade	117571	                          Euteleostomi
+93.6842	178	0	superclass	8287	                            Sarcopterygii
+93.6842	178	0	clade	1338369	                              Dipnotetrapodomorpha
+93.6842	178	0	clade	32523	                                Tetrapoda
+93.1579	177	0	clade	32524	                                  Amniota
+93.1579	177	0	clade	8457	                                    Sauropsida
+93.1579	177	9	clade	32561	                                      Sauria
+88.4211	168	0	class	8504	                                        Lepidosauria
+88.4211	168	0	order	8509	                                          Squamata
+88.4211	168	2	clade	1329961	                                            Bifurcata
+85.7895	163	0	clade	1329950	                                              Unidentata
+85.7895	163	0	clade	1329912	                                                Episquamata
+85.7895	163	0	clade	1329911	                                                  Toxicofera
+85.7895	163	1	suborder	8511	                                                    Iguania
+85.2632	162	0	family	2024747	                                                      Dactyloidae
+85.2632	162	0	genus	28376	                                                        Anolis
+85.2632	162	162	species	28377	                                                          Anolis carolinensis
+1.5789	3	0	infraorder	8560	                                              Gekkota
+1.5789	3	0	family	8561	                                                Gekkonidae
+1.5789	3	0	subfamily	385256	                                                  Gekkoninae
+1.5789	3	0	genus	8565	                                                    Gekko
+1.5789	3	3	species	146911	                                                      Gekko japonicus
+0.5263	1	0	class	8292	                                  Amphibia
+0.5263	1	0	order	8445	                                    Gymnophiona
+0.5263	1	0	family	30380	                                      Rhinatrematidae
+0.5263	1	0	genus	194407	                                        Rhinatrema
+0.5263	1	1	species	194408	                                          Rhinatrema bivittatum
+0.5263	1	0	superclass	7898	                            Actinopterygii
+0.5263	1	0	class	186623	                              Actinopteri
+0.5263	1	0	subclass	41665	                                Neopterygii
+0.5263	1	0	infraclass	32443	                                  Teleostei
+0.5263	1	0	clade	1489341	                                    Osteoglossocephalai
+0.5263	1	1	no rank	186625	                                      Clupeocephala
+0.5263	1	0	clade	33317	              Protostomia
+0.5263	1	0	clade	2697495	                Spiralia
+0.5263	1	0	clade	1206795	                  Lophotrochozoa
+0.5263	1	0	phylum	6447	                    Mollusca
+0.5263	1	0	class	6544	                      Bivalvia
+0.5263	1	0	subclass	2785011	                        Autobranchia
+0.5263	1	0	clade	6545	                          Pteriomorphia
+0.5263	1	0	order	6546	                            Mytiloida
+0.5263	1	0	superfamily	106220	                              Mytiloidea
+0.5263	1	0	family	6547	                                Mytilidae
+0.5263	1	0	subfamily	301959	                                  Mytilinae
+0.5263	1	0	genus	6548	                                    Mytilus
+0.5263	1	1	species	29158	                                      Mytilus galloprovincialis

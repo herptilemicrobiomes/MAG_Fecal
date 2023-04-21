@@ -1,0 +1,30 @@
+100.0000	145	1	no rank	1	root
+99.3103	144	1	no rank	131567	  cellular organisms
+98.6207	143	55	superkingdom	2759	    Eukaryota
+60.6897	88	0	clade	33154	      Opisthokonta
+60.6897	88	0	kingdom	33208	        Metazoa
+60.6897	88	1	clade	6072	          Eumetazoa
+60.0000	87	0	clade	33213	            Bilateria
+60.0000	87	0	clade	33511	              Deuterostomia
+60.0000	87	0	phylum	7711	                Chordata
+60.0000	87	0	subphylum	89593	                  Craniata
+60.0000	87	0	clade	7742	                    Vertebrata
+60.0000	87	2	clade	7776	                      Gnathostomata
+58.6207	85	0	clade	117570	                        Teleostomi
+58.6207	85	2	clade	117571	                          Euteleostomi
+57.2414	83	1	superclass	8287	                            Sarcopterygii
+56.5517	82	0	clade	1338369	                              Dipnotetrapodomorpha
+56.5517	82	1	clade	32523	                                Tetrapoda
+55.8621	81	1	clade	32524	                                  Amniota
+55.1724	80	0	clade	8457	                                    Sauropsida
+55.1724	80	0	clade	32561	                                      Sauria
+55.1724	80	0	class	8504	                                        Lepidosauria
+55.1724	80	0	order	8509	                                          Squamata
+55.1724	80	49	clade	1329961	                                            Bifurcata
+21.3793	31	0	clade	1329950	                                              Unidentata
+21.3793	31	19	clade	1329912	                                                Episquamata
+8.2759	12	0	clade	1329911	                                                  Toxicofera
+8.2759	12	0	suborder	8511	                                                    Iguania
+8.2759	12	0	family	2024747	                                                      Dactyloidae
+8.2759	12	0	genus	28376	                                                        Anolis
+8.2759	12	12	species	28377	                                                          Anolis carolinensis

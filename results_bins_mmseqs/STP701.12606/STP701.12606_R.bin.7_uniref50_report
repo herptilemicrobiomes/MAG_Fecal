@@ -1,0 +1,97 @@
+17.5000	7	7	no rank	0	unclassified
+82.5000	33	0	no rank	1	root
+82.5000	33	5	no rank	131567	  cellular organisms
+70.0000	28	0	superkingdom	2759	    Eukaryota
+70.0000	28	0	clade	33154	      Opisthokonta
+70.0000	28	0	kingdom	33208	        Metazoa
+70.0000	28	1	clade	6072	          Eumetazoa
+67.5000	27	1	clade	33213	            Bilateria
+65.0000	26	0	clade	33511	              Deuterostomia
+65.0000	26	1	phylum	7711	                Chordata
+62.5000	25	0	subphylum	89593	                  Craniata
+62.5000	25	0	clade	7742	                    Vertebrata
+62.5000	25	1	clade	7776	                      Gnathostomata
+60.0000	24	0	clade	117570	                        Teleostomi
+60.0000	24	8	clade	117571	                          Euteleostomi
+37.5000	15	1	superclass	8287	                            Sarcopterygii
+35.0000	14	0	clade	1338369	                              Dipnotetrapodomorpha
+35.0000	14	0	clade	32523	                                Tetrapoda
+32.5000	13	0	clade	32524	                                  Amniota
+32.5000	13	0	clade	8457	                                    Sauropsida
+32.5000	13	6	clade	32561	                                      Sauria
+10.0000	4	0	class	8504	                                        Lepidosauria
+10.0000	4	0	order	8509	                                          Squamata
+10.0000	4	0	clade	1329961	                                            Bifurcata
+10.0000	4	0	clade	1329950	                                              Unidentata
+10.0000	4	0	clade	1329912	                                                Episquamata
+7.5000	3	0	clade	1329911	                                                  Toxicofera
+5.0000	2	0	suborder	8511	                                                    Iguania
+2.5000	1	0	clade	83232	                                                      Acrodonta
+2.5000	1	0	family	81953	                                                        Agamidae
+2.5000	1	0	subfamily	145349	                                                          Amphibolurinae
+2.5000	1	0	genus	52201	                                                            Pogona
+2.5000	1	1	species	103695	                                                              Pogona vitticeps
+2.5000	1	0	family	2024747	                                                      Dactyloidae
+2.5000	1	0	genus	28376	                                                        Anolis
+2.5000	1	1	species	28377	                                                          Anolis carolinensis
+2.5000	1	0	infraorder	8570	                                                    Serpentes
+2.5000	1	0	superfamily	34989	                                                      Colubroidea
+2.5000	1	0	family	8578	                                                        Colubridae
+2.5000	1	0	subfamily	169862	                                                          Natricinae
+2.5000	1	0	genus	34999	                                                            Thamnophis
+2.5000	1	1	species	35019	                                                              Thamnophis sirtalis
+2.5000	1	0	clade	1329976	                                                  Laterata
+2.5000	1	0	clade	1329975	                                                    Lacertibaenia
+2.5000	1	0	family	8522	                                                      Lacertidae
+2.5000	1	0	subfamily	162266	                                                        Lacertinae
+2.5000	1	0	genus	42163	                                                          Podarcis
+2.5000	1	1	species	64176	                                                            Podarcis muralis
+7.5000	3	0	clade	1329799	                                        Archelosauria
+5.0000	2	0	clade	8492	                                          Archosauria
+2.5000	1	0	clade	436486	                                            Dinosauria
+2.5000	1	0	clade	436489	                                              Saurischia
+2.5000	1	0	clade	436491	                                                Theropoda
+2.5000	1	0	clade	436492	                                                  Coelurosauria
+2.5000	1	1	class	8782	                                                    Aves
+2.5000	1	0	order	1294634	                                            Crocodylia
+2.5000	1	0	family	1294636	                                              Alligatoridae
+2.5000	1	0	subfamily	34915	                                                Alligatorinae
+2.5000	1	0	genus	8495	                                                  Alligator
+2.5000	1	1	species	8496	                                                    Alligator mississippiensis
+2.5000	1	0	subclass	2841271	                                          Testudinata
+2.5000	1	0	order	8459	                                            Testudines
+2.5000	1	0	suborder	8464	                                              Cryptodira
+2.5000	1	0	clade	1579337	                                                Durocryptodira
+2.5000	1	0	clade	1579336	                                                  Americhelydia
+2.5000	1	0	superfamily	27791	                                                    Chelonioidea
+2.5000	1	0	family	8465	                                                      Cheloniidae
+2.5000	1	0	genus	8468	                                                        Chelonia
+2.5000	1	1	species	8469	                                                          Chelonia mydas
+2.5000	1	0	class	8292	                                  Amphibia
+2.5000	1	0	superorder	41666	                                    Batrachia
+2.5000	1	0	order	8342	                                      Anura
+2.5000	1	0	superfamily	30319	                                        Pipoidea
+2.5000	1	0	family	8352	                                          Pipidae
+2.5000	1	0	subfamily	8360	                                            Xenopodinae
+2.5000	1	0	genus	8353	                                              Xenopus
+2.5000	1	0	subgenus	8363	                                                Silurana
+2.5000	1	1	species	8364	                                                  Xenopus tropicalis
+2.5000	1	0	superclass	7898	                            Actinopterygii
+2.5000	1	0	class	186623	                              Actinopteri
+2.5000	1	0	subclass	41665	                                Neopterygii
+2.5000	1	0	infraclass	32443	                                  Teleostei
+2.5000	1	0	clade	1489341	                                    Osteoglossocephalai
+2.5000	1	0	no rank	186625	                                      Clupeocephala
+2.5000	1	0	cohort	1489388	                                        Euteleosteomorpha
+2.5000	1	0	clade	123365	                                          Neoteleostei
+2.5000	1	0	clade	123366	                                            Eurypterygia
+2.5000	1	0	clade	123367	                                              Ctenosquamata
+2.5000	1	0	clade	123368	                                                Acanthomorphata
+2.5000	1	0	clade	123369	                                                  Euacanthomorphacea
+2.5000	1	0	clade	1489872	                                                    Percomorphaceae
+2.5000	1	0	clade	1489922	                                                      Eupercaria
+2.5000	1	0	order	8111	                                                        Perciformes
+2.5000	1	0	suborder	8205	                                                          Notothenioidei
+2.5000	1	0	family	8206	                                                            Nototheniidae
+2.5000	1	0	genus	36199	                                                              Dissostichus
+2.5000	1	1	species	36200	                                                                Dissostichus mawsoni

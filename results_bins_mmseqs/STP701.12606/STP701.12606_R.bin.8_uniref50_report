@@ -1,0 +1,47 @@
+100.0000	758	3	no rank	1	root
+99.6042	755	8	no rank	131567	  cellular organisms
+98.5488	747	260	superkingdom	2759	    Eukaryota
+64.2480	487	0	clade	33154	      Opisthokonta
+64.2480	487	0	kingdom	33208	        Metazoa
+64.2480	487	4	clade	6072	          Eumetazoa
+63.7203	483	1	clade	33213	            Bilateria
+63.5884	482	0	clade	33511	              Deuterostomia
+63.5884	482	1	phylum	7711	                Chordata
+63.4565	481	0	subphylum	89593	                  Craniata
+63.4565	481	0	clade	7742	                    Vertebrata
+63.4565	481	4	clade	7776	                      Gnathostomata
+62.9288	477	0	clade	117570	                        Teleostomi
+62.9288	477	31	clade	117571	                          Euteleostomi
+58.5752	444	9	superclass	8287	                            Sarcopterygii
+57.3879	435	0	clade	1338369	                              Dipnotetrapodomorpha
+57.3879	435	3	clade	32523	                                Tetrapoda
+56.9921	432	1	clade	32524	                                  Amniota
+56.8602	431	0	clade	8457	                                    Sauropsida
+56.8602	431	11	clade	32561	                                      Sauria
+55.4090	420	0	class	8504	                                        Lepidosauria
+55.4090	420	0	order	8509	                                          Squamata
+55.4090	420	284	clade	1329961	                                            Bifurcata
+17.8100	135	0	clade	1329950	                                              Unidentata
+17.8100	135	85	clade	1329912	                                                Episquamata
+6.4644	49	3	clade	1329911	                                                  Toxicofera
+5.6728	43	0	suborder	8511	                                                    Iguania
+5.6728	43	0	family	2024747	                                                      Dactyloidae
+5.6728	43	0	genus	28376	                                                        Anolis
+5.6728	43	43	species	28377	                                                          Anolis carolinensis
+0.3958	3	0	infraorder	8570	                                                    Serpentes
+0.3958	3	1	superfamily	34989	                                                      Colubroidea
+0.2639	2	0	family	8602	                                                        Elapidae
+0.2639	2	0	subfamily	42168	                                                          Elapinae
+0.2639	2	2	genus	8634	                                                            Micrurus
+0.1319	1	0	clade	1329976	                                                  Laterata
+0.1319	1	0	clade	1329975	                                                    Lacertibaenia
+0.1319	1	0	family	8522	                                                      Lacertidae
+0.1319	1	0	subfamily	162266	                                                        Lacertinae
+0.1319	1	0	genus	141678	                                                          Zootoca
+0.1319	1	1	species	8524	                                                            Zootoca vivipara
+0.1319	1	0	infraorder	8560	                                              Gekkota
+0.1319	1	0	family	8561	                                                Gekkonidae
+0.1319	1	0	subfamily	385256	                                                  Gekkoninae
+0.1319	1	0	genus	143629	                                                    Paroedura
+0.1319	1	1	species	143630	                                                      Paroedura picta
+0.2639	2	2	superclass	7898	                            Actinopterygii

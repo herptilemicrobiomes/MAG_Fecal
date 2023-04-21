@@ -1,0 +1,46 @@
+2.0000	1	1	no rank	0	unclassified
+98.0000	49	1	no rank	1	root
+96.0000	48	13	no rank	131567	  cellular organisms
+70.0000	35	2	superkingdom	2759	    Eukaryota
+66.0000	33	0	clade	33154	      Opisthokonta
+66.0000	33	0	kingdom	33208	        Metazoa
+66.0000	33	1	clade	6072	          Eumetazoa
+64.0000	32	0	clade	33213	            Bilateria
+64.0000	32	0	clade	33511	              Deuterostomia
+64.0000	32	1	phylum	7711	                Chordata
+62.0000	31	0	subphylum	89593	                  Craniata
+62.0000	31	3	clade	7742	                    Vertebrata
+56.0000	28	1	clade	7776	                      Gnathostomata
+52.0000	26	0	clade	117570	                        Teleostomi
+52.0000	26	6	clade	117571	                          Euteleostomi
+40.0000	20	0	superclass	8287	                            Sarcopterygii
+40.0000	20	0	clade	1338369	                              Dipnotetrapodomorpha
+40.0000	20	0	clade	32523	                                Tetrapoda
+40.0000	20	6	clade	32524	                                  Amniota
+28.0000	14	0	clade	8457	                                    Sauropsida
+28.0000	14	6	clade	32561	                                      Sauria
+16.0000	8	0	class	8504	                                        Lepidosauria
+16.0000	8	0	order	8509	                                          Squamata
+16.0000	8	3	clade	1329961	                                            Bifurcata
+10.0000	5	0	clade	1329950	                                              Unidentata
+10.0000	5	1	clade	1329912	                                                Episquamata
+6.0000	3	2	clade	1329911	                                                  Toxicofera
+2.0000	1	0	suborder	8511	                                                    Iguania
+2.0000	1	0	family	2024747	                                                      Dactyloidae
+2.0000	1	0	genus	28376	                                                        Anolis
+2.0000	1	1	species	28377	                                                          Anolis carolinensis
+2.0000	1	0	clade	1329976	                                                  Laterata
+2.0000	1	0	clade	1329975	                                                    Lacertibaenia
+2.0000	1	0	family	8522	                                                      Lacertidae
+2.0000	1	0	subfamily	162266	                                                        Lacertinae
+2.0000	1	0	genus	141678	                                                          Zootoca
+2.0000	1	1	species	8524	                                                            Zootoca vivipara
+2.0000	1	0	class	7777	                        Chondrichthyes
+2.0000	1	0	subclass	7778	                          Elasmobranchii
+2.0000	1	0	infraclass	119203	                            Selachii
+2.0000	1	0	clade	119197	                              Galeomorphii
+2.0000	1	0	superorder	119195	                                Galeoidea
+2.0000	1	0	order	30503	                                  Orectolobiformes
+2.0000	1	0	family	40580	                                    Hemiscylliidae
+2.0000	1	0	genus	34767	                                      Chiloscyllium
+2.0000	1	1	species	137246	                                        Chiloscyllium punctatum

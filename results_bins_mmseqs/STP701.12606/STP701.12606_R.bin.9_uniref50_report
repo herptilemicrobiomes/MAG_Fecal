@@ -1,0 +1,211 @@
+3.6997	34	34	no rank	0	unclassified
+96.3003	885	40	no rank	1	root
+91.9478	845	167	no rank	131567	  cellular organisms
+73.2318	673	19	superkingdom	2759	    Eukaryota
+71.1643	654	0	clade	33154	      Opisthokonta
+71.1643	654	10	kingdom	33208	        Metazoa
+70.0762	644	24	clade	6072	          Eumetazoa
+67.4646	620	48	clade	33213	            Bilateria
+62.0239	570	2	clade	33511	              Deuterostomia
+61.8063	568	7	phylum	7711	                Chordata
+61.0446	561	0	subphylum	89593	                  Craniata
+61.0446	561	56	clade	7742	                    Vertebrata
+54.9510	505	106	clade	7776	                      Gnathostomata
+43.4168	399	0	clade	117570	                        Teleostomi
+43.4168	399	77	clade	117571	                          Euteleostomi
+34.2764	315	7	superclass	8287	                            Sarcopterygii
+33.5147	308	0	clade	1338369	                              Dipnotetrapodomorpha
+33.5147	308	37	clade	32523	                                Tetrapoda
+29.3798	270	56	clade	32524	                                  Amniota
+22.9597	211	0	clade	8457	                                    Sauropsida
+22.9597	211	63	clade	32561	                                      Sauria
+15.0163	138	0	class	8504	                                        Lepidosauria
+15.0163	138	0	order	8509	                                          Squamata
+15.0163	138	25	clade	1329961	                                            Bifurcata
+11.7519	108	0	clade	1329950	                                              Unidentata
+11.7519	108	21	clade	1329912	                                                Episquamata
+8.3787	77	8	clade	1329911	                                                  Toxicofera
+4.7878	44	2	suborder	8511	                                                    Iguania
+3.6997	34	0	family	2024747	                                                      Dactyloidae
+3.6997	34	0	genus	28376	                                                        Anolis
+3.6997	34	34	species	28377	                                                          Anolis carolinensis
+0.8705	8	0	clade	83232	                                                      Acrodonta
+0.8705	8	0	family	81953	                                                        Agamidae
+0.8705	8	0	subfamily	145349	                                                          Amphibolurinae
+0.8705	8	0	genus	52201	                                                            Pogona
+0.8705	8	8	species	103695	                                                              Pogona vitticeps
+2.7203	25	2	infraorder	8570	                                                    Serpentes
+2.2851	21	0	superfamily	34989	                                                      Colubroidea
+1.8498	17	0	family	8602	                                                        Elapidae
+1.5234	14	1	subfamily	42168	                                                          Elapinae
+0.8705	8	0	genus	8634	                                                            Micrurus
+0.3264	3	3	species	54390	                                                              Micrurus corallinus
+0.3264	3	0	species	129464	                                                              Micrurus lemniscatus
+0.2176	2	2	subspecies	129467	                                                                Micrurus lemniscatus lemniscatus
+0.1088	1	1	subspecies	129465	                                                                Micrurus lemniscatus carvalhoi
+0.2176	2	2	species	129469	                                                              Micrurus spixii
+0.5441	5	0	genus	8664	                                                            Ophiophagus
+0.5441	5	5	species	8665	                                                              Ophiophagus hannah
+0.3264	3	0	subfamily	42167	                                                          Acanthophiinae
+0.2176	2	0	genus	8672	                                                            Pseudonaja
+0.2176	2	2	species	8673	                                                              Pseudonaja textilis
+0.1088	1	0	genus	8661	                                                            Notechis
+0.1088	1	1	species	8663	                                                              Notechis scutatus
+0.3264	3	0	family	8578	                                                        Colubridae
+0.3264	3	0	subfamily	169862	                                                          Natricinae
+0.3264	3	0	genus	34999	                                                            Thamnophis
+0.3264	3	3	species	35019	                                                              Thamnophis sirtalis
+0.1088	1	0	family	8689	                                                        Viperidae
+0.1088	1	0	subfamily	8710	                                                          Crotalinae
+0.1088	1	0	genus	103943	                                                            Protobothrops
+0.1088	1	1	species	103944	                                                              Protobothrops mucrosquamatus
+0.2176	2	0	superfamily	34979	                                                      Henophidia
+0.2176	2	0	family	34984	                                                        Pythonidae
+0.2176	2	0	genus	37579	                                                          Python
+0.2176	2	2	species	176946	                                                            Python bivittatus
+1.0881	10	0	clade	1329976	                                                  Laterata
+1.0881	10	0	clade	1329975	                                                    Lacertibaenia
+1.0881	10	0	family	8522	                                                      Lacertidae
+1.0881	10	3	subfamily	162266	                                                        Lacertinae
+0.6529	6	0	genus	42163	                                                          Podarcis
+0.6529	6	6	species	64176	                                                            Podarcis muralis
+0.1088	1	0	genus	141678	                                                          Zootoca
+0.1088	1	1	species	8524	                                                            Zootoca vivipara
+0.5441	5	0	infraorder	8560	                                              Gekkota
+0.5441	5	0	family	8561	                                                Gekkonidae
+0.5441	5	0	subfamily	385256	                                                  Gekkoninae
+0.4353	4	0	genus	143629	                                                    Paroedura
+0.4353	4	4	species	143630	                                                      Paroedura picta
+0.1088	1	0	genus	8565	                                                    Gekko
+0.1088	1	1	species	146911	                                                      Gekko japonicus
+1.0881	10	4	clade	1329799	                                        Archelosauria
+0.5441	5	0	clade	8492	                                          Archosauria
+0.5441	5	0	clade	436486	                                            Dinosauria
+0.5441	5	0	clade	436489	                                              Saurischia
+0.5441	5	0	clade	436491	                                                Theropoda
+0.5441	5	0	clade	436492	                                                  Coelurosauria
+0.5441	5	2	class	8782	                                                    Aves
+0.3264	3	1	infraclass	8825	                                                      Neognathae
+0.1088	1	0	order	9205	                                                        Pelecaniformes
+0.1088	1	0	family	9206	                                                          Phalacrocoracidae
+0.1088	1	0	genus	9207	                                                            Phalacrocorax
+0.1088	1	1	species	9209	                                                              Phalacrocorax carbo
+0.1088	1	0	order	9219	                                                        Piciformes
+0.1088	1	0	family	91771	                                                          Megalaimidae
+0.1088	1	0	genus	91776	                                                            Psilopogon
+0.1088	1	1	species	2585815	                                                              Psilopogon haemacephalus
+0.1088	1	0	subclass	2841271	                                          Testudinata
+0.1088	1	0	order	8459	                                            Testudines
+0.1088	1	0	suborder	8464	                                              Cryptodira
+0.1088	1	0	clade	1579337	                                                Durocryptodira
+0.1088	1	0	superfamily	8486	                                                  Testudinoidea
+0.1088	1	0	family	8487	                                                    Testudinidae
+0.1088	1	0	genus	904181	                                                      Chelonoidis
+0.1088	1	0	no rank	1137846	                                                        Chelonoidis nigra species complex
+0.1088	1	1	species	106734	                                                          Chelonoidis abingdonii
+0.3264	3	0	class	40674	                                    Mammalia
+0.3264	3	0	clade	32525	                                      Theria
+0.3264	3	0	clade	9347	                                        Eutheria
+0.3264	3	0	clade	1437010	                                          Boreoeutheria
+0.3264	3	0	superorder	314145	                                            Laurasiatheria
+0.2176	2	0	order	9397	                                              Chiroptera
+0.2176	2	0	suborder	30560	                                                Microchiroptera
+0.2176	2	0	family	9431	                                                  Vespertilionidae
+0.2176	2	0	genus	9434	                                                    Myotis
+0.1088	1	1	species	51298	                                                      Myotis myotis
+0.1088	1	1	species	109478	                                                      Myotis brandtii
+0.1088	1	0	order	33554	                                              Carnivora
+0.1088	1	0	suborder	379584	                                                Caniformia
+0.1088	1	0	family	9608	                                                  Canidae
+0.1088	1	0	genus	9611	                                                    Canis
+0.1088	1	0	species	9612	                                                      Canis lupus
+0.1088	1	1	subspecies	9615	                                                        Canis lupus familiaris
+0.1088	1	0	class	8292	                                  Amphibia
+0.1088	1	0	superorder	41666	                                    Batrachia
+0.1088	1	0	order	8342	                                      Anura
+0.1088	1	0	superfamily	30319	                                        Pipoidea
+0.1088	1	0	family	8352	                                          Pipidae
+0.1088	1	0	subfamily	8360	                                            Xenopodinae
+0.1088	1	0	genus	8353	                                              Xenopus
+0.1088	1	0	subgenus	8363	                                                Silurana
+0.1088	1	1	species	8364	                                                  Xenopus tropicalis
+0.7617	7	0	superclass	7898	                            Actinopterygii
+0.7617	7	0	class	186623	                              Actinopteri
+0.7617	7	0	subclass	41665	                                Neopterygii
+0.7617	7	0	infraclass	32443	                                  Teleostei
+0.7617	7	0	clade	1489341	                                    Osteoglossocephalai
+0.7617	7	1	no rank	186625	                                      Clupeocephala
+0.5441	5	1	cohort	1489388	                                        Euteleosteomorpha
+0.4353	4	0	clade	123365	                                          Neoteleostei
+0.4353	4	0	clade	123366	                                            Eurypterygia
+0.4353	4	0	clade	123367	                                              Ctenosquamata
+0.4353	4	0	clade	123368	                                                Acanthomorphata
+0.4353	4	0	clade	123369	                                                  Euacanthomorphacea
+0.4353	4	1	clade	1489872	                                                    Percomorphaceae
+0.3264	3	0	clade	1489922	                                                      Eupercaria
+0.3264	3	1	order	8111	                                                        Perciformes
+0.2176	2	0	suborder	8100	                                                          Cottioidei
+0.2176	2	0	infraorder	1490021	                                                            Cottales
+0.2176	2	0	family	183715	                                                              Liparidae
+0.2176	2	0	genus	183716	                                                                Liparis
+0.2176	2	2	species	230148	                                                                  Liparis tanakae
+0.1088	1	0	cohort	186634	                                        Otomorpha
+0.1088	1	0	subcohort	32519	                                          Ostariophysi
+0.1088	1	0	clade	186626	                                            Otophysi
+0.1088	1	0	superorder	186627	                                              Cypriniphysae
+0.1088	1	0	order	7952	                                                Cypriniformes
+0.1088	1	0	suborder	30727	                                                  Cyprinoidei
+0.1088	1	0	family	7953	                                                    Cyprinidae
+0.1088	1	0	subfamily	2743694	                                                      Cyprininae
+0.1088	1	0	genus	7961	                                                        Cyprinus
+0.1088	1	1	species	7962	                                                          Cyprinus carpio
+0.2176	2	0	clade	33317	              Protostomia
+0.2176	2	0	clade	1206794	                Ecdysozoa
+0.2176	2	0	clade	88770	                  Panarthropoda
+0.2176	2	1	phylum	6656	                    Arthropoda
+0.1088	1	0	clade	197563	                      Mandibulata
+0.1088	1	0	clade	197562	                        Pancrustacea
+0.1088	1	0	subphylum	6960	                          Hexapoda
+0.1088	1	0	class	50557	                            Insecta
+0.1088	1	0	clade	85512	                              Dicondylia
+0.1088	1	0	subclass	7496	                                Pterygota
+0.1088	1	0	infraclass	33340	                                  Neoptera
+0.1088	1	0	cohort	33392	                                    Endopterygota
+0.1088	1	0	order	7147	                                      Diptera
+0.1088	1	0	suborder	7203	                                        Brachycera
+0.1088	1	0	infraorder	43733	                                          Muscomorpha
+0.1088	1	0	clade	480118	                                            Eremoneura
+0.1088	1	0	clade	480117	                                              Cyclorrhapha
+0.1088	1	0	no rank	43738	                                                Schizophora
+0.1088	1	0	no rank	43742	                                                  Calyptratae
+0.1088	1	0	superfamily	43754	                                                    Muscoidea
+0.1088	1	0	family	7366	                                                      Muscidae
+0.1088	1	0	subfamily	43910	                                                        Muscinae
+0.1088	1	0	tribe	57894	                                                          Muscini
+0.1088	1	0	genus	7369	                                                            Musca
+0.1088	1	0	subgenus	44052	                                                              Musca
+0.1088	1	1	species	7370	                                                                Musca domestica
+0.5441	5	0	superkingdom	2	    Bacteria
+0.3264	3	0	phylum	1224	      Proteobacteria
+0.1088	1	0	class	1236	        Gammaproteobacteria
+0.1088	1	0	order	135622	          Alteromonadales
+0.1088	1	0	family	267888	            Pseudoalteromonadaceae
+0.1088	1	0	genus	2834759	              Flocculibacter
+0.1088	1	1	species	2744479	                Flocculibacter collagenilyticus
+0.1088	1	0	class	28211	        Alphaproteobacteria
+0.1088	1	0	order	54526	          Pelagibacterales
+0.1088	1	0	family	1655514	            Pelagibacteraceae
+0.1088	1	0	no rank	1655516	              unclassified Pelagibacteraceae
+0.1088	1	1	species	744985	                alpha proteobacterium HIMB59
+0.1088	1	0	class	28216	        Betaproteobacteria
+0.1088	1	0	order	80840	          Burkholderiales
+0.1088	1	0	family	119060	            Burkholderiaceae
+0.1088	1	0	genus	93217	              Pandoraea
+0.1088	1	1	species	2508291	                Pandoraea eparura
+0.2176	2	0	clade	1783272	      Terrabacteria group
+0.2176	2	0	phylum	1239	        Firmicutes
+0.2176	2	0	class	91061	          Bacilli
+0.2176	2	0	order	186826	            Lactobacillales
+0.2176	2	0	family	1300	              Streptococcaceae
+0.2176	2	0	genus	1301	                Streptococcus
+0.2176	2	2	species	1313	                  Streptococcus pneumoniae
