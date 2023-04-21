@@ -1,5 +1,5 @@
 #!/usr/bin/bash -l
-#SBATCH -p short -N 1 -c 48 -n 1 --mem 128gb --out logs/mmseqs_classify_bins.%a.log -J 04_classify
+#SBATCH -p short -N 1 -c 96 -n 1 --mem 255gb --out logs/mmseqs_classify_bins.%a.log -J 04_classify
 #-p short -N 1 -c 96 -n 1 --mem 256gb --out logs/mmseqs_classify_bins.%a.log -J 04_classify
 
 CPU=2
@@ -19,7 +19,7 @@ if [ -z $N ]; then
   exit
 fi
 DB=/srv/projects/db/ncbi/mmseqs/uniref50
-DB=/srv/projects/db/ncbi/mmseqs/swissprot
+#DB=/srv/projects/db/ncbi/mmseqs/swissprot
 DBNAME=$(basename $DB)
 
 IFS=,
@@ -36,6 +36,8 @@ do
 	  echo "GENOME is $GENOME"
 	  BIN=$(basename $GENOME .fa)
 	  OUT=$OUTFOLDER/$STRAIN/${BIN}_${DBNAME}
-	  mmseqs easy-taxonomy $GENOME $DB $OUT $SCRATCH --threads $CPU --lca-ranks kingdom,phylum,family  --tax-lineage 1 --db-load-mode 2
+	  if [ ! -s ${OUT}_tophit_aln ]; then
+	  	mmseqs easy-taxonomy $GENOME $DB $OUT $SCRATCH --threads $CPU --lca-ranks kingdom,phylum,family  --tax-lineage 1 --db-load-mode 2
+	  fi
   done
 done
