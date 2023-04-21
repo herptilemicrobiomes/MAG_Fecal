@@ -1,0 +1,91 @@
+1.3944	7	7	no rank	0	unclassified
+98.6056	495	70	no rank	1	root
+84.6614	425	0	no rank	131567	  cellular organisms
+84.4622	424	234	superkingdom	2	    Bacteria
+34.2629	172	7	clade	1783272	      Terrabacteria group
+32.8685	165	60	phylum	1239	        Firmicutes
+19.5219	98	16	class	186801	          Clostridia
+16.1355	81	47	order	186802	            Eubacteriales
+4.7809	24	9	family	186803	              Lachnospiraceae
+1.1952	6	0	no rank	186928	                unclassified Lachnospiraceae
+0.7968	4	4	species	1898203	                  Lachnospiraceae bacterium
+0.1992	1	1	species	1855374	                  Lachnospiraceae bacterium KH1T2
+0.1992	1	1	species	2592090	                  Lachnospiraceae bacterium MD329
+0.3984	2	0	genus	841	                Roseburia
+0.3984	2	0	no rank	2637578	                  unclassified Roseburia
+0.1992	1	1	species	1261634	                    Roseburia sp. 499
+0.1992	1	1	species	1897016	                    Roseburia sp. CAG:10041_57
+0.3984	2	0	genus	1506553	                Lachnoclostridium
+0.3984	2	0	no rank	2608895	                  unclassified Lachnoclostridium
+0.1992	1	1	species	1965575	                    Lachnoclostridium sp. An181
+0.1992	1	1	species	2028282	                    Lachnoclostridium sp.
+0.3984	2	0	genus	2163168	                Kineothrix
+0.3984	2	2	species	1469948	                  Kineothrix alysoides
+0.1992	1	0	genus	830	                Butyrivibrio
+0.1992	1	0	no rank	2639466	                  unclassified Butyrivibrio
+0.1992	1	1	species	1280685	                    Butyrivibrio sp. NC3005
+0.1992	1	0	genus	1924081	                Bariatricus
+0.1992	1	1	species	1745713	                  Bariatricus massiliensis
+0.1992	1	0	genus	2307008	                Candidatus Galacturonibacter
+0.1992	1	1	species	2307010	                  Candidatus Galacturonibacter soehngenii
+0.5976	3	0	family	31979	              Clostridiaceae
+0.3984	2	0	genus	1485	                Clostridium
+0.1992	1	0	no rank	59619	                  environmental samples
+0.1992	1	1	species	1262824	                    Clostridium sp. CAG:58
+0.1992	1	0	no rank	2614128	                  unclassified Clostridium
+0.1992	1	1	species	1506	                    Clostridium sp.
+0.1992	1	0	genus	1769729	                Hathewaya
+0.1992	1	0	species	29365	                  Hathewaya proteolytica
+0.1992	1	1	strain	1121331	                    Hathewaya proteolytica DSM 3090
+0.5976	3	1	family	216572	              Oscillospiraceae
+0.1992	1	0	genus	35829	                Acetivibrio
+0.1992	1	1	species	290052	                  Acetivibrio ethanolgignens
+0.1992	1	1	genus	244127	                Anaerotruncus
+0.3984	2	0	no rank	538999	              Eubacteriales incertae sedis
+0.1992	1	0	genus	204475	                Gemmiger
+0.1992	1	0	no rank	2630008	                  unclassified Gemmiger
+0.1992	1	1	species	1965549	                    Gemmiger sp. An120
+0.1992	1	0	family	543313	                Eubacteriales Family XII. Incertae Sedis
+0.1992	1	0	no rank	2060926	                  unclassified Clostridiales Family XII. Incertae Sedis
+0.1992	1	1	species	2060927	                    Clostridiales bacterium UBA8960
+0.1992	1	0	no rank	39779	              unclassified Eubacteriales
+0.1992	1	1	species	1898207	                Clostridiales bacterium
+0.1992	1	0	family	186806	              Eubacteriaceae
+0.1992	1	0	genus	1730	                Eubacterium
+0.1992	1	0	species	97253	                  Eubacterium plexicaudatum
+0.1992	1	1	strain	1235802	                    Eubacterium plexicaudatum ASF492
+0.1992	1	0	no rank	348841	            unclassified Clostridia
+0.1992	1	1	species	2044939	              Clostridia bacterium
+0.9960	5	1	class	91061	          Bacilli
+0.5976	3	1	order	1385	            Bacillales
+0.1992	1	0	family	186820	              Listeriaceae
+0.1992	1	0	genus	2755	                Brochothrix
+0.1992	1	1	species	2756	                  Brochothrix thermosphacta
+0.1992	1	0	family	186822	              Paenibacillaceae
+0.1992	1	0	genus	329857	                Cohnella
+0.1992	1	1	species	400776	                  Cohnella panacarvi
+0.1992	1	0	order	186826	            Lactobacillales
+0.1992	1	0	family	1300	              Streptococcaceae
+0.1992	1	1	genus	1301	                Streptococcus
+0.1992	1	0	no rank	84086	          unclassified Firmicutes sensu stricto
+0.1992	1	1	species	1852886	            Firmicutes bacterium ADurb.Bin248
+0.1992	1	0	class	526524	          Erysipelotrichia
+0.1992	1	0	order	526525	            Erysipelotrichales
+0.1992	1	0	family	128827	              Erysipelotrichaceae
+0.1992	1	0	genus	2060871	                Galactobacillus
+0.1992	1	1	species	2041840	                  Galactobacillus timonensis
+1.9920	10	0	clade	1783270	      FCB group
+1.9920	10	3	clade	68336	        Bacteroidetes/Chlorobi group
+1.3944	7	1	phylum	976	          Bacteroidetes
+0.9960	5	0	class	200643	            Bacteroidia
+0.9960	5	1	order	171549	              Bacteroidales
+0.7968	4	1	family	815	                Bacteroidaceae
+0.5976	3	2	genus	816	                  Bacteroides
+0.1992	1	1	species	1347393	                    Bacteroides neonati
+0.1992	1	0	no rank	37452	            unclassified Bacteroidetes
+0.1992	1	1	species	1898104	              Bacteroidetes bacterium
+1.5936	8	1	no rank	49928	      unclassified Bacteria
+0.5976	3	3	species	2320102	        bacterium 1XD42-8
+0.3984	2	2	species	2320109	        bacterium C-53
+0.3984	2	2	species	2320115	        bacterium 1XD8-76
+0.1992	1	1	superkingdom	2759	    Eukaryota

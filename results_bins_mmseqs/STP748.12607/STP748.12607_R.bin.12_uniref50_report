@@ -1,0 +1,83 @@
+100.0000	146	0	no rank	1	root
+100.0000	146	1	no rank	131567	  cellular organisms
+99.3151	145	3	superkingdom	2759	    Eukaryota
+96.5753	141	1	clade	33154	      Opisthokonta
+95.8904	140	0	kingdom	33208	        Metazoa
+95.8904	140	0	clade	6072	          Eumetazoa
+95.8904	140	0	clade	33213	            Bilateria
+95.8904	140	0	clade	33511	              Deuterostomia
+95.8904	140	1	phylum	7711	                Chordata
+95.2055	139	0	subphylum	89593	                  Craniata
+95.2055	139	0	clade	7742	                    Vertebrata
+95.2055	139	0	clade	7776	                      Gnathostomata
+95.2055	139	0	clade	117570	                        Teleostomi
+95.2055	139	60	clade	117571	                          Euteleostomi
+34.9315	51	0	superclass	8287	                            Sarcopterygii
+34.9315	51	0	clade	1338369	                              Dipnotetrapodomorpha
+34.9315	51	1	clade	32523	                                Tetrapoda
+34.2466	50	1	class	8292	                                  Amphibia
+33.5616	49	0	superorder	41666	                                    Batrachia
+33.5616	49	21	order	8342	                                      Anura
+19.1781	28	0	superfamily	30319	                                        Pipoidea
+19.1781	28	0	family	8352	                                          Pipidae
+19.1781	28	0	subfamily	8360	                                            Xenopodinae
+19.1781	28	1	genus	8353	                                              Xenopus
+17.8082	26	0	subgenus	8363	                                                Silurana
+17.8082	26	26	species	8364	                                                  Xenopus tropicalis
+0.6849	1	0	subgenus	262014	                                                Xenopus
+0.6849	1	1	species	8355	                                                  Xenopus laevis
+19.1781	28	0	superclass	7898	                            Actinopterygii
+19.1781	28	0	class	186623	                              Actinopteri
+19.1781	28	0	subclass	41665	                                Neopterygii
+19.1781	28	0	infraclass	32443	                                  Teleostei
+19.1781	28	0	clade	1489341	                                    Osteoglossocephalai
+19.1781	28	21	no rank	186625	                                      Clupeocephala
+4.1096	6	2	cohort	1489388	                                        Euteleosteomorpha
+2.7397	4	0	clade	123365	                                          Neoteleostei
+2.7397	4	0	clade	123366	                                            Eurypterygia
+2.7397	4	0	clade	123367	                                              Ctenosquamata
+2.7397	4	0	clade	123368	                                                Acanthomorphata
+2.7397	4	0	clade	123369	                                                  Euacanthomorphacea
+2.7397	4	0	clade	1489872	                                                    Percomorphaceae
+2.0548	3	1	clade	1489908	                                                      Ovalentaria
+0.6849	1	0	no rank	1489909	                                                        Ovalentaria incertae sedis
+0.6849	1	0	family	30863	                                                          Pomacentridae
+0.6849	1	0	genus	80965	                                                            Acanthochromis
+0.6849	1	1	species	80966	                                                              Acanthochromis polyacanthus
+0.6849	1	0	superorder	1489913	                                                        Atherinomorphae
+0.6849	1	0	order	76071	                                                          Beloniformes
+0.6849	1	0	suborder	28781	                                                            Adrianichthyoidei
+0.6849	1	0	family	47757	                                                              Adrianichthyidae
+0.6849	1	0	subfamily	8088	                                                                Oryziinae
+0.6849	1	0	genus	8089	                                                                  Oryzias
+0.6849	1	1	species	8090	                                                                    Oryzias latipes
+0.6849	1	0	clade	1489904	                                                      Carangaria
+0.6849	1	0	order	1489907	                                                        Carangiformes
+0.6849	1	0	family	8157	                                                          Carangidae
+0.6849	1	1	genus	8160	                                                            Seriola
+0.6849	1	0	cohort	186634	                                        Otomorpha
+0.6849	1	0	subcohort	32519	                                          Ostariophysi
+0.6849	1	0	clade	186626	                                            Otophysi
+0.6849	1	0	superorder	186627	                                              Cypriniphysae
+0.6849	1	0	order	7952	                                                Cypriniformes
+0.6849	1	1	suborder	30727	                                                  Cyprinoidei
+0.6849	1	0	kingdom	33090	      Viridiplantae
+0.6849	1	0	phylum	35493	        Streptophyta
+0.6849	1	0	subphylum	131221	          Streptophytina
+0.6849	1	0	clade	3193	            Embryophyta
+0.6849	1	0	clade	58023	              Tracheophyta
+0.6849	1	0	clade	78536	                Euphyllophyta
+0.6849	1	0	clade	58024	                  Spermatophyta
+0.6849	1	0	class	3398	                    Magnoliopsida
+0.6849	1	0	clade	1437183	                      Mesangiospermae
+0.6849	1	0	clade	71240	                        eudicotyledons
+0.6849	1	0	clade	91827	                          Gunneridae
+0.6849	1	0	clade	1437201	                            Pentapetalae
+0.6849	1	0	clade	71274	                              asterids
+0.6849	1	0	clade	91888	                                lamiids
+0.6849	1	0	order	4069	                                  Solanales
+0.6849	1	0	family	4070	                                    Solanaceae
+0.6849	1	0	subfamily	424551	                                      Solanoideae
+0.6849	1	0	tribe	424574	                                        Solaneae
+0.6849	1	0	genus	4107	                                          Solanum
+0.6849	1	1	species	4113	                                            Solanum tuberosum

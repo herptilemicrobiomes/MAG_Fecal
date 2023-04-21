@@ -1,0 +1,58 @@
+0.3145	1	1	no rank	0	unclassified
+99.6855	317	61	no rank	1	root
+80.5031	256	5	no rank	131567	  cellular organisms
+78.9308	251	26	superkingdom	2	    Bacteria
+69.1824	220	61	phylum	1224	      Proteobacteria
+48.7421	155	107	class	1236	        Gammaproteobacteria
+14.1509	45	1	order	135624	          Aeromonadales
+13.8365	44	9	family	84642	            Aeromonadaceae
+10.6918	34	19	genus	642	              Aeromonas
+1.2579	4	4	species	654	                Aeromonas veronii
+0.9434	3	3	species	648	                Aeromonas caviae
+0.6289	2	2	species	644	                Aeromonas hydrophila
+0.6289	2	0	species	271417	                Aeromonas molluscorum
+0.6289	2	2	strain	1268236	                  Aeromonas molluscorum 848
+0.3145	1	1	species	645	                Aeromonas salmonicida
+0.3145	1	1	species	651	                Aeromonas media
+0.3145	1	1	species	73010	                Aeromonas encheleia
+0.3145	1	0	no rank	257493	                unclassified Aeromonas
+0.3145	1	1	species	2056850	                  Aeromonas sp. HMWF014
+0.3145	1	1	genus	43947	              Tolumonas
+0.6289	2	0	order	72274	          Pseudomonadales
+0.6289	2	0	family	135621	            Pseudomonadaceae
+0.6289	2	0	genus	286	              Pseudomonas
+0.6289	2	0	species group	136849	                Pseudomonas syringae group
+0.3145	1	0	species subgroup	251695	                  Pseudomonas syringae group genomosp. 1
+0.3145	1	1	species	317	                    Pseudomonas syringae
+0.3145	1	0	species subgroup	251698	                  Pseudomonas syringae group genomosp. 2
+0.3145	1	1	species	47877	                    Pseudomonas amygdali
+0.3145	1	0	order	91347	          Enterobacterales
+0.3145	1	1	family	543	            Enterobacteriaceae
+0.6289	2	0	class	28211	        Alphaproteobacteria
+0.3145	1	0	order	356	          Hyphomicrobiales
+0.3145	1	0	family	82115	            Rhizobiaceae
+0.3145	1	0	no rank	227290	              Rhizobium/Agrobacterium group
+0.3145	1	0	genus	379	                Rhizobium
+0.3145	1	1	species	228925	                  Rhizobium arachis
+0.3145	1	0	no rank	33807	          unclassified Alphaproteobacteria
+0.3145	1	1	species	331869	            alpha proteobacterium BAL199
+0.3145	1	0	class	28216	        Betaproteobacteria
+0.3145	1	0	order	80840	          Burkholderiales
+0.3145	1	0	family	506	            Alcaligenaceae
+0.3145	1	0	genus	222	              Achromobacter
+0.3145	1	0	species	1287735	                Achromobacter insuavis
+0.3145	1	1	strain	1003200	                  Achromobacter insuavis AXX-A
+0.3145	1	0	subphylum	68525	        delta/epsilon subdivisions
+0.3145	1	0	class	29547	          Epsilonproteobacteria
+0.3145	1	0	order	213849	            Campylobacterales
+0.3145	1	0	family	2808963	              Arcobacteraceae
+0.3145	1	0	genus	2321111	                Aliarcobacter
+0.3145	1	1	species	28198	                  Aliarcobacter cryaerophilus
+1.5723	5	0	clade	1783272	      Terrabacteria group
+1.5723	5	2	phylum	1239	        Firmicutes
+0.9434	3	1	class	186801	          Clostridia
+0.6289	2	1	order	186802	            Eubacteriales
+0.3145	1	0	no rank	538999	              Eubacteriales incertae sedis
+0.3145	1	0	family	543314	                Eubacteriales Family XIII. Incertae Sedis
+0.3145	1	0	genus	2005387	                  Bacilliculturomica
+0.3145	1	1	species	1917867	                    Bacilliculturomica massiliensis

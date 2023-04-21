@@ -1,0 +1,109 @@
+0.6462	4	4	no rank	0	unclassified
+99.3538	615	47	no rank	1	root
+91.7609	568	2	no rank	131567	  cellular organisms
+91.2763	565	82	superkingdom	2	    Bacteria
+77.2213	478	9	clade	1783272	      Terrabacteria group
+75.1212	465	179	phylum	1239	        Firmicutes
+43.2956	268	1	class	526524	          Erysipelotrichia
+42.6494	264	3	order	526525	            Erysipelotrichales
+42.1648	261	74	family	128827	              Erysipelotrichaceae
+28.1099	174	0	genus	1472649	                Dielma
+28.1099	174	174	species	1034346	                  Dielma fastidiosa
+0.9693	6	0	genus	1929045	                Traorella
+0.9693	6	6	species	1903263	                  Traorella massiliensis
+0.3231	2	0	genus	1647	                Erysipelothrix
+0.1616	1	1	species	1514105	                  Erysipelothrix larvae
+0.1616	1	0	no rank	2624170	                  unclassified Erysipelothrix
+0.1616	1	1	species	38403	                    Erysipelothrix sp.
+0.3231	2	0	genus	118966	                Anaerorhabdus
+0.3231	2	2	species	118967	                  Anaerorhabdus furcosa
+0.1616	1	1	genus	61170	                Holdemania
+0.1616	1	1	genus	1470349	                Candidatus Stoquefichus
+0.1616	1	0	genus	1924110	                Massilimicrobiota
+0.1616	1	0	no rank	2619866	                  unclassified Massilimicrobiota
+0.1616	1	1	species	1965658	                    Massilimicrobiota sp. An80
+0.4847	3	0	no rank	2184013	            unclassified Erysipelotrichia
+0.4847	3	3	species	2184014	              Erysipelotrichia bacterium
+2.2617	14	1	class	186801	          Clostridia
+2.1002	13	7	order	186802	            Eubacteriales
+0.4847	3	0	family	186803	              Lachnospiraceae
+0.3231	2	0	genus	572511	                Blautia
+0.1616	1	1	species	33035	                  Blautia producta
+0.1616	1	1	species	180164	                  Blautia schinkii
+0.1616	1	0	genus	1432051	                Eisenbergiella
+0.1616	1	0	no rank	2652273	                  unclassified Eisenbergiella
+0.1616	1	1	species	2292348	                    Eisenbergiella sp. OF01-20
+0.1616	1	0	family	31979	              Clostridiaceae
+0.1616	1	0	no rank	189971	                unclassified Clostridiaceae
+0.1616	1	1	species	2692629	                  Clostridiaceae bacterium DONG20-135
+0.1616	1	0	family	186804	              Peptostreptococcaceae
+0.1616	1	0	genus	1849828	                Paeniclostridium
+0.1616	1	0	species	1505	                  Paeniclostridium sordellii
+0.1616	1	1	strain	1292036	                    Paeniclostridium sordellii ATCC 9714
+0.1616	1	0	family	216572	              Oscillospiraceae
+0.1616	1	0	genus	1263	                Ruminococcus
+0.1616	1	0	no rank	2608920	                  unclassified Ruminococcus
+0.1616	1	1	species	2364796	                    Ruminococcus sp. Marseille-P6503
+0.3231	2	0	class	91061	          Bacilli
+0.1616	1	0	order	1385	            Bacillales
+0.1616	1	0	family	186822	              Paenibacillaceae
+0.1616	1	0	genus	44249	                Paenibacillus
+0.1616	1	0	no rank	185978	                  unclassified Paenibacillus
+0.1616	1	1	species	1780103	                    Paenibacillus sp. DMB5
+0.1616	1	0	order	186826	            Lactobacillales
+0.1616	1	0	family	33958	              Lactobacillaceae
+0.1616	1	0	genus	2767893	                Lentilactobacillus
+0.1616	1	0	species	481722	                  Lentilactobacillus kisonensis
+0.1616	1	1	strain	1423766	                    Lentilactobacillus kisonensis DSM 19906 = JCM 15041
+0.1616	1	0	class	909932	          Negativicutes
+0.1616	1	0	order	1843489	            Veillonellales
+0.1616	1	0	family	31977	              Veillonellaceae
+0.1616	1	0	genus	39948	                Dialister
+0.1616	1	0	no rank	135034	                  environmental samples
+0.1616	1	1	species	1263072	                    Dialister invisus CAG:218
+0.1616	1	0	class	1737404	          Tissierellia
+0.1616	1	0	order	1737405	            Tissierellales
+0.1616	1	1	family	1570339	              Peptoniphilaceae
+0.6462	4	0	phylum	201174	        Actinobacteria
+0.4847	3	0	class	84998	          Coriobacteriia
+0.4847	3	2	order	84999	            Coriobacteriales
+0.1616	1	0	family	84107	              Coriobacteriaceae
+0.1616	1	0	no rank	84113	                unclassified Coriobacteriaceae
+0.1616	1	1	species	2011094	                  Coriobacteriaceae bacterium
+0.1616	1	0	class	1760	          Actinomycetia
+0.1616	1	1	order	85006	            Micrococcales
+0.3231	2	0	clade	1783270	      FCB group
+0.3231	2	0	clade	68336	        Bacteroidetes/Chlorobi group
+0.3231	2	0	phylum	976	          Bacteroidetes
+0.1616	1	0	no rank	37452	            unclassified Bacteroidetes
+0.1616	1	1	species	1852820	              Bacteroidetes bacterium ADurb.BinA395
+0.1616	1	0	class	200643	            Bacteroidia
+0.1616	1	0	order	171549	              Bacteroidales
+0.1616	1	0	family	815	                Bacteroidaceae
+0.1616	1	0	genus	909656	                  Phocaeicola
+0.1616	1	1	species	376804	                    Phocaeicola barnesiae
+0.1616	1	0	phylum	1224	      Proteobacteria
+0.1616	1	0	class	1236	        Gammaproteobacteria
+0.1616	1	0	order	91347	          Enterobacterales
+0.1616	1	0	family	543	            Enterobacteriaceae
+0.1616	1	0	genus	561	              Escherichia
+0.1616	1	1	species	562	                Escherichia coli
+0.1616	1	0	phylum	32066	      Fusobacteria
+0.1616	1	0	class	203490	        Fusobacteriia
+0.1616	1	0	order	203491	          Fusobacteriales
+0.1616	1	0	family	1129771	            Leptotrichiaceae
+0.1616	1	0	genus	2755140	              Pseudoleptotrichia
+0.1616	1	0	species	157692	                Pseudoleptotrichia goodfellowii
+0.1616	1	1	strain	596323	                  Pseudoleptotrichia goodfellowii F0264
+0.1616	1	0	phylum	508458	      Synergistetes
+0.1616	1	0	class	649775	        Synergistia
+0.1616	1	0	order	649776	          Synergistales
+0.1616	1	0	family	649777	            Synergistaceae
+0.1616	1	1	genus	638847	              Pyramidobacter
+0.1616	1	0	superkingdom	2157	    Archaea
+0.1616	1	0	phylum	28890	      Euryarchaeota
+0.1616	1	0	clade	2283794	        Methanomada group
+0.1616	1	0	class	183925	          Methanobacteria
+0.1616	1	0	order	2158	            Methanobacteriales
+0.1616	1	0	family	2159	              Methanobacteriaceae
+0.1616	1	1	genus	2172	                Methanobrevibacter

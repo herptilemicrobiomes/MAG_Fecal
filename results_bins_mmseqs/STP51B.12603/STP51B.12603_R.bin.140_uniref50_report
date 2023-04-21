@@ -1,0 +1,60 @@
+0.3937	1	1	no rank	0	unclassified
+99.6063	253	27	no rank	1	root
+88.9764	226	1	no rank	131567	  cellular organisms
+88.5827	225	92	superkingdom	2	    Bacteria
+50.7874	129	1	clade	1783272	      Terrabacteria group
+50.3937	128	47	phylum	1239	        Firmicutes
+31.1024	79	9	class	186801	          Clostridia
+27.5591	70	39	order	186802	            Eubacteriales
+8.6614	22	10	family	186803	              Lachnospiraceae
+2.7559	7	5	genus	841	                Roseburia
+0.7874	2	2	species	301301	                  Roseburia hominis
+0.3937	1	0	no rank	186928	                unclassified Lachnospiraceae
+0.3937	1	1	species	1898203	                  Lachnospiraceae bacterium
+0.3937	1	0	genus	1774128	                Murimonas
+0.3937	1	1	species	1337051	                  Murimonas intestini
+0.3937	1	0	genus	1855714	                Anaerobium
+0.3937	1	1	species	1619234	                  Anaerobium acetethylicum
+0.3937	1	0	genus	2719231	                Lacrimispora
+0.3937	1	1	species	94868	                  Lacrimispora algidixylanolytica
+0.3937	1	0	genus	2815780	                Velocimicrobium
+0.3937	1	1	species	2606634	                  Velocimicrobium porci
+1.5748	4	0	family	31979	              Clostridiaceae
+0.7874	2	0	genus	1485	                Clostridium
+0.3937	1	1	species	238834	                  Clostridium estertheticum
+0.3937	1	1	species	2784388	                  Clostridium vitabionis
+0.3937	1	0	genus	44261	                Oxobacter
+0.3937	1	1	species	36849	                  Oxobacter pfennigii
+0.3937	1	0	genus	1649459	                Hungatella
+0.3937	1	1	species	154046	                  Hungatella hathewayi
+1.5748	4	0	family	216572	              Oscillospiraceae
+0.7874	2	1	genus	244127	                Anaerotruncus
+0.3937	1	0	no rank	2641626	                  unclassified Anaerotruncus
+0.3937	1	1	species	2292191	                    Anaerotruncus sp. AF02-27
+0.3937	1	1	genus	1263	                Ruminococcus
+0.3937	1	0	genus	1508657	                Ruminiclostridium
+0.3937	1	0	species	29355	                  Ruminiclostridium cellobioparum
+0.3937	1	0	subspecies	29371	                    Ruminiclostridium cellobioparum subsp. termitidis
+0.3937	1	1	strain	1195236	                      Ruminiclostridium cellobioparum subsp. termitidis CT1112
+0.3937	1	0	no rank	39779	              unclassified Eubacteriales
+0.3937	1	1	species	1895747	                Clostridiales bacterium 43-6
+0.3937	1	0	class	91061	          Bacilli
+0.3937	1	0	order	1385	            Bacillales
+0.3937	1	0	family	186818	              Planococcaceae
+0.3937	1	0	genus	162291	                Planomicrobium
+0.3937	1	0	no rank	2625360	                  unclassified Planomicrobium
+0.3937	1	1	species	2599619	                    Planomicrobium sp. CPCC 101110
+0.3937	1	0	class	909932	          Negativicutes
+0.3937	1	0	order	909929	            Selenomonadales
+0.3937	1	0	family	1843491	              Selenomonadaceae
+0.3937	1	1	genus	84034	                Propionispira
+1.5748	4	0	clade	1783270	      FCB group
+1.5748	4	0	clade	68336	        Bacteroidetes/Chlorobi group
+1.5748	4	0	phylum	976	          Bacteroidetes
+1.5748	4	1	class	200643	            Bacteroidia
+1.1811	3	1	order	171549	              Bacteroidales
+0.3937	1	0	family	815	                Bacteroidaceae
+0.3937	1	0	genus	816	                  Bacteroides
+0.3937	1	0	no rank	139043	                    environmental samples
+0.3937	1	1	species	1263043	                      Bacteroides eggerthii CAG:109
+0.3937	1	1	family	1853231	                Odoribacteraceae

@@ -1,0 +1,55 @@
+1.5504	4	4	no rank	0	unclassified
+98.4496	254	54	no rank	1	root
+77.5194	200	0	no rank	131567	  cellular organisms
+77.5194	200	76	superkingdom	2	    Bacteria
+46.1240	119	8	clade	1783272	      Terrabacteria group
+42.6357	110	51	phylum	1239	        Firmicutes
+22.0930	57	24	class	186801	          Clostridia
+12.7907	33	21	order	186802	            Eubacteriales
+2.7132	7	2	family	31979	              Clostridiaceae
+1.5504	4	3	genus	1485	                Clostridium
+0.3876	1	0	no rank	59619	                  environmental samples
+0.3876	1	1	species	1262808	                    Clostridium sp. CAG:448
+0.3876	1	0	no rank	189971	                unclassified Clostridiaceae
+0.3876	1	1	species	1898204	                  Clostridiaceae bacterium
+0.7752	2	0	family	216572	              Oscillospiraceae
+0.7752	2	0	no rank	473772	                unclassified Oscillospiraceae
+0.7752	2	2	species	2485925	                  Oscillospiraceae bacterium
+0.3876	1	0	family	68298	              Syntrophomonadaceae
+0.3876	1	0	genus	427925	                Dethiobacter
+0.3876	1	0	species	427926	                  Dethiobacter alkaliphilus
+0.3876	1	1	strain	555088	                    Dethiobacter alkaliphilus AHT 1
+0.3876	1	0	family	186803	              Lachnospiraceae
+0.3876	1	0	genus	2678884	                Anaerosacchariphilus
+0.3876	1	1	species	1812858	                  Anaerosacchariphilus polymeriproducens
+0.3876	1	0	no rank	538999	              Eubacteriales incertae sedis
+0.3876	1	0	genus	1470353	                Candidatus Soleaferrea
+0.3876	1	1	species	1470354	                  Candidatus Soleaferrea massiliensis
+0.3876	1	1	class	91061	          Bacilli
+0.3876	1	0	class	526524	          Erysipelotrichia
+0.3876	1	0	order	526525	            Erysipelotrichales
+0.3876	1	0	family	128827	              Erysipelotrichaceae
+0.3876	1	0	genus	1573536	                Faecalicoccus
+0.3876	1	1	species	915173	                  Faecalicoccus acidiformans
+0.3876	1	0	phylum	544448	        Tenericutes
+0.3876	1	0	class	31969	          Mollicutes
+0.3876	1	0	order	186329	            Acholeplasmatales
+0.3876	1	0	family	2146	              Acholeplasmataceae
+0.3876	1	0	genus	2147	                Acholeplasma
+0.3876	1	0	no rank	2644011	                  unclassified Acholeplasma
+0.3876	1	1	species	33015	                    Acholeplasma sp.
+1.5504	4	0	clade	1783270	      FCB group
+1.5504	4	0	clade	68336	        Bacteroidetes/Chlorobi group
+1.5504	4	0	phylum	976	          Bacteroidetes
+1.5504	4	0	class	200643	            Bacteroidia
+1.5504	4	1	order	171549	              Bacteroidales
+0.7752	2	0	family	2005525	                Tannerellaceae
+0.7752	2	1	genus	375288	                  Parabacteroides
+0.3876	1	1	species	328812	                    Parabacteroides goldsteinii
+0.3876	1	1	family	1853231	                Odoribacteraceae
+0.3876	1	0	phylum	1224	      Proteobacteria
+0.3876	1	0	class	1236	        Gammaproteobacteria
+0.3876	1	0	order	135623	          Vibrionales
+0.3876	1	0	family	641	            Vibrionaceae
+0.3876	1	0	genus	662	              Vibrio
+0.3876	1	1	species	666	                Vibrio cholerae

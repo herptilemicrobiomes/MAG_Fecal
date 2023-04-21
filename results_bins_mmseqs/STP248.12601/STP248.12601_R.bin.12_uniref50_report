@@ -1,0 +1,38 @@
+1.4286	3	3	no rank	0	unclassified
+98.5714	207	66	no rank	1	root
+67.1429	141	1	no rank	131567	  cellular organisms
+66.6667	140	57	superkingdom	2	    Bacteria
+39.0476	82	3	clade	1783272	      Terrabacteria group
+37.1429	78	41	phylum	1239	        Firmicutes
+14.2857	30	19	class	909932	          Negativicutes
+4.2857	9	2	order	909929	            Selenomonadales
+2.3810	5	3	family	1843491	              Selenomonadaceae
+0.4762	1	1	genus	970	                Selenomonas
+0.4762	1	1	genus	84034	                Propionispira
+0.9524	2	1	family	1843490	              Sporomusaceae
+0.4762	1	0	genus	2373	                Acetonema
+0.4762	1	0	species	2374	                  Acetonema longum
+0.4762	1	1	strain	1009370	                    Acetonema longum DSM 6540
+0.9524	2	0	order	1843489	            Veillonellales
+0.9524	2	0	family	31977	              Veillonellaceae
+0.9524	2	0	genus	1973275	                Massilibacillus
+0.9524	2	2	species	1806837	                  Massilibacillus massiliensis
+3.3333	7	1	class	186801	          Clostridia
+2.8571	6	3	order	186802	            Eubacteriales
+0.9524	2	1	family	31979	              Clostridiaceae
+0.4762	1	0	genus	1485	                Clostridium
+0.4762	1	0	no rank	59619	                  environmental samples
+0.4762	1	1	species	1262836	                    Clostridium sp. CAG:75
+0.4762	1	0	family	186803	              Lachnospiraceae
+0.4762	1	0	genus	33042	                Coprococcus
+0.4762	1	0	no rank	458252	                  environmental samples
+0.4762	1	1	species	1262862	                    Coprococcus sp. CAG:131
+0.4762	1	0	phylum	201174	        Actinobacteria
+0.4762	1	0	class	1760	          Actinomycetia
+0.4762	1	0	order	85007	            Corynebacteriales
+0.4762	1	1	family	1762	              Mycobacteriaceae
+0.4762	1	0	clade	1783270	      FCB group
+0.4762	1	0	clade	68336	        Bacteroidetes/Chlorobi group
+0.4762	1	0	phylum	976	          Bacteroidetes
+0.4762	1	0	class	200643	            Bacteroidia
+0.4762	1	1	order	171549	              Bacteroidales

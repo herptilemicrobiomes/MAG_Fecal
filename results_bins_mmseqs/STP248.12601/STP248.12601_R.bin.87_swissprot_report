@@ -1,0 +1,56 @@
+100.0000	71	0	no rank	1	root
+100.0000	71	2	no rank	131567	  cellular organisms
+95.7746	68	27	superkingdom	2	    Bacteria
+53.5211	38	1	clade	1783272	      Terrabacteria group
+50.7042	36	21	phylum	1239	        Bacillota
+12.6761	9	2	class	91061	          Bacilli
+9.8592	7	0	order	1385	            Bacillales
+9.8592	7	2	family	186817	              Bacillaceae
+5.6338	4	0	genus	1386	                Bacillus
+5.6338	4	0	species group	653685	                  Bacillus subtilis group
+5.6338	4	0	species	1423	                    Bacillus subtilis
+5.6338	4	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+5.6338	4	4	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+1.4085	1	0	genus	2893055	                Halalkalibacterium (ex Joshi et al. 2022)
+1.4085	1	0	species	86665	                  Halalkalibacterium halodurans
+1.4085	1	1	strain	272558	                    Halalkalibacterium halodurans C-125
+8.4507	6	1	class	186801	          Clostridia
+5.6338	4	2	order	186802	            Eubacteriales
+1.4085	1	0	family	31979	              Clostridiaceae
+1.4085	1	1	genus	1485	                Clostridium
+1.4085	1	0	family	216572	              Oscillospiraceae
+1.4085	1	0	genus	1263	                Ruminococcus
+1.4085	1	0	species	1264	                  Ruminococcus albus
+1.4085	1	1	strain	697329	                    Ruminococcus albus 7 = DSM 20455
+1.4085	1	0	order	68295	            Thermoanaerobacterales
+1.4085	1	0	family	186814	              Thermoanaerobacteraceae
+1.4085	1	0	genus	249529	                Caldanaerobacter
+1.4085	1	0	species	911092	                  Caldanaerobacter subterraneus
+1.4085	1	0	subspecies	119072	                    Caldanaerobacter subterraneus subsp. tengcongensis
+1.4085	1	1	strain	273068	                      Caldanaerobacter subterraneus subsp. tengcongensis MB4
+1.4085	1	0	phylum	201174	        Actinomycetota
+1.4085	1	0	class	1760	          Actinomycetes
+1.4085	1	0	order	85004	            Bifidobacteriales
+1.4085	1	0	family	31953	              Bifidobacteriaceae
+1.4085	1	0	genus	1678	                Bifidobacterium
+1.4085	1	0	species	216816	                  Bifidobacterium longum
+1.4085	1	0	subspecies	1679	                    Bifidobacterium longum subsp. longum
+1.4085	1	1	strain	565042	                      Bifidobacterium longum subsp. longum JCM 1217
+2.8169	2	0	phylum	1224	      Pseudomonadota
+2.8169	2	1	class	1236	        Gammaproteobacteria
+1.4085	1	0	order	91347	          Enterobacterales
+1.4085	1	0	family	543	            Enterobacteriaceae
+1.4085	1	0	genus	561	              Escherichia
+1.4085	1	0	species	562	                Escherichia coli
+1.4085	1	1	strain	83333	                  Escherichia coli K-12
+1.4085	1	0	phylum	200918	      Thermotogota
+1.4085	1	0	class	188708	        Thermotogae
+1.4085	1	0	order	2419	          Thermotogales
+1.4085	1	0	family	188709	            Thermotogaceae
+1.4085	1	0	genus	2335	              Thermotoga
+1.4085	1	0	species	2336	                Thermotoga maritima
+1.4085	1	1	strain	243274	                  Thermotoga maritima MSB8
+1.4085	1	0	superkingdom	2759	    Eukaryota
+1.4085	1	0	clade	33154	      Opisthokonta
+1.4085	1	0	kingdom	33208	        Metazoa
+1.4085	1	1	clade	6072	          Eumetazoa

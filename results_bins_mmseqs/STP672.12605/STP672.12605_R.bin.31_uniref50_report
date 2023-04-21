@@ -1,0 +1,35 @@
+100.0000	163	8	no rank	1	root
+95.0920	155	0	no rank	131567	  cellular organisms
+95.0920	155	61	superkingdom	2	    Bacteria
+44.1718	72	1	clade	1783272	      Terrabacteria group
+43.5583	71	28	phylum	1239	        Firmicutes
+26.3804	43	7	class	186801	          Clostridia
+22.0859	36	27	order	186802	            Eubacteriales
+3.6810	6	1	family	186803	              Lachnospiraceae
+0.6135	1	0	genus	189330	                Dorea
+0.6135	1	1	species	88431	                  Dorea longicatena
+0.6135	1	0	genus	241189	                Hespellia
+0.6135	1	0	species	180311	                  Hespellia stercorisuis
+0.6135	1	1	strain	1121950	                    Hespellia stercorisuis DSM 15480
+0.6135	1	1	genus	248744	                Marvinbryantia
+0.6135	1	1	genus	572511	                Blautia
+0.6135	1	0	genus	1843210	                Anaerocolumna
+0.6135	1	0	species	259063	                  Anaerocolumna jejuensis
+0.6135	1	1	strain	1121322	                    Anaerocolumna jejuensis DSM 15929
+1.2270	2	0	family	216572	              Oscillospiraceae
+1.2270	2	0	genus	1263	                Ruminococcus
+0.6135	1	1	species	40518	                  Ruminococcus bromii
+0.6135	1	1	species	438033	                  Ruminococcus gauvreauii
+0.6135	1	1	family	31979	              Clostridiaceae
+13.4969	22	0	clade	1783270	      FCB group
+13.4969	22	0	clade	68336	        Bacteroidetes/Chlorobi group
+13.4969	22	3	phylum	976	          Bacteroidetes
+11.0429	18	9	class	200643	            Bacteroidia
+5.5215	9	7	order	171549	              Bacteroidales
+1.2270	2	0	family	815	                Bacteroidaceae
+1.2270	2	2	genus	816	                  Bacteroides
+0.6135	1	0	class	117747	            Sphingobacteriia
+0.6135	1	0	order	200666	              Sphingobacteriales
+0.6135	1	0	family	84566	                Sphingobacteriaceae
+0.6135	1	0	genus	84567	                  Pedobacter
+0.6135	1	1	species	188932	                    Pedobacter cryoconitis

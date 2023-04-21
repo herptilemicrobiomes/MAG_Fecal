@@ -1,0 +1,22 @@
+100.0000	5	0	no rank	1	root
+100.0000	5	0	no rank	131567	  cellular organisms
+100.0000	5	1	superkingdom	2	    Bacteria
+80.0000	4	0	clade	1783272	      Terrabacteria group
+60.0000	3	0	phylum	1239	        Bacillota
+60.0000	3	0	class	91061	          Bacilli
+60.0000	3	0	order	1385	            Bacillales
+60.0000	3	1	family	186817	              Bacillaceae
+40.0000	2	0	genus	1386	                Bacillus
+20.0000	1	0	species group	86661	                  Bacillus cereus group
+20.0000	1	1	species	1392	                    Bacillus anthracis
+20.0000	1	0	species group	653685	                  Bacillus subtilis group
+20.0000	1	0	species	1423	                    Bacillus subtilis
+20.0000	1	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+20.0000	1	1	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+20.0000	1	0	phylum	1297	        Deinococcota
+20.0000	1	0	class	188787	          Deinococci
+20.0000	1	0	order	68933	            Thermales
+20.0000	1	0	family	188786	              Thermaceae
+20.0000	1	0	genus	270	                Thermus
+20.0000	1	0	species	274	                  Thermus thermophilus
+20.0000	1	1	strain	300852	                    Thermus thermophilus HB8

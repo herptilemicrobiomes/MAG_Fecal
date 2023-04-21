@@ -1,0 +1,69 @@
+0.5525	4	4	no rank	0	unclassified
+99.4475	720	298	no rank	1	root
+58.2873	422	1	no rank	131567	  cellular organisms
+58.1492	421	128	superkingdom	2	    Bacteria
+39.2265	284	0	clade	1783270	      FCB group
+39.2265	284	1	clade	68336	        Bacteroidetes/Chlorobi group
+39.0884	283	51	phylum	976	          Bacteroidetes
+32.0442	232	22	class	200643	            Bacteroidia
+28.8674	209	118	order	171549	              Bacteroidales
+11.0497	80	27	family	815	                Bacteroidaceae
+7.0442	51	36	genus	816	                  Bacteroides
+0.9669	7	3	no rank	139043	                    environmental samples
+0.2762	2	2	species	1263055	                      Bacteroides uniformis CAG:3
+0.1381	1	1	species	1263041	                      Bacteroides coprophilus CAG:333
+0.1381	1	1	species	1263047	                      Bacteroides fragilis CAG:558
+0.2762	2	0	species	290053	                    Bacteroides helcogenes
+0.2762	2	2	strain	693979	                      Bacteroides helcogenes P 36-108
+0.1381	1	1	species	817	                    Bacteroides fragilis
+0.1381	1	1	species	820	                    Bacteroides uniformis
+0.1381	1	1	species	329854	                    Bacteroides intestinalis
+0.1381	1	1	species	477666	                    Bacteroides graminisolvens
+0.1381	1	0	species	626930	                    Bacteroides fluxus
+0.1381	1	1	strain	763034	                      Bacteroides fluxus YIT 12057
+0.1381	1	1	species	1411144	                    Bacteroides caecigallinarum
+0.2762	2	0	genus	1926659	                  Mediterranea
+0.2762	2	0	no rank	2637480	                    unclassified Mediterranea
+0.2762	2	2	species	1965586	                      Mediterranea sp. An20
+0.6906	5	1	family	2005525	                Tannerellaceae
+0.5525	4	1	genus	375288	                  Parabacteroides
+0.2762	2	2	species	1944636	                    Parabacteroides provencensis
+0.1381	1	1	species	387661	                    Parabacteroides johnsonii
+0.2762	2	0	family	171550	                Rikenellaceae
+0.2762	2	0	genus	1611681	                  Mucinivorans
+0.2762	2	2	species	1433126	                    Mucinivorans hirudinis
+0.2762	2	0	family	171552	                Prevotellaceae
+0.2762	2	1	genus	838	                  Prevotella
+0.1381	1	1	species	165179	                    Prevotella copri
+0.1381	1	0	family	171551	                Porphyromonadaceae
+0.1381	1	0	genus	836	                  Porphyromonas
+0.1381	1	1	no rank	2645799	                    unclassified Porphyromonas
+0.1381	1	0	no rank	185291	                unclassified Bacteroidales
+0.1381	1	1	species	2030927	                  Bacteroidales bacterium
+0.1381	1	0	order	1970189	              Marinilabiliales
+0.1381	1	0	family	1471398	                Prolixibacteraceae
+0.1381	1	0	genus	1573806	                  Mariniphaga
+0.1381	1	0	no rank	2622265	                    unclassified Mariniphaga
+0.1381	1	1	species	1954475	                      Mariniphaga sp.
+0.6906	5	0	clade	1783272	      Terrabacteria group
+0.6906	5	3	phylum	1239	        Firmicutes
+0.1381	1	0	class	186801	          Clostridia
+0.1381	1	0	order	186802	            Eubacteriales
+0.1381	1	0	family	31979	              Clostridiaceae
+0.1381	1	0	genus	1769729	                Hathewaya
+0.1381	1	1	species	1498	                  Hathewaya histolytica
+0.1381	1	0	class	526524	          Erysipelotrichia
+0.1381	1	0	order	526525	            Erysipelotrichales
+0.1381	1	0	family	128827	              Erysipelotrichaceae
+0.1381	1	0	no rank	544447	                unclassified Erysipelotrichaceae
+0.1381	1	1	species	2049044	                  Erysipelotrichaceae bacterium
+0.2762	2	1	phylum	1224	      Proteobacteria
+0.1381	1	0	class	1236	        Gammaproteobacteria
+0.1381	1	0	order	91347	          Enterobacterales
+0.1381	1	0	family	543	            Enterobacteriaceae
+0.1381	1	0	genus	561	              Escherichia
+0.1381	1	1	species	562	                Escherichia coli
+0.1381	1	0	no rank	48479	      environmental samples
+0.1381	1	1	species	77133	        uncultured bacterium
+0.1381	1	0	clade	1783257	      PVC group
+0.1381	1	1	phylum	256845	        Lentisphaerae

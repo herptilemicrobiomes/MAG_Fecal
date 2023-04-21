@@ -1,0 +1,87 @@
+1.7964	12	12	no rank	0	unclassified
+98.2036	656	249	no rank	1	root
+60.9281	407	1	no rank	131567	  cellular organisms
+60.7784	406	78	superkingdom	2	    Bacteria
+48.9521	327	1	clade	1783270	      FCB group
+48.8024	326	1	clade	68336	        Bacteroidetes/Chlorobi group
+48.6527	325	58	phylum	976	          Bacteroidetes
+39.3713	263	16	class	200643	            Bacteroidia
+36.6766	245	144	order	171549	              Bacteroidales
+8.9820	60	2	family	2005525	                Tannerellaceae
+8.5329	57	28	genus	375288	                  Parabacteroides
+1.4970	10	2	no rank	2649774	                    unclassified Parabacteroides
+0.5988	4	4	species	2292053	                      Parabacteroides sp. AM08-6
+0.1497	1	1	species	1078087	                      Parabacteroides sp. HGS0025
+0.1497	1	1	species	1917887	                      Parabacteroides sp. Marseille-P3160
+0.1497	1	1	species	2302940	                      Parabacteroides sp. 52
+0.1497	1	1	species	2763058	                      Parabacteroides sp. BX2
+1.3473	9	9	species	46503	                    Parabacteroides merdae
+0.5988	4	1	no rank	512311	                    environmental samples
+0.2994	2	2	species	1263091	                      Parabacteroides johnsonii CAG:246
+0.1497	1	1	species	1263094	                      Parabacteroides merdae CAG:48
+0.4491	3	3	species	2086575	                    Parabacteroides pacaensis
+0.1497	1	1	species	823	                    Parabacteroides distasonis
+0.1497	1	1	species	328812	                    Parabacteroides goldsteinii
+0.1497	1	0	species	387661	                    Parabacteroides johnsonii
+0.1497	1	1	strain	537006	                      Parabacteroides johnsonii DSM 18315
+0.1497	1	1	genus	195950	                  Tannerella
+2.6946	18	3	family	815	                Bacteroidaceae
+2.2455	15	9	genus	816	                  Bacteroides
+0.1497	1	1	species	817	                    Bacteroides fragilis
+0.1497	1	1	species	818	                    Bacteroides thetaiotaomicron
+0.1497	1	0	species	820	                    Bacteroides uniformis
+0.1497	1	1	strain	1339349	                      Bacteroides uniformis str. 3978 T3 ii
+0.1497	1	1	species	28116	                    Bacteroides ovatus
+0.1497	1	0	no rank	139043	                    environmental samples
+0.1497	1	1	species	1262744	                      Bacteroides sp. CAG:633
+0.1497	1	0	species	477666	                    Bacteroides graminisolvens
+0.1497	1	1	strain	1121097	                      Bacteroides graminisolvens DSM 19988 = JCM 15093
+0.8982	6	1	family	171550	                Rikenellaceae
+0.5988	4	1	genus	239759	                  Alistipes
+0.1497	1	1	species	626932	                    Alistipes indistinctus
+0.1497	1	1	species	2585119	                    Alistipes dispar
+0.1497	1	1	no rank	2608932	                    unclassified Alistipes
+0.1497	1	0	genus	1611681	                  Mucinivorans
+0.1497	1	1	species	1433126	                    Mucinivorans hirudinis
+0.8982	6	1	family	171551	                Porphyromonadaceae
+0.4491	3	0	no rank	361210	                  unclassified Porphyromonadaceae
+0.4491	3	3	species	2049046	                    Porphyromonadaceae bacterium
+0.1497	1	0	genus	1159323	                  Macellibacteroides
+0.1497	1	0	no rank	2622125	                    unclassified Macellibacteroides
+0.1497	1	1	species	1857568	                      Macellibacteroides sp. HH-ZS
+0.1497	1	0	genus	2034765	                  Massilibacteroides
+0.1497	1	1	species	1673718	                    Massilibacteroides vaginae
+0.8982	6	1	no rank	185291	                unclassified Bacteroidales
+0.5988	4	4	species	2030927	                  Bacteroidales bacterium
+0.1497	1	1	species	1633201	                  Bacteroidales bacterium Barb6
+0.2994	2	0	family	171552	                Prevotellaceae
+0.2994	2	0	genus	838	                  Prevotella
+0.2994	2	2	species	165179	                    Prevotella copri
+0.1497	1	0	no rank	333046	                Bacteroidales incertae sedis
+0.1497	1	0	genus	2811435	                  Candidatus Ordinivivax
+0.1497	1	1	species	2540710	                    Candidatus Ordinivivax streblomastigis
+0.1497	1	0	family	2005473	                Muribaculaceae
+0.1497	1	0	no rank	2006847	                  unclassified Muribaculaceae
+0.1497	1	1	species	2498093	                    Muribaculaceae bacterium
+0.1497	1	0	family	2005519	                Barnesiellaceae
+0.1497	1	0	genus	1348911	                  Coprobacter
+0.1497	1	1	species	1099853	                    Coprobacter fastidiosus
+0.2994	2	1	order	1970189	              Marinilabiliales
+0.1497	1	0	no rank	2053302	                unclassified Marinilabiliales
+0.1497	1	1	species	2053303	                  Marinilabiliales bacterium
+0.2994	2	0	class	117743	            Flavobacteriia
+0.2994	2	0	order	200644	              Flavobacteriales
+0.2994	2	1	family	49546	                Flavobacteriaceae
+0.1497	1	0	genus	237	                  Flavobacterium
+0.1497	1	0	no rank	196869	                    unclassified Flavobacterium
+0.1497	1	1	species	2739062	                      Flavobacterium sp. M31R6
+0.1497	1	0	no rank	37452	            unclassified Bacteroidetes
+0.1497	1	1	species	1852817	              Bacteroidetes bacterium ADurb.BinA174
+0.1497	1	0	class	117747	            Sphingobacteriia
+0.1497	1	0	order	200666	              Sphingobacteriales
+0.1497	1	0	family	84566	                Sphingobacteriaceae
+0.1497	1	0	genus	416949	                  Parapedobacter
+0.1497	1	0	no rank	2623191	                    unclassified Parapedobacter
+0.1497	1	1	species	1958893	                      Parapedobacter sp.
+0.1497	1	0	no rank	48479	      environmental samples
+0.1497	1	1	species	77133	        uncultured bacterium

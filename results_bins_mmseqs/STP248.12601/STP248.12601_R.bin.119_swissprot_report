@@ -1,0 +1,85 @@
+2.0833	2	2	no rank	0	unclassified
+97.9167	94	0	no rank	1	root
+97.9167	94	0	no rank	131567	  cellular organisms
+95.8333	92	41	superkingdom	2	    Bacteria
+33.3333	32	0	clade	1783270	      FCB group
+33.3333	32	0	clade	68336	        Bacteroidetes/Chlorobi group
+33.3333	32	6	phylum	976	          Bacteroidota
+27.0833	26	0	class	200643	            Bacteroidia
+27.0833	26	8	order	171549	              Bacteroidales
+17.7083	17	11	family	815	                Bacteroidaceae
+6.2500	6	2	genus	816	                  Bacteroides
+3.1250	3	3	species	817	                    Bacteroides fragilis
+1.0417	1	0	species	818	                    Bacteroides thetaiotaomicron
+1.0417	1	1	strain	226186	                      Bacteroides thetaiotaomicron VPI-5482
+1.0417	1	0	family	2005525	                Tannerellaceae
+1.0417	1	0	genus	375288	                  Parabacteroides
+1.0417	1	0	species	823	                    Parabacteroides distasonis
+1.0417	1	1	strain	435591	                      Parabacteroides distasonis ATCC 8503
+10.4167	10	0	clade	1783272	      Terrabacteria group
+8.3333	8	0	phylum	1239	        Bacillota
+8.3333	8	0	class	91061	          Bacilli
+8.3333	8	1	order	1385	            Bacillales
+7.2917	7	1	family	186817	              Bacillaceae
+5.2083	5	0	genus	1386	                Bacillus
+5.2083	5	1	species group	653685	                  Bacillus subtilis group
+4.1667	4	0	species	1423	                    Bacillus subtilis
+4.1667	4	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+4.1667	4	4	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+1.0417	1	0	genus	2817139	                Weizmannia
+1.0417	1	1	species	1398	                  Weizmannia coagulans
+2.0833	2	0	phylum	201174	        Actinomycetota
+2.0833	2	0	class	1760	          Actinomycetes
+2.0833	2	0	order	85007	            Corynebacteriales
+2.0833	2	0	family	1762	              Mycobacteriaceae
+2.0833	2	0	genus	1763	                Mycobacterium
+2.0833	2	0	species group	77643	                  Mycobacterium tuberculosis complex
+2.0833	2	0	species	1773	                    Mycobacterium tuberculosis
+2.0833	2	2	strain	83332	                      Mycobacterium tuberculosis H37Rv
+6.2500	6	2	phylum	1224	      Pseudomonadota
+3.1250	3	1	class	1236	        Gammaproteobacteria
+2.0833	2	0	order	91347	          Enterobacterales
+2.0833	2	0	family	543	            Enterobacteriaceae
+2.0833	2	0	genus	590	              Salmonella
+2.0833	2	0	species	28901	                Salmonella enterica
+2.0833	2	1	subspecies	59201	                  Salmonella enterica subsp. enterica
+1.0417	1	1	no rank	595	                    Salmonella enterica subsp. enterica serovar Infantis
+1.0417	1	0	class	28211	        Alphaproteobacteria
+1.0417	1	0	order	356	          Hyphomicrobiales
+1.0417	1	0	family	82115	            Rhizobiaceae
+1.0417	1	0	no rank	227292	              Sinorhizobium/Ensifer group
+1.0417	1	0	genus	28105	                Sinorhizobium
+1.0417	1	0	species group	663276	                  Sinorhizobium fredii group
+1.0417	1	0	species	380	                    Sinorhizobium fredii
+1.0417	1	1	strain	394	                      Sinorhizobium fredii NGR234
+2.0833	2	0	phylum	203691	      Spirochaetota
+2.0833	2	0	class	203692	        Spirochaetia
+2.0833	2	0	order	136	          Spirochaetales
+1.0417	1	0	family	1643685	            Borreliaceae
+1.0417	1	0	genus	64895	              Borreliella
+1.0417	1	0	species	139	                Borreliella burgdorferi
+1.0417	1	1	strain	224326	                  Borreliella burgdorferi B31
+1.0417	1	0	family	2845253	            Treponemataceae
+1.0417	1	0	genus	157	              Treponema
+1.0417	1	0	species	160	                Treponema pallidum
+1.0417	1	0	subspecies	161	                  Treponema pallidum subsp. pallidum
+1.0417	1	1	strain	243276	                    Treponema pallidum subsp. pallidum str. Nichols
+1.0417	1	0	clade	1783257	      PVC group
+1.0417	1	0	phylum	204428	        Chlamydiota
+1.0417	1	0	class	204429	          Chlamydiia
+1.0417	1	0	order	51291	            Chlamydiales
+1.0417	1	0	family	809	              Chlamydiaceae
+1.0417	1	0	no rank	1113537	                Chlamydia/Chlamydophila group
+1.0417	1	1	genus	810	                  Chlamydia
+1.0417	1	0	superkingdom	2157	    Archaea
+1.0417	1	0	phylum	28890	      Euryarchaeota
+1.0417	1	0	class	183980	        Archaeoglobi
+1.0417	1	0	order	2231	          Archaeoglobales
+1.0417	1	0	family	2232	            Archaeoglobaceae
+1.0417	1	0	genus	2233	              Archaeoglobus
+1.0417	1	0	species	2234	                Archaeoglobus fulgidus
+1.0417	1	1	strain	224325	                  Archaeoglobus fulgidus DSM 4304
+1.0417	1	0	superkingdom	2759	    Eukaryota
+1.0417	1	0	clade	33154	      Opisthokonta
+1.0417	1	0	kingdom	33208	        Metazoa
+1.0417	1	1	clade	6072	          Eumetazoa

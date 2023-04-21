@@ -1,0 +1,111 @@
+3.3113	10	10	no rank	0	unclassified
+96.6887	292	42	no rank	1	root
+82.7815	250	3	no rank	131567	  cellular organisms
+81.4570	246	56	superkingdom	2	    Bacteria
+62.2517	188	5	clade	1783272	      Terrabacteria group
+59.6026	180	35	phylum	1239	        Firmicutes
+46.6887	141	34	class	186801	          Clostridia
+34.4371	104	30	order	186802	            Eubacteriales
+20.5298	62	13	family	216572	              Oscillospiraceae
+10.5960	32	0	genus	596767	                Hydrogenoanaerobacterium
+10.5960	32	32	species	474960	                  Hydrogenoanaerobacterium saccharovorans
+2.3179	7	3	genus	244127	                Anaerotruncus
+1.3245	4	4	species	169435	                  Anaerotruncus colihominis
+1.3245	4	1	no rank	473772	                unclassified Oscillospiraceae
+0.9934	3	3	species	2485925	                  Oscillospiraceae bacterium
+0.3311	1	0	genus	1263	                Ruminococcus
+0.3311	1	0	no rank	2608920	                  unclassified Ruminococcus
+0.3311	1	1	species	2364796	                    Ruminococcus sp. Marseille-P6503
+0.3311	1	0	genus	35829	                Acetivibrio
+0.3311	1	1	species	290052	                  Acetivibrio ethanolgignens
+0.3311	1	1	genus	44748	                Sporobacter
+0.3311	1	0	genus	946234	                Flavonifractor
+0.3311	1	0	no rank	1193533	                  environmental samples
+0.3311	1	1	species	1193534	                    uncultured Flavonifractor sp.
+0.3311	1	0	genus	1017280	                Pseudoflavonifractor
+0.3311	1	0	no rank	2628103	                  unclassified Pseudoflavonifractor
+0.3311	1	1	species	2304577	                    Pseudoflavonifractor sp. 524-17
+0.3311	1	0	genus	1926663	                Phocea
+0.3311	1	1	species	1841867	                  Phocea massiliensis
+2.3179	7	2	family	186803	              Lachnospiraceae
+0.3311	1	0	genus	830	                Butyrivibrio
+0.3311	1	1	species	43305	                  Butyrivibrio proteoclasticus
+0.3311	1	0	no rank	186928	                unclassified Lachnospiraceae
+0.3311	1	1	species	2763667	                  Lachnospiraceae bacterium NSJ-29
+0.3311	1	0	genus	1506553	                Lachnoclostridium
+0.3311	1	1	species	66219	                  Lachnoclostridium phytofermentans
+0.3311	1	0	genus	1780122	                Mobilisporobacter
+0.3311	1	1	species	1329262	                  Mobilisporobacter senegalensis
+0.3311	1	0	genus	2719313	                Enterocloster
+0.3311	1	1	species	1531	                  Enterocloster clostridioformis
+0.9934	3	0	family	31979	              Clostridiaceae
+0.3311	1	0	genus	1485	                Clostridium
+0.3311	1	1	species	2479838	                  Clostridium transplantifaecale
+0.3311	1	0	no rank	189971	                unclassified Clostridiaceae
+0.3311	1	1	species	1898204	                  Clostridiaceae bacterium
+0.3311	1	0	genus	1403538	                Fervidicella
+0.3311	1	0	species	655338	                  Fervidicella metallireducens
+0.3311	1	1	strain	1403537	                    Fervidicella metallireducens AeB
+0.3311	1	1	no rank	39779	              unclassified Eubacteriales
+0.3311	1	0	family	186804	              Peptostreptococcaceae
+0.3311	1	0	genus	181069	                Proteocatella
+0.3311	1	1	species	181070	                  Proteocatella sphenisci
+0.6623	2	0	no rank	189325	            Clostridia incertae sedis
+0.3311	1	0	genus	2720797	              Candidatus Alloruminococcus
+0.3311	1	1	species	2720827	                Candidatus Alloruminococcus vanvlietii
+0.3311	1	0	genus	2721115	              Candidatus Pararuminococcus
+0.3311	1	1	species	2721144	                Candidatus Pararuminococcus gallinarum
+0.3311	1	0	order	68295	            Thermoanaerobacterales
+0.3311	1	0	family	543372	              Thermoanaerobacterales Family IV. Incertae Sedis
+0.3311	1	0	genus	252965	                Mahella
+0.3311	1	0	species	252966	                  Mahella australiensis
+0.3311	1	1	strain	697281	                    Mahella australiensis 50-1 BON
+0.3311	1	0	no rank	47928	          environmental samples
+0.3311	1	1	species	1262989	            Firmicutes bacterium CAG:94
+0.3311	1	0	class	91061	          Bacilli
+0.3311	1	0	order	1385	            Bacillales
+0.3311	1	1	family	186822	              Paenibacillaceae
+0.3311	1	0	class	526524	          Erysipelotrichia
+0.3311	1	0	order	526525	            Erysipelotrichales
+0.3311	1	0	family	128827	              Erysipelotrichaceae
+0.3311	1	0	genus	1470349	                Candidatus Stoquefichus
+0.3311	1	0	no rank	2627376	                  unclassified Candidatus Stoquefichus
+0.3311	1	1	species	1658109	                    Candidatus Stoquefichus sp. SB1
+0.3311	1	1	class	909932	          Negativicutes
+0.9934	3	0	phylum	201174	        Actinobacteria
+0.6623	2	0	class	84998	          Coriobacteriia
+0.3311	1	0	order	84999	            Coriobacteriales
+0.3311	1	0	family	84107	              Coriobacteriaceae
+0.3311	1	0	genus	102106	                Collinsella
+0.3311	1	0	no rank	165189	                  environmental samples
+0.3311	1	1	species	1262851	                    Collinsella sp. CAG:289
+0.3311	1	0	order	1643822	            Eggerthellales
+0.3311	1	1	family	1643826	              Eggerthellaceae
+0.3311	1	0	no rank	1752188	          unclassified Actinobacteria
+0.3311	1	1	species	1852789	            Actinobacteria bacterium ADurb.Bin444
+0.3311	1	0	phylum	1224	      Proteobacteria
+0.3311	1	0	subphylum	68525	        delta/epsilon subdivisions
+0.3311	1	0	class	28221	          Deltaproteobacteria
+0.3311	1	0	order	213115	            Desulfovibrionales
+0.3311	1	0	family	194924	              Desulfovibrionaceae
+0.3311	1	0	genus	872	                Desulfovibrio
+0.3311	1	1	species	2605782	                  Desulfovibrio porci
+0.3311	1	0	no rank	49928	      unclassified Bacteria
+0.3311	1	1	species	2320102	        bacterium 1XD42-8
+0.3311	1	0	superkingdom	2759	    Eukaryota
+0.3311	1	0	clade	33154	      Opisthokonta
+0.3311	1	0	kingdom	33208	        Metazoa
+0.3311	1	0	clade	6072	          Eumetazoa
+0.3311	1	0	clade	33213	            Bilateria
+0.3311	1	0	clade	33317	              Protostomia
+0.3311	1	0	clade	1206794	                Ecdysozoa
+0.3311	1	0	phylum	6231	                  Nematoda
+0.3311	1	0	class	119089	                    Chromadorea
+0.3311	1	0	order	6236	                      Rhabditida
+0.3311	1	0	suborder	2301116	                        Rhabditina
+0.3311	1	0	infraorder	2301119	                          Rhabditomorpha
+0.3311	1	0	superfamily	55879	                            Rhabditoidea
+0.3311	1	0	family	6243	                              Rhabditidae
+0.3311	1	0	no rank	1839939	                                Rhabditidae incertae sedis
+0.3311	1	0	genus	55799	                                  Diploscapter
+0.3311	1	1	species	2018661	                                    Diploscapter pachys

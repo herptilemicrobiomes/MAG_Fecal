@@ -1,0 +1,79 @@
+100.0000	21	0	no rank	1	root
+100.0000	21	1	no rank	131567	  cellular organisms
+85.7143	18	7	superkingdom	2	    Bacteria
+33.3333	7	0	clade	1783270	      FCB group
+33.3333	7	0	clade	68336	        Bacteroidetes/Chlorobi group
+33.3333	7	0	phylum	976	          Bacteroidota
+28.5714	6	0	class	200643	            Bacteroidia
+28.5714	6	1	order	171549	              Bacteroidales
+19.0476	4	0	family	815	                Bacteroidaceae
+19.0476	4	0	genus	816	                  Bacteroides
+9.5238	2	0	species	818	                    Bacteroides thetaiotaomicron
+9.5238	2	2	strain	226186	                      Bacteroides thetaiotaomicron VPI-5482
+4.7619	1	1	species	817	                    Bacteroides fragilis
+4.7619	1	0	species	28116	                    Bacteroides ovatus
+4.7619	1	1	strain	411476	                      Bacteroides ovatus ATCC 8483
+4.7619	1	0	family	2005525	                Tannerellaceae
+4.7619	1	0	genus	375288	                  Parabacteroides
+4.7619	1	0	species	823	                    Parabacteroides distasonis
+4.7619	1	1	strain	435591	                      Parabacteroides distasonis ATCC 8503
+4.7619	1	0	class	117743	            Flavobacteriia
+4.7619	1	0	order	200644	              Flavobacteriales
+4.7619	1	0	family	49546	                Flavobacteriaceae
+4.7619	1	0	genus	225842	                  Formosa
+4.7619	1	0	species	320324	                    Formosa agariphila
+4.7619	1	1	strain	1347342	                      Formosa agariphila KMM 3901
+9.5238	2	0	phylum	1224	      Pseudomonadota
+4.7619	1	0	class	1236	        Gammaproteobacteria
+4.7619	1	0	order	91347	          Enterobacterales
+4.7619	1	0	family	543	            Enterobacteriaceae
+4.7619	1	0	genus	561	              Escherichia
+4.7619	1	0	species	562	                Escherichia coli
+4.7619	1	1	strain	83333	                  Escherichia coli K-12
+4.7619	1	0	subphylum	68525	        delta/epsilon subdivisions
+4.7619	1	0	class	28221	          Deltaproteobacteria
+4.7619	1	0	order	213115	            Desulfovibrionales
+4.7619	1	0	family	194924	              Desulfovibrionaceae
+4.7619	1	0	genus	2910984	                Solidesulfovibrio
+4.7619	1	0	species	184917	                  Solidesulfovibrio magneticus
+4.7619	1	1	strain	573370	                    Solidesulfovibrio magneticus RS-1
+9.5238	2	0	clade	1783272	      Terrabacteria group
+4.7619	1	0	phylum	1239	        Bacillota
+4.7619	1	0	class	186801	          Clostridia
+4.7619	1	0	order	68295	            Thermoanaerobacterales
+4.7619	1	0	family	186814	              Thermoanaerobacteraceae
+4.7619	1	0	genus	1754	                Thermoanaerobacter
+4.7619	1	0	species	496866	                  Thermoanaerobacter pseudethanolicus
+4.7619	1	1	strain	340099	                    Thermoanaerobacter pseudethanolicus ATCC 33223
+4.7619	1	0	phylum	201174	        Actinomycetota
+4.7619	1	0	class	1760	          Actinomycetes
+4.7619	1	0	order	85004	            Bifidobacteriales
+4.7619	1	0	family	31953	              Bifidobacteriaceae
+4.7619	1	0	genus	1678	                Bifidobacterium
+4.7619	1	0	species	216816	                  Bifidobacterium longum
+4.7619	1	0	subspecies	1679	                    Bifidobacterium longum subsp. longum
+4.7619	1	1	strain	565042	                      Bifidobacterium longum subsp. longum JCM 1217
+9.5238	2	0	superkingdom	2759	    Eukaryota
+4.7619	1	0	kingdom	33090	      Viridiplantae
+4.7619	1	0	phylum	35493	        Streptophyta
+4.7619	1	0	subphylum	131221	          Streptophytina
+4.7619	1	0	clade	3193	            Embryophyta
+4.7619	1	0	clade	58023	              Tracheophyta
+4.7619	1	0	clade	78536	                Euphyllophyta
+4.7619	1	0	clade	58024	                  Spermatophyta
+4.7619	1	0	class	3398	                    Magnoliopsida
+4.7619	1	0	clade	1437183	                      Mesangiospermae
+4.7619	1	0	clade	71240	                        eudicotyledons
+4.7619	1	0	clade	91827	                          Gunneridae
+4.7619	1	0	clade	1437201	                            Pentapetalae
+4.7619	1	0	clade	71275	                              rosids
+4.7619	1	0	clade	91836	                                malvids
+4.7619	1	0	order	3699	                                  Brassicales
+4.7619	1	0	family	3700	                                    Brassicaceae
+4.7619	1	0	tribe	980083	                                      Camelineae
+4.7619	1	0	genus	3701	                                        Arabidopsis
+4.7619	1	1	species	3702	                                          Arabidopsis thaliana
+4.7619	1	0	clade	33154	      Opisthokonta
+4.7619	1	0	kingdom	33208	        Metazoa
+4.7619	1	0	clade	6072	          Eumetazoa
+4.7619	1	1	clade	33213	            Bilateria

@@ -1,0 +1,52 @@
+0.8152	3	3	no rank	0	unclassified
+99.1848	365	17	no rank	1	root
+94.5652	348	1	no rank	131567	  cellular organisms
+94.2935	347	204	superkingdom	2	    Bacteria
+37.7717	139	5	clade	1783272	      Terrabacteria group
+35.0543	129	18	phylum	201174	        Actinobacteria
+30.1630	111	56	class	84998	          Coriobacteriia
+13.5870	50	0	order	1643822	            Eggerthellales
+13.5870	50	32	family	1643826	              Eggerthellaceae
+1.6304	6	4	genus	644652	                Gordonibacter
+0.2717	1	0	species	471189	                  Gordonibacter pamelaeae
+0.2717	1	1	strain	657308	                    Gordonibacter pamelaeae 7-10-1-b
+0.2717	1	0	no rank	2634373	                  unclassified Gordonibacter
+0.2717	1	1	species	1965593	                    Gordonibacter sp. An232A
+0.8152	3	2	genus	84111	                Eggerthella
+0.2717	1	1	species	2690837	                  Eggerthella guodeyinii
+0.8152	3	3	genus	1926677	                Raoultibacter
+0.5435	2	0	genus	447020	                Adlercreutzia
+0.5435	2	2	no rank	2636013	                  unclassified Adlercreutzia
+0.2717	1	0	genus	84108	                Slackia
+0.2717	1	0	species	626934	                  Slackia piriformis
+0.2717	1	1	strain	742818	                    Slackia piriformis YIT 12062
+0.2717	1	0	genus	651554	                Paraeggerthella
+0.2717	1	1	species	230658	                  Paraeggerthella hongkongensis
+0.2717	1	0	no rank	1720314	                unclassified Eggerthellaceae
+0.2717	1	1	species	2734634	                  Eggerthellaceae bacterium zg-1050
+0.2717	1	0	genus	2126006	                Enteroscipio
+0.2717	1	1	species	2070686	                  Enteroscipio rubneri
+1.0870	4	0	order	84999	            Coriobacteriales
+1.0870	4	0	family	84107	              Coriobacteriaceae
+0.8152	3	0	no rank	84113	                unclassified Coriobacteriaceae
+0.8152	3	3	species	1780377	                  Coriobacteriaceae bacterium CHKCI002
+0.2717	1	1	genus	102106	                Collinsella
+0.2717	1	0	no rank	2052158	            unclassified Coriobacteriia
+0.2717	1	1	species	2052159	              Coriobacteriia bacterium
+1.3587	5	4	phylum	1239	        Firmicutes
+0.2717	1	0	class	186801	          Clostridia
+0.2717	1	0	order	186802	            Eubacteriales
+0.2717	1	0	family	186803	              Lachnospiraceae
+0.2717	1	0	genus	572511	                Blautia
+0.2717	1	1	no rank	2648079	                  unclassified Blautia
+1.0870	4	1	phylum	1224	      Proteobacteria
+0.5435	2	0	subphylum	68525	        delta/epsilon subdivisions
+0.5435	2	1	class	28221	          Deltaproteobacteria
+0.2717	1	0	order	213115	            Desulfovibrionales
+0.2717	1	0	family	194924	              Desulfovibrionaceae
+0.2717	1	0	genus	872	                Desulfovibrio
+0.2717	1	1	species	2605782	                  Desulfovibrio porci
+0.2717	1	0	class	1236	        Gammaproteobacteria
+0.2717	1	0	order	72274	          Pseudomonadales
+0.2717	1	0	family	135621	            Pseudomonadaceae
+0.2717	1	1	genus	286	              Pseudomonas

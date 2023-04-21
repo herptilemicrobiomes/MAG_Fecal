@@ -1,0 +1,34 @@
+100.0000	55	1	no rank	1	root
+98.1818	54	2	no rank	131567	  cellular organisms
+94.5455	52	31	superkingdom	2	    Bacteria
+32.7273	18	0	clade	1783270	      FCB group
+32.7273	18	0	clade	68336	        Bacteroidetes/Chlorobi group
+32.7273	18	9	phylum	976	          Bacteroidota
+14.5455	8	0	class	200643	            Bacteroidia
+14.5455	8	6	order	171549	              Bacteroidales
+1.8182	1	0	family	171551	                Porphyromonadaceae
+1.8182	1	0	genus	836	                  Porphyromonas
+1.8182	1	1	species	837	                    Porphyromonas gingivalis
+1.8182	1	0	family	2005525	                Tannerellaceae
+1.8182	1	0	genus	375288	                  Parabacteroides
+1.8182	1	0	species	823	                    Parabacteroides distasonis
+1.8182	1	1	strain	435591	                      Parabacteroides distasonis ATCC 8503
+1.8182	1	0	class	117743	            Flavobacteriia
+1.8182	1	0	order	200644	              Flavobacteriales
+1.8182	1	0	family	49546	                Flavobacteriaceae
+1.8182	1	0	genus	225842	                  Formosa
+1.8182	1	0	species	320324	                    Formosa agariphila
+1.8182	1	1	strain	1347342	                      Formosa agariphila KMM 3901
+3.6364	2	0	phylum	1224	      Pseudomonadota
+3.6364	2	1	class	1236	        Gammaproteobacteria
+1.8182	1	0	order	91347	          Enterobacterales
+1.8182	1	0	family	543	            Enterobacteriaceae
+1.8182	1	0	genus	561	              Escherichia
+1.8182	1	1	species	562	                Escherichia coli
+1.8182	1	0	clade	1783272	      Terrabacteria group
+1.8182	1	0	phylum	1239	        Bacillota
+1.8182	1	0	class	91061	          Bacilli
+1.8182	1	0	order	1385	            Bacillales
+1.8182	1	0	family	90964	              Staphylococcaceae
+1.8182	1	0	genus	1279	                Staphylococcus
+1.8182	1	1	species	1280	                  Staphylococcus aureus

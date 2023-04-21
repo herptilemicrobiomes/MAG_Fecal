@@ -1,0 +1,113 @@
+3.6585	12	12	no rank	0	unclassified
+96.3415	316	48	no rank	1	root
+81.7073	268	0	no rank	131567	  cellular organisms
+81.4024	267	27	superkingdom	2	    Bacteria
+72.8659	239	6	clade	1783272	      Terrabacteria group
+71.0366	233	19	phylum	201174	        Actinobacteria
+64.9390	213	121	class	1760	          Actinomycetia
+19.5122	64	14	order	85010	            Pseudonocardiales
+11.5854	38	17	family	2070	              Pseudonocardiaceae
+2.7439	9	0	no rank	103960	                unclassified Pseudonocardiaceae
+2.4390	8	8	species	1873463	                  Pseudonocardiaceae bacterium
+0.3049	1	1	species	2340915	                  Pseudonocardiaceae bacterium YIM PH 21723
+2.4390	8	4	genus	1847	                Pseudonocardia
+0.3049	1	1	species	103441	                  Pseudonocardia spinosispora
+0.3049	1	1	species	882449	                  Pseudonocardia cypriaca
+0.3049	1	0	no rank	2619320	                  unclassified Pseudonocardia
+0.3049	1	1	species	1660131	                    Pseudonocardia sp. SCN 72-86
+0.3049	1	1	species	2736640	                  Pseudonocardia broussonetiae
+0.6098	2	1	genus	1813	                Amycolatopsis
+0.3049	1	1	species	715473	                  Amycolatopsis acidiphila
+0.3049	1	1	genus	39845	                Actinokineospora
+0.3049	1	1	genus	402649	                Actinomycetospora
+3.6585	12	0	no rank	664783	              unclassified Pseudonocardiales
+3.6585	12	12	species	2201155	                Pseudonocardiales bacterium
+2.1341	7	1	order	85007	            Corynebacteriales
+0.9146	3	0	family	85025	              Nocardiaceae
+0.9146	3	2	genus	1827	                Rhodococcus
+0.3049	1	0	species group	2840174	                  Rhodococcus erythropolis group
+0.3049	1	1	species	1833	                    Rhodococcus erythropolis
+0.6098	2	0	family	1762	              Mycobacteriaceae
+0.6098	2	1	genus	1763	                Mycobacterium
+0.3049	1	0	species group	77643	                  Mycobacterium tuberculosis complex
+0.3049	1	1	species	1773	                    Mycobacterium tuberculosis
+0.3049	1	0	no rank	581186	              environmental samples
+0.3049	1	1	species	581187	                uncultured Corynebacteriales bacterium
+1.8293	6	1	order	85012	            Streptosporangiales
+0.9146	3	0	family	2012	              Thermomonosporaceae
+0.9146	3	1	genus	1988	                Actinomadura
+0.6098	2	0	no rank	2626254	                  unclassified Actinomadura
+0.3049	1	1	species	2530364	                    Actinomadura sp. 6K520
+0.3049	1	1	species	2530367	                    Actinomadura sp. GC306
+0.3049	1	0	family	83676	              Nocardiopsaceae
+0.3049	1	0	genus	83677	                Thermobifida
+0.3049	1	0	species	2021	                  Thermobifida fusca
+0.3049	1	1	strain	269800	                    Thermobifida fusca YX
+0.3049	1	0	no rank	1647182	              unclassified Streptosporangiales
+0.3049	1	1	species	2604148	                Streptosporangiales bacterium
+1.2195	4	0	order	85011	            Streptomycetales
+1.2195	4	1	family	2062	              Streptomycetaceae
+0.9146	3	2	genus	1883	                Streptomyces
+0.3049	1	1	species	58346	                  Streptomyces platensis
+0.6098	2	0	no rank	52018	            unclassified Actinomycetia
+0.6098	2	2	species	1883427	              Actinomycetia bacterium
+0.6098	2	0	order	85008	            Micromonosporales
+0.6098	2	0	family	28056	              Micromonosporaceae
+0.6098	2	1	genus	1873	                Micromonospora
+0.3049	1	0	no rank	2617518	                  unclassified Micromonospora
+0.3049	1	1	species	2094022	                    Micromonospora sp. MW-13
+0.6098	2	0	order	85009	            Propionibacteriales
+0.3049	1	0	family	85015	              Nocardioidaceae
+0.3049	1	0	genus	53387	                Friedmanniella
+0.3049	1	0	no rank	335380	                  environmental samples
+0.3049	1	1	species	335381	                    uncultured Friedmanniella sp.
+0.3049	1	0	no rank	2015800	              unclassified Propionibacteriales
+0.3049	1	1	species	2015801	                Propionibacteriales bacterium
+0.6098	2	0	order	1643682	            Geodermatophilales
+0.6098	2	0	family	85030	              Geodermatophilaceae
+0.3049	1	0	genus	1860	                Geodermatophilus
+0.3049	1	0	no rank	2637632	                  unclassified Geodermatophilus
+0.3049	1	1	species	1736354	                    Geodermatophilus sp. Leaf369
+0.3049	1	0	genus	88138	                Modestobacter
+0.3049	1	0	no rank	2643866	                  unclassified Modestobacter
+0.3049	1	1	species	1907315	                    Modestobacter sp. DSM 46791
+0.3049	1	0	order	85006	            Micrococcales
+0.3049	1	0	family	1268	              Micrococcaceae
+0.3049	1	0	genus	57493	                Kocuria
+0.3049	1	1	species	446860	                  Kocuria flava
+0.3049	1	0	order	1643684	            Nakamurellales
+0.3049	1	0	family	85031	              Nakamurellaceae
+0.3049	1	0	genus	53460	                Nakamurella
+0.3049	1	1	species	2164074	                  Nakamurella deserti
+0.3049	1	0	no rank	1643818	            Actinomycetia incertae sedis
+0.3049	1	0	genus	1649455	              Halopolyspora
+0.3049	1	1	species	1500506	                Halopolyspora algeriensis
+0.3049	1	0	class	84992	          Acidimicrobiia
+0.3049	1	0	order	84993	            Acidimicrobiales
+0.3049	1	0	no rank	1042324	              unclassified Acidimicrobiales
+0.3049	1	1	species	2201156	                Acidimicrobiales bacterium
+0.3049	1	0	phylum	1224	      Proteobacteria
+0.3049	1	0	class	28211	        Alphaproteobacteria
+0.3049	1	0	order	204457	          Sphingomonadales
+0.3049	1	0	family	2844881	            Zymomonadaceae
+0.3049	1	0	genus	541	              Zymomonas
+0.3049	1	1	species	542	                Zymomonas mobilis
+0.3049	1	0	superkingdom	2759	    Eukaryota
+0.3049	1	0	clade	33154	      Opisthokonta
+0.3049	1	0	kingdom	33208	        Metazoa
+0.3049	1	0	clade	6072	          Eumetazoa
+0.3049	1	0	clade	33213	            Bilateria
+0.3049	1	0	clade	33511	              Deuterostomia
+0.3049	1	0	phylum	7711	                Chordata
+0.3049	1	0	subphylum	89593	                  Craniata
+0.3049	1	0	clade	7742	                    Vertebrata
+0.3049	1	0	clade	7776	                      Gnathostomata
+0.3049	1	0	class	7777	                        Chondrichthyes
+0.3049	1	0	subclass	7778	                          Elasmobranchii
+0.3049	1	0	infraclass	119203	                            Selachii
+0.3049	1	0	clade	119197	                              Galeomorphii
+0.3049	1	0	superorder	119195	                                Galeoidea
+0.3049	1	0	order	30503	                                  Orectolobiformes
+0.3049	1	0	family	40580	                                    Hemiscylliidae
+0.3049	1	0	genus	34767	                                      Chiloscyllium
+0.3049	1	1	species	137246	                                        Chiloscyllium punctatum

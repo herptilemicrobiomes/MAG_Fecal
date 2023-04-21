@@ -1,0 +1,86 @@
+6.4103	5	5	no rank	0	unclassified
+93.5897	73	1	no rank	1	root
+92.3077	72	7	no rank	131567	  cellular organisms
+79.4872	62	14	superkingdom	2	    Bacteria
+42.3077	33	0	clade	1783272	      Terrabacteria group
+42.3077	33	3	phylum	1239	        Bacillota
+24.3590	19	2	class	91061	          Bacilli
+17.9487	14	0	order	1385	            Bacillales
+17.9487	14	1	family	186817	              Bacillaceae
+16.6667	13	0	genus	1386	                Bacillus
+16.6667	13	0	species group	653685	                  Bacillus subtilis group
+16.6667	13	0	species	1423	                    Bacillus subtilis
+16.6667	13	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+16.6667	13	13	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+3.8462	3	1	order	186826	            Lactobacillales
+1.2821	1	0	family	1300	              Streptococcaceae
+1.2821	1	1	genus	1301	                Streptococcus
+1.2821	1	0	family	33958	              Lactobacillaceae
+1.2821	1	0	genus	2759736	                Lacticaseibacillus
+1.2821	1	1	species	1582	                  Lacticaseibacillus casei
+14.1026	11	2	class	186801	          Clostridia
+10.2564	8	0	order	186802	            Eubacteriales
+5.1282	4	2	family	186803	              Lachnospiraceae
+1.2821	1	0	genus	830	                Butyrivibrio
+1.2821	1	1	species	831	                  Butyrivibrio fibrisolvens
+1.2821	1	0	genus	572511	                Blautia
+1.2821	1	0	species	53443	                  Blautia hydrogenotrophica
+1.2821	1	1	strain	476272	                    Blautia hydrogenotrophica DSM 10507
+2.5641	2	0	family	31979	              Clostridiaceae
+2.5641	2	0	genus	1485	                Clostridium
+1.2821	1	0	species	1488	                  Clostridium acetobutylicum
+1.2821	1	1	strain	272562	                    Clostridium acetobutylicum ATCC 824
+1.2821	1	1	species	1520	                  Clostridium beijerinckii
+2.5641	2	0	family	2937909	              Desulfitobacteriaceae
+2.5641	2	0	genus	36853	                Desulfitobacterium
+2.5641	2	0	species	49338	                  Desulfitobacterium hafniense
+2.5641	2	2	strain	138119	                    Desulfitobacterium hafniense Y51
+1.2821	1	0	order	485256	            Natranaerobiales
+1.2821	1	0	family	485255	              Natranaerobiaceae
+1.2821	1	0	genus	375928	                Natranaerobius
+1.2821	1	0	species	375929	                  Natranaerobius thermophilus
+1.2821	1	1	strain	457570	                    Natranaerobius thermophilus JW/NM-WN-LF
+19.2308	15	4	phylum	1224	      Pseudomonadota
+7.6923	6	2	class	1236	        Gammaproteobacteria
+5.1282	4	1	order	91347	          Enterobacterales
+3.8462	3	1	family	543	            Enterobacteriaceae
+2.5641	2	0	genus	561	              Escherichia
+2.5641	2	0	species	562	                Escherichia coli
+2.5641	2	2	strain	83333	                  Escherichia coli K-12
+2.5641	2	0	no rank	32045	        Pseudomonadota incertae sedis
+2.5641	2	0	no rank	45359	          unclassified pseudomonads
+2.5641	2	2	species	29441	            Pseudomonas sp. NS671
+2.5641	2	0	subphylum	68525	        delta/epsilon subdivisions
+2.5641	2	0	class	28221	          Deltaproteobacteria
+1.2821	1	0	order	69541	            Desulfuromonadales
+1.2821	1	0	family	213422	              Geobacteraceae
+1.2821	1	0	genus	28231	                Geobacter
+1.2821	1	0	species	35554	                  Geobacter sulfurreducens
+1.2821	1	1	strain	243231	                    Geobacter sulfurreducens PCA
+1.2821	1	0	order	213115	            Desulfovibrionales
+1.2821	1	0	family	194924	              Desulfovibrionaceae
+1.2821	1	0	genus	2909705	                Oleidesulfovibrio
+1.2821	1	0	species	58180	                  Oleidesulfovibrio alaskensis
+1.2821	1	1	strain	207559	                    Oleidesulfovibrio alaskensis G20
+1.2821	1	0	class	28211	        Alphaproteobacteria
+1.2821	1	0	order	356	          Hyphomicrobiales
+1.2821	1	1	family	82115	            Rhizobiaceae
+2.5641	2	0	superkingdom	2759	    Eukaryota
+1.2821	1	0	kingdom	33090	      Viridiplantae
+1.2821	1	0	phylum	35493	        Streptophyta
+1.2821	1	0	subphylum	131221	          Streptophytina
+1.2821	1	0	clade	3193	            Embryophyta
+1.2821	1	0	clade	58023	              Tracheophyta
+1.2821	1	0	clade	78536	                Euphyllophyta
+1.2821	1	0	clade	58024	                  Spermatophyta
+1.2821	1	0	class	3398	                    Magnoliopsida
+1.2821	1	1	clade	1437183	                      Mesangiospermae
+1.2821	1	1	clade	33154	      Opisthokonta
+1.2821	1	0	superkingdom	2157	    Archaea
+1.2821	1	0	phylum	28890	      Euryarchaeota
+1.2821	1	0	clade	2290931	        Stenosarchaea group
+1.2821	1	0	class	183963	          Halobacteria
+1.2821	1	0	order	2235	            Halobacteriales
+1.2821	1	0	family	2236	              Halobacteriaceae
+1.2821	1	0	genus	2239	                Halobacterium
+1.2821	1	1	species	2242	                  Halobacterium salinarum

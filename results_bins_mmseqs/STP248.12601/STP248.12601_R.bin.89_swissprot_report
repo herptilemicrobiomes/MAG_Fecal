@@ -1,0 +1,52 @@
+100.0000	135	1	no rank	1	root
+98.5185	133	0	no rank	131567	  cellular organisms
+98.5185	133	2	superkingdom	2	    Bacteria
+96.2963	130	0	phylum	1224	      Pseudomonadota
+95.5556	129	4	class	1236	        Gammaproteobacteria
+91.8519	124	58	order	91347	          Enterobacterales
+46.6667	63	44	family	543	            Enterobacteriaceae
+12.5926	17	0	genus	561	              Escherichia
+12.5926	17	11	species	562	                Escherichia coli
+3.7037	5	5	strain	83333	                  Escherichia coli K-12
+0.7407	1	1	serotype	168927	                  Escherichia coli O111:H-
+1.4815	2	0	genus	590	              Salmonella
+1.4815	2	0	species	28901	                Salmonella enterica
+1.4815	2	1	subspecies	59201	                  Salmonella enterica subsp. enterica
+0.7407	1	0	no rank	90371	                    Salmonella enterica subsp. enterica serovar Typhimurium
+0.7407	1	1	strain	99287	                      Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+1.4815	2	1	family	1903414	            Morganellaceae
+0.7407	1	0	genus	29487	              Photorhabdus
+0.7407	1	0	species	2218628	                Photorhabdus laumondii
+0.7407	1	0	subspecies	141679	                  Photorhabdus laumondii subsp. laumondii
+0.7407	1	1	strain	243265	                    Photorhabdus laumondii subsp. laumondii TTO1
+0.7407	1	0	family	1903411	            Yersiniaceae
+0.7407	1	1	genus	629	              Yersinia
+0.7407	1	0	order	72274	          Pseudomonadales
+0.7407	1	0	family	135621	            Pseudomonadaceae
+0.7407	1	0	genus	286	              Pseudomonas
+0.7407	1	0	species group	136841	                Pseudomonas aeruginosa group
+0.7407	1	0	species	287	                  Pseudomonas aeruginosa
+0.7407	1	1	strain	208964	                    Pseudomonas aeruginosa PAO1
+0.7407	1	0	class	28216	        Betaproteobacteria
+0.7407	1	0	order	80840	          Burkholderiales
+0.7407	1	0	family	119060	            Burkholderiaceae
+0.7407	1	0	genus	32008	              Burkholderia
+0.7407	1	0	species group	87882	                Burkholderia cepacia complex
+0.7407	1	0	species	95486	                  Burkholderia cenocepacia
+0.7407	1	1	strain	1055524	                    Burkholderia cenocepacia H111
+0.7407	1	0	clade	1783272	      Terrabacteria group
+0.7407	1	0	clade	1798711	        Cyanobacteriota/Melainabacteria group
+0.7407	1	0	phylum	1117	          Cyanobacteriota
+0.7407	1	0	class	3028117	            Cyanophyceae
+0.7407	1	0	order	1890424	              Synechococcales
+0.7407	1	0	family	1890428	                Merismopediaceae
+0.7407	1	0	genus	1142	                  Synechocystis
+0.7407	1	0	no rank	2640012	                    unclassified Synechocystis
+0.7407	1	0	species	1148	                      Synechocystis sp. PCC 6803
+0.7407	1	1	no rank	1111708	                        Synechocystis sp. PCC 6803 substr. Kazusa
+0.7407	1	0	superkingdom	10239	  Viruses
+0.7407	1	0	clade	2731341	    Duplodnaviria
+0.7407	1	0	kingdom	2731360	      Heunggongvirae
+0.7407	1	0	phylum	2731618	        Uroviricota
+0.7407	1	0	class	2731619	          Caudoviricetes
+0.7407	1	1	family	2946167	            Peduoviridae

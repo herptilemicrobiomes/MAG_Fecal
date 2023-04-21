@@ -1,0 +1,80 @@
+100.0000	47	0	no rank	1	root
+97.8723	46	4	no rank	131567	  cellular organisms
+89.3617	42	8	superkingdom	2	    Bacteria
+57.4468	27	0	clade	1783272	      Terrabacteria group
+51.0638	24	2	phylum	1239	        Bacillota
+40.4255	19	1	class	91061	          Bacilli
+34.0426	16	5	order	1385	            Bacillales
+23.4043	11	0	family	186817	              Bacillaceae
+23.4043	11	0	genus	1386	                Bacillus
+21.2766	10	0	species group	653685	                  Bacillus subtilis group
+21.2766	10	0	species	1423	                    Bacillus subtilis
+21.2766	10	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+21.2766	10	10	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+2.1277	1	0	species group	86661	                  Bacillus cereus group
+2.1277	1	0	species	1428	                    Bacillus thuringiensis
+2.1277	1	1	no rank	1434	                      Bacillus thuringiensis serovar berliner
+4.2553	2	0	order	186826	            Lactobacillales
+4.2553	2	0	family	1300	              Streptococcaceae
+4.2553	2	0	genus	1357	                Lactococcus
+4.2553	2	2	species	1359	                  Lactococcus cremoris
+6.3830	3	0	class	186801	          Clostridia
+6.3830	3	0	order	186802	            Eubacteriales
+2.1277	1	0	family	31979	              Clostridiaceae
+2.1277	1	1	genus	1485	                Clostridium
+2.1277	1	0	family	186804	              Peptostreptococcaceae
+2.1277	1	0	genus	1870884	                Clostridioides
+2.1277	1	0	species	1496	                  Clostridioides difficile
+2.1277	1	1	strain	272563	                    Clostridioides difficile 630
+2.1277	1	0	family	216572	              Oscillospiraceae
+2.1277	1	0	genus	35829	                Acetivibrio
+2.1277	1	0	species	1515	                  Acetivibrio thermocellus
+2.1277	1	1	strain	203119	                    Acetivibrio thermocellus ATCC 27405
+4.2553	2	0	phylum	201174	        Actinomycetota
+4.2553	2	1	class	1760	          Actinomycetes
+2.1277	1	0	order	85007	            Corynebacteriales
+2.1277	1	0	family	1762	              Mycobacteriaceae
+2.1277	1	0	genus	1866885	                Mycolicibacterium
+2.1277	1	0	species	1772	                  Mycolicibacterium smegmatis
+2.1277	1	1	strain	246196	                    Mycolicibacterium smegmatis MC2 155
+2.1277	1	0	phylum	544448	        Mycoplasmatota
+2.1277	1	0	class	31969	          Mollicutes
+2.1277	1	0	order	2085	            Mycoplasmatales
+2.1277	1	0	family	2092	              Mycoplasmataceae
+2.1277	1	0	genus	2093	                Mycoplasma
+2.1277	1	0	no rank	2683645	                  unclassified Mycoplasma
+2.1277	1	1	species	2108	                    Mycoplasma sp.
+14.8936	7	1	phylum	1224	      Pseudomonadota
+8.5106	4	1	class	1236	        Gammaproteobacteria
+4.2553	2	0	order	91347	          Enterobacterales
+4.2553	2	0	family	543	            Enterobacteriaceae
+2.1277	1	0	genus	561	              Escherichia
+2.1277	1	0	species	562	                Escherichia coli
+2.1277	1	1	strain	83333	                  Escherichia coli K-12
+2.1277	1	0	genus	590	              Salmonella
+2.1277	1	0	species	28901	                Salmonella enterica
+2.1277	1	1	subspecies	59201	                  Salmonella enterica subsp. enterica
+2.1277	1	0	order	135625	          Pasteurellales
+2.1277	1	0	family	712	            Pasteurellaceae
+2.1277	1	0	genus	724	              Haemophilus
+2.1277	1	0	species	727	                Haemophilus influenzae
+2.1277	1	1	strain	71421	                  Haemophilus influenzae Rd KW20
+2.1277	1	0	class	28211	        Alphaproteobacteria
+2.1277	1	0	order	356	          Hyphomicrobiales
+2.1277	1	0	family	82115	            Rhizobiaceae
+2.1277	1	0	no rank	227292	              Sinorhizobium/Ensifer group
+2.1277	1	0	genus	28105	                Sinorhizobium
+2.1277	1	0	species group	663276	                  Sinorhizobium fredii group
+2.1277	1	0	species	380	                    Sinorhizobium fredii
+2.1277	1	1	strain	394	                      Sinorhizobium fredii NGR234
+2.1277	1	0	class	1807140	        Acidithiobacillia
+2.1277	1	0	order	225057	          Acidithiobacillales
+2.1277	1	0	family	225058	            Acidithiobacillaceae
+2.1277	1	0	genus	119977	              Acidithiobacillus
+2.1277	1	1	species	1232575	                Acidithiobacillus ferridurans
+2.1277	1	0	superkingdom	10239	  Viruses
+2.1277	1	0	clade	2731341	    Duplodnaviria
+2.1277	1	0	kingdom	2731360	      Heunggongvirae
+2.1277	1	0	phylum	2731618	        Uroviricota
+2.1277	1	0	class	2731619	          Caudoviricetes
+2.1277	1	1	genus	186764	            Fromanvirus

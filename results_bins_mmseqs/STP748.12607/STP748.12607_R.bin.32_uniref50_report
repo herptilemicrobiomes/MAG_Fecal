@@ -1,0 +1,64 @@
+2.5210	3	3	no rank	0	unclassified
+97.4790	116	1	no rank	1	root
+96.6387	115	84	no rank	131567	  cellular organisms
+26.0504	31	2	superkingdom	2759	    Eukaryota
+24.3697	29	1	clade	33154	      Opisthokonta
+22.6891	27	0	kingdom	33208	        Metazoa
+22.6891	27	8	clade	6072	          Eumetazoa
+15.1261	18	0	clade	33213	            Bilateria
+15.1261	18	2	clade	33511	              Deuterostomia
+13.4454	16	0	phylum	7711	                Chordata
+12.6050	15	0	subphylum	89593	                  Craniata
+12.6050	15	0	clade	7742	                    Vertebrata
+12.6050	15	2	clade	7776	                      Gnathostomata
+10.9244	13	0	clade	117570	                        Teleostomi
+10.9244	13	2	clade	117571	                          Euteleostomi
+6.7227	8	1	superclass	8287	                            Sarcopterygii
+5.8824	7	0	clade	1338369	                              Dipnotetrapodomorpha
+5.8824	7	2	clade	32523	                                Tetrapoda
+2.5210	3	0	clade	32524	                                  Amniota
+2.5210	3	0	clade	8457	                                    Sauropsida
+2.5210	3	1	clade	32561	                                      Sauria
+1.6807	2	0	class	8504	                                        Lepidosauria
+1.6807	2	0	order	8509	                                          Squamata
+1.6807	2	1	clade	1329961	                                            Bifurcata
+0.8403	1	0	clade	1329950	                                              Unidentata
+0.8403	1	0	clade	1329912	                                                Episquamata
+0.8403	1	0	clade	1329911	                                                  Toxicofera
+0.8403	1	0	suborder	8511	                                                    Iguania
+0.8403	1	0	family	2024747	                                                      Dactyloidae
+0.8403	1	0	genus	28376	                                                        Anolis
+0.8403	1	1	species	28377	                                                          Anolis carolinensis
+1.6807	2	0	class	8292	                                  Amphibia
+1.6807	2	0	superorder	41666	                                    Batrachia
+1.6807	2	1	order	8342	                                      Anura
+0.8403	1	0	suborder	8416	                                        Neobatrachia
+0.8403	1	0	superfamily	30352	                                          Ranoidea
+0.8403	1	0	family	8397	                                            Ranidae
+0.8403	1	0	genus	8399	                                              Rana
+0.8403	1	0	subgenus	121175	                                                Rana
+0.8403	1	1	species	8407	                                                  Rana temporaria
+2.5210	3	0	superclass	7898	                            Actinopterygii
+2.5210	3	0	class	186623	                              Actinopteri
+2.5210	3	0	subclass	41665	                                Neopterygii
+2.5210	3	0	infraclass	32443	                                  Teleostei
+2.5210	3	0	clade	1489341	                                    Osteoglossocephalai
+2.5210	3	3	no rank	186625	                                      Clupeocephala
+0.8403	1	0	subphylum	7735	                  Cephalochordata
+0.8403	1	0	class	2682552	                    Leptocardii
+0.8403	1	0	order	2682553	                      Amphioxiformes
+0.8403	1	0	family	7736	                        Branchiostomidae
+0.8403	1	0	genus	7737	                          Branchiostoma
+0.8403	1	1	species	7739	                            Branchiostoma floridae
+0.8403	1	0	phylum	6073	            Cnidaria
+0.8403	1	1	class	6101	              Anthozoa
+0.8403	1	0	kingdom	4751	        Fungi
+0.8403	1	0	subkingdom	451864	          Dikarya
+0.8403	1	0	phylum	5204	            Basidiomycota
+0.8403	1	0	subphylum	5302	              Agaricomycotina
+0.8403	1	0	class	155619	                Agaricomycetes
+0.8403	1	0	no rank	355688	                  Agaricomycetes incertae sedis
+0.8403	1	0	order	452342	                    Russulales
+0.8403	1	0	family	40420	                      Bondarzewiaceae
+0.8403	1	0	genus	40421	                        Bondarzewia
+0.8403	1	1	species	1095465	                          Bondarzewia mesenterica

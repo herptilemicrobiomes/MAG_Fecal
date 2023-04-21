@@ -1,0 +1,77 @@
+0.3846	1	1	no rank	0	unclassified
+99.6154	259	36	no rank	1	root
+85.7692	223	1	no rank	131567	  cellular organisms
+85.0000	221	55	superkingdom	2	    Bacteria
+63.0769	164	3	clade	1783272	      Terrabacteria group
+61.5385	160	30	phylum	1239	        Firmicutes
+49.2308	128	13	class	186801	          Clostridia
+43.4615	113	27	order	186802	            Eubacteriales
+31.1538	81	13	family	186803	              Lachnospiraceae
+24.6154	64	0	genus	1918450	                Cuneatibacter
+24.6154	64	64	species	1796618	                  Cuneatibacter caecimuris
+0.3846	1	0	genus	189330	                Dorea
+0.3846	1	1	species	39486	                  Dorea formicigenerans
+0.3846	1	0	genus	1774128	                Murimonas
+0.3846	1	1	species	1337051	                  Murimonas intestini
+0.3846	1	0	genus	2005359	                Faecalicatena
+0.3846	1	1	species	39482	                  Faecalicatena contorta
+0.3846	1	0	genus	2719231	                Lacrimispora
+0.3846	1	0	species	84030	                  Lacrimispora saccharolytica
+0.3846	1	1	strain	610130	                    [Clostridium] saccharolyticum WM1
+1.1538	3	0	family	31979	              Clostridiaceae
+1.1538	3	0	genus	1485	                Clostridium
+1.1538	3	0	no rank	59619	                  environmental samples
+0.7692	2	2	species	1262824	                    Clostridium sp. CAG:58
+0.3846	1	1	species	1262782	                    Clostridium sp. CAG:230
+0.3846	1	0	no rank	39779	              unclassified Eubacteriales
+0.3846	1	1	species	1898207	                Clostridiales bacterium
+0.3846	1	0	family	186806	              Eubacteriaceae
+0.3846	1	0	genus	1730	                Eubacterium
+0.3846	1	0	no rank	2624479	                  unclassified Eubacterium
+0.3846	1	1	species	1519438	                    Eubacterium sp. ER2
+0.3846	1	0	order	68295	            Thermoanaerobacterales
+0.3846	1	0	family	186814	              Thermoanaerobacteraceae
+0.3846	1	0	no rank	520763	                unclassified Thermoanaerobacteraceae
+0.3846	1	1	species	2100788	                  Thermoanaerobacteraceae bacterium
+0.3846	1	0	no rank	189325	            Clostridia incertae sedis
+0.3846	1	0	genus	2721116	              Candidatus Protoclostridium
+0.3846	1	1	species	2721146	                Candidatus Protoclostridium intestinavium
+0.3846	1	0	class	91061	          Bacilli
+0.3846	1	1	order	1385	            Bacillales
+0.3846	1	0	class	909932	          Negativicutes
+0.3846	1	0	order	909929	            Selenomonadales
+0.3846	1	0	family	1843491	              Selenomonadaceae
+0.3846	1	0	genus	970	                Selenomonas
+0.3846	1	1	species	971	                  Selenomonas ruminantium
+0.3846	1	0	phylum	201174	        Actinobacteria
+0.3846	1	0	class	84998	          Coriobacteriia
+0.3846	1	0	order	1643822	            Eggerthellales
+0.3846	1	0	family	1643826	              Eggerthellaceae
+0.3846	1	1	genus	84111	                Eggerthella
+0.3846	1	0	phylum	1224	      Proteobacteria
+0.3846	1	0	class	1236	        Gammaproteobacteria
+0.3846	1	0	order	135624	          Aeromonadales
+0.3846	1	1	family	83763	            Succinivibrionaceae
+0.3846	1	0	clade	1783270	      FCB group
+0.3846	1	0	phylum	1729712	        Candidatus Fermentibacteria
+0.3846	1	0	no rank	2044590	          unclassified Candidatus Fermentibacteria
+0.3846	1	1	species	1852822	            candidate division Hyd24-12 bacterium ADurb.Bin004
+0.3846	1	0	superkingdom	2759	    Eukaryota
+0.3846	1	0	clade	33154	      Opisthokonta
+0.3846	1	0	kingdom	33208	        Metazoa
+0.3846	1	0	clade	6072	          Eumetazoa
+0.3846	1	0	clade	33213	            Bilateria
+0.3846	1	0	clade	33317	              Protostomia
+0.3846	1	0	clade	1206794	                Ecdysozoa
+0.3846	1	0	clade	88770	                  Panarthropoda
+0.3846	1	0	phylum	6656	                    Arthropoda
+0.3846	1	0	subphylum	6843	                      Chelicerata
+0.3846	1	0	class	6854	                        Arachnida
+0.3846	1	0	subclass	6933	                          Acari
+0.3846	1	0	superorder	6934	                            Parasitiformes
+0.3846	1	0	order	6935	                              Ixodida
+0.3846	1	0	superfamily	297308	                                Ixodoidea
+0.3846	1	0	family	6939	                                  Ixodidae
+0.3846	1	0	subfamily	426442	                                    Ixodinae
+0.3846	1	0	genus	6944	                                      Ixodes
+0.3846	1	1	species	34613	                                        Ixodes ricinus

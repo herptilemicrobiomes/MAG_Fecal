@@ -1,0 +1,94 @@
+0.9132	4	4	no rank	0	unclassified
+99.0868	434	224	no rank	1	root
+47.9452	210	2	no rank	131567	  cellular organisms
+47.0320	206	65	superkingdom	2	    Bacteria
+31.2785	137	1	clade	1783270	      FCB group
+31.0502	136	2	clade	68336	        Bacteroidetes/Chlorobi group
+30.5936	134	47	phylum	976	          Bacteroidetes
+18.0365	79	7	class	200643	            Bacteroidia
+16.4384	72	47	order	171549	              Bacteroidales
+1.3699	6	0	no rank	185291	                unclassified Bacteroidales
+1.1416	5	5	species	2030927	                  Bacteroidales bacterium
+0.2283	1	1	species	1400053	                  Bacteroidales bacterium CF
+1.1416	5	0	family	815	                Bacteroidaceae
+1.1416	5	2	genus	816	                  Bacteroides
+0.2283	1	1	species	28116	                    Bacteroides ovatus
+0.2283	1	1	no rank	139043	                    environmental samples
+0.2283	1	1	species	1347393	                    Bacteroides neonati
+1.1416	5	1	family	171550	                Rikenellaceae
+0.4566	2	0	genus	239759	                  Alistipes
+0.2283	1	0	no rank	538948	                    environmental samples
+0.2283	1	1	species	1262698	                      Alistipes sp. CAG:831
+0.2283	1	0	no rank	2608932	                    unclassified Alistipes
+0.2283	1	1	species	2763015	                      Alistipes sp. NSJ-20
+0.2283	1	0	no rank	433337	                  unclassified Rikenellaceae
+0.2283	1	1	species	2049048	                    Rikenellaceae bacterium
+0.2283	1	0	genus	1611681	                  Mucinivorans
+0.2283	1	1	species	1433126	                    Mucinivorans hirudinis
+1.1416	5	3	family	1853231	                Odoribacteraceae
+0.2283	1	0	genus	283168	                  Odoribacter
+0.2283	1	1	species	28118	                    Odoribacter splanchnicus
+0.2283	1	1	genus	574697	                  Butyricimonas
+0.4566	2	0	family	2005520	                Dysgonomonadaceae
+0.4566	2	1	genus	156973	                  Dysgonomonas
+0.2283	1	0	no rank	2630389	                    unclassified Dysgonomonas
+0.2283	1	1	species	1891233	                      Dysgonomonas sp.
+0.2283	1	0	family	171552	                Prevotellaceae
+0.2283	1	1	genus	838	                  Prevotella
+0.2283	1	0	family	2005525	                Tannerellaceae
+0.2283	1	0	genus	195950	                  Tannerella
+0.2283	1	1	species	28112	                    Tannerella forsythia
+1.3699	6	1	no rank	37452	            unclassified Bacteroidetes
+0.4566	2	2	species	2013698	              Bacteroidetes bacterium HGW-Bacteroidetes-8
+0.2283	1	1	species	1797347	              Bacteroidetes bacterium GWF2_40_14
+0.2283	1	1	species	1895922	              Bacteroidetes bacterium 41-46
+0.2283	1	1	species	1898104	              Bacteroidetes bacterium
+0.2283	1	0	class	768503	            Cytophagia
+0.2283	1	0	order	768507	              Cytophagales
+0.2283	1	0	family	1853232	                Hymenobacteraceae
+0.2283	1	0	genus	323449	                  Pontibacter
+0.2283	1	1	species	1436961	                    Pontibacter chinhatensis
+0.2283	1	0	class	1853228	            Chitinophagia
+0.2283	1	0	order	1853229	              Chitinophagales
+0.2283	1	0	family	563835	                Chitinophagaceae
+0.2283	1	0	genus	354354	                  Niastella
+0.2283	1	1	species	354355	                    Niastella yeongjuensis
+0.9132	4	0	clade	1783272	      Terrabacteria group
+0.9132	4	1	phylum	1239	        Firmicutes
+0.4566	2	0	class	186801	          Clostridia
+0.4566	2	1	order	186802	            Eubacteriales
+0.2283	1	0	no rank	39779	              unclassified Eubacteriales
+0.2283	1	1	species	1898207	                Clostridiales bacterium
+0.2283	1	0	no rank	84086	          unclassified Firmicutes sensu stricto
+0.2283	1	1	species	1852892	            Firmicutes bacterium ADurb.Bin419
+0.4566	2	0	superkingdom	2759	    Eukaryota
+0.4566	2	0	clade	33154	      Opisthokonta
+0.4566	2	0	kingdom	33208	        Metazoa
+0.4566	2	0	clade	6072	          Eumetazoa
+0.4566	2	0	clade	33213	            Bilateria
+0.4566	2	0	clade	33511	              Deuterostomia
+0.4566	2	0	phylum	7711	                Chordata
+0.4566	2	0	subphylum	89593	                  Craniata
+0.4566	2	0	clade	7742	                    Vertebrata
+0.4566	2	0	clade	7776	                      Gnathostomata
+0.4566	2	0	clade	117570	                        Teleostomi
+0.4566	2	0	clade	117571	                          Euteleostomi
+0.4566	2	0	superclass	8287	                            Sarcopterygii
+0.4566	2	0	clade	1338369	                              Dipnotetrapodomorpha
+0.4566	2	0	clade	32523	                                Tetrapoda
+0.2283	1	0	class	8292	                                  Amphibia
+0.2283	1	0	superorder	41666	                                    Batrachia
+0.2283	1	0	order	8342	                                      Anura
+0.2283	1	0	suborder	8416	                                        Neobatrachia
+0.2283	1	0	superfamily	8417	                                          Hyloidea
+0.2283	1	0	family	8382	                                            Bufonidae
+0.2283	1	0	genus	8383	                                              Bufo
+0.2283	1	1	species	8384	                                                Bufo bufo
+0.2283	1	0	clade	32524	                                  Amniota
+0.2283	1	0	clade	8457	                                    Sauropsida
+0.2283	1	0	clade	32561	                                      Sauria
+0.2283	1	0	class	8504	                                        Lepidosauria
+0.2283	1	0	order	8509	                                          Squamata
+0.2283	1	0	clade	1329961	                                            Bifurcata
+0.2283	1	0	clade	1329950	                                              Unidentata
+0.2283	1	1	clade	1329912	                                                Episquamata

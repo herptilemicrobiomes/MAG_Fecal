@@ -1,0 +1,204 @@
+2.6534	32	32	no rank	0	unclassified
+97.3466	1174	55	no rank	1	root
+92.7861	1119	160	no rank	131567	  cellular organisms
+78.6899	949	432	superkingdom	2759	    Eukaryota
+42.3715	511	38	clade	33154	      Opisthokonta
+38.4743	464	173	kingdom	4751	        Fungi
+23.7148	286	36	subkingdom	451864	          Dikarya
+19.5688	236	103	phylum	4890	            Ascomycota
+7.3798	89	45	subphylum	451866	              Taphrinomycotina
+1.9900	24	0	class	147554	                Schizosaccharomycetes
+1.9900	24	0	order	34346	                  Schizosaccharomycetales
+1.9900	24	0	family	4894	                    Schizosaccharomycetaceae
+1.9900	24	23	genus	4895	                      Schizosaccharomyces
+0.0829	1	0	species	4896	                        Schizosaccharomyces pombe
+0.0829	1	1	strain	284812	                          Schizosaccharomyces pombe 972h-
+0.6633	8	0	class	147555	                Taphrinomycetes
+0.6633	8	3	order	5008	                  Taphrinales
+0.2488	3	0	family	27330	                    Protomycetaceae
+0.2488	3	0	genus	27331	                      Protomyces
+0.2488	3	3	species	2754530	                        Protomyces lactucae-debilis
+0.1658	2	0	family	5009	                    Taphrinaceae
+0.1658	2	0	genus	5010	                      Taphrina
+0.1658	2	0	species	5011	                        Taphrina deformans
+0.1658	2	2	strain	1097556	                          Taphrina deformans PYCC 5710
+0.5804	7	0	class	147553	                Pneumocystidomycetes
+0.5804	7	0	order	37987	                  Pneumocystidales
+0.5804	7	0	family	44281	                    Pneumocystidaceae
+0.5804	7	7	genus	4753	                      Pneumocystis
+0.3317	4	0	no rank	452562	                Taphrinomycotina incertae sedis
+0.3317	4	0	genus	5605	                  Saitoella
+0.3317	4	0	species	5606	                    Saitoella complicata
+0.3317	4	4	strain	698492	                      Saitoella complicata NRRL Y-17804
+0.0829	1	0	class	147556	                Neolectomycetes
+0.0829	1	0	order	29823	                  Neolectales
+0.0829	1	0	family	29824	                    Neolectaceae
+0.0829	1	0	genus	29825	                      Neolecta
+0.0829	1	0	species	48691	                        Neolecta irregularis
+0.0829	1	1	strain	1198029	                          Neolecta irregularis DAH-3
+3.6484	44	16	clade	716545	              saccharomyceta
+1.2438	15	5	subphylum	147538	                Pezizomycotina
+0.7463	9	4	clade	716546	                  leotiomyceta
+0.2488	3	1	clade	715989	                    sordariomyceta
+0.1658	2	0	class	147550	                      Sordariomycetes
+0.1658	2	0	subclass	222543	                        Hypocreomycetidae
+0.0829	1	0	order	5125	                          Hypocreales
+0.0829	1	0	family	474943	                            Cordycipitaceae
+0.0829	1	1	genus	5581	                              Beauveria
+0.0829	1	0	order	1028384	                          Glomerellales
+0.0829	1	0	family	681950	                            Glomerellaceae
+0.0829	1	0	genus	5455	                              Colletotrichum
+0.0829	1	1	no rank	2707349	                                Colletotrichum spaethianum species complex
+0.1658	2	1	class	147545	                    Eurotiomycetes
+0.0829	1	0	subclass	451870	                      Chaetothyriomycetidae
+0.0829	1	0	order	34395	                        Chaetothyriales
+0.0829	1	1	no rank	316340	                          unclassified Chaetothyriales
+0.0829	1	0	class	147549	                  Pezizomycetes
+0.0829	1	0	order	5185	                    Pezizales
+0.0829	1	0	family	5186	                      Pezizaceae
+0.0829	1	0	genus	74855	                        Terfezia
+0.0829	1	0	species	82571	                          Terfezia boudieri
+0.0829	1	1	strain	1051890	                            Terfezia boudieri ATCC MYA-4762
+1.0779	13	0	subphylum	147537	                Saccharomycotina
+1.0779	13	0	class	4891	                  Saccharomycetes
+1.0779	13	7	order	4892	                    Saccharomycetales
+0.0829	1	0	family	4893	                      Saccharomycetaceae
+0.0829	1	0	genus	300275	                        Lachancea
+0.0829	1	1	species	1230905	                          Lachancea mirantina
+0.0829	1	0	family	27319	                      Metschnikowiaceae
+0.0829	1	0	genus	36910	                        Clavispora
+0.0829	1	0	species	36911	                          Clavispora lusitaniae
+0.0829	1	1	strain	306902	                            Clavispora lusitaniae ATCC 42720
+0.0829	1	0	family	29827	                      Lipomycetaceae
+0.0829	1	0	genus	29828	                        Lipomyces
+0.0829	1	0	species	29829	                          Lipomyces starkeyi
+0.0829	1	1	strain	675824	                            Lipomyces starkeyi NRRL Y-11557
+0.0829	1	0	family	34353	                      Dipodascaceae
+0.0829	1	0	genus	43987	                        Geotrichum
+0.0829	1	1	species	1173061	                          Geotrichum candidum
+0.0829	1	1	family	410830	                      Trichomonascaceae
+0.0829	1	0	family	766764	                      Debaryomycetaceae
+0.0829	1	0	clade	1535325	                        Candida/Lodderomyces clade
+0.0829	1	1	genus	1535326	                          Candida
+1.1609	14	6	phylum	5204	            Basidiomycota
+0.4975	6	1	subphylum	5302	              Agaricomycotina
+0.4146	5	2	class	155619	                Agaricomycetes
+0.1658	2	0	no rank	355688	                  Agaricomycetes incertae sedis
+0.0829	1	0	order	139380	                    Hymenochaetales
+0.0829	1	1	family	40424	                      Hymenochaetaceae
+0.0829	1	0	order	452342	                    Russulales
+0.0829	1	0	family	40420	                      Bondarzewiaceae
+0.0829	1	0	genus	40421	                        Bondarzewia
+0.0829	1	1	species	1095465	                          Bondarzewia mesenterica
+0.0829	1	0	subclass	452333	                  Agaricomycetidae
+0.0829	1	0	order	5338	                    Agaricales
+0.0829	1	0	family	104366	                      Pleurotaceae
+0.0829	1	0	genus	5320	                        Pleurotus
+0.0829	1	0	species	5322	                          Pleurotus ostreatus
+0.0829	1	1	strain	1137138	                            Pleurotus ostreatus PC15
+0.0829	1	0	subphylum	29000	              Pucciniomycotina
+0.0829	1	0	class	432025	                Mixiomycetes
+0.0829	1	0	order	432026	                  Mixiales
+0.0829	1	0	family	165795	                    Mixiaceae
+0.0829	1	0	genus	34348	                      Mixia
+0.0829	1	0	species	34349	                        Mixia osmundae
+0.0829	1	1	strain	764103	                          Mixia osmundae IAM 14324
+0.0829	1	0	subphylum	452284	              Ustilaginomycotina
+0.0829	1	0	class	452283	                Exobasidiomycetes
+0.0829	1	0	order	62916	                  Tilletiales
+0.0829	1	0	family	5279	                    Tilletiaceae
+0.0829	1	0	genus	13289	                      Tilletia
+0.0829	1	1	species	13290	                        Tilletia caries
+0.4146	5	2	no rank	112252	          Fungi incertae sedis
+0.1658	2	0	phylum	4761	            Chytridiomycota
+0.1658	2	1	no rank	2683659	              Chytridiomycota incertae sedis
+0.0829	1	0	class	451435	                Chytridiomycetes
+0.0829	1	0	order	4810	                  Chytridiales
+0.0829	1	1	family	1352827	                    Chytriomycetaceae
+0.0829	1	1	phylum	1913637	            Mucoromycota
+0.7463	9	0	kingdom	33208	        Metazoa
+0.7463	9	1	clade	6072	          Eumetazoa
+0.6633	8	2	clade	33213	            Bilateria
+0.3317	4	0	clade	33317	              Protostomia
+0.2488	3	0	clade	2697495	                Spiralia
+0.2488	3	0	clade	1206795	                  Lophotrochozoa
+0.0829	1	0	phylum	6157	                    Platyhelminthes
+0.0829	1	0	class	6178	                      Trematoda
+0.0829	1	1	subclass	6179	                        Digenea
+0.0829	1	0	phylum	6340	                    Annelida
+0.0829	1	0	class	6341	                      Polychaeta
+0.0829	1	0	subclass	105389	                        Sedentaria
+0.0829	1	0	infraclass	105387	                          Scolecida
+0.0829	1	0	family	51292	                            Capitellidae
+0.0829	1	0	genus	51293	                              Capitella
+0.0829	1	1	species	283909	                                Capitella teleta
+0.0829	1	0	phylum	6447	                    Mollusca
+0.0829	1	0	class	6544	                      Bivalvia
+0.0829	1	0	subclass	2785011	                        Autobranchia
+0.0829	1	0	clade	6545	                          Pteriomorphia
+0.0829	1	0	order	6562	                            Ostreida
+0.0829	1	0	superfamily	98302	                              Ostreoidea
+0.0829	1	0	family	6563	                                Ostreidae
+0.0829	1	1	genus	6564	                                  Crassostrea
+0.0829	1	0	clade	1206794	                Ecdysozoa
+0.0829	1	0	clade	88770	                  Panarthropoda
+0.0829	1	0	phylum	6656	                    Arthropoda
+0.0829	1	0	clade	197563	                      Mandibulata
+0.0829	1	0	clade	197562	                        Pancrustacea
+0.0829	1	0	subphylum	6960	                          Hexapoda
+0.0829	1	0	class	50557	                            Insecta
+0.0829	1	0	clade	85512	                              Dicondylia
+0.0829	1	0	subclass	7496	                                Pterygota
+0.0829	1	0	infraclass	33340	                                  Neoptera
+0.0829	1	0	cohort	33392	                                    Endopterygota
+0.0829	1	0	order	7041	                                      Coleoptera
+0.0829	1	1	suborder	41084	                                        Polyphaga
+0.1658	2	0	clade	33511	              Deuterostomia
+0.1658	2	0	phylum	7711	                Chordata
+0.1658	2	0	subphylum	89593	                  Craniata
+0.1658	2	0	clade	7742	                    Vertebrata
+0.1658	2	0	clade	7776	                      Gnathostomata
+0.1658	2	0	clade	117570	                        Teleostomi
+0.1658	2	2	clade	117571	                          Euteleostomi
+0.3317	4	0	clade	2698737	      Sar
+0.2488	3	1	clade	33634	        Stramenopiles
+0.1658	2	2	phylum	4762	          Oomycota
+0.0829	1	0	clade	543769	        Rhizaria
+0.0829	1	0	phylum	136419	          Cercozoa
+0.0829	1	0	class	29197	            Chlorarachniophyceae
+0.0829	1	0	genus	74819	              Lotharella
+0.0829	1	1	species	91324	                Lotharella globosa
+0.1658	2	0	clade	554915	      Amoebozoa
+0.1658	2	0	phylum	2605435	        Evosea
+0.1658	2	0	class	2605334	          Variosea
+0.1658	2	0	order	2681888	            Cavosteliida
+0.1658	2	0	family	435412	              Cavosteliaceae
+0.1658	2	0	genus	65007	                Planoprotostelium
+0.1658	2	2	species	1890364	                  Planoprotostelium fungivorum
+0.8292	10	2	superkingdom	2	    Bacteria
+0.4146	5	0	clade	1783270	      FCB group
+0.4146	5	0	clade	68336	        Bacteroidetes/Chlorobi group
+0.4146	5	1	phylum	976	          Bacteroidetes
+0.3317	4	0	class	200643	            Bacteroidia
+0.3317	4	0	order	171549	              Bacteroidales
+0.2488	3	0	family	815	                Bacteroidaceae
+0.2488	3	0	genus	816	                  Bacteroides
+0.0829	1	1	species	28116	                    Bacteroides ovatus
+0.0829	1	1	species	1852362	                    Bacteroides ihuae
+0.0829	1	0	no rank	2646097	                    unclassified Bacteroides
+0.0829	1	1	species	2302938	                      Bacteroides sp. 51
+0.0829	1	0	family	2005525	                Tannerellaceae
+0.0829	1	1	genus	375288	                  Parabacteroides
+0.1658	2	1	clade	1783272	      Terrabacteria group
+0.0829	1	0	phylum	1239	        Firmicutes
+0.0829	1	0	class	526524	          Erysipelotrichia
+0.0829	1	0	order	526525	            Erysipelotrichales
+0.0829	1	0	family	2810280	              Coprobacillaceae
+0.0829	1	0	genus	1279384	                Eggerthia
+0.0829	1	1	species	31973	                  Eggerthia catenaformis
+0.0829	1	0	clade	1783257	      PVC group
+0.0829	1	0	phylum	74201	        Verrucomicrobia
+0.0829	1	0	class	203494	          Verrucomicrobiae
+0.0829	1	0	order	48461	            Verrucomicrobiales
+0.0829	1	0	family	1647988	              Akkermansiaceae
+0.0829	1	1	genus	239934	                Akkermansia

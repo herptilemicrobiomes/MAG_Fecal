@@ -1,0 +1,89 @@
+1.2195	1	1	no rank	0	unclassified
+98.7805	81	3	no rank	1	root
+91.4634	75	3	no rank	131567	  cellular organisms
+82.9268	68	12	superkingdom	2	    Bacteria
+39.0244	32	1	clade	1783272	      Terrabacteria group
+37.8049	31	0	phylum	1239	        Bacillota
+34.1463	28	1	class	91061	          Bacilli
+28.0488	23	2	order	1385	            Bacillales
+23.1707	19	1	family	186817	              Bacillaceae
+17.0732	14	0	genus	1386	                Bacillus
+14.6341	12	1	species group	653685	                  Bacillus subtilis group
+13.4146	11	0	species	1423	                    Bacillus subtilis
+13.4146	11	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+13.4146	11	11	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+2.4390	2	1	species group	86661	                  Bacillus cereus group
+1.2195	1	0	species	1428	                    Bacillus thuringiensis
+1.2195	1	1	no rank	1434	                      Bacillus thuringiensis serovar berliner
+4.8780	4	0	genus	2893055	                Halalkalibacterium (ex Joshi et al. 2022)
+4.8780	4	0	species	86665	                  Halalkalibacterium halodurans
+4.8780	4	4	strain	272558	                    Halalkalibacterium halodurans C-125
+2.4390	2	0	family	90964	              Staphylococcaceae
+2.4390	2	0	genus	1279	                Staphylococcus
+1.2195	1	1	species	1280	                  Staphylococcus aureus
+1.2195	1	1	species	1283	                  Staphylococcus haemolyticus
+4.8780	4	0	order	186826	            Lactobacillales
+4.8780	4	0	family	1300	              Streptococcaceae
+4.8780	4	0	genus	1357	                Lactococcus
+4.8780	4	4	species	1359	                  Lactococcus cremoris
+3.6585	3	0	class	186801	          Clostridia
+3.6585	3	0	order	186802	            Eubacteriales
+2.4390	2	0	family	216572	              Oscillospiraceae
+2.4390	2	0	genus	35829	                Acetivibrio
+2.4390	2	0	species	1515	                  Acetivibrio thermocellus
+2.4390	2	2	strain	203119	                    Acetivibrio thermocellus ATCC 27405
+1.2195	1	0	family	186803	              Lachnospiraceae
+1.2195	1	0	genus	1506553	                Lachnoclostridium
+1.2195	1	0	species	66219	                  Lachnoclostridium phytofermentans
+1.2195	1	1	strain	357809	                    Lachnoclostridium phytofermentans ISDg
+29.2683	24	3	phylum	1224	      Pseudomonadota
+19.5122	16	2	class	1236	        Gammaproteobacteria
+10.9756	9	0	order	91347	          Enterobacterales
+10.9756	9	0	family	543	            Enterobacteriaceae
+9.7561	8	0	genus	561	              Escherichia
+9.7561	8	5	species	562	                Escherichia coli
+3.6585	3	3	strain	83333	                  Escherichia coli K-12
+1.2195	1	0	genus	590	              Salmonella
+1.2195	1	0	species	28901	                Salmonella enterica
+1.2195	1	0	subspecies	59201	                  Salmonella enterica subsp. enterica
+1.2195	1	0	no rank	90371	                    Salmonella enterica subsp. enterica serovar Typhimurium
+1.2195	1	1	strain	99287	                      Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+4.8780	4	0	order	135625	          Pasteurellales
+4.8780	4	0	family	712	            Pasteurellaceae
+4.8780	4	0	genus	724	              Haemophilus
+4.8780	4	0	species	727	                Haemophilus influenzae
+4.8780	4	4	strain	71421	                  Haemophilus influenzae Rd KW20
+1.2195	1	0	order	72274	          Pseudomonadales
+1.2195	1	0	family	135621	            Pseudomonadaceae
+1.2195	1	0	genus	286	              Pseudomonas
+1.2195	1	0	species group	136841	                Pseudomonas aeruginosa group
+1.2195	1	1	species	287	                  Pseudomonas aeruginosa
+6.0976	5	0	class	28211	        Alphaproteobacteria
+6.0976	5	0	order	356	          Hyphomicrobiales
+6.0976	5	1	family	82115	            Rhizobiaceae
+4.8780	4	0	no rank	227292	              Sinorhizobium/Ensifer group
+4.8780	4	0	genus	28105	                Sinorhizobium
+4.8780	4	0	species group	663276	                  Sinorhizobium fredii group
+4.8780	4	0	species	380	                    Sinorhizobium fredii
+4.8780	4	4	strain	394	                      Sinorhizobium fredii NGR234
+3.6585	3	0	superkingdom	2157	    Archaea
+3.6585	3	0	phylum	28890	      Euryarchaeota
+3.6585	3	0	clade	2283794	        Methanomada group
+3.6585	3	0	class	183939	          Methanococci
+3.6585	3	0	order	2182	            Methanococcales
+3.6585	3	0	family	196117	              Methanocaldococcaceae
+3.6585	3	0	genus	196118	                Methanocaldococcus
+3.6585	3	0	species	2190	                  Methanocaldococcus jannaschii
+3.6585	3	3	strain	243232	                    Methanocaldococcus jannaschii DSM 2661
+1.2195	1	1	superkingdom	2759	    Eukaryota
+3.6585	3	0	superkingdom	10239	  Viruses
+3.6585	3	0	clade	2731341	    Duplodnaviria
+3.6585	3	0	kingdom	2731360	      Heunggongvirae
+3.6585	3	0	phylum	2731618	        Uroviricota
+3.6585	3	0	class	2731619	          Caudoviricetes
+1.2195	1	1	genus	186764	            Fromanvirus
+1.2195	1	0	genus	186789	            Punavirus
+1.2195	1	0	species	10678	              Punavirus P1
+1.2195	1	1	no rank	2886926	                Escherichia phage P1
+1.2195	1	0	no rank	2788787	            unclassified Caudoviricetes
+1.2195	1	1	species	10724	              Bacillus phage SPP1

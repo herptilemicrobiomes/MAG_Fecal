@@ -1,0 +1,40 @@
+100.0000	11	2	no rank	1	root
+63.6364	7	1	no rank	131567	  cellular organisms
+54.5455	6	1	superkingdom	2	    Bacteria
+36.3636	4	0	clade	1783272	      Terrabacteria group
+36.3636	4	0	phylum	1239	        Bacillota
+27.2727	3	0	class	91061	          Bacilli
+27.2727	3	0	order	1385	            Bacillales
+27.2727	3	0	family	186817	              Bacillaceae
+18.1818	2	0	genus	1386	                Bacillus
+18.1818	2	0	species group	653685	                  Bacillus subtilis group
+18.1818	2	0	species	1423	                    Bacillus subtilis
+18.1818	2	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+18.1818	2	2	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+9.0909	1	0	genus	2893055	                Halalkalibacterium (ex Joshi et al. 2022)
+9.0909	1	0	species	86665	                  Halalkalibacterium halodurans
+9.0909	1	1	strain	272558	                    Halalkalibacterium halodurans C-125
+9.0909	1	0	class	186801	          Clostridia
+9.0909	1	0	order	186802	            Eubacteriales
+9.0909	1	0	family	31979	              Clostridiaceae
+9.0909	1	0	genus	1485	                Clostridium
+9.0909	1	0	species	1488	                  Clostridium acetobutylicum
+9.0909	1	1	strain	272562	                    Clostridium acetobutylicum ATCC 824
+9.0909	1	0	phylum	1224	      Pseudomonadota
+9.0909	1	0	class	1236	        Gammaproteobacteria
+9.0909	1	1	order	91347	          Enterobacterales
+18.1818	2	0	superkingdom	10239	  Viruses
+9.0909	1	0	clade	2731341	    Duplodnaviria
+9.0909	1	0	kingdom	2731360	      Heunggongvirae
+9.0909	1	0	phylum	2731618	        Uroviricota
+9.0909	1	0	class	2731619	          Caudoviricetes
+9.0909	1	0	no rank	2788787	            unclassified Caudoviricetes
+9.0909	1	1	species	10724	              Bacillus phage SPP1
+9.0909	1	0	clade	2732004	    Varidnaviria
+9.0909	1	0	kingdom	2732005	      Bamfordvirae
+9.0909	1	0	phylum	2732007	        Nucleocytoviricota
+9.0909	1	0	class	2732523	          Megaviricetes
+9.0909	1	0	order	2732554	            Imitervirales
+9.0909	1	0	family	549779	              Mimiviridae
+9.0909	1	0	genus	315393	                Mimivirus
+9.0909	1	1	species	212035	                  Acanthamoeba polyphaga mimivirus

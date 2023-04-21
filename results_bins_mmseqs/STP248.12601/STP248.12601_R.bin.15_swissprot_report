@@ -1,0 +1,69 @@
+0.8333	1	1	no rank	0	unclassified
+99.1667	119	0	no rank	1	root
+99.1667	119	2	no rank	131567	  cellular organisms
+96.6667	116	29	superkingdom	2	    Bacteria
+66.6667	80	0	clade	1783272	      Terrabacteria group
+66.6667	80	38	phylum	1239	        Bacillota
+21.6667	26	10	class	91061	          Bacilli
+11.6667	14	4	order	1385	            Bacillales
+7.5000	9	0	family	186817	              Bacillaceae
+6.6667	8	1	genus	1386	                Bacillus
+5.0000	6	1	species group	653685	                  Bacillus subtilis group
+4.1667	5	0	species	1423	                    Bacillus subtilis
+4.1667	5	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+4.1667	5	5	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+0.8333	1	0	species	1408	                  Bacillus pumilus
+0.8333	1	1	strain	315750	                    Bacillus pumilus SAFR-032
+0.8333	1	0	genus	2893055	                Halalkalibacterium (ex Joshi et al. 2022)
+0.8333	1	0	species	86665	                  Halalkalibacterium halodurans
+0.8333	1	1	strain	272558	                    Halalkalibacterium halodurans C-125
+0.8333	1	0	family	90964	              Staphylococcaceae
+0.8333	1	1	genus	1279	                Staphylococcus
+1.6667	2	1	order	186826	            Lactobacillales
+0.8333	1	0	family	1300	              Streptococcaceae
+0.8333	1	0	genus	1357	                Lactococcus
+0.8333	1	0	species	1358	                  Lactococcus lactis
+0.8333	1	0	subspecies	1360	                    Lactococcus lactis subsp. lactis
+0.8333	1	1	strain	272623	                      Lactococcus lactis subsp. lactis Il1403
+13.3333	16	3	class	186801	          Clostridia
+10.0000	12	7	order	186802	            Eubacteriales
+3.3333	4	4	family	186803	              Lachnospiraceae
+0.8333	1	0	family	31979	              Clostridiaceae
+0.8333	1	0	genus	1485	                Clostridium
+0.8333	1	0	species	1502	                  Clostridium perfringens
+0.8333	1	1	strain	195102	                    Clostridium perfringens str. 13
+0.8333	1	0	order	68295	            Thermoanaerobacterales
+0.8333	1	0	family	186814	              Thermoanaerobacteraceae
+0.8333	1	0	genus	1754	                Thermoanaerobacter
+0.8333	1	1	species	29323	                  Thermoanaerobacter brockii
+5.0000	6	1	phylum	1224	      Pseudomonadota
+4.1667	5	1	class	1236	        Gammaproteobacteria
+2.5000	3	0	order	91347	          Enterobacterales
+2.5000	3	1	family	543	            Enterobacteriaceae
+0.8333	1	0	genus	561	              Escherichia
+0.8333	1	0	species	562	                Escherichia coli
+0.8333	1	1	strain	83333	                  Escherichia coli K-12
+0.8333	1	0	genus	590	              Salmonella
+0.8333	1	0	species	28901	                Salmonella enterica
+0.8333	1	1	subspecies	59201	                  Salmonella enterica subsp. enterica
+0.8333	1	0	order	135614	          Xanthomonadales
+0.8333	1	0	family	32033	            Xanthomonadaceae
+0.8333	1	0	genus	338	              Xanthomonas
+0.8333	1	0	species	1985254	                Xanthomonas phaseoli
+0.8333	1	1	no rank	43353	                  Xanthomonas phaseoli pv. manihotis
+0.8333	1	0	phylum	200918	      Thermotogota
+0.8333	1	0	class	188708	        Thermotogae
+0.8333	1	0	order	2419	          Thermotogales
+0.8333	1	0	family	188709	            Thermotogaceae
+0.8333	1	0	genus	2335	              Thermotoga
+0.8333	1	0	species	2336	                Thermotoga maritima
+0.8333	1	1	strain	243274	                  Thermotoga maritima MSB8
+0.8333	1	0	superkingdom	2157	    Archaea
+0.8333	1	0	phylum	28890	      Euryarchaeota
+0.8333	1	0	clade	2283794	        Methanomada group
+0.8333	1	0	class	183939	          Methanococci
+0.8333	1	0	order	2182	            Methanococcales
+0.8333	1	0	family	196117	              Methanocaldococcaceae
+0.8333	1	0	genus	196118	                Methanocaldococcus
+0.8333	1	0	species	2190	                  Methanocaldococcus jannaschii
+0.8333	1	1	strain	243232	                    Methanocaldococcus jannaschii DSM 2661

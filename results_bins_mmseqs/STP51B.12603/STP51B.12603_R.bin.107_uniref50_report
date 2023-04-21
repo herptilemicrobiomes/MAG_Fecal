@@ -1,0 +1,64 @@
+1.0000	3	3	no rank	0	unclassified
+99.0000	297	162	no rank	1	root
+45.0000	135	2	no rank	131567	  cellular organisms
+43.0000	129	51	superkingdom	2	    Bacteria
+26.0000	78	2	clade	1783270	      FCB group
+25.3333	76	2	clade	68336	        Bacteroidetes/Chlorobi group
+24.6667	74	23	phylum	976	          Bacteroidetes
+16.3333	49	2	class	200643	            Bacteroidia
+15.6667	47	21	order	171549	              Bacteroidales
+6.6667	20	6	family	171550	                Rikenellaceae
+2.6667	8	5	genus	239759	                  Alistipes
+0.6667	2	1	no rank	2608932	                    unclassified Alistipes
+0.3333	1	1	species	2780100	                      Alistipes sp. CU970
+0.3333	1	1	species	328813	                    Alistipes onderdonkii
+1.3333	4	0	genus	1611681	                  Mucinivorans
+1.3333	4	4	species	1433126	                    Mucinivorans hirudinis
+0.6667	2	0	genus	1980038	                  Millionella
+0.6667	2	2	species	1871023	                    Millionella massiliensis
+1.0000	3	0	family	815	                Bacteroidaceae
+1.0000	3	2	genus	816	                  Bacteroides
+0.3333	1	1	species	1297750	                    Bacteroides luti
+0.3333	1	0	family	171551	                Porphyromonadaceae
+0.3333	1	0	genus	836	                  Porphyromonas
+0.3333	1	1	species	1884669	                    Porphyromonas loveana
+0.3333	1	0	family	171552	                Prevotellaceae
+0.3333	1	1	genus	838	                  Prevotella
+0.3333	1	1	family	1853231	                Odoribacteraceae
+0.6667	2	1	no rank	37452	            unclassified Bacteroidetes
+0.3333	1	1	species	1852798	              Bacteroidetes bacterium ADurb.Bin028
+1.0000	3	0	superkingdom	2759	    Eukaryota
+1.0000	3	0	clade	33154	      Opisthokonta
+1.0000	3	0	kingdom	33208	        Metazoa
+1.0000	3	0	clade	6072	          Eumetazoa
+1.0000	3	0	clade	33213	            Bilateria
+1.0000	3	0	clade	33317	              Protostomia
+1.0000	3	0	clade	1206794	                Ecdysozoa
+1.0000	3	0	clade	88770	                  Panarthropoda
+1.0000	3	0	phylum	6656	                    Arthropoda
+1.0000	3	0	clade	197563	                      Mandibulata
+1.0000	3	0	clade	197562	                        Pancrustacea
+1.0000	3	0	subphylum	6960	                          Hexapoda
+1.0000	3	0	class	50557	                            Insecta
+1.0000	3	0	clade	85512	                              Dicondylia
+1.0000	3	0	subclass	7496	                                Pterygota
+1.0000	3	0	infraclass	33340	                                  Neoptera
+1.0000	3	0	cohort	33392	                                    Endopterygota
+1.0000	3	0	order	7399	                                      Hymenoptera
+1.0000	3	0	suborder	7400	                                        Apocrita
+1.0000	3	0	infraorder	7434	                                          Aculeata
+1.0000	3	0	superfamily	2153479	                                            Formicoidea
+1.0000	3	0	family	36668	                                              Formicidae
+1.0000	3	1	subfamily	34695	                                                Myrmicinae
+0.3333	1	0	tribe	143999	                                                  Attini
+0.3333	1	0	genus	34699	                                                    Cyphomyrmex
+0.3333	1	1	species	456900	                                                      Cyphomyrmex costatus
+0.3333	1	0	tribe	144017	                                                  Solenopsidini
+0.3333	1	0	genus	55077	                                                    Monomorium
+0.3333	1	1	species	307658	                                                      Monomorium pharaonis
+0.3333	1	0	superkingdom	2157	    Archaea
+0.3333	1	0	phylum	2283796	      Candidatus Thermoplasmatota
+0.3333	1	0	class	183967	        Thermoplasmata
+0.3333	1	0	order	1235850	          Methanomassiliicoccales
+0.3333	1	0	no rank	1577790	            unclassified Methanomassiliicoccales
+0.3333	1	1	species	1811729	              Methanomassiliicoccales archaeon PtaU1.Bin030

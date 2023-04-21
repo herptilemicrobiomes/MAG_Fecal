@@ -1,0 +1,150 @@
+0.5747	1	1	no rank	0	unclassified
+99.4253	173	7	no rank	1	root
+94.2529	164	8	no rank	131567	  cellular organisms
+86.7816	151	45	superkingdom	2	    Bacteria
+54.0230	94	0	clade	1783272	      Terrabacteria group
+51.7241	90	36	phylum	1239	        Bacillota
+18.3908	32	4	class	91061	          Bacilli
+13.2184	23	1	order	1385	            Bacillales
+12.6437	22	1	family	186817	              Bacillaceae
+12.0690	21	2	genus	1386	                Bacillus
+10.3448	18	0	species group	653685	                  Bacillus subtilis group
+10.3448	18	0	species	1423	                    Bacillus subtilis
+10.3448	18	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+10.3448	18	18	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+0.5747	1	0	species group	86661	                  Bacillus cereus group
+0.5747	1	0	species	1428	                    Bacillus thuringiensis
+0.5747	1	1	no rank	1434	                      Bacillus thuringiensis serovar berliner
+2.8736	5	0	order	186826	            Lactobacillales
+1.1494	2	0	family	1300	              Streptococcaceae
+0.5747	1	0	genus	1301	                Streptococcus
+0.5747	1	1	species	1313	                  Streptococcus pneumoniae
+0.5747	1	0	genus	1357	                Lactococcus
+0.5747	1	1	species	1359	                  Lactococcus cremoris
+1.1494	2	0	family	81852	              Enterococcaceae
+1.1494	2	0	genus	1350	                Enterococcus
+1.1494	2	2	species	1351	                  Enterococcus faecalis
+0.5747	1	0	family	33958	              Lactobacillaceae
+0.5747	1	0	genus	2767887	                Ligilactobacillus
+0.5747	1	0	species	1624	                  Ligilactobacillus salivarius
+0.5747	1	1	strain	362948	                    Ligilactobacillus salivarius UCC118
+12.0690	21	5	class	186801	          Clostridia
+9.1954	16	9	order	186802	            Eubacteriales
+3.4483	6	3	family	186803	              Lachnospiraceae
+1.7241	3	0	genus	1506553	                Lachnoclostridium
+1.7241	3	0	species	66219	                  Lachnoclostridium phytofermentans
+1.7241	3	3	strain	357809	                    Lachnoclostridium phytofermentans ISDg
+0.5747	1	1	family	31979	              Clostridiaceae
+0.5747	1	0	class	909932	          Negativicutes
+0.5747	1	0	order	1843488	            Acidaminococcales
+0.5747	1	0	family	909930	              Acidaminococcaceae
+0.5747	1	0	genus	904	                Acidaminococcus
+0.5747	1	0	species	905	                  Acidaminococcus fermentans
+0.5747	1	1	strain	591001	                    Acidaminococcus fermentans DSM 20731
+0.5747	1	0	phylum	1297	        Deinococcota
+0.5747	1	1	class	188787	          Deinococci
+0.5747	1	0	phylum	200795	        Chloroflexota
+0.5747	1	0	class	32061	          Chloroflexia
+0.5747	1	0	order	189772	            Herpetosiphonales
+0.5747	1	0	family	189773	              Herpetosiphonaceae
+0.5747	1	0	genus	64	                Herpetosiphon
+0.5747	1	1	species	65	                  Herpetosiphon aurantiacus
+0.5747	1	0	phylum	201174	        Actinomycetota
+0.5747	1	1	class	1760	          Actinomycetes
+0.5747	1	0	clade	1798711	        Cyanobacteriota/Melainabacteria group
+0.5747	1	0	phylum	1117	          Cyanobacteriota
+0.5747	1	0	class	3028117	            Cyanophyceae
+0.5747	1	0	order	1890424	              Synechococcales
+0.5747	1	0	family	1890428	                Merismopediaceae
+0.5747	1	0	genus	1142	                  Synechocystis
+0.5747	1	0	no rank	2640012	                    unclassified Synechocystis
+0.5747	1	0	species	1148	                      Synechocystis sp. PCC 6803
+0.5747	1	1	no rank	1111708	                        Synechocystis sp. PCC 6803 substr. Kazusa
+6.3218	11	3	phylum	1224	      Pseudomonadota
+4.0230	7	1	class	1236	        Gammaproteobacteria
+2.8736	5	0	order	91347	          Enterobacterales
+2.8736	5	1	family	543	            Enterobacteriaceae
+2.2989	4	0	genus	561	              Escherichia
+2.2989	4	2	species	562	                Escherichia coli
+1.1494	2	2	strain	83333	                  Escherichia coli K-12
+0.5747	1	0	order	135625	          Pasteurellales
+0.5747	1	0	family	712	            Pasteurellaceae
+0.5747	1	0	genus	724	              Haemophilus
+0.5747	1	0	species	727	                Haemophilus influenzae
+0.5747	1	1	strain	71421	                  Haemophilus influenzae Rd KW20
+0.5747	1	0	class	28216	        Betaproteobacteria
+0.5747	1	0	order	80840	          Burkholderiales
+0.5747	1	0	family	506	            Alcaligenaceae
+0.5747	1	0	genus	222	              Achromobacter
+0.5747	1	1	species	85698	                Achromobacter xylosoxidans
+0.5747	1	0	clade	1783270	      FCB group
+0.5747	1	0	clade	68336	        Bacteroidetes/Chlorobi group
+0.5747	1	0	phylum	1090	          Chlorobiota
+0.5747	1	0	class	191410	            Chlorobiia
+0.5747	1	0	order	191411	              Chlorobiales
+0.5747	1	0	family	191412	                Chlorobiaceae
+0.5747	1	0	no rank	274493	                  Chlorobium/Pelodictyon group
+0.5747	1	0	genus	1091	                    Chlorobium
+0.5747	1	0	species	337090	                      Chlorobium chlorochromatii
+0.5747	1	1	strain	340177	                        Chlorobium chlorochromatii CaD3
+1.7241	3	0	superkingdom	2157	    Archaea
+1.7241	3	0	phylum	28890	      Euryarchaeota
+1.7241	3	0	clade	2283794	        Methanomada group
+1.7241	3	0	class	183939	          Methanococci
+1.7241	3	0	order	2182	            Methanococcales
+1.7241	3	0	family	196117	              Methanocaldococcaceae
+1.7241	3	0	genus	196118	                Methanocaldococcus
+1.7241	3	0	species	2190	                  Methanocaldococcus jannaschii
+1.7241	3	3	strain	243232	                    Methanocaldococcus jannaschii DSM 2661
+1.1494	2	0	superkingdom	2759	    Eukaryota
+1.1494	2	0	clade	33154	      Opisthokonta
+0.5747	1	0	kingdom	4751	        Fungi
+0.5747	1	0	subkingdom	451864	          Dikarya
+0.5747	1	0	phylum	4890	            Ascomycota
+0.5747	1	0	clade	716545	              saccharomyceta
+0.5747	1	0	subphylum	147537	                Saccharomycotina
+0.5747	1	0	class	4891	                  Saccharomycetes
+0.5747	1	0	order	4892	                    Saccharomycetales
+0.5747	1	0	family	4893	                      Saccharomycetaceae
+0.5747	1	0	genus	4930	                        Saccharomyces
+0.5747	1	0	species	4932	                          Saccharomyces cerevisiae
+0.5747	1	1	strain	559292	                            Saccharomyces cerevisiae S288C
+0.5747	1	0	kingdom	33208	        Metazoa
+0.5747	1	0	clade	6072	          Eumetazoa
+0.5747	1	0	clade	33213	            Bilateria
+0.5747	1	0	clade	33511	              Deuterostomia
+0.5747	1	0	phylum	7711	                Chordata
+0.5747	1	0	subphylum	89593	                  Craniata
+0.5747	1	0	clade	7742	                    Vertebrata
+0.5747	1	0	clade	7776	                      Gnathostomata
+0.5747	1	0	clade	117570	                        Teleostomi
+0.5747	1	0	clade	117571	                          Euteleostomi
+0.5747	1	0	superclass	8287	                            Sarcopterygii
+0.5747	1	0	clade	1338369	                              Dipnotetrapodomorpha
+0.5747	1	0	clade	32523	                                Tetrapoda
+0.5747	1	0	clade	32524	                                  Amniota
+0.5747	1	0	clade	8457	                                    Sauropsida
+0.5747	1	0	clade	32561	                                      Sauria
+0.5747	1	0	clade	1329799	                                        Archelosauria
+0.5747	1	0	clade	8492	                                          Archosauria
+0.5747	1	0	clade	436486	                                            Dinosauria
+0.5747	1	0	clade	436489	                                              Saurischia
+0.5747	1	0	clade	436491	                                                Theropoda
+0.5747	1	0	clade	436492	                                                  Coelurosauria
+0.5747	1	0	class	8782	                                                    Aves
+0.5747	1	0	infraclass	8825	                                                      Neognathae
+0.5747	1	0	superorder	1549675	                                                        Galloanserae
+0.5747	1	0	order	8976	                                                          Galliformes
+0.5747	1	0	family	9005	                                                            Phasianidae
+0.5747	1	0	subfamily	466544	                                                              Perdicinae
+0.5747	1	0	genus	9090	                                                                Coturnix
+0.5747	1	1	species	93934	                                                                  Coturnix japonica
+1.1494	2	0	superkingdom	10239	  Viruses
+1.1494	2	0	clade	2731341	    Duplodnaviria
+1.1494	2	0	kingdom	2731360	      Heunggongvirae
+1.1494	2	0	phylum	2731618	        Uroviricota
+1.1494	2	0	class	2731619	          Caudoviricetes
+1.1494	2	0	genus	186765	            Lambdavirus
+0.5747	1	1	species	10710	              Lambdavirus lambda
+0.5747	1	0	no rank	335795	              unclassified Lambdavirus
+0.5747	1	1	species	10723	                Bacillus phage SPO2

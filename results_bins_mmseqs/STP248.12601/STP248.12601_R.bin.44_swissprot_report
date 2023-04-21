@@ -1,0 +1,81 @@
+2.5000	3	3	no rank	0	unclassified
+97.5000	117	0	no rank	1	root
+97.5000	117	4	no rank	131567	  cellular organisms
+89.1667	107	43	superkingdom	2	    Bacteria
+38.3333	46	0	clade	1783270	      FCB group
+38.3333	46	0	clade	68336	        Bacteroidetes/Chlorobi group
+36.6667	44	15	phylum	976	          Bacteroidota
+23.3333	28	0	class	200643	            Bacteroidia
+23.3333	28	24	order	171549	              Bacteroidales
+2.5000	3	0	family	171551	                Porphyromonadaceae
+2.5000	3	0	genus	836	                  Porphyromonas
+2.5000	3	1	species	837	                    Porphyromonas gingivalis
+1.6667	2	2	strain	242619	                      Porphyromonas gingivalis W83
+0.8333	1	0	family	815	                Bacteroidaceae
+0.8333	1	0	genus	816	                  Bacteroides
+0.8333	1	0	species	818	                    Bacteroides thetaiotaomicron
+0.8333	1	1	strain	226186	                      Bacteroides thetaiotaomicron VPI-5482
+0.8333	1	0	class	117743	            Flavobacteriia
+0.8333	1	0	order	200644	              Flavobacteriales
+0.8333	1	0	family	49546	                Flavobacteriaceae
+0.8333	1	1	genus	237	                  Flavobacterium
+1.6667	2	0	phylum	1090	          Chlorobiota
+1.6667	2	0	class	191410	            Chlorobiia
+1.6667	2	0	order	191411	              Chlorobiales
+1.6667	2	0	family	191412	                Chlorobiaceae
+1.6667	2	0	genus	256319	                  Chlorobaculum
+0.8333	1	0	species	1097	                    Chlorobaculum tepidum
+0.8333	1	1	strain	194439	                      Chlorobaculum tepidum TLS
+0.8333	1	0	species	274539	                    Chlorobaculum parvum
+0.8333	1	1	strain	517417	                      Chlorobaculum parvum NCIB 8327
+10.0000	12	6	phylum	1224	      Pseudomonadota
+3.3333	4	0	class	1236	        Gammaproteobacteria
+3.3333	4	2	order	91347	          Enterobacterales
+1.6667	2	1	family	543	            Enterobacteriaceae
+0.8333	1	0	genus	561	              Escherichia
+0.8333	1	0	species	562	                Escherichia coli
+0.8333	1	1	strain	83333	                  Escherichia coli K-12
+1.6667	2	0	subphylum	68525	        delta/epsilon subdivisions
+1.6667	2	0	class	29547	          Epsilonproteobacteria
+1.6667	2	2	order	213849	            Campylobacterales
+5.0000	6	0	clade	1783272	      Terrabacteria group
+4.1667	5	0	phylum	1239	        Bacillota
+3.3333	4	1	class	91061	          Bacilli
+2.5000	3	1	order	1385	            Bacillales
+1.6667	2	1	family	186817	              Bacillaceae
+0.8333	1	0	genus	1386	                Bacillus
+0.8333	1	0	species group	653685	                  Bacillus subtilis group
+0.8333	1	0	species	1423	                    Bacillus subtilis
+0.8333	1	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+0.8333	1	1	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+0.8333	1	0	class	186801	          Clostridia
+0.8333	1	0	order	186802	            Eubacteriales
+0.8333	1	0	family	31979	              Clostridiaceae
+0.8333	1	0	genus	1485	                Clostridium
+0.8333	1	1	species	1520	                  Clostridium beijerinckii
+0.8333	1	0	phylum	201174	        Actinomycetota
+0.8333	1	0	class	1760	          Actinomycetes
+0.8333	1	0	order	85007	            Corynebacteriales
+0.8333	1	0	family	1762	              Mycobacteriaceae
+0.8333	1	0	genus	1763	                Mycobacterium
+0.8333	1	0	species group	77643	                  Mycobacterium tuberculosis complex
+0.8333	1	0	species	1773	                    Mycobacterium tuberculosis
+0.8333	1	1	strain	83332	                      Mycobacterium tuberculosis H37Rv
+5.0000	6	2	superkingdom	2759	    Eukaryota
+1.6667	2	0	kingdom	33090	      Viridiplantae
+1.6667	2	0	phylum	35493	        Streptophyta
+1.6667	2	0	subphylum	131221	          Streptophytina
+1.6667	2	0	clade	3193	            Embryophyta
+1.6667	2	0	clade	58023	              Tracheophyta
+1.6667	2	0	clade	78536	                Euphyllophyta
+1.6667	2	0	clade	58024	                  Spermatophyta
+1.6667	2	0	class	3398	                    Magnoliopsida
+1.6667	2	2	clade	1437183	                      Mesangiospermae
+1.6667	2	0	clade	554915	      Amoebozoa
+1.6667	2	0	phylum	2605435	        Evosea
+1.6667	2	0	class	142796	          Eumycetozoa
+1.6667	2	0	clade	33083	            Dictyostelia
+1.6667	2	0	order	2058949	              Dictyosteliales
+1.6667	2	0	family	2058185	                Dictyosteliaceae
+1.6667	2	0	genus	5782	                  Dictyostelium
+1.6667	2	2	species	44689	                    Dictyostelium discoideum

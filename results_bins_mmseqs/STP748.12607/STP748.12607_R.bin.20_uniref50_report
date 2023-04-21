@@ -1,0 +1,112 @@
+0.8591	5	5	no rank	0	unclassified
+99.1409	577	155	no rank	1	root
+72.5086	422	6	no rank	131567	  cellular organisms
+71.1340	414	92	superkingdom	2	    Bacteria
+54.4674	317	244	phylum	1224	      Proteobacteria
+10.3093	60	21	class	28216	        Betaproteobacteria
+5.6701	33	9	order	206351	          Neisseriales
+2.7491	16	6	family	1499392	            Chromobacteriaceae
+1.0309	6	0	no rank	90153	              Chromobacterium group
+1.0309	6	2	genus	535	                Chromobacterium
+0.3436	2	2	species	536	                  Chromobacterium violaceum
+0.3436	2	2	species	2202141	                  Chromobacterium phragmitis
+0.1718	1	0	genus	168470	              Laribacter
+0.1718	1	1	species	168471	                Laribacter hongkongensis
+0.1718	1	1	genus	397275	              Andreprevotia
+0.1718	1	0	genus	397456	              Gulbenkiania
+0.1718	1	1	species	397457	                Gulbenkiania mobilis
+0.1718	1	0	genus	400060	              Paludibacterium
+0.1718	1	1	species	1144873	                Paludibacterium purpuratum
+1.3746	8	0	family	481	            Neisseriaceae
+1.3746	8	8	genus	1654931	              Crenobacter
+0.8591	5	0	order	80840	          Burkholderiales
+0.6873	4	0	family	119060	            Burkholderiaceae
+0.3436	2	0	genus	32008	              Burkholderia
+0.1718	1	1	species group	111527	                pseudomallei group
+0.1718	1	1	no rank	2613784	                unclassified Burkholderia
+0.1718	1	0	genus	1827195	              Caballeronia
+0.1718	1	1	species	871203	                Caballeronia zhejiangensis
+0.1718	1	0	genus	2680021	              Ephemeroptericola
+0.1718	1	1	species	2268024	                Ephemeroptericola cinctiostellae
+0.1718	1	0	family	80864	            Comamonadaceae
+0.1718	1	0	genus	34072	              Variovorax
+0.1718	1	0	no rank	663243	                unclassified Variovorax
+0.1718	1	1	species	1871043	                  Variovorax sp.
+0.1718	1	0	order	206389	          Rhodocyclales
+0.1718	1	0	family	2008794	            Zoogloeaceae
+0.1718	1	0	genus	12960	              Azoarcus
+0.1718	1	1	species	2565932	                Azoarcus rhizosphaerae
+1.0309	6	3	class	1236	        Gammaproteobacteria
+0.3436	2	0	order	72274	          Pseudomonadales
+0.1718	1	1	family	135621	            Pseudomonadaceae
+0.1718	1	0	family	2887365	            Marinobacteraceae
+0.1718	1	0	genus	2742	              Marinobacter
+0.1718	1	1	species	1420917	                Marinobacter salarius
+0.1718	1	0	order	135619	          Oceanospirillales
+0.1718	1	0	family	28256	            Halomonadaceae
+0.1718	1	0	genus	2745	              Halomonas
+0.1718	1	1	species	2746	                Halomonas elongata
+0.8591	5	0	class	28211	        Alphaproteobacteria
+0.5155	3	0	order	204455	          Rhodobacterales
+0.5155	3	0	family	31989	            Rhodobacteraceae
+0.5155	3	0	no rank	58840	              unclassified Rhodobacteraceae
+0.5155	3	3	species	2490538	                Rhodobacteraceae bacterium CH30
+0.1718	1	0	order	204441	          Rhodospirillales
+0.1718	1	0	family	41295	            Rhodospirillaceae
+0.1718	1	0	genus	382513	              Telmatospirillum
+0.1718	1	0	no rank	2648102	                unclassified Telmatospirillum
+0.1718	1	1	species	2079197	                  Telmatospirillum sp.
+0.1718	1	0	order	204457	          Sphingomonadales
+0.1718	1	0	family	41297	            Sphingomonadaceae
+0.1718	1	1	genus	165696	              Novosphingobium
+0.3436	2	0	subphylum	68525	        delta/epsilon subdivisions
+0.3436	2	0	class	28221	          Deltaproteobacteria
+0.3436	2	0	order	213115	            Desulfovibrionales
+0.3436	2	1	family	194924	              Desulfovibrionaceae
+0.1718	1	1	genus	872	                Desulfovibrio
+0.5155	3	1	clade	1783272	      Terrabacteria group
+0.1718	1	0	phylum	1239	        Firmicutes
+0.1718	1	0	class	186801	          Clostridia
+0.1718	1	1	order	186802	            Eubacteriales
+0.1718	1	0	phylum	201174	        Actinobacteria
+0.1718	1	0	class	1760	          Actinomycetia
+0.1718	1	0	order	85007	            Corynebacteriales
+0.1718	1	1	family	1762	              Mycobacteriaceae
+0.1718	1	0	no rank	49928	      unclassified Bacteria
+0.1718	1	1	species	1869227	        bacterium
+0.1718	1	0	phylum	508458	      Synergistetes
+0.1718	1	0	class	649775	        Synergistia
+0.1718	1	0	order	649776	          Synergistales
+0.1718	1	1	family	649777	            Synergistaceae
+0.3436	2	1	superkingdom	2759	    Eukaryota
+0.1718	1	0	clade	33154	      Opisthokonta
+0.1718	1	0	kingdom	33208	        Metazoa
+0.1718	1	0	clade	6072	          Eumetazoa
+0.1718	1	0	clade	33213	            Bilateria
+0.1718	1	0	clade	33511	              Deuterostomia
+0.1718	1	0	phylum	7711	                Chordata
+0.1718	1	0	subphylum	89593	                  Craniata
+0.1718	1	0	clade	7742	                    Vertebrata
+0.1718	1	0	clade	7776	                      Gnathostomata
+0.1718	1	0	clade	117570	                        Teleostomi
+0.1718	1	0	clade	117571	                          Euteleostomi
+0.1718	1	0	superclass	7898	                            Actinopterygii
+0.1718	1	0	class	186623	                              Actinopteri
+0.1718	1	0	subclass	41665	                                Neopterygii
+0.1718	1	0	infraclass	32443	                                  Teleostei
+0.1718	1	0	clade	1489341	                                    Osteoglossocephalai
+0.1718	1	0	no rank	186625	                                      Clupeocephala
+0.1718	1	0	cohort	1489388	                                        Euteleosteomorpha
+0.1718	1	0	clade	123365	                                          Neoteleostei
+0.1718	1	0	clade	123366	                                            Eurypterygia
+0.1718	1	0	clade	123367	                                              Ctenosquamata
+0.1718	1	0	clade	123368	                                                Acanthomorphata
+0.1718	1	0	clade	123369	                                                  Euacanthomorphacea
+0.1718	1	0	clade	1489872	                                                    Percomorphaceae
+0.1718	1	0	clade	1489922	                                                      Eupercaria
+0.1718	1	0	order	8111	                                                        Perciformes
+0.1718	1	0	suborder	8100	                                                          Cottioidei
+0.1718	1	0	infraorder	1490021	                                                            Cottales
+0.1718	1	0	family	183715	                                                              Liparidae
+0.1718	1	0	genus	183716	                                                                Liparis
+0.1718	1	1	species	230148	                                                                  Liparis tanakae

@@ -1,0 +1,74 @@
+2.5773	10	10	no rank	0	unclassified
+97.4227	378	54	no rank	1	root
+83.5052	324	2	no rank	131567	  cellular organisms
+82.9897	322	63	superkingdom	2	    Bacteria
+65.9794	256	15	clade	1783272	      Terrabacteria group
+62.1134	241	179	phylum	1239	        Firmicutes
+7.4742	29	1	class	186801	          Clostridia
+7.2165	28	11	order	186802	            Eubacteriales
+3.0928	12	0	family	31979	              Clostridiaceae
+2.8351	11	0	no rank	189971	                unclassified Clostridiaceae
+2.8351	11	11	species	2692629	                  Clostridiaceae bacterium DONG20-135
+0.2577	1	0	genus	1485	                Clostridium
+0.2577	1	0	species	84031	                  Clostridium sartagoforme
+0.2577	1	1	strain	1202534	                    Clostridium sartagoforme AAU1
+0.5155	2	2	family	216572	              Oscillospiraceae
+0.2577	1	0	family	186804	              Peptostreptococcaceae
+0.2577	1	0	genus	1505652	                Terrisporobacter
+0.2577	1	1	species	36841	                  Terrisporobacter glycolicus
+0.2577	1	0	family	186806	              Eubacteriaceae
+0.2577	1	0	genus	1730	                Eubacterium
+0.2577	1	0	no rank	84372	                  environmental samples
+0.2577	1	1	species	1263076	                    Eubacterium dolichum CAG:375
+0.2577	1	0	family	990719	              Christensenellaceae
+0.2577	1	0	genus	990721	                Christensenella
+0.2577	1	0	no rank	2649046	                  unclassified Christensenella
+0.2577	1	1	species	2086585	                    Christensenella sp. Marseille-P3954
+7.4742	29	1	class	526524	          Erysipelotrichia
+7.2165	28	1	order	526525	            Erysipelotrichales
+6.9588	27	12	family	128827	              Erysipelotrichaceae
+0.7732	3	0	genus	1472649	                Dielma
+0.7732	3	3	species	1034346	                  Dielma fastidiosa
+0.7732	3	0	genus	2683202	                Massilicoli
+0.7732	3	3	species	2015901	                  Massilicoli timonensis
+0.5155	2	1	no rank	544447	                unclassified Erysipelotrichaceae
+0.2577	1	1	species	2049044	                  Erysipelotrichaceae bacterium
+0.5155	2	2	genus	2057233	                Absiella
+0.2577	1	0	genus	1647	                Erysipelothrix
+0.2577	1	1	species	1648	                  Erysipelothrix rhusiopathiae
+0.2577	1	1	genus	61170	                Holdemania
+0.2577	1	0	genus	118966	                Anaerorhabdus
+0.2577	1	1	species	118967	                  Anaerorhabdus furcosa
+0.2577	1	0	genus	1935200	                Merdibacter
+0.2577	1	1	species	1871030	                  Merdibacter massiliensis
+0.2577	1	0	genus	2060871	                Galactobacillus
+0.2577	1	1	species	2041840	                  Galactobacillus timonensis
+0.5155	2	0	class	91061	          Bacilli
+0.2577	1	0	order	1385	            Bacillales
+0.2577	1	0	family	186818	              Planococcaceae
+0.2577	1	0	genus	1569	                Sporosarcina
+0.2577	1	0	no rank	2647733	                  unclassified Sporosarcina
+0.2577	1	1	species	2597358	                    Sporosarcina sp. ANT_H38
+0.2577	1	0	order	186826	            Lactobacillales
+0.2577	1	0	family	81852	              Enterococcaceae
+0.2577	1	0	genus	1350	                Enterococcus
+0.2577	1	0	no rank	2608891	                  unclassified Enterococcus
+0.2577	1	1	species	1857215	                    Enterococcus sp. CU12B
+0.2577	1	1	no rank	84086	          unclassified Firmicutes sensu stricto
+0.2577	1	0	class	1737404	          Tissierellia
+0.2577	1	0	order	1737405	            Tissierellales
+0.2577	1	0	family	1570339	              Peptoniphilaceae
+0.2577	1	0	genus	2126548	                Miniphocaeibacter
+0.2577	1	1	species	2041841	                  Miniphocaeibacter massiliensis
+0.5155	2	0	clade	1783270	      FCB group
+0.5155	2	0	clade	68336	        Bacteroidetes/Chlorobi group
+0.5155	2	0	phylum	976	          Bacteroidetes
+0.5155	2	0	class	200643	            Bacteroidia
+0.5155	2	1	order	171549	              Bacteroidales
+0.2577	1	0	family	2005525	                Tannerellaceae
+0.2577	1	1	genus	375288	                  Parabacteroides
+0.2577	1	0	phylum	32066	      Fusobacteria
+0.2577	1	0	class	203490	        Fusobacteriia
+0.2577	1	0	order	203491	          Fusobacteriales
+0.2577	1	0	family	1129771	            Leptotrichiaceae
+0.2577	1	1	genus	34104	              Streptobacillus

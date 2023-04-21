@@ -1,0 +1,120 @@
+2.4390	4	4	no rank	0	unclassified
+97.5610	160	2	no rank	1	root
+94.5122	155	9	no rank	131567	  cellular organisms
+86.5854	142	30	superkingdom	2	    Bacteria
+59.1463	97	1	clade	1783272	      Terrabacteria group
+57.9268	95	41	phylum	1239	        Bacillota
+22.5610	37	5	class	91061	          Bacilli
+15.2439	25	5	order	1385	            Bacillales
+12.1951	20	1	family	186817	              Bacillaceae
+11.5854	19	0	genus	1386	                Bacillus
+9.7561	16	0	species group	653685	                  Bacillus subtilis group
+9.7561	16	0	species	1423	                    Bacillus subtilis
+9.7561	16	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+9.7561	16	16	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+1.8293	3	0	species group	86661	                  Bacillus cereus group
+1.2195	2	1	species	1428	                    Bacillus thuringiensis
+0.6098	1	1	no rank	1434	                      Bacillus thuringiensis serovar berliner
+0.6098	1	0	species	1396	                    Bacillus cereus
+0.6098	1	1	strain	451708	                      Bacillus cereus H3081.97
+4.2683	7	0	order	186826	            Lactobacillales
+4.2683	7	0	family	1300	              Streptococcaceae
+3.0488	5	1	genus	1357	                Lactococcus
+2.4390	4	4	species	1359	                  Lactococcus cremoris
+1.2195	2	0	genus	1301	                Streptococcus
+0.6098	1	0	species	1309	                  Streptococcus mutans
+0.6098	1	1	strain	210007	                    Streptococcus mutans UA159
+0.6098	1	0	species	1314	                  Streptococcus pyogenes
+0.6098	1	0	serotype	301450	                    Streptococcus pyogenes serotype M6
+0.6098	1	1	strain	286636	                      Streptococcus pyogenes MGAS10394
+10.3659	17	4	class	186801	          Clostridia
+6.0976	10	2	order	186802	            Eubacteriales
+3.0488	5	0	family	216572	              Oscillospiraceae
+3.0488	5	0	genus	35829	                Acetivibrio
+3.0488	5	0	species	1515	                  Acetivibrio thermocellus
+3.0488	5	5	strain	203119	                    Acetivibrio thermocellus ATCC 27405
+1.8293	3	0	family	31979	              Clostridiaceae
+1.8293	3	2	genus	1485	                Clostridium
+0.6098	1	0	species	1488	                  Clostridium acetobutylicum
+0.6098	1	1	strain	272562	                    Clostridium acetobutylicum ATCC 824
+1.8293	3	0	order	68295	            Thermoanaerobacterales
+1.8293	3	0	family	186814	              Thermoanaerobacteraceae
+1.8293	3	0	genus	249529	                Caldanaerobacter
+1.8293	3	0	species	911092	                  Caldanaerobacter subterraneus
+1.8293	3	0	subspecies	119072	                    Caldanaerobacter subterraneus subsp. tengcongensis
+1.8293	3	3	strain	273068	                      Caldanaerobacter subterraneus subsp. tengcongensis MB4
+0.6098	1	0	phylum	201174	        Actinomycetota
+0.6098	1	0	class	1760	          Actinomycetes
+0.6098	1	0	order	85007	            Corynebacteriales
+0.6098	1	0	family	1762	              Mycobacteriaceae
+0.6098	1	0	genus	1763	                Mycobacterium
+0.6098	1	0	species group	77643	                  Mycobacterium tuberculosis complex
+0.6098	1	1	species	1773	                    Mycobacterium tuberculosis
+8.5366	14	0	phylum	1224	      Pseudomonadota
+6.0976	10	2	class	1236	        Gammaproteobacteria
+3.6585	6	0	order	91347	          Enterobacterales
+3.6585	6	1	family	543	            Enterobacteriaceae
+2.4390	4	0	genus	561	              Escherichia
+2.4390	4	3	species	562	                Escherichia coli
+0.6098	1	1	strain	83333	                  Escherichia coli K-12
+0.6098	1	0	genus	620	              Shigella
+0.6098	1	1	species	623	                Shigella flexneri
+0.6098	1	0	order	135625	          Pasteurellales
+0.6098	1	0	family	712	            Pasteurellaceae
+0.6098	1	0	genus	724	              Haemophilus
+0.6098	1	0	species	727	                Haemophilus influenzae
+0.6098	1	1	strain	71421	                  Haemophilus influenzae Rd KW20
+0.6098	1	0	order	2887326	          Moraxellales
+0.6098	1	0	family	468	            Moraxellaceae
+0.6098	1	0	genus	469	              Acinetobacter
+0.6098	1	0	no rank	196816	                unclassified Acinetobacter
+0.6098	1	1	species	525244	                  Acinetobacter sp. ATCC 27244
+1.2195	2	0	class	28211	        Alphaproteobacteria
+1.2195	2	0	order	356	          Hyphomicrobiales
+1.2195	2	0	family	82115	            Rhizobiaceae
+1.2195	2	0	no rank	227292	              Sinorhizobium/Ensifer group
+1.2195	2	2	genus	28105	                Sinorhizobium
+1.2195	2	0	subphylum	68525	        delta/epsilon subdivisions
+1.2195	2	0	class	29547	          Epsilonproteobacteria
+1.2195	2	0	order	213849	            Campylobacterales
+1.2195	2	0	family	72293	              Helicobacteraceae
+1.2195	2	0	genus	209	                Helicobacter
+0.6098	1	0	species	210	                  Helicobacter pylori
+0.6098	1	1	strain	85963	                    Helicobacter pylori J99
+0.6098	1	0	species	32025	                  Helicobacter hepaticus
+0.6098	1	1	strain	235279	                    Helicobacter hepaticus ATCC 51449
+0.6098	1	0	phylum	200918	      Thermotogota
+0.6098	1	0	class	188708	        Thermotogae
+0.6098	1	0	order	2419	          Thermotogales
+0.6098	1	0	family	188709	            Thermotogaceae
+0.6098	1	0	genus	2335	              Thermotoga
+0.6098	1	0	species	2336	                Thermotoga maritima
+0.6098	1	1	strain	243274	                  Thermotoga maritima MSB8
+1.2195	2	2	superkingdom	2157	    Archaea
+1.2195	2	0	superkingdom	2759	    Eukaryota
+1.2195	2	0	kingdom	33090	      Viridiplantae
+0.6098	1	0	phylum	3041	        Chlorophyta
+0.6098	1	0	clade	2692248	          core chlorophytes
+0.6098	1	0	class	3166	            Chlorophyceae
+0.6098	1	0	clade	2812636	              CS clade
+0.6098	1	0	order	35491	                Sphaeropleales
+0.6098	1	0	family	3086	                  Scenedesmaceae
+0.6098	1	0	genus	91192	                    Tetradesmus
+0.6098	1	1	species	3088	                      Tetradesmus obliquus
+0.6098	1	0	phylum	35493	        Streptophyta
+0.6098	1	0	subphylum	131221	          Streptophytina
+0.6098	1	0	clade	3193	            Embryophyta
+0.6098	1	0	clade	58023	              Tracheophyta
+0.6098	1	0	clade	78536	                Euphyllophyta
+0.6098	1	0	clade	58024	                  Spermatophyta
+0.6098	1	0	class	3398	                    Magnoliopsida
+0.6098	1	1	clade	1437183	                      Mesangiospermae
+1.8293	3	0	superkingdom	10239	  Viruses
+1.8293	3	0	clade	2731341	    Duplodnaviria
+1.8293	3	0	kingdom	2731360	      Heunggongvirae
+1.8293	3	0	phylum	2731618	        Uroviricota
+1.8293	3	0	class	2731619	          Caudoviricetes
+1.2195	2	0	genus	186789	            Punavirus
+1.2195	2	0	species	10678	              Punavirus P1
+1.2195	2	2	no rank	2886926	                Escherichia phage P1
+0.6098	1	1	genus	186764	            Fromanvirus

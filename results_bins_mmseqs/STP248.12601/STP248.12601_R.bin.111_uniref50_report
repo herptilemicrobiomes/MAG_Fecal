@@ -1,0 +1,65 @@
+0.6443	5	5	no rank	0	unclassified
+99.3557	771	319	no rank	1	root
+58.2474	452	0	no rank	131567	  cellular organisms
+58.2474	452	156	superkingdom	2	    Bacteria
+37.2423	289	1	clade	1783270	      FCB group
+37.1134	288	2	clade	68336	        Bacteroidetes/Chlorobi group
+36.8557	286	71	phylum	976	          Bacteroidetes
+27.5773	214	26	class	200643	            Bacteroidia
+24.0979	187	123	order	171549	              Bacteroidales
+6.9588	54	15	family	815	                Bacteroidaceae
+5.0258	39	32	genus	816	                  Bacteroides
+0.3866	3	2	no rank	139043	                    environmental samples
+0.1289	1	1	species	1263038	                      Bacteroides cellulosilyticus CAG:158
+0.1289	1	1	species	817	                    Bacteroides fragilis
+0.1289	1	1	species	820	                    Bacteroides uniformis
+0.1289	1	1	species	626930	                    Bacteroides fluxus
+0.1289	1	1	species	1347393	                    Bacteroides neonati
+0.5155	4	0	family	2005525	                Tannerellaceae
+0.5155	4	0	genus	375288	                  Parabacteroides
+0.2577	2	2	species	1944636	                    Parabacteroides provencensis
+0.1289	1	0	species	574930	                    Parabacteroides gordonii
+0.1289	1	1	strain	1203610	                      Parabacteroides gordonii MS-1 = DSM 23371
+0.1289	1	0	no rank	2649774	                    unclassified Parabacteroides
+0.1289	1	1	species	2763058	                      Parabacteroides sp. BX2
+0.2577	2	0	family	171551	                Porphyromonadaceae
+0.1289	1	1	genus	836	                  Porphyromonas
+0.1289	1	0	genus	2034765	                  Massilibacteroides
+0.1289	1	1	species	1673718	                    Massilibacteroides vaginae
+0.1289	1	0	family	171550	                Rikenellaceae
+0.1289	1	1	genus	239759	                  Alistipes
+0.1289	1	0	family	171552	                Prevotellaceae
+0.1289	1	1	genus	838	                  Prevotella
+0.1289	1	0	family	1853231	                Odoribacteraceae
+0.1289	1	0	genus	1926651	                  Culturomica
+0.1289	1	0	no rank	2643445	                    unclassified Culturomica
+0.1289	1	1	species	1926652	                      Culturomica sp.
+0.1289	1	0	family	2005520	                Dysgonomonadaceae
+0.1289	1	1	genus	156973	                  Dysgonomonas
+0.1289	1	1	order	1970189	              Marinilabiliales
+0.1289	1	0	class	768503	            Cytophagia
+0.1289	1	0	order	768507	              Cytophagales
+0.1289	1	0	family	2762286	                Fulvivirgaceae
+0.1289	1	0	genus	2770110	                  Xanthovirga
+0.1289	1	1	species	2529853	                    Xanthovirga aplysinae
+0.6443	5	1	clade	1783272	      Terrabacteria group
+0.5155	4	2	phylum	1239	        Firmicutes
+0.1289	1	0	class	91061	          Bacilli
+0.1289	1	0	order	1385	            Bacillales
+0.1289	1	0	family	186817	              Bacillaceae
+0.1289	1	0	genus	1386	                Bacillus
+0.1289	1	1	species	1455	                  Bacillus badius
+0.1289	1	0	class	186801	          Clostridia
+0.1289	1	0	order	186802	            Eubacteriales
+0.1289	1	0	family	31979	              Clostridiaceae
+0.1289	1	0	no rank	189971	                unclassified Clostridiaceae
+0.1289	1	1	species	1898204	                  Clostridiaceae bacterium
+0.2577	2	0	phylum	1224	      Proteobacteria
+0.1289	1	0	class	1236	        Gammaproteobacteria
+0.1289	1	0	order	135624	          Aeromonadales
+0.1289	1	0	family	83763	            Succinivibrionaceae
+0.1289	1	0	genus	83770	              Succinivibrio
+0.1289	1	0	species	83771	                Succinivibrio dextrinosolvens
+0.1289	1	1	strain	1123324	                  Succinivibrio dextrinosolvens DSM 3072
+0.1289	1	0	class	28211	        Alphaproteobacteria
+0.1289	1	1	order	356	          Hyphomicrobiales

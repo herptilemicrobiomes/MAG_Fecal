@@ -1,0 +1,81 @@
+7.5000	6	6	no rank	0	unclassified
+92.5000	74	0	no rank	1	root
+92.5000	74	4	no rank	131567	  cellular organisms
+87.5000	70	7	superkingdom	2759	    Eukaryota
+77.5000	62	9	clade	33154	      Opisthokonta
+56.2500	45	0	kingdom	33208	        Metazoa
+56.2500	45	1	clade	6072	          Eumetazoa
+55.0000	44	1	clade	33213	            Bilateria
+53.7500	43	0	clade	33511	              Deuterostomia
+53.7500	43	0	phylum	7711	                Chordata
+53.7500	43	0	subphylum	89593	                  Craniata
+53.7500	43	0	clade	7742	                    Vertebrata
+53.7500	43	0	clade	7776	                      Gnathostomata
+53.7500	43	0	clade	117570	                        Teleostomi
+53.7500	43	20	clade	117571	                          Euteleostomi
+15.0000	12	0	superclass	7898	                            Actinopterygii
+15.0000	12	0	class	186623	                              Actinopteri
+15.0000	12	0	subclass	41665	                                Neopterygii
+15.0000	12	0	infraclass	32443	                                  Teleostei
+15.0000	12	2	clade	1489341	                                    Osteoglossocephalai
+12.5000	10	3	no rank	186625	                                      Clupeocephala
+8.7500	7	1	cohort	1489388	                                        Euteleosteomorpha
+7.5000	6	0	clade	123365	                                          Neoteleostei
+7.5000	6	0	clade	123366	                                            Eurypterygia
+7.5000	6	0	clade	123367	                                              Ctenosquamata
+7.5000	6	0	clade	123368	                                                Acanthomorphata
+7.5000	6	1	clade	123369	                                                  Euacanthomorphacea
+6.2500	5	4	clade	1489872	                                                    Percomorphaceae
+1.2500	1	0	clade	1489908	                                                      Ovalentaria
+1.2500	1	0	superorder	1489913	                                                        Atherinomorphae
+1.2500	1	0	order	28738	                                                          Cyprinodontiformes
+1.2500	1	0	suborder	45443	                                                            Aplocheiloidei
+1.2500	1	0	family	405002	                                                              Nothobranchiidae
+1.2500	1	0	genus	28779	                                                                Nothobranchius
+1.2500	1	1	species	1051664	                                                                  Nothobranchius kadleci
+13.7500	11	0	superclass	8287	                            Sarcopterygii
+13.7500	11	0	clade	1338369	                              Dipnotetrapodomorpha
+13.7500	11	0	clade	32523	                                Tetrapoda
+7.5000	6	0	class	8292	                                  Amphibia
+6.2500	5	0	superorder	41666	                                    Batrachia
+6.2500	5	0	order	8342	                                      Anura
+6.2500	5	0	superfamily	30319	                                        Pipoidea
+6.2500	5	0	family	8352	                                          Pipidae
+6.2500	5	0	subfamily	8360	                                            Xenopodinae
+6.2500	5	4	genus	8353	                                              Xenopus
+1.2500	1	0	subgenus	8363	                                                Silurana
+1.2500	1	1	species	8364	                                                  Xenopus tropicalis
+1.2500	1	0	order	8445	                                    Gymnophiona
+1.2500	1	0	family	30380	                                      Rhinatrematidae
+1.2500	1	0	genus	194407	                                        Rhinatrema
+1.2500	1	1	species	194408	                                          Rhinatrema bivittatum
+6.2500	5	2	clade	32524	                                  Amniota
+3.7500	3	0	clade	8457	                                    Sauropsida
+3.7500	3	1	clade	32561	                                      Sauria
+2.5000	2	0	class	8504	                                        Lepidosauria
+2.5000	2	0	order	8509	                                          Squamata
+2.5000	2	1	clade	1329961	                                            Bifurcata
+1.2500	1	0	clade	1329950	                                              Unidentata
+1.2500	1	0	clade	1329912	                                                Episquamata
+1.2500	1	0	clade	1329911	                                                  Toxicofera
+1.2500	1	0	suborder	8511	                                                    Iguania
+1.2500	1	0	family	2024747	                                                      Dactyloidae
+1.2500	1	0	genus	28376	                                                        Anolis
+1.2500	1	1	species	28377	                                                          Anolis carolinensis
+10.0000	8	0	kingdom	4751	        Fungi
+10.0000	8	0	no rank	112252	          Fungi incertae sedis
+10.0000	8	0	phylum	4761	            Chytridiomycota
+10.0000	8	0	no rank	2683659	              Chytridiomycota incertae sedis
+10.0000	8	0	class	451435	                Chytridiomycetes
+10.0000	8	0	order	451442	                  Rhizophydiales
+10.0000	8	0	no rank	1142503	                    Rhizophydiales incertae sedis
+10.0000	8	0	genus	100474	                      Batrachochytrium
+10.0000	8	0	species	109871	                        Batrachochytrium dendrobatidis
+10.0000	8	8	strain	403673	                          Batrachochytrium dendrobatidis JEL423
+1.2500	1	0	kingdom	33090	      Viridiplantae
+1.2500	1	0	phylum	35493	        Streptophyta
+1.2500	1	0	class	131220	          Klebsormidiophyceae
+1.2500	1	0	order	3172	            Klebsormidiales
+1.2500	1	0	family	3173	              Klebsormidiaceae
+1.2500	1	0	genus	3174	                Klebsormidium
+1.2500	1	1	species	105231	                  Klebsormidium nitens

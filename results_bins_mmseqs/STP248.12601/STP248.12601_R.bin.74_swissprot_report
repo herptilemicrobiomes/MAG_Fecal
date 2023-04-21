@@ -1,0 +1,65 @@
+100.0000	94	0	no rank	1	root
+100.0000	94	4	no rank	131567	  cellular organisms
+94.6809	89	49	superkingdom	2	    Bacteria
+34.0426	32	0	clade	1783270	      FCB group
+34.0426	32	0	clade	68336	        Bacteroidetes/Chlorobi group
+34.0426	32	7	phylum	976	          Bacteroidota
+25.5319	24	0	class	200643	            Bacteroidia
+25.5319	24	13	order	171549	              Bacteroidales
+7.4468	7	0	family	2005525	                Tannerellaceae
+7.4468	7	0	genus	375288	                  Parabacteroides
+7.4468	7	0	species	823	                    Parabacteroides distasonis
+7.4468	7	7	strain	435591	                      Parabacteroides distasonis ATCC 8503
+4.2553	4	1	family	815	                Bacteroidaceae
+3.1915	3	1	genus	816	                  Bacteroides
+1.0638	1	0	species	817	                    Bacteroides fragilis
+1.0638	1	1	strain	295405	                      Bacteroides fragilis YCH46
+1.0638	1	0	species	818	                    Bacteroides thetaiotaomicron
+1.0638	1	1	strain	226186	                      Bacteroides thetaiotaomicron VPI-5482
+1.0638	1	0	class	117743	            Flavobacteriia
+1.0638	1	0	order	200644	              Flavobacteriales
+1.0638	1	0	family	49546	                Flavobacteriaceae
+1.0638	1	0	genus	225842	                  Formosa
+1.0638	1	0	species	320324	                    Formosa agariphila
+1.0638	1	1	strain	1347342	                      Formosa agariphila KMM 3901
+5.3191	5	1	phylum	1224	      Pseudomonadota
+2.1277	2	0	class	1236	        Gammaproteobacteria
+1.0638	1	0	order	91347	          Enterobacterales
+1.0638	1	0	family	543	            Enterobacteriaceae
+1.0638	1	0	genus	561	              Escherichia
+1.0638	1	0	species	562	                Escherichia coli
+1.0638	1	1	strain	83333	                  Escherichia coli K-12
+1.0638	1	0	order	135625	          Pasteurellales
+1.0638	1	0	family	712	            Pasteurellaceae
+1.0638	1	0	genus	697331	              Basfia
+1.0638	1	0	species	157673	                [Mannheimia] succiniciproducens
+1.0638	1	1	strain	221988	                  [Mannheimia] succiniciproducens MBEL55E
+2.1277	2	1	subphylum	68525	        delta/epsilon subdivisions
+1.0638	1	0	class	28221	          Deltaproteobacteria
+1.0638	1	0	order	213462	            Syntrophobacterales
+1.0638	1	0	family	213465	              Syntrophobacteraceae
+1.0638	1	0	genus	29526	                Syntrophobacter
+1.0638	1	0	species	119484	                  Syntrophobacter fumaroxidans
+1.0638	1	1	strain	335543	                    Syntrophobacter fumaroxidans MPOB
+2.1277	2	0	clade	1783272	      Terrabacteria group
+2.1277	2	0	phylum	1239	        Bacillota
+2.1277	2	0	class	91061	          Bacilli
+2.1277	2	2	order	1385	            Bacillales
+1.0638	1	0	phylum	203691	      Spirochaetota
+1.0638	1	0	class	203692	        Spirochaetia
+1.0638	1	0	order	136	          Spirochaetales
+1.0638	1	0	family	2845253	            Treponemataceae
+1.0638	1	0	genus	157	              Treponema
+1.0638	1	0	species	160	                Treponema pallidum
+1.0638	1	0	subspecies	161	                  Treponema pallidum subsp. pallidum
+1.0638	1	1	strain	243276	                    Treponema pallidum subsp. pallidum str. Nichols
+1.0638	1	0	superkingdom	2759	    Eukaryota
+1.0638	1	0	kingdom	33090	      Viridiplantae
+1.0638	1	0	phylum	35493	        Streptophyta
+1.0638	1	0	subphylum	131221	          Streptophytina
+1.0638	1	0	clade	3193	            Embryophyta
+1.0638	1	0	clade	58023	              Tracheophyta
+1.0638	1	0	clade	78536	                Euphyllophyta
+1.0638	1	0	clade	58024	                  Spermatophyta
+1.0638	1	0	class	3398	                    Magnoliopsida
+1.0638	1	1	clade	1437183	                      Mesangiospermae

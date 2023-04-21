@@ -1,0 +1,87 @@
+100.0000	77	0	no rank	1	root
+100.0000	77	3	no rank	131567	  cellular organisms
+90.9091	70	32	superkingdom	2	    Bacteria
+37.6623	29	0	clade	1783270	      FCB group
+37.6623	29	1	clade	68336	        Bacteroidetes/Chlorobi group
+36.3636	28	10	phylum	976	          Bacteroidota
+19.4805	15	0	class	200643	            Bacteroidia
+19.4805	15	1	order	171549	              Bacteroidales
+16.8831	13	0	family	815	                Bacteroidaceae
+16.8831	13	5	genus	816	                  Bacteroides
+10.3896	8	0	species	818	                    Bacteroides thetaiotaomicron
+10.3896	8	8	strain	226186	                      Bacteroides thetaiotaomicron VPI-5482
+1.2987	1	0	family	2005525	                Tannerellaceae
+1.2987	1	0	genus	375288	                  Parabacteroides
+1.2987	1	0	species	823	                    Parabacteroides distasonis
+1.2987	1	1	strain	435591	                      Parabacteroides distasonis ATCC 8503
+3.8961	3	0	class	117743	            Flavobacteriia
+3.8961	3	0	order	200644	              Flavobacteriales
+3.8961	3	0	family	49546	                Flavobacteriaceae
+3.8961	3	0	genus	225842	                  Formosa
+3.8961	3	0	species	320324	                    Formosa agariphila
+3.8961	3	3	strain	1347342	                      Formosa agariphila KMM 3901
+7.7922	6	0	clade	1783272	      Terrabacteria group
+5.1948	4	1	phylum	1239	        Bacillota
+3.8961	3	0	class	91061	          Bacilli
+3.8961	3	0	order	1385	            Bacillales
+3.8961	3	0	family	186817	              Bacillaceae
+3.8961	3	0	genus	1386	                Bacillus
+3.8961	3	0	species group	653685	                  Bacillus subtilis group
+3.8961	3	0	species	1423	                    Bacillus subtilis
+3.8961	3	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+3.8961	3	3	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+1.2987	1	0	phylum	1297	        Deinococcota
+1.2987	1	0	class	188787	          Deinococci
+1.2987	1	0	order	68933	            Thermales
+1.2987	1	0	family	188786	              Thermaceae
+1.2987	1	0	genus	270	                Thermus
+1.2987	1	0	species	274	                  Thermus thermophilus
+1.2987	1	1	strain	262724	                    Thermus thermophilus HB27
+1.2987	1	0	phylum	201174	        Actinomycetota
+1.2987	1	0	class	1760	          Actinomycetes
+1.2987	1	0	order	85004	            Bifidobacteriales
+1.2987	1	0	family	31953	              Bifidobacteriaceae
+1.2987	1	0	genus	1678	                Bifidobacterium
+1.2987	1	0	species	216816	                  Bifidobacterium longum
+1.2987	1	0	subspecies	1679	                    Bifidobacterium longum subsp. longum
+1.2987	1	1	strain	565042	                      Bifidobacterium longum subsp. longum JCM 1217
+3.8961	3	0	phylum	1224	      Pseudomonadota
+2.5974	2	1	class	1236	        Gammaproteobacteria
+1.2987	1	0	order	91347	          Enterobacterales
+1.2987	1	0	family	543	            Enterobacteriaceae
+1.2987	1	0	genus	590	              Salmonella
+1.2987	1	0	species	28901	                Salmonella enterica
+1.2987	1	1	subspecies	59201	                  Salmonella enterica subsp. enterica
+1.2987	1	0	class	28211	        Alphaproteobacteria
+1.2987	1	0	order	766	          Rickettsiales
+1.2987	1	0	family	775	            Rickettsiaceae
+1.2987	1	0	tribe	33988	              Rickettsieae
+1.2987	1	0	genus	780	                Rickettsia
+1.2987	1	0	species group	1129742	                  belli group
+1.2987	1	0	species	33990	                    Rickettsia bellii
+1.2987	1	1	strain	336407	                      Rickettsia bellii RML369-C
+5.1948	4	1	superkingdom	2759	    Eukaryota
+2.5974	2	0	clade	33154	      Opisthokonta
+2.5974	2	0	kingdom	33208	        Metazoa
+2.5974	2	0	clade	6072	          Eumetazoa
+2.5974	2	1	clade	33213	            Bilateria
+1.2987	1	0	clade	33511	              Deuterostomia
+1.2987	1	0	phylum	7711	                Chordata
+1.2987	1	0	subphylum	89593	                  Craniata
+1.2987	1	0	clade	7742	                    Vertebrata
+1.2987	1	0	clade	7776	                      Gnathostomata
+1.2987	1	0	clade	117570	                        Teleostomi
+1.2987	1	0	clade	117571	                          Euteleostomi
+1.2987	1	0	superclass	8287	                            Sarcopterygii
+1.2987	1	0	clade	1338369	                              Dipnotetrapodomorpha
+1.2987	1	0	clade	32523	                                Tetrapoda
+1.2987	1	1	clade	32524	                                  Amniota
+1.2987	1	0	kingdom	33090	      Viridiplantae
+1.2987	1	0	phylum	35493	        Streptophyta
+1.2987	1	0	subphylum	131221	          Streptophytina
+1.2987	1	0	clade	3193	            Embryophyta
+1.2987	1	0	clade	58023	              Tracheophyta
+1.2987	1	0	clade	78536	                Euphyllophyta
+1.2987	1	0	clade	58024	                  Spermatophyta
+1.2987	1	0	class	3398	                    Magnoliopsida
+1.2987	1	1	clade	1437183	                      Mesangiospermae

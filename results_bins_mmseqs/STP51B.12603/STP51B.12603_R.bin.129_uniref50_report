@@ -1,0 +1,92 @@
+1.8738	19	19	no rank	0	unclassified
+98.1262	995	364	no rank	1	root
+62.2288	631	0	no rank	131567	  cellular organisms
+62.1302	630	156	superkingdom	2	    Bacteria
+46.7456	474	1	clade	1783270	      FCB group
+46.6469	473	5	clade	68336	        Bacteroidetes/Chlorobi group
+46.1538	468	80	phylum	976	          Bacteroidetes
+37.9684	385	7	class	200643	            Bacteroidia
+37.2781	378	100	order	171549	              Bacteroidales
+25.1479	255	38	family	171550	                Rikenellaceae
+21.2032	215	134	genus	239759	                  Alistipes
+4.9310	50	50	species	626932	                    Alistipes indistinctus
+1.0848	11	11	species	2585118	                    Alistipes communis
+0.9862	10	0	no rank	538948	                    environmental samples
+0.1972	2	2	species	1262693	                      Alistipes sp. CAG:268
+0.1972	2	2	species	1262694	                      Alistipes sp. CAG:29
+0.1972	2	2	species	1263035	                      Alistipes finegoldii CAG:68
+0.1972	2	2	species	1263036	                      Alistipes putredinis CAG:67
+0.0986	1	1	species	1262692	                      Alistipes sp. CAG:157
+0.0986	1	1	species	1262695	                      Alistipes sp. CAG:435
+0.5917	6	4	no rank	2608932	                    unclassified Alistipes
+0.0986	1	1	species	2780100	                      Alistipes sp. CU970
+0.0986	1	1	species	2787128	                      Alistipes sp. D31t1_170403_E11
+0.1972	2	2	species	1816676	                    Alistipes provencensis
+0.0986	1	1	species	214856	                    Alistipes finegoldii
+0.0986	1	1	species	2364787	                    Alistipes megaguti
+0.1972	2	0	genus	28138	                  Rikenella
+0.1972	2	2	species	28139	                    Rikenella microfusus
+1.2821	13	2	family	815	                Bacteroidaceae
+1.0848	11	3	genus	816	                  Bacteroides
+0.6903	7	2	no rank	139043	                    environmental samples
+0.1972	2	2	species	1262746	                      Bacteroides sp. CAG:661
+0.0986	1	1	species	1263037	                      Bacteroides caccae CAG:21
+0.0986	1	1	species	1263039	                      Bacteroides clarus CAG:160
+0.0986	1	1	species	1263055	                      Bacteroides uniformis CAG:3
+0.0986	1	0	species	626929	                    Bacteroides clarus
+0.0986	1	1	strain	762984	                      Bacteroides clarus YIT 12056
+0.3945	4	0	family	1853231	                Odoribacteraceae
+0.1972	2	1	genus	283168	                  Odoribacter
+0.0986	1	0	no rank	876415	                    environmental samples
+0.0986	1	1	species	1263090	                      Odoribacter splanchnicus CAG:14
+0.1972	2	0	genus	574697	                  Butyricimonas
+0.0986	1	1	species	544644	                    Butyricimonas synergistica
+0.0986	1	1	species	1472417	                    Butyricimonas paravirosa
+0.1972	2	0	family	171552	                Prevotellaceae
+0.1972	2	0	genus	838	                  Prevotella
+0.0986	1	0	no rank	84374	                    environmental samples
+0.0986	1	1	species	1262936	                      Prevotella sp. CAG:873
+0.0986	1	1	species	165179	                    Prevotella copri
+0.1972	2	0	family	2005525	                Tannerellaceae
+0.0986	1	0	genus	195950	                  Tannerella
+0.0986	1	0	no rank	417613	                    environmental samples
+0.0986	1	1	species	1262978	                      Tannerella sp. CAG:118
+0.0986	1	0	genus	375288	                  Parabacteroides
+0.0986	1	0	no rank	512311	                    environmental samples
+0.0986	1	1	species	1262913	                      Parabacteroides sp. CAG:409
+0.0986	1	0	no rank	185291	                unclassified Bacteroidales
+0.0986	1	1	species	2030927	                  Bacteroidales bacterium
+0.0986	1	0	family	2005520	                Dysgonomonadaceae
+0.0986	1	0	genus	307628	                  Petrimonas
+0.0986	1	1	species	1642646	                    Petrimonas mucosa
+0.1972	2	1	no rank	37452	            unclassified Bacteroidetes
+0.0986	1	1	species	1898104	              Bacteroidetes bacterium
+0.0986	1	0	class	117743	            Flavobacteriia
+0.0986	1	0	order	200644	              Flavobacteriales
+0.0986	1	0	family	2762318	                Weeksellaceae
+0.0986	1	0	genus	1778601	                  Apibacter
+0.0986	1	1	species	1679466	                    Apibacter adventoris
+0.0986	1	0	superkingdom	2759	    Eukaryota
+0.0986	1	0	kingdom	33090	      Viridiplantae
+0.0986	1	0	phylum	35493	        Streptophyta
+0.0986	1	0	subphylum	131221	          Streptophytina
+0.0986	1	0	clade	3193	            Embryophyta
+0.0986	1	0	clade	58023	              Tracheophyta
+0.0986	1	0	clade	78536	                Euphyllophyta
+0.0986	1	0	clade	58024	                  Spermatophyta
+0.0986	1	0	class	3398	                    Magnoliopsida
+0.0986	1	0	clade	1437183	                      Mesangiospermae
+0.0986	1	0	clade	71240	                        eudicotyledons
+0.0986	1	0	clade	91827	                          Gunneridae
+0.0986	1	0	clade	1437201	                            Pentapetalae
+0.0986	1	0	clade	71275	                              rosids
+0.0986	1	0	clade	91835	                                fabids
+0.0986	1	0	order	72025	                                  Fabales
+0.0986	1	0	family	3803	                                    Fabaceae
+0.0986	1	0	subfamily	3814	                                      Papilionoideae
+0.0986	1	0	clade	2231393	                                        50 kb inversion clade
+0.0986	1	0	clade	2231384	                                          genistoids sensu lato
+0.0986	1	0	clade	2231385	                                            core genistoids
+0.0986	1	0	tribe	163729	                                              Genisteae
+0.0986	1	0	genus	3869	                                                Lupinus
+0.0986	1	1	species	3870	                                                  Lupinus albus

@@ -1,0 +1,27 @@
+0.4926	1	1	no rank	0	unclassified
+99.5074	202	13	no rank	1	root
+93.1034	189	1	no rank	131567	  cellular organisms
+92.6108	188	145	superkingdom	2	    Bacteria
+18.7192	38	27	clade	1783272	      Terrabacteria group
+4.4335	9	4	phylum	1239	        Firmicutes
+1.9704	4	1	class	186801	          Clostridia
+1.4778	3	0	order	186802	            Eubacteriales
+1.4778	3	0	family	31979	              Clostridiaceae
+1.4778	3	0	genus	1485	                Clostridium
+1.4778	3	0	no rank	59619	                  environmental samples
+1.4778	3	3	species	1262794	                    Clostridium sp. CAG:306
+0.4926	1	1	class	909932	          Negativicutes
+0.9852	2	0	clade	1798711	        Cyanobacteria/Melainabacteria group
+0.9852	2	0	phylum	1798710	          Candidatus Melainabacteria
+0.4926	1	0	no rank	1897007	            unclassified Candidatus Melainabacteria
+0.4926	1	1	species	1897008	              Candidatus Melainabacteria bacterium 35_41
+0.4926	1	0	order	1906119	            Candidatus Gastranaerophilales
+0.4926	1	1	species	1916319	              Candidatus Gastranaerophilales bacterium HUM_21
+1.9704	4	0	clade	1783270	      FCB group
+1.9704	4	0	clade	68336	        Bacteroidetes/Chlorobi group
+1.9704	4	1	phylum	976	          Bacteroidetes
+1.4778	3	0	class	200643	            Bacteroidia
+1.4778	3	2	order	171549	              Bacteroidales
+0.4926	1	0	no rank	185291	                unclassified Bacteroidales
+0.4926	1	1	species	2030927	                  Bacteroidales bacterium
+0.4926	1	1	phylum	1224	      Proteobacteria

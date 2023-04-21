@@ -1,0 +1,117 @@
+6.6667	6	6	no rank	0	unclassified
+93.3333	84	0	no rank	1	root
+93.3333	84	5	no rank	131567	  cellular organisms
+85.5556	77	9	superkingdom	2	    Bacteria
+60.0000	54	0	clade	1783272	      Terrabacteria group
+57.7778	52	6	phylum	1239	        Bacillota
+26.6667	24	2	class	186801	          Clostridia
+23.3333	21	3	order	186802	            Eubacteriales
+13.3333	12	2	family	186803	              Lachnospiraceae
+7.7778	7	0	genus	1506553	                Lachnoclostridium
+7.7778	7	0	species	66219	                  Lachnoclostridium phytofermentans
+7.7778	7	7	strain	357809	                    Lachnoclostridium phytofermentans ISDg
+2.2222	2	0	no rank	2840493	                Lachnospiraceae incertae sedis
+2.2222	2	0	species	39491	                  [Eubacterium] rectale
+2.2222	2	2	strain	515619	                    [Eubacterium] rectale ATCC 33656
+1.1111	1	0	genus	28050	                Lachnospira
+1.1111	1	0	species	39485	                  Lachnospira eligens
+1.1111	1	1	strain	515620	                    [Eubacterium] eligens ATCC 27750
+3.3333	3	0	family	31979	              Clostridiaceae
+2.2222	2	2	genus	1485	                Clostridium
+1.1111	1	0	genus	44258	                Caloramator
+1.1111	1	1	species	908809	                  Caloramator mitchellensis
+2.2222	2	1	family	186804	              Peptostreptococcaceae
+1.1111	1	0	genus	1481960	                Peptoclostridium
+1.1111	1	1	species	1731	                  Peptoclostridium acidaminophilum
+1.1111	1	0	family	186806	              Eubacteriaceae
+1.1111	1	0	genus	33951	                Acetobacterium
+1.1111	1	0	species	33952	                  Acetobacterium woodii
+1.1111	1	1	strain	931626	                    Acetobacterium woodii DSM 1030
+1.1111	1	0	order	68295	            Thermoanaerobacterales
+1.1111	1	1	family	186814	              Thermoanaerobacteraceae
+24.4444	22	0	class	91061	          Bacilli
+20.0000	18	2	order	1385	            Bacillales
+14.4444	13	0	family	186817	              Bacillaceae
+14.4444	13	0	genus	1386	                Bacillus
+14.4444	13	1	species group	653685	                  Bacillus subtilis group
+13.3333	12	0	species	1423	                    Bacillus subtilis
+13.3333	12	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+13.3333	12	12	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+3.3333	3	0	family	90964	              Staphylococcaceae
+3.3333	3	3	genus	1279	                Staphylococcus
+4.4444	4	0	order	186826	            Lactobacillales
+2.2222	2	0	family	1300	              Streptococcaceae
+2.2222	2	1	genus	1301	                Streptococcus
+1.1111	1	1	species	1313	                  Streptococcus pneumoniae
+2.2222	2	0	family	81852	              Enterococcaceae
+2.2222	2	0	genus	1350	                Enterococcus
+1.1111	1	1	species	1352	                  Enterococcus faecium
+1.1111	1	0	species	1354	                  Enterococcus hirae
+1.1111	1	1	strain	768486	                    Enterococcus hirae ATCC 9790
+2.2222	2	0	phylum	201174	        Actinomycetota
+2.2222	2	0	class	1760	          Actinomycetes
+1.1111	1	0	order	85004	            Bifidobacteriales
+1.1111	1	0	family	31953	              Bifidobacteriaceae
+1.1111	1	0	genus	1678	                Bifidobacterium
+1.1111	1	0	species	216816	                  Bifidobacterium longum
+1.1111	1	0	subspecies	1679	                    Bifidobacterium longum subsp. longum
+1.1111	1	1	strain	565042	                      Bifidobacterium longum subsp. longum JCM 1217
+1.1111	1	0	order	85007	            Corynebacteriales
+1.1111	1	0	family	1762	              Mycobacteriaceae
+1.1111	1	0	genus	1763	                Mycobacterium
+1.1111	1	0	species group	77643	                  Mycobacterium tuberculosis complex
+1.1111	1	1	species	1773	                    Mycobacterium tuberculosis
+13.3333	12	4	phylum	1224	      Pseudomonadota
+6.6667	6	2	class	1236	        Gammaproteobacteria
+4.4444	4	0	order	91347	          Enterobacterales
+4.4444	4	0	family	543	            Enterobacteriaceae
+3.3333	3	0	genus	561	              Escherichia
+3.3333	3	1	species	562	                Escherichia coli
+2.2222	2	2	strain	83333	                  Escherichia coli K-12
+1.1111	1	0	genus	590	              Salmonella
+1.1111	1	0	species	28901	                Salmonella enterica
+1.1111	1	0	subspecies	59201	                  Salmonella enterica subsp. enterica
+1.1111	1	0	no rank	90371	                    Salmonella enterica subsp. enterica serovar Typhimurium
+1.1111	1	1	strain	99287	                      Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+2.2222	2	0	subphylum	68525	        delta/epsilon subdivisions
+2.2222	2	0	class	28221	          Deltaproteobacteria
+1.1111	1	0	order	69541	            Desulfuromonadales
+1.1111	1	0	family	213422	              Geobacteraceae
+1.1111	1	0	genus	28231	                Geobacter
+1.1111	1	0	species	28232	                  Geobacter metallireducens
+1.1111	1	1	strain	269799	                    Geobacter metallireducens GS-15
+1.1111	1	0	order	213115	            Desulfovibrionales
+1.1111	1	0	family	194924	              Desulfovibrionaceae
+1.1111	1	0	genus	2910984	                Solidesulfovibrio
+1.1111	1	1	species	878	                  Solidesulfovibrio fructosivorans
+2.2222	2	0	phylum	200918	      Thermotogota
+2.2222	2	0	class	188708	        Thermotogae
+2.2222	2	0	order	2419	          Thermotogales
+2.2222	2	1	family	188709	            Thermotogaceae
+1.1111	1	0	genus	2335	              Thermotoga
+1.1111	1	0	species	2336	                Thermotoga maritima
+1.1111	1	1	strain	243274	                  Thermotoga maritima MSB8
+1.1111	1	0	superkingdom	2157	    Archaea
+1.1111	1	0	phylum	28890	      Euryarchaeota
+1.1111	1	0	clade	2283794	        Methanomada group
+1.1111	1	0	class	183939	          Methanococci
+1.1111	1	0	order	2182	            Methanococcales
+1.1111	1	0	family	196117	              Methanocaldococcaceae
+1.1111	1	0	genus	196118	                Methanocaldococcus
+1.1111	1	0	species	2190	                  Methanocaldococcus jannaschii
+1.1111	1	1	strain	243232	                    Methanocaldococcus jannaschii DSM 2661
+1.1111	1	0	superkingdom	2759	    Eukaryota
+1.1111	1	0	clade	33154	      Opisthokonta
+1.1111	1	0	kingdom	33208	        Metazoa
+1.1111	1	0	clade	6072	          Eumetazoa
+1.1111	1	0	clade	33213	            Bilateria
+1.1111	1	0	clade	33511	              Deuterostomia
+1.1111	1	0	phylum	7711	                Chordata
+1.1111	1	0	subphylum	89593	                  Craniata
+1.1111	1	0	clade	7742	                    Vertebrata
+1.1111	1	0	clade	7776	                      Gnathostomata
+1.1111	1	0	clade	117570	                        Teleostomi
+1.1111	1	0	clade	117571	                          Euteleostomi
+1.1111	1	0	superclass	8287	                            Sarcopterygii
+1.1111	1	0	clade	1338369	                              Dipnotetrapodomorpha
+1.1111	1	1	clade	32523	                                Tetrapoda

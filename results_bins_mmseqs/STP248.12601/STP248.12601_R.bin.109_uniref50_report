@@ -1,0 +1,35 @@
+0.9950	2	2	no rank	0	unclassified
+99.0050	199	17	no rank	1	root
+90.5473	182	0	no rank	131567	  cellular organisms
+90.5473	182	91	superkingdom	2	    Bacteria
+44.2786	89	0	clade	1783272	      Terrabacteria group
+44.2786	89	39	phylum	1239	        Firmicutes
+24.3781	49	10	class	186801	          Clostridia
+19.4030	39	24	order	186802	            Eubacteriales
+5.9701	12	8	family	216572	              Oscillospiraceae
+0.9950	2	1	genus	244127	                Anaerotruncus
+0.4975	1	1	species	169435	                  Anaerotruncus colihominis
+0.9950	2	0	genus	1987749	                Marasmitruncus
+0.9950	2	2	species	1944642	                  Marasmitruncus massiliensis
+0.4975	1	0	family	31979	              Clostridiaceae
+0.4975	1	0	genus	1649459	                Hungatella
+0.4975	1	1	species	154046	                  Hungatella hathewayi
+0.4975	1	0	no rank	39779	              unclassified Eubacteriales
+0.4975	1	1	species	1898207	                Clostridiales bacterium
+0.4975	1	0	family	186804	              Peptostreptococcaceae
+0.4975	1	0	genus	1870884	                Clostridioides
+0.4975	1	1	species	1496	                  Clostridioides difficile
+0.4975	1	0	class	91061	          Bacilli
+0.4975	1	0	order	1385	            Bacillales
+0.4975	1	0	family	186822	              Paenibacillaceae
+0.4975	1	0	genus	44249	                Paenibacillus
+0.4975	1	1	species	862114	                  Paenibacillus faecis
+0.4975	1	0	phylum	32066	      Fusobacteria
+0.4975	1	0	class	203490	        Fusobacteriia
+0.4975	1	1	order	203491	          Fusobacteriales
+0.4975	1	0	clade	1783270	      FCB group
+0.4975	1	0	clade	68336	        Bacteroidetes/Chlorobi group
+0.4975	1	0	phylum	976	          Bacteroidetes
+0.4975	1	0	class	200643	            Bacteroidia
+0.4975	1	0	order	171549	              Bacteroidales
+0.4975	1	1	family	171550	                Rikenellaceae

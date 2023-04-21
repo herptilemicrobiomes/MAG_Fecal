@@ -1,0 +1,102 @@
+0.8869	4	4	no rank	0	unclassified
+99.1131	447	68	no rank	1	root
+84.0355	379	1	no rank	131567	  cellular organisms
+83.5920	377	158	superkingdom	2	    Bacteria
+47.6718	215	6	clade	1783272	      Terrabacteria group
+45.8980	207	56	phylum	1239	        Firmicutes
+31.9290	144	21	class	186801	          Clostridia
+26.8293	121	86	order	186802	            Eubacteriales
+3.3259	15	0	family	990719	              Christensenellaceae
+3.3259	15	0	no rank	1917874	                unclassified Christensenellaceae
+3.3259	15	15	species	2054177	                  Christensenellaceae bacterium
+1.1086	5	1	no rank	39779	              unclassified Eubacteriales
+0.8869	4	4	species	1898207	                Clostridiales bacterium
+0.8869	4	0	family	31979	              Clostridiaceae
+0.6652	3	0	genus	1485	                Clostridium
+0.4435	2	0	no rank	2614128	                  unclassified Clostridium
+0.4435	2	2	species	2067550	                    Clostridium sp. chh4-2
+0.2217	1	1	species	1492	                  Clostridium butyricum
+0.2217	1	0	no rank	189971	                unclassified Clostridiaceae
+0.2217	1	1	species	1898204	                  Clostridiaceae bacterium
+0.8869	4	2	family	216572	              Oscillospiraceae
+0.2217	1	1	genus	244127	                Anaerotruncus
+0.2217	1	0	genus	459786	                Oscillibacter
+0.2217	1	0	no rank	876090	                  environmental samples
+0.2217	1	1	species	1262911	                    Oscillibacter sp. CAG:241
+0.6652	3	1	family	186803	              Lachnospiraceae
+0.2217	1	0	no rank	186928	                unclassified Lachnospiraceae
+0.2217	1	1	species	1898203	                  Lachnospiraceae bacterium
+0.2217	1	0	genus	1506553	                Lachnoclostridium
+0.2217	1	0	no rank	2608895	                  unclassified Lachnoclostridium
+0.2217	1	1	species	1965583	                    Lachnoclostridium sp. An196
+0.4435	2	0	family	186807	              Peptococcaceae
+0.4435	2	0	genus	56112	                Dehalobacter
+0.4435	2	0	no rank	2635733	                  unclassified Dehalobacter
+0.4435	2	2	species	2594474	                    Dehalobacter sp. 4CP
+0.2217	1	0	no rank	538999	              Eubacteriales incertae sedis
+0.2217	1	0	genus	1470353	                Candidatus Soleaferrea
+0.2217	1	1	species	1470354	                  Candidatus Soleaferrea massiliensis
+0.2217	1	0	family	2603322	              Vallitaleaceae
+0.2217	1	0	genus	1348611	                Vallitalea
+0.2217	1	1	species	1185412	                  Vallitalea guaymasensis
+0.2217	1	0	no rank	189325	            Clostridia incertae sedis
+0.2217	1	0	genus	2720806	              Candidatus Gallimonas
+0.2217	1	1	species	2720812	                Candidatus Gallimonas faecium
+0.2217	1	0	no rank	348841	            unclassified Clostridia
+0.2217	1	1	species	2044939	              Clostridia bacterium
+0.6652	3	0	no rank	84086	          unclassified Firmicutes sensu stricto
+0.6652	3	3	species	1852894	            Firmicutes bacterium ADurb.Bin467
+0.4435	2	0	class	91061	          Bacilli
+0.4435	2	0	order	1385	            Bacillales
+0.4435	2	0	family	186822	              Paenibacillaceae
+0.2217	1	0	genus	44249	                Paenibacillus
+0.2217	1	1	species	1325360	                  Paenibacillus segetis
+0.2217	1	0	genus	329857	                Cohnella
+0.2217	1	1	species	400776	                  Cohnella panacarvi
+0.4435	2	0	class	526524	          Erysipelotrichia
+0.4435	2	0	order	526525	            Erysipelotrichales
+0.4435	2	0	family	128827	              Erysipelotrichaceae
+0.2217	1	0	genus	118966	                Anaerorhabdus
+0.2217	1	1	species	118967	                  Anaerorhabdus furcosa
+0.2217	1	0	genus	1505663	                Erysipelatoclostridium
+0.2217	1	1	species	1522	                  [Clostridium] innocuum
+0.4435	2	0	phylum	201174	        Actinobacteria
+0.4435	2	1	class	84998	          Coriobacteriia
+0.2217	1	0	order	1643822	            Eggerthellales
+0.2217	1	1	family	1643826	              Eggerthellaceae
+0.4435	2	1	phylum	203691	      Spirochaetes
+0.2217	1	0	class	203692	        Spirochaetia
+0.2217	1	0	order	136	          Spirochaetales
+0.2217	1	0	no rank	233070	            unclassified Spirochaetales
+0.2217	1	1	species	2026792	              Spirochaetales bacterium
+0.2217	1	0	phylum	1224	      Proteobacteria
+0.2217	1	0	subphylum	68525	        delta/epsilon subdivisions
+0.2217	1	0	class	28221	          Deltaproteobacteria
+0.2217	1	0	order	213115	            Desulfovibrionales
+0.2217	1	0	family	194924	              Desulfovibrionaceae
+0.2217	1	0	genus	41707	                Lawsonia
+0.2217	1	0	species	29546	                  Lawsonia intracellularis
+0.2217	1	1	strain	363253	                    Lawsonia intracellularis PHE/MN1-00
+0.2217	1	0	clade	1783257	      PVC group
+0.2217	1	0	phylum	256845	        Lentisphaerae
+0.2217	1	0	no rank	641407	          unclassified Lentisphaerae
+0.2217	1	1	species	1932692	            Lentisphaerae bacterium
+0.2217	1	0	superkingdom	2759	    Eukaryota
+0.2217	1	0	clade	33154	      Opisthokonta
+0.2217	1	0	kingdom	33208	        Metazoa
+0.2217	1	0	clade	6072	          Eumetazoa
+0.2217	1	0	clade	33213	            Bilateria
+0.2217	1	0	clade	33317	              Protostomia
+0.2217	1	0	clade	1206794	                Ecdysozoa
+0.2217	1	0	clade	88770	                  Panarthropoda
+0.2217	1	0	phylum	6656	                    Arthropoda
+0.2217	1	0	subphylum	6843	                      Chelicerata
+0.2217	1	0	class	6854	                        Arachnida
+0.2217	1	0	subclass	6933	                          Acari
+0.2217	1	0	superorder	6934	                            Parasitiformes
+0.2217	1	0	order	6935	                              Ixodida
+0.2217	1	0	superfamily	297308	                                Ixodoidea
+0.2217	1	0	family	6939	                                  Ixodidae
+0.2217	1	0	subfamily	426442	                                    Ixodinae
+0.2217	1	0	genus	6944	                                      Ixodes
+0.2217	1	1	species	34613	                                        Ixodes ricinus

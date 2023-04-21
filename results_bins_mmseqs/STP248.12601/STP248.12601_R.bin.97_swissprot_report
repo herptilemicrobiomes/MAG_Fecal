@@ -1,0 +1,79 @@
+5.0000	1	1	no rank	0	unclassified
+95.0000	19	0	no rank	1	root
+95.0000	19	2	no rank	131567	  cellular organisms
+75.0000	15	2	superkingdom	2	    Bacteria
+45.0000	9	0	clade	1783272	      Terrabacteria group
+35.0000	7	2	phylum	1239	        Bacillota
+15.0000	3	0	class	91061	          Bacilli
+10.0000	2	0	order	186826	            Lactobacillales
+10.0000	2	0	family	1300	              Streptococcaceae
+10.0000	2	0	genus	1357	                Lactococcus
+10.0000	2	2	species	1359	                  Lactococcus cremoris
+5.0000	1	0	order	1385	            Bacillales
+5.0000	1	0	family	186817	              Bacillaceae
+5.0000	1	0	genus	1386	                Bacillus
+5.0000	1	0	species group	653685	                  Bacillus subtilis group
+5.0000	1	0	species	1423	                    Bacillus subtilis
+5.0000	1	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+5.0000	1	1	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+5.0000	1	0	class	186801	          Clostridia
+5.0000	1	0	order	186802	            Eubacteriales
+5.0000	1	0	family	31979	              Clostridiaceae
+5.0000	1	0	genus	1485	                Clostridium
+5.0000	1	0	species	1488	                  Clostridium acetobutylicum
+5.0000	1	1	strain	272562	                    Clostridium acetobutylicum ATCC 824
+5.0000	1	0	class	1737404	          Tissierellia
+5.0000	1	0	order	1737405	            Tissierellales
+5.0000	1	0	family	1570339	              Peptoniphilaceae
+5.0000	1	0	genus	150022	                Finegoldia
+5.0000	1	0	species	1260	                  Finegoldia magna
+5.0000	1	1	strain	334413	                    Finegoldia magna ATCC 29328
+5.0000	1	0	phylum	201174	        Actinomycetota
+5.0000	1	0	class	1760	          Actinomycetes
+5.0000	1	0	order	85007	            Corynebacteriales
+5.0000	1	0	family	1762	              Mycobacteriaceae
+5.0000	1	0	genus	1763	                Mycobacterium
+5.0000	1	0	species group	77643	                  Mycobacterium tuberculosis complex
+5.0000	1	1	species	1773	                    Mycobacterium tuberculosis
+5.0000	1	0	phylum	544448	        Mycoplasmatota
+5.0000	1	0	class	31969	          Mollicutes
+5.0000	1	0	order	2085	            Mycoplasmatales
+5.0000	1	0	family	2092	              Mycoplasmataceae
+5.0000	1	0	genus	2093	                Mycoplasma
+5.0000	1	0	no rank	2683645	                  unclassified Mycoplasma
+5.0000	1	1	species	2108	                    Mycoplasma sp.
+20.0000	4	2	phylum	1224	      Pseudomonadota
+5.0000	1	0	class	1236	        Gammaproteobacteria
+5.0000	1	0	order	135625	          Pasteurellales
+5.0000	1	0	family	712	            Pasteurellaceae
+5.0000	1	0	genus	724	              Haemophilus
+5.0000	1	0	species	727	                Haemophilus influenzae
+5.0000	1	1	strain	71421	                  Haemophilus influenzae Rd KW20
+5.0000	1	0	class	28211	        Alphaproteobacteria
+5.0000	1	0	order	356	          Hyphomicrobiales
+5.0000	1	0	family	772	            Bartonellaceae
+5.0000	1	0	genus	773	              Bartonella
+5.0000	1	0	species	165694	                Bartonella schoenbuchensis
+5.0000	1	1	strain	687861	                  Bartonella schoenbuchensis R1
+10.0000	2	0	superkingdom	2759	    Eukaryota
+5.0000	1	0	kingdom	33090	      Viridiplantae
+5.0000	1	0	phylum	35493	        Streptophyta
+5.0000	1	0	subphylum	131221	          Streptophytina
+5.0000	1	0	clade	3193	            Embryophyta
+5.0000	1	0	clade	58023	              Tracheophyta
+5.0000	1	0	clade	78536	                Euphyllophyta
+5.0000	1	0	clade	58024	                  Spermatophyta
+5.0000	1	0	class	3398	                    Magnoliopsida
+5.0000	1	1	clade	1437183	                      Mesangiospermae
+5.0000	1	0	clade	33154	      Opisthokonta
+5.0000	1	0	kingdom	4751	        Fungi
+5.0000	1	0	subkingdom	451864	          Dikarya
+5.0000	1	0	phylum	4890	            Ascomycota
+5.0000	1	0	clade	716545	              saccharomyceta
+5.0000	1	0	subphylum	147537	                Saccharomycotina
+5.0000	1	0	class	4891	                  Saccharomycetes
+5.0000	1	0	order	4892	                    Saccharomycetales
+5.0000	1	0	family	4893	                      Saccharomycetaceae
+5.0000	1	0	genus	4930	                        Saccharomyces
+5.0000	1	0	species	4932	                          Saccharomyces cerevisiae
+5.0000	1	1	strain	559292	                            Saccharomyces cerevisiae S288C

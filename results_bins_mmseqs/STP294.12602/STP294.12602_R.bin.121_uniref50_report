@@ -1,0 +1,86 @@
+100.0000	229	125	no rank	1	root
+45.4148	104	1	no rank	131567	  cellular organisms
+43.2314	99	22	superkingdom	2	    Bacteria
+32.7511	75	2	clade	1783270	      FCB group
+31.8777	73	2	clade	68336	        Bacteroidetes/Chlorobi group
+31.0044	71	25	phylum	976	          Bacteroidetes
+19.2140	44	1	class	200643	            Bacteroidia
+17.4672	40	18	order	171549	              Bacteroidales
+5.2402	12	5	family	171550	                Rikenellaceae
+2.6201	6	4	genus	239759	                  Alistipes
+0.4367	1	0	no rank	538948	                    environmental samples
+0.4367	1	1	species	1263036	                      Alistipes putredinis CAG:67
+0.4367	1	0	no rank	2608932	                    unclassified Alistipes
+0.4367	1	1	species	1872444	                      Alistipes sp.
+0.4367	1	0	genus	1980038	                  Millionella
+0.4367	1	1	species	1871023	                    Millionella massiliensis
+1.7467	4	0	family	815	                Bacteroidaceae
+1.7467	4	2	genus	816	                  Bacteroides
+0.4367	1	1	species	1347393	                    Bacteroides neonati
+0.4367	1	0	no rank	2646097	                    unclassified Bacteroides
+0.4367	1	1	species	2302938	                      Bacteroides sp. 51
+0.8734	2	0	no rank	185291	                unclassified Bacteroidales
+0.8734	2	2	species	2030927	                  Bacteroidales bacterium
+0.4367	1	0	family	171551	                Porphyromonadaceae
+0.4367	1	0	genus	1635148	                  Sanguibacteroides
+0.4367	1	1	species	1547597	                    Sanguibacteroides justesenii
+0.4367	1	1	family	1853231	                Odoribacteraceae
+0.4367	1	0	family	2005519	                Barnesiellaceae
+0.4367	1	0	genus	1348911	                  Coprobacter
+0.4367	1	0	no rank	2677116	                    unclassified Coprobacter
+0.4367	1	1	species	1941478	                      Coprobacter sp.
+0.4367	1	0	family	2005525	                Tannerellaceae
+0.4367	1	1	genus	375288	                  Parabacteroides
+1.3100	3	0	order	1970189	              Marinilabiliales
+0.8734	2	1	family	558415	                Marinilabiliaceae
+0.4367	1	0	genus	1434049	                  Thermophagus
+0.4367	1	1	species	385682	                    Thermophagus xiamenensis
+0.4367	1	1	family	1471398	                Prolixibacteraceae
+0.4367	1	0	no rank	37452	            unclassified Bacteroidetes
+0.4367	1	1	species	1852815	              Bacteroidetes bacterium ADurb.BinA012
+0.4367	1	0	class	117743	            Flavobacteriia
+0.4367	1	0	no rank	117744	              unclassified Flavobacteriia
+0.4367	1	1	species	1895763	                Flavobacteriia bacterium 40-80
+0.8734	2	0	clade	1783272	      Terrabacteria group
+0.4367	1	0	phylum	1239	        Firmicutes
+0.4367	1	0	class	186801	          Clostridia
+0.4367	1	0	order	186802	            Eubacteriales
+0.4367	1	0	family	31979	              Clostridiaceae
+0.4367	1	0	genus	1485	                Clostridium
+0.4367	1	0	no rank	2614128	                  unclassified Clostridium
+0.4367	1	1	species	1506	                    Clostridium sp.
+0.4367	1	0	phylum	201174	        Actinobacteria
+0.4367	1	0	class	1760	          Actinomycetia
+0.4367	1	0	order	85010	            Pseudonocardiales
+0.4367	1	0	family	2070	              Pseudonocardiaceae
+0.4367	1	0	no rank	103960	                unclassified Pseudonocardiaceae
+0.4367	1	1	species	1873463	                  Pseudonocardiaceae bacterium
+0.8734	2	1	superkingdom	2157	    Archaea
+0.4367	1	0	phylum	28890	      Euryarchaeota
+0.4367	1	0	clade	2290931	        Stenosarchaea group
+0.4367	1	0	class	224756	          Methanomicrobia
+0.4367	1	0	order	2191	            Methanomicrobiales
+0.4367	1	0	family	1198451	              Methanoregulaceae
+0.4367	1	0	no rank	1811719	                unclassified Methanoregulaceae
+0.4367	1	1	species	1811726	                  Methanoregulaceae archaeon PtaU1.Bin222
+0.8734	2	0	superkingdom	2759	    Eukaryota
+0.8734	2	0	clade	33154	      Opisthokonta
+0.8734	2	0	kingdom	33208	        Metazoa
+0.8734	2	0	clade	6072	          Eumetazoa
+0.8734	2	1	clade	33213	            Bilateria
+0.4367	1	0	clade	33317	              Protostomia
+0.4367	1	0	clade	1206794	                Ecdysozoa
+0.4367	1	0	clade	88770	                  Panarthropoda
+0.4367	1	0	phylum	6656	                    Arthropoda
+0.4367	1	0	clade	197563	                      Mandibulata
+0.4367	1	0	clade	197562	                        Pancrustacea
+0.4367	1	0	subphylum	6657	                          Crustacea
+0.4367	1	0	superclass	2172819	                            Oligostraca
+0.4367	1	0	class	6670	                              Ostracoda
+0.4367	1	0	subclass	43953	                                Podocopa
+0.4367	1	0	order	84318	                                  Podocopida
+0.4367	1	0	suborder	116574	                                    Darwinulocopina
+0.4367	1	0	superfamily	116575	                                      Darwinuloidea
+0.4367	1	0	family	69351	                                        Darwinulidae
+0.4367	1	0	genus	69354	                                          Darwinula
+0.4367	1	1	species	69355	                                            Darwinula stevensoni

@@ -1,0 +1,95 @@
+0.7389	3	3	no rank	0	unclassified
+99.2611	403	162	no rank	1	root
+59.3596	241	0	no rank	131567	  cellular organisms
+58.8670	239	41	superkingdom	2	    Bacteria
+46.0591	187	2	clade	1783270	      FCB group
+45.5665	185	0	clade	68336	        Bacteroidetes/Chlorobi group
+45.5665	185	28	phylum	976	          Bacteroidetes
+38.4236	156	5	class	200643	            Bacteroidia
+37.1921	151	35	order	171549	              Bacteroidales
+27.0936	110	25	family	171550	                Rikenellaceae
+20.4433	83	56	genus	239759	                  Alistipes
+2.9557	12	0	no rank	538948	                    environmental samples
+1.2315	5	5	species	1263035	                      Alistipes finegoldii CAG:68
+0.7389	3	3	species	1262694	                      Alistipes sp. CAG:29
+0.7389	3	3	species	1263036	                      Alistipes putredinis CAG:67
+0.2463	1	1	species	1262693	                      Alistipes sp. CAG:268
+2.4631	10	4	no rank	2608932	                    unclassified Alistipes
+0.7389	3	3	species	1872444	                      Alistipes sp.
+0.2463	1	1	species	1780376	                      Alistipes sp. CHKCI003
+0.2463	1	1	species	1965546	                      Alistipes sp. An116
+0.2463	1	1	species	2780100	                      Alistipes sp. CU970
+0.2463	1	1	species	214856	                    Alistipes finegoldii
+0.2463	1	1	species	626932	                    Alistipes indistinctus
+0.2463	1	0	species	1465754	                    Alistipes timonensis
+0.2463	1	1	strain	1033731	                      Alistipes timonensis JC136
+0.2463	1	1	species	1816676	                    Alistipes provencensis
+0.2463	1	1	species	2585119	                    Alistipes dispar
+0.4926	2	0	no rank	433337	                  unclassified Rikenellaceae
+0.4926	2	2	species	2049048	                    Rikenellaceae bacterium
+1.2315	5	1	family	815	                Bacteroidaceae
+0.9852	4	2	genus	816	                  Bacteroides
+0.4926	2	0	no rank	139043	                    environmental samples
+0.2463	1	1	species	1262742	                      Bacteroides sp. CAG:545
+0.2463	1	1	species	1263045	                      Bacteroides finegoldii CAG:203
+0.2463	1	0	no rank	185291	                unclassified Bacteroidales
+0.2463	1	1	species	2030927	                  Bacteroidales bacterium
+0.2463	1	0	no rank	37452	            unclassified Bacteroidetes
+0.2463	1	1	species	1852815	              Bacteroidetes bacterium ADurb.BinA012
+1.2315	5	0	clade	1783272	      Terrabacteria group
+0.7389	3	0	phylum	201174	        Actinobacteria
+0.7389	3	1	class	1760	          Actinomycetia
+0.4926	2	1	order	85007	            Corynebacteriales
+0.2463	1	0	family	316606	              Segniliparaceae
+0.2463	1	1	genus	286801	                Segniliparus
+0.4926	2	1	phylum	1239	        Firmicutes
+0.2463	1	0	class	186801	          Clostridia
+0.2463	1	0	order	186802	            Eubacteriales
+0.2463	1	1	family	216572	              Oscillospiraceae
+0.7389	3	1	phylum	1224	      Proteobacteria
+0.2463	1	0	class	1236	        Gammaproteobacteria
+0.2463	1	0	order	135613	          Chromatiales
+0.2463	1	0	family	72276	            Ectothiorhodospiraceae
+0.2463	1	0	genus	35796	              Nitrococcus
+0.2463	1	0	species	35797	                Nitrococcus mobilis
+0.2463	1	1	strain	314278	                  Nitrococcus mobilis Nb-231
+0.2463	1	0	class	28216	        Betaproteobacteria
+0.2463	1	0	order	80840	          Burkholderiales
+0.2463	1	0	family	75682	            Oxalobacteraceae
+0.2463	1	0	genus	202907	              Collimonas
+0.2463	1	0	species	158899	                Collimonas fungivorans
+0.2463	1	1	strain	1005048	                  Collimonas fungivorans Ter331
+0.4926	2	0	clade	1783257	      PVC group
+0.2463	1	0	phylum	74201	        Verrucomicrobia
+0.2463	1	0	class	203494	          Verrucomicrobiae
+0.2463	1	0	order	48461	            Verrucomicrobiales
+0.2463	1	0	family	203557	              Verrucomicrobiaceae
+0.2463	1	0	no rank	490346	                unclassified Verrucomicrobiaceae
+0.2463	1	1	species	2026800	                  Verrucomicrobiaceae bacterium
+0.2463	1	0	phylum	203682	        Planctomycetes
+0.2463	1	0	no rank	473814	          unclassified Planctomycetes
+0.2463	1	1	species	2026780	            Planctomycetes bacterium
+0.2463	1	0	no rank	48479	      environmental samples
+0.2463	1	1	species	77133	        uncultured bacterium
+0.4926	2	1	superkingdom	2759	    Eukaryota
+0.2463	1	0	kingdom	33090	      Viridiplantae
+0.2463	1	0	phylum	35493	        Streptophyta
+0.2463	1	0	subphylum	131221	          Streptophytina
+0.2463	1	0	clade	3193	            Embryophyta
+0.2463	1	0	clade	58023	              Tracheophyta
+0.2463	1	0	clade	78536	                Euphyllophyta
+0.2463	1	0	clade	58024	                  Spermatophyta
+0.2463	1	0	class	3398	                    Magnoliopsida
+0.2463	1	0	clade	1437183	                      Mesangiospermae
+0.2463	1	0	clade	71240	                        eudicotyledons
+0.2463	1	0	clade	91827	                          Gunneridae
+0.2463	1	0	clade	1437201	                            Pentapetalae
+0.2463	1	0	clade	71274	                              asterids
+0.2463	1	0	clade	91882	                                campanulids
+0.2463	1	0	order	4209	                                  Asterales
+0.2463	1	0	family	4210	                                    Asteraceae
+0.2463	1	0	subfamily	102804	                                      Asteroideae
+0.2463	1	0	tribe	102810	                                        Anthemideae
+0.2463	1	0	subtribe	886730	                                          Anthemidinae
+0.2463	1	0	genus	99105	                                            Tanacetum
+0.2463	1	1	species	118510	                                              Tanacetum cinerariifolium

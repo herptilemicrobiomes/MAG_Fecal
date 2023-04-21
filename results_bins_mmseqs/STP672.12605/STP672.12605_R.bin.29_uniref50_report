@@ -1,0 +1,50 @@
+1.0695	2	2	no rank	0	unclassified
+98.9305	185	32	no rank	1	root
+81.8182	153	1	no rank	131567	  cellular organisms
+81.2834	152	38	superkingdom	2	    Bacteria
+54.5455	102	1	clade	1783270	      FCB group
+54.0107	101	0	clade	68336	        Bacteroidetes/Chlorobi group
+54.0107	101	17	phylum	976	          Bacteroidetes
+44.3850	83	10	class	200643	            Bacteroidia
+39.0374	73	45	order	171549	              Bacteroidales
+11.2299	21	3	family	815	                Bacteroidaceae
+7.4866	14	9	genus	816	                  Bacteroides
+0.5348	1	1	species	820	                    Bacteroides uniformis
+0.5348	1	0	no rank	139043	                    environmental samples
+0.5348	1	1	species	162156	                      uncultured Bacteroides sp.
+0.5348	1	0	species	151276	                    Bacteroides coprosuis
+0.5348	1	1	strain	679937	                      Bacteroides coprosuis DSM 18011
+0.5348	1	1	species	1871006	                    Bacteroides congonensis
+0.5348	1	1	species	1907658	                    Bacteroides ilei
+1.0695	2	0	no rank	45253	                  unclassified Bacteroidaceae
+1.0695	2	2	species	2212467	                    Bacteroidaceae bacterium
+1.0695	2	1	genus	909656	                  Phocaeicola
+0.5348	1	1	species	357276	                    Phocaeicola dorei
+2.6738	5	0	family	2005525	                Tannerellaceae
+2.1390	4	4	genus	375288	                  Parabacteroides
+0.5348	1	0	genus	195950	                  Tannerella
+0.5348	1	1	species	28112	                    Tannerella forsythia
+0.5348	1	0	family	171551	                Porphyromonadaceae
+0.5348	1	0	no rank	361210	                  unclassified Porphyromonadaceae
+0.5348	1	1	species	2049046	                    Porphyromonadaceae bacterium
+0.5348	1	0	family	171552	                Prevotellaceae
+0.5348	1	0	genus	838	                  Prevotella
+0.5348	1	1	no rank	2638335	                    unclassified Prevotella
+0.5348	1	0	class	117747	            Sphingobacteriia
+0.5348	1	0	order	200666	              Sphingobacteriales
+0.5348	1	0	family	84566	                Sphingobacteriaceae
+0.5348	1	0	genus	28453	                  Sphingobacterium
+0.5348	1	1	species	459529	                    Sphingobacterium siyangense
+6.4171	12	1	clade	1783272	      Terrabacteria group
+5.8824	11	3	phylum	1239	        Firmicutes
+3.7433	7	1	class	186801	          Clostridia
+3.2086	6	5	order	186802	            Eubacteriales
+0.5348	1	0	family	186803	              Lachnospiraceae
+0.5348	1	0	genus	2383	                Epulopiscium
+0.5348	1	0	no rank	2628445	                  unclassified Epulopiscium
+0.5348	1	1	species	1764963	                    Epulopiscium sp. Nele67-Bin005
+0.5348	1	0	class	91061	          Bacilli
+0.5348	1	0	order	186826	            Lactobacillales
+0.5348	1	0	family	81852	              Enterococcaceae
+0.5348	1	0	genus	1350	                Enterococcus
+0.5348	1	1	species	1351	                  Enterococcus faecalis

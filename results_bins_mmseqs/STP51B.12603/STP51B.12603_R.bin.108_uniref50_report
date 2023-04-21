@@ -1,0 +1,71 @@
+1.2945	4	4	no rank	0	unclassified
+98.7055	305	45	no rank	1	root
+84.1424	260	1	no rank	131567	  cellular organisms
+83.4951	258	127	superkingdom	2	    Bacteria
+40.7767	126	8	clade	1783272	      Terrabacteria group
+37.2168	115	85	phylum	1239	        Firmicutes
+5.5016	17	1	class	186801	          Clostridia
+4.8544	15	4	order	186802	            Eubacteriales
+0.9709	3	0	family	186803	              Lachnospiraceae
+0.6472	2	0	genus	1973274	                Niameybacter
+0.6472	2	2	species	1658108	                  Niameybacter massiliensis
+0.3236	1	0	genus	2383	                Epulopiscium
+0.3236	1	1	no rank	2628445	                  unclassified Epulopiscium
+0.6472	2	0	family	31979	              Clostridiaceae
+0.6472	2	1	genus	1485	                Clostridium
+0.3236	1	1	species	238834	                  Clostridium estertheticum
+0.6472	2	0	no rank	39779	              unclassified Eubacteriales
+0.6472	2	2	species	1898207	                Clostridiales bacterium
+0.6472	2	0	family	186806	              Eubacteriaceae
+0.6472	2	0	genus	1730	                Eubacterium
+0.3236	1	1	species	1528	                  Eubacterium barkeri
+0.3236	1	0	no rank	2624479	                  unclassified Eubacterium
+0.3236	1	1	species	2292353	                    Eubacterium sp. TM05-53
+0.3236	1	0	family	186804	              Peptostreptococcaceae
+0.3236	1	0	genus	1870884	                Clostridioides
+0.3236	1	1	species	1496	                  Clostridioides difficile
+0.3236	1	0	family	216572	              Oscillospiraceae
+0.3236	1	0	genus	1263	                Ruminococcus
+0.3236	1	1	species	1265	                  Ruminococcus flavefaciens
+0.3236	1	0	no rank	348841	            unclassified Clostridia
+0.3236	1	1	species	2044939	              Clostridia bacterium
+2.5890	8	0	class	526524	          Erysipelotrichia
+2.5890	8	0	order	526525	            Erysipelotrichales
+2.5890	8	7	family	128827	              Erysipelotrichaceae
+0.3236	1	1	genus	1647	                Erysipelothrix
+0.9709	3	0	class	91061	          Bacilli
+0.9709	3	2	order	1385	            Bacillales
+0.3236	1	0	family	186817	              Bacillaceae
+0.3236	1	0	genus	1386	                Bacillus
+0.3236	1	0	no rank	185979	                  unclassified Bacillus (in: Bacteria)
+0.3236	1	1	species	1548601	                    Bacillus sp. B15-48
+0.3236	1	0	no rank	47928	          environmental samples
+0.3236	1	1	species	1262997	            Firmicutes bacterium CAG:582
+0.3236	1	0	no rank	84086	          unclassified Firmicutes sensu stricto
+0.3236	1	1	species	1879010	            Firmicutes bacterium
+0.9709	3	0	phylum	544448	        Tenericutes
+0.6472	2	1	class	31969	          Mollicutes
+0.3236	1	0	order	186329	            Acholeplasmatales
+0.3236	1	0	family	2146	              Acholeplasmataceae
+0.3236	1	0	genus	2147	                Acholeplasma
+0.3236	1	0	no rank	453121	                  environmental samples
+0.3236	1	1	species	1262686	                    Acholeplasma sp. CAG:878
+0.3236	1	1	no rank	713063	          unclassified Tenericutes
+1.6181	5	0	clade	1783270	      FCB group
+1.6181	5	0	clade	68336	        Bacteroidetes/Chlorobi group
+1.6181	5	1	phylum	976	          Bacteroidetes
+1.2945	4	0	class	200643	            Bacteroidia
+1.2945	4	2	order	171549	              Bacteroidales
+0.3236	1	0	family	815	                Bacteroidaceae
+0.3236	1	1	genus	816	                  Bacteroides
+0.3236	1	0	family	2005525	                Tannerellaceae
+0.3236	1	0	genus	375288	                  Parabacteroides
+0.3236	1	0	species	574930	                    Parabacteroides gordonii
+0.3236	1	1	strain	1203610	                      Parabacteroides gordonii MS-1 = DSM 23371
+0.3236	1	0	superkingdom	2759	    Eukaryota
+0.3236	1	0	clade	33154	      Opisthokonta
+0.3236	1	0	kingdom	4751	        Fungi
+0.3236	1	0	no rank	112252	          Fungi incertae sedis
+0.3236	1	0	phylum	4761	            Chytridiomycota
+0.3236	1	0	no rank	2683659	              Chytridiomycota incertae sedis
+0.3236	1	1	class	451435	                Chytridiomycetes

@@ -1,0 +1,41 @@
+2.2222	1	1	no rank	0	unclassified
+97.7778	44	0	no rank	1	root
+97.7778	44	2	no rank	131567	  cellular organisms
+93.3333	42	20	superkingdom	2	    Bacteria
+35.5556	16	0	clade	1783270	      FCB group
+35.5556	16	0	clade	68336	        Bacteroidetes/Chlorobi group
+35.5556	16	5	phylum	976	          Bacteroidota
+22.2222	10	0	class	200643	            Bacteroidia
+22.2222	10	2	order	171549	              Bacteroidales
+17.7778	8	1	family	815	                Bacteroidaceae
+15.5556	7	5	genus	816	                  Bacteroides
+2.2222	1	0	species	817	                    Bacteroides fragilis
+2.2222	1	1	strain	295405	                      Bacteroides fragilis YCH46
+2.2222	1	0	species	818	                    Bacteroides thetaiotaomicron
+2.2222	1	1	strain	226186	                      Bacteroides thetaiotaomicron VPI-5482
+2.2222	1	0	class	117743	            Flavobacteriia
+2.2222	1	0	order	200644	              Flavobacteriales
+2.2222	1	0	family	49546	                Flavobacteriaceae
+2.2222	1	0	genus	225842	                  Formosa
+2.2222	1	0	species	320324	                    Formosa agariphila
+2.2222	1	1	strain	1347342	                      Formosa agariphila KMM 3901
+6.6667	3	2	phylum	1224	      Pseudomonadota
+2.2222	1	0	class	1236	        Gammaproteobacteria
+2.2222	1	0	order	91347	          Enterobacterales
+2.2222	1	1	family	543	            Enterobacteriaceae
+2.2222	1	0	phylum	200783	      Aquificae
+2.2222	1	0	class	187857	        Aquificae
+2.2222	1	0	order	32069	          Aquificales
+2.2222	1	0	family	64898	            Aquificaceae
+2.2222	1	0	genus	2713	              Aquifex
+2.2222	1	0	species	63363	                Aquifex aeolicus
+2.2222	1	1	strain	224324	                  Aquifex aeolicus VF5
+2.2222	1	0	phylum	200918	      Thermotogota
+2.2222	1	0	class	188708	        Thermotogae
+2.2222	1	0	order	2419	          Thermotogales
+2.2222	1	0	family	188709	            Thermotogaceae
+2.2222	1	0	genus	2335	              Thermotoga
+2.2222	1	0	species	2336	                Thermotoga maritima
+2.2222	1	1	strain	243274	                  Thermotoga maritima MSB8
+2.2222	1	0	clade	1783272	      Terrabacteria group
+2.2222	1	1	phylum	1239	        Bacillota

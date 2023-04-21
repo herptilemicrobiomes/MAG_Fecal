@@ -1,0 +1,232 @@
+0.3354	7	7	no rank	0	unclassified
+99.6646	2080	1	no rank	1	root
+98.9938	2066	10	no rank	131567	  cellular organisms
+98.3230	2052	25	superkingdom	2	    Bacteria
+95.9751	2003	12	phylum	1224	      Pseudomonadota
+94.9209	1981	33	class	1236	        Gammaproteobacteria
+91.5668	1911	21	order	91347	          Enterobacterales
+89.6502	1871	625	family	543	            Enterobacteriaceae
+42.5491	888	1	genus	561	              Escherichia
+42.4533	886	379	species	562	                Escherichia coli
+24.1016	503	503	strain	83333	                  Escherichia coli K-12
+0.0958	2	2	serotype	83334	                  Escherichia coli O157:H7
+0.0479	1	1	strain	199310	                  Escherichia coli CFT073
+0.0479	1	0	serotype	1603259	                  Escherichia coli O139:H28
+0.0479	1	1	strain	331111	                    Escherichia coli O139:H28 str. E24377A
+0.0479	1	0	species	564	                Escherichia fergusonii
+0.0479	1	1	strain	585054	                  Escherichia fergusonii ATCC 35469
+11.9310	249	0	genus	590	              Salmonella
+11.9310	249	19	species	28901	                Salmonella enterica
+11.0206	230	150	subspecies	59201	                  Salmonella enterica subsp. enterica
+3.6416	76	7	no rank	90371	                    Salmonella enterica subsp. enterica serovar Typhimurium
+3.2103	67	63	strain	99287	                      Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+0.1917	4	4	no rank	588858	                        Salmonella enterica subsp. enterica serovar Typhimurium str. 14028S
+0.0958	2	2	strain	216597	                      Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344
+0.0958	2	0	no rank	108619	                    Salmonella enterica subsp. enterica serovar Newport
+0.0958	2	2	strain	423368	                      Salmonella enterica subsp. enterica serovar Newport str. SL254
+0.0479	1	1	no rank	90370	                    Salmonella enterica subsp. enterica serovar Typhi
+0.0479	1	1	no rank	98360	                    Salmonella enterica subsp. enterica serovar Dublin
+3.4020	71	3	genus	544	              Citrobacter
+2.0125	42	0	species	545	                Citrobacter koseri
+2.0125	42	42	strain	290338	                  Citrobacter koseri ATCC BAA-895
+0.9104	19	0	species group	1344959	                Citrobacter freundii complex
+0.8625	18	18	species	546	                  Citrobacter freundii
+0.0479	1	1	species	57706	                  Citrobacter braakii
+0.1917	4	0	species	67825	                Citrobacter rodentium
+0.1917	4	4	strain	637910	                  Citrobacter rodentium ICC168
+0.1437	3	3	species	35703	                Citrobacter amalonaticus
+1.1979	25	0	genus	547	              Enterobacter
+1.1021	23	0	no rank	2608935	                unclassified Enterobacter
+1.1021	23	23	species	399742	                  Enterobacter sp. 638
+0.0958	2	0	species group	354276	                Enterobacter cloacae complex
+0.0958	2	1	species	550	                  Enterobacter cloacae
+0.0479	1	0	subspecies	336306	                    Enterobacter cloacae subsp. cloacae
+0.0479	1	1	strain	716541	                      Enterobacter cloacae subsp. cloacae ATCC 13047
+0.5750	12	0	no rank	2890311	              Klebsiella/Raoultella group
+0.5750	12	1	genus	570	                Klebsiella
+0.3833	8	8	species	573	                  Klebsiella pneumoniae
+0.0958	2	2	species	548	                  Klebsiella aerogenes
+0.0479	1	1	species	571	                  Klebsiella oxytoca
+0.0479	1	0	genus	620	              Shigella
+0.0479	1	1	species	623	                Shigella flexneri
+0.6229	13	0	family	1903411	            Yersiniaceae
+0.6229	13	4	genus	629	              Yersinia
+0.2396	5	2	species group	1649845	                Yersinia pseudotuberculosis complex
+0.1437	3	3	species	632	                  Yersinia pestis
+0.1437	3	1	species	630	                Yersinia enterocolitica
+0.0958	2	0	subspecies	150053	                  Yersinia enterocolitica subsp. palearctica
+0.0958	2	2	strain	1329364	                    Yersinia enterocolitica subsp. palearctica YE-P4
+0.0479	1	1	species	935293	                Yersinia entomophaga
+0.1437	3	0	family	1903414	            Morganellaceae
+0.0958	2	0	genus	583	              Proteus
+0.0958	2	0	species	584	                Proteus mirabilis
+0.0958	2	2	strain	529507	                  Proteus mirabilis HI4320
+0.0479	1	0	genus	29487	              Photorhabdus
+0.0479	1	0	species	2218628	                Photorhabdus laumondii
+0.0479	1	0	subspecies	141679	                  Photorhabdus laumondii subsp. laumondii
+0.0479	1	1	strain	243265	                    Photorhabdus laumondii subsp. laumondii TTO1
+0.0958	2	0	family	1903410	            Pectobacteriaceae
+0.0958	2	0	genus	122277	              Pectobacterium
+0.0958	2	0	species	29471	                Pectobacterium atrosepticum
+0.0958	2	2	strain	218491	                  Pectobacterium atrosepticum SCRI1043
+0.0479	1	0	family	1903409	            Erwiniaceae
+0.0479	1	0	genus	53335	              Pantoea
+0.0479	1	1	species	55209	                Pantoea cypripedii
+0.8625	18	0	order	72274	          Pseudomonadales
+0.8146	17	0	family	135621	            Pseudomonadaceae
+0.8146	17	0	genus	286	              Pseudomonas
+0.7187	15	0	species group	136841	                Pseudomonas aeruginosa group
+0.7187	15	0	species	287	                  Pseudomonas aeruginosa
+0.7187	15	15	strain	208964	                    Pseudomonas aeruginosa PAO1
+0.0479	1	0	species group	136845	                Pseudomonas putida group
+0.0479	1	0	species	303	                  Pseudomonas putida
+0.0479	1	1	strain	160488	                    Pseudomonas putida KT2440
+0.0479	1	0	no rank	196821	                unclassified Pseudomonas
+0.0479	1	1	species	306	                  Pseudomonas sp.
+0.0479	1	0	family	2887365	            Marinobacteraceae
+0.0479	1	0	genus	2742	              Marinobacter
+0.0479	1	0	species	2743	                Marinobacter nauticus
+0.0479	1	1	strain	351348	                  Marinobacter nauticus VT8
+0.7187	15	0	order	135625	          Pasteurellales
+0.7187	15	1	family	712	            Pasteurellaceae
+0.6708	14	0	genus	724	              Haemophilus
+0.6708	14	0	species	727	                Haemophilus influenzae
+0.6708	14	14	strain	71421	                  Haemophilus influenzae Rd KW20
+0.0958	2	0	order	135622	          Alteromonadales
+0.0479	1	0	family	267889	            Colwelliaceae
+0.0479	1	0	genus	28228	              Colwellia
+0.0479	1	0	species	28229	                Colwellia psychrerythraea
+0.0479	1	1	strain	167879	                  Colwellia psychrerythraea 34H
+0.0479	1	0	family	267890	            Shewanellaceae
+0.0479	1	0	genus	22	              Shewanella
+0.0479	1	0	species	70863	                Shewanella oneidensis
+0.0479	1	1	strain	211586	                  Shewanella oneidensis MR-1
+0.0958	2	0	order	135623	          Vibrionales
+0.0958	2	0	family	641	            Vibrionaceae
+0.0958	2	0	genus	662	              Vibrio
+0.0958	2	1	species	666	                Vibrio cholerae
+0.0479	1	0	serogroup	127906	                  Vibrio cholerae O1
+0.0479	1	0	no rank	686	                    Vibrio cholerae O1 biovar El Tor
+0.0479	1	1	strain	243277	                      Vibrio cholerae O1 biovar El Tor str. N16961
+0.3354	7	0	class	28211	        Alphaproteobacteria
+0.2875	6	0	order	356	          Hyphomicrobiales
+0.2875	6	0	family	82115	            Rhizobiaceae
+0.2875	6	0	no rank	227292	              Sinorhizobium/Ensifer group
+0.2875	6	0	genus	28105	                Sinorhizobium
+0.1917	4	0	species	382	                  Sinorhizobium meliloti
+0.1917	4	4	strain	266834	                    Sinorhizobium meliloti 1021
+0.0958	2	0	species group	663276	                  Sinorhizobium fredii group
+0.0958	2	0	species	380	                    Sinorhizobium fredii
+0.0958	2	2	strain	394	                      Sinorhizobium fredii NGR234
+0.0479	1	0	order	204458	          Caulobacterales
+0.0479	1	0	family	76892	            Caulobacteraceae
+0.0479	1	0	genus	75	              Caulobacter
+0.0479	1	0	species	155892	                Caulobacter vibrioides
+0.0479	1	1	strain	565050	                  Caulobacter vibrioides NA1000
+0.0958	2	1	class	28216	        Betaproteobacteria
+0.0479	1	0	order	80840	          Burkholderiales
+0.0479	1	0	family	119060	            Burkholderiaceae
+0.0479	1	0	genus	48736	              Ralstonia
+0.0479	1	0	species	305	                Ralstonia solanacearum
+0.0479	1	1	strain	342110	                  Ralstonia solanacearum UW551
+0.0479	1	0	no rank	32045	        Pseudomonadota incertae sedis
+0.0479	1	0	no rank	45359	          unclassified pseudomonads
+0.0479	1	1	species	47660	            Pseudomonas sp. ADP
+1.0062	21	0	clade	1783272	      Terrabacteria group
+0.9583	20	0	phylum	1239	        Bacillota
+0.9104	19	2	class	91061	          Bacilli
+0.7667	16	0	order	1385	            Bacillales
+0.7667	16	0	family	186817	              Bacillaceae
+0.7187	15	0	genus	1386	                Bacillus
+0.7187	15	1	species group	653685	                  Bacillus subtilis group
+0.6708	14	0	species	1423	                    Bacillus subtilis
+0.6708	14	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+0.6708	14	14	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+0.0479	1	0	genus	129337	                Geobacillus
+0.0479	1	1	species	1422	                  Geobacillus stearothermophilus
+0.0479	1	0	order	186826	            Lactobacillales
+0.0479	1	0	family	81852	              Enterococcaceae
+0.0479	1	0	genus	1350	                Enterococcus
+0.0479	1	0	species	1351	                  Enterococcus faecalis
+0.0479	1	1	strain	226185	                    Enterococcus faecalis V583
+0.0479	1	0	class	186801	          Clostridia
+0.0479	1	0	order	186802	            Eubacteriales
+0.0479	1	0	family	216572	              Oscillospiraceae
+0.0479	1	0	genus	35829	                Acetivibrio
+0.0479	1	0	species	1515	                  Acetivibrio thermocellus
+0.0479	1	1	strain	203119	                    Acetivibrio thermocellus ATCC 27405
+0.0479	1	0	clade	1798711	        Cyanobacteriota/Melainabacteria group
+0.0479	1	0	phylum	1117	          Cyanobacteriota
+0.0479	1	0	class	3028117	            Cyanophyceae
+0.0479	1	0	order	1890424	              Synechococcales
+0.0479	1	0	family	1890428	                Merismopediaceae
+0.0479	1	0	genus	1142	                  Synechocystis
+0.0479	1	0	no rank	2640012	                    unclassified Synechocystis
+0.0479	1	0	species	1148	                      Synechocystis sp. PCC 6803
+0.0479	1	1	no rank	1111708	                        Synechocystis sp. PCC 6803 substr. Kazusa
+0.0958	2	0	phylum	200918	      Thermotogota
+0.0958	2	0	class	188708	        Thermotogae
+0.0958	2	0	order	2419	          Thermotogales
+0.0958	2	0	family	188709	            Thermotogaceae
+0.0958	2	0	genus	2335	              Thermotoga
+0.0958	2	0	species	2336	                Thermotoga maritima
+0.0958	2	2	strain	243274	                  Thermotoga maritima MSB8
+0.0479	1	0	phylum	203691	      Spirochaetota
+0.0479	1	0	class	203692	        Spirochaetia
+0.0479	1	0	order	136	          Spirochaetales
+0.0479	1	0	family	2845253	            Treponemataceae
+0.0479	1	0	genus	157	              Treponema
+0.0479	1	0	species	158	                Treponema denticola
+0.0479	1	1	strain	243275	                  Treponema denticola ATCC 35405
+0.1917	4	0	superkingdom	2759	    Eukaryota
+0.1917	4	1	clade	33154	      Opisthokonta
+0.0958	2	0	kingdom	33208	        Metazoa
+0.0958	2	0	clade	6072	          Eumetazoa
+0.0958	2	0	clade	33213	            Bilateria
+0.0958	2	0	clade	33511	              Deuterostomia
+0.0958	2	0	phylum	7711	                Chordata
+0.0958	2	0	subphylum	89593	                  Craniata
+0.0958	2	0	clade	7742	                    Vertebrata
+0.0958	2	0	clade	7776	                      Gnathostomata
+0.0958	2	0	clade	117570	                        Teleostomi
+0.0958	2	2	clade	117571	                          Euteleostomi
+0.0479	1	0	kingdom	4751	        Fungi
+0.0479	1	0	subkingdom	451864	          Dikarya
+0.0479	1	0	phylum	4890	            Ascomycota
+0.0479	1	0	subphylum	451866	              Taphrinomycotina
+0.0479	1	0	class	147554	                Schizosaccharomycetes
+0.0479	1	0	order	34346	                  Schizosaccharomycetales
+0.0479	1	0	family	4894	                    Schizosaccharomycetaceae
+0.0479	1	0	genus	4895	                      Schizosaccharomyces
+0.0479	1	0	species	4896	                        Schizosaccharomyces pombe
+0.0479	1	1	strain	284812	                          Schizosaccharomyces pombe 972h-
+0.6229	13	0	superkingdom	10239	  Viruses
+0.4792	10	0	clade	2731341	    Duplodnaviria
+0.4792	10	0	kingdom	2731360	      Heunggongvirae
+0.4792	10	0	phylum	2731618	        Uroviricota
+0.4792	10	0	class	2731619	          Caudoviricetes
+0.2875	6	0	family	2946167	            Peduoviridae
+0.1437	3	0	genus	140410	              Peduovirus
+0.1437	3	3	species	10679	                Peduovirus P2
+0.0958	2	0	no rank	2960950	              unclassified Peduoviridae
+0.0958	2	2	species	552527	                Serratia phage KSP20
+0.0479	1	0	genus	2732978	              Eganvirus
+0.0479	1	1	species	29252	                Eganvirus ev186
+0.0479	1	0	genus	186789	            Punavirus
+0.0479	1	0	species	10678	              Punavirus P1
+0.0479	1	1	no rank	2886926	                Escherichia phage P1
+0.0479	1	0	genus	308911	            Ravinvirus
+0.0479	1	1	species	40631	              Ravinvirus N15
+0.0479	1	0	genus	1623287	            Detrevirus
+0.0479	1	0	no rank	2604841	              unclassified Detrevirus
+0.0479	1	1	species	504346	                Pseudomonas phage PAJU2
+0.0479	1	0	no rank	2788787	            unclassified Caudoviricetes
+0.0479	1	1	species	55884	              Enterobacteria phage SfV
+0.1437	3	0	clade	2732004	    Varidnaviria
+0.1437	3	0	kingdom	2732005	      Bamfordvirae
+0.1437	3	0	phylum	2732007	        Nucleocytoviricota
+0.1437	3	0	class	2732523	          Megaviricetes
+0.1437	3	0	order	2732554	            Imitervirales
+0.1437	3	0	family	549779	              Mimiviridae
+0.1437	3	0	genus	315393	                Mimivirus
+0.1437	3	3	species	212035	                  Acanthamoeba polyphaga mimivirus

@@ -1,0 +1,94 @@
+5.2632	3	3	no rank	0	unclassified
+94.7368	54	0	no rank	1	root
+94.7368	54	13	no rank	131567	  cellular organisms
+64.9123	37	9	superkingdom	2	    Bacteria
+26.3158	15	4	phylum	1224	      Pseudomonadota
+14.0351	8	3	class	1236	        Gammaproteobacteria
+7.0175	4	0	order	91347	          Enterobacterales
+7.0175	4	0	family	543	            Enterobacteriaceae
+5.2632	3	0	genus	561	              Escherichia
+5.2632	3	1	species	562	                Escherichia coli
+3.5088	2	2	strain	83333	                  Escherichia coli K-12
+1.7544	1	0	genus	590	              Salmonella
+1.7544	1	0	species	28901	                Salmonella enterica
+1.7544	1	0	subspecies	59201	                  Salmonella enterica subsp. enterica
+1.7544	1	0	no rank	90371	                    Salmonella enterica subsp. enterica serovar Typhimurium
+1.7544	1	1	strain	99287	                      Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+1.7544	1	0	order	135614	          Xanthomonadales
+1.7544	1	0	family	32033	            Xanthomonadaceae
+1.7544	1	0	genus	2370	              Xylella
+1.7544	1	1	species	2371	                Xylella fastidiosa
+3.5088	2	0	class	28211	        Alphaproteobacteria
+3.5088	2	0	order	356	          Hyphomicrobiales
+3.5088	2	0	family	82115	            Rhizobiaceae
+3.5088	2	0	no rank	227292	              Sinorhizobium/Ensifer group
+3.5088	2	1	genus	28105	                Sinorhizobium
+1.7544	1	0	species group	663276	                  Sinorhizobium fredii group
+1.7544	1	0	species	380	                    Sinorhizobium fredii
+1.7544	1	1	strain	394	                      Sinorhizobium fredii NGR234
+1.7544	1	0	subphylum	68525	        delta/epsilon subdivisions
+1.7544	1	0	class	29547	          Epsilonproteobacteria
+1.7544	1	0	order	213849	            Campylobacterales
+1.7544	1	0	family	72293	              Helicobacteraceae
+1.7544	1	0	genus	209	                Helicobacter
+1.7544	1	0	species	32025	                  Helicobacter hepaticus
+1.7544	1	1	strain	235279	                    Helicobacter hepaticus ATCC 51449
+19.2982	11	0	clade	1783272	      Terrabacteria group
+17.5439	10	2	phylum	1239	        Bacillota
+10.5263	6	0	class	91061	          Bacilli
+8.7719	5	1	order	1385	            Bacillales
+7.0175	4	0	family	186817	              Bacillaceae
+5.2632	3	0	genus	1386	                Bacillus
+5.2632	3	0	species group	653685	                  Bacillus subtilis group
+5.2632	3	0	species	1423	                    Bacillus subtilis
+5.2632	3	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+5.2632	3	3	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+1.7544	1	0	genus	2893055	                Halalkalibacterium (ex Joshi et al. 2022)
+1.7544	1	0	species	86665	                  Halalkalibacterium halodurans
+1.7544	1	1	strain	272558	                    Halalkalibacterium halodurans C-125
+1.7544	1	0	order	186826	            Lactobacillales
+1.7544	1	0	family	1300	              Streptococcaceae
+1.7544	1	0	genus	1301	                Streptococcus
+1.7544	1	0	species	1309	                  Streptococcus mutans
+1.7544	1	1	strain	210007	                    Streptococcus mutans UA159
+3.5088	2	1	class	186801	          Clostridia
+1.7544	1	0	order	186802	            Eubacteriales
+1.7544	1	0	family	31979	              Clostridiaceae
+1.7544	1	0	genus	1485	                Clostridium
+1.7544	1	1	species	1504	                  Clostridium septicum
+1.7544	1	0	phylum	201174	        Actinomycetota
+1.7544	1	1	class	1760	          Actinomycetes
+1.7544	1	0	phylum	200783	      Aquificae
+1.7544	1	0	class	187857	        Aquificae
+1.7544	1	0	order	32069	          Aquificales
+1.7544	1	0	family	64898	            Aquificaceae
+1.7544	1	0	genus	2713	              Aquifex
+1.7544	1	0	species	63363	                Aquifex aeolicus
+1.7544	1	1	strain	224324	                  Aquifex aeolicus VF5
+1.7544	1	0	phylum	203691	      Spirochaetota
+1.7544	1	0	class	203692	        Spirochaetia
+1.7544	1	0	order	136	          Spirochaetales
+1.7544	1	0	family	2845253	            Treponemataceae
+1.7544	1	0	genus	157	              Treponema
+1.7544	1	1	species	58231	                Treponema medium
+7.0175	4	1	superkingdom	2759	    Eukaryota
+1.7544	1	0	kingdom	33090	      Viridiplantae
+1.7544	1	0	phylum	3041	        Chlorophyta
+1.7544	1	0	clade	2692248	          core chlorophytes
+1.7544	1	0	class	3166	            Chlorophyceae
+1.7544	1	0	clade	2812636	              CS clade
+1.7544	1	0	order	35491	                Sphaeropleales
+1.7544	1	0	family	3086	                  Scenedesmaceae
+1.7544	1	0	genus	91192	                    Tetradesmus
+1.7544	1	1	species	3088	                      Tetradesmus obliquus
+1.7544	1	0	clade	33154	      Opisthokonta
+1.7544	1	0	kingdom	33208	        Metazoa
+1.7544	1	1	clade	6072	          Eumetazoa
+1.7544	1	0	clade	554915	      Amoebozoa
+1.7544	1	0	phylum	2605435	        Evosea
+1.7544	1	0	class	142796	          Eumycetozoa
+1.7544	1	0	clade	33083	            Dictyostelia
+1.7544	1	0	order	2058949	              Dictyosteliales
+1.7544	1	0	family	2058185	                Dictyosteliaceae
+1.7544	1	0	genus	5782	                  Dictyostelium
+1.7544	1	1	species	44689	                    Dictyostelium discoideum

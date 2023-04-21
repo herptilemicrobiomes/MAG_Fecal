@@ -1,0 +1,87 @@
+3.2110	7	7	no rank	0	unclassified
+96.7890	211	69	no rank	1	root
+65.1376	142	0	no rank	131567	  cellular organisms
+63.3028	138	38	superkingdom	2	    Bacteria
+43.1193	94	5	clade	1783272	      Terrabacteria group
+40.8257	89	24	phylum	1239	        Firmicutes
+23.3945	51	24	class	909932	          Negativicutes
+8.2569	18	2	order	909929	            Selenomonadales
+4.5872	10	5	family	1843491	              Selenomonadaceae
+0.9174	2	0	genus	52225	                Mitsuokella
+0.9174	2	2	species	52226	                  Mitsuokella multacida
+0.4587	1	0	genus	970	                Selenomonas
+0.4587	1	1	species	971	                  Selenomonas ruminantium
+0.4587	1	1	genus	84034	                Propionispira
+0.4587	1	1	genus	158846	                Megamonas
+2.7523	6	2	family	1843490	              Sporomusaceae
+0.4587	1	1	genus	2375	                Sporomusa
+0.4587	1	0	genus	244825	                Anaerospora
+0.4587	1	1	species	244830	                  Anaerospora hongkongensis
+0.4587	1	1	genus	365348	                Pelosinus
+0.4587	1	0	no rank	1917524	                unclassified Sporomusaceae
+0.4587	1	1	species	1917525	                  Sporomusaceae bacterium
+3.6697	8	0	order	1843489	            Veillonellales
+3.6697	8	0	family	31977	              Veillonellaceae
+2.7523	6	0	genus	1973275	                Massilibacillus
+2.7523	6	6	species	1806837	                  Massilibacillus massiliensis
+0.4587	1	1	genus	906	                Megasphaera
+0.4587	1	0	no rank	42214	                unclassified Veillonellaceae
+0.4587	1	1	species	2049049	                  Veillonellaceae bacterium
+0.4587	1	0	order	1843488	            Acidaminococcales
+0.4587	1	0	family	909930	              Acidaminococcaceae
+0.4587	1	0	no rank	1951303	                unclassified Acidaminococcaceae
+0.4587	1	1	species	2049052	                  Acidaminococcaceae bacterium
+6.4220	14	1	class	186801	          Clostridia
+5.9633	13	5	order	186802	            Eubacteriales
+2.7523	6	3	family	216572	              Oscillospiraceae
+0.4587	1	0	genus	244127	                Anaerotruncus
+0.4587	1	1	no rank	2641626	                  unclassified Anaerotruncus
+0.4587	1	0	genus	946234	                Flavonifractor
+0.4587	1	1	species	292800	                  Flavonifractor plautii
+0.4587	1	0	genus	1987749	                Marasmitruncus
+0.4587	1	1	species	1944642	                  Marasmitruncus massiliensis
+0.4587	1	0	family	31979	              Clostridiaceae
+0.4587	1	0	genus	1485	                Clostridium
+0.4587	1	0	species	40575	                  Clostridium grantii
+0.4587	1	1	strain	1121316	                    Clostridium grantii DSM 8605
+0.4587	1	0	no rank	39779	              unclassified Eubacteriales
+0.4587	1	1	species	1898207	                Clostridiales bacterium
+1.8349	4	0	clade	1783257	      PVC group
+1.8349	4	1	phylum	256845	        Lentisphaerae
+1.3761	3	0	no rank	641407	          unclassified Lentisphaerae
+0.9174	2	2	species	1852900	            Lentisphaerae bacterium ADurb.Bin242
+0.4587	1	1	species	1798575	            Lentisphaerae bacterium GWF2_52_8
+0.4587	1	0	phylum	1224	      Proteobacteria
+0.4587	1	0	subphylum	68525	        delta/epsilon subdivisions
+0.4587	1	0	class	28221	          Deltaproteobacteria
+0.4587	1	0	order	213462	            Syntrophobacterales
+0.4587	1	0	family	213468	              Syntrophaceae
+0.4587	1	0	genus	43773	                Syntrophus
+0.4587	1	0	no rank	2676560	                  unclassified Syntrophus (in: Bacteria)
+0.4587	1	1	species	48412	                    Syntrophus sp. (in: Bacteria)
+0.4587	1	0	no rank	49928	      unclassified Bacteria
+0.4587	1	1	species	2320102	        bacterium 1XD42-8
+1.8349	4	0	superkingdom	2759	    Eukaryota
+1.8349	4	0	kingdom	33090	      Viridiplantae
+1.8349	4	0	phylum	35493	        Streptophyta
+1.8349	4	0	subphylum	131221	          Streptophytina
+1.8349	4	0	clade	3193	            Embryophyta
+1.8349	4	0	clade	58023	              Tracheophyta
+1.8349	4	0	clade	78536	                Euphyllophyta
+1.8349	4	0	clade	58024	                  Spermatophyta
+1.8349	4	0	class	3398	                    Magnoliopsida
+1.8349	4	0	clade	1437183	                      Mesangiospermae
+1.8349	4	0	clade	71240	                        eudicotyledons
+1.8349	4	0	clade	91827	                          Gunneridae
+1.8349	4	0	clade	1437201	                            Pentapetalae
+1.8349	4	0	clade	71275	                              rosids
+1.8349	4	0	clade	91835	                                fabids
+1.8349	4	0	order	72025	                                  Fabales
+1.8349	4	0	family	3803	                                    Fabaceae
+1.8349	4	0	subfamily	3814	                                      Papilionoideae
+1.8349	4	0	clade	2231393	                                        50 kb inversion clade
+1.8349	4	0	clade	2231384	                                          genistoids sensu lato
+1.8349	4	0	clade	2231385	                                            core genistoids
+1.8349	4	0	tribe	163729	                                              Genisteae
+1.8349	4	0	genus	3869	                                                Lupinus
+1.8349	4	4	species	3870	                                                  Lupinus albus

@@ -1,0 +1,121 @@
+2.5126	10	10	no rank	0	unclassified
+97.4874	388	63	no rank	1	root
+81.6583	325	3	no rank	131567	  cellular organisms
+80.6533	321	109	superkingdom	2	    Bacteria
+52.2613	208	3	clade	1783272	      Terrabacteria group
+51.2563	204	35	phylum	1239	        Firmicutes
+40.9548	163	27	class	186801	          Clostridia
+34.1709	136	48	order	186802	            Eubacteriales
+18.8442	75	40	family	216572	              Oscillospiraceae
+6.0302	24	13	genus	244127	                Anaerotruncus
+1.2563	5	4	species	169435	                  Anaerotruncus colihominis
+0.2513	1	1	strain	445972	                    Anaerotruncus colihominis DSM 17241
+1.0050	4	4	species	1720200	                  Anaerotruncus rubiinfantis
+0.5025	2	1	no rank	2641626	                  unclassified Anaerotruncus
+0.2513	1	1	species	2292191	                    Anaerotruncus sp. AF02-27
+0.7538	3	0	genus	1987749	                Marasmitruncus
+0.7538	3	3	species	1944642	                  Marasmitruncus massiliensis
+0.5025	2	0	genus	1263	                Ruminococcus
+0.5025	2	1	no rank	2608920	                  unclassified Ruminococcus
+0.2513	1	1	species	41978	                    Ruminococcus sp.
+0.2513	1	0	genus	35829	                Acetivibrio
+0.2513	1	1	species	290052	                  Acetivibrio ethanolgignens
+0.2513	1	0	genus	459786	                Oscillibacter
+0.2513	1	0	no rank	876090	                  environmental samples
+0.2513	1	1	species	876091	                    uncultured Oscillibacter sp.
+0.2513	1	0	no rank	552397	                Oscillospiraceae incertae sedis
+0.2513	1	0	species	84026	                  [Clostridium] methylpentosum
+0.2513	1	1	strain	537013	                    [Clostridium] methylpentosum DSM 5476
+0.2513	1	0	genus	596767	                Hydrogenoanaerobacterium
+0.2513	1	1	species	474960	                  Hydrogenoanaerobacterium saccharovorans
+0.2513	1	0	genus	1017280	                Pseudoflavonifractor
+0.2513	1	0	no rank	2628103	                  unclassified Pseudoflavonifractor
+0.2513	1	1	species	2304577	                    Pseudoflavonifractor sp. 524-17
+0.2513	1	0	genus	1738645	                Caproiciproducens
+0.2513	1	1	species	642589	                  Caproiciproducens galactitolivorans
+1.2563	5	0	family	31979	              Clostridiaceae
+1.0050	4	1	genus	1485	                Clostridium
+0.5025	2	0	no rank	59619	                  environmental samples
+0.2513	1	1	species	1262769	                    Clostridium sp. CAG:1013
+0.2513	1	1	species	1262836	                    Clostridium sp. CAG:75
+0.2513	1	0	no rank	2614128	                  unclassified Clostridium
+0.2513	1	1	species	1550235	                    Clostridium sp. KNHs216
+0.2513	1	0	genus	580596	                Butyricicoccus
+0.2513	1	0	no rank	2633649	                  unclassified Butyricicoccus
+0.2513	1	1	species	2320083	                    Butyricicoccus sp. 1XD8-22
+0.7538	3	0	family	186803	              Lachnospiraceae
+0.2513	1	0	no rank	186928	                unclassified Lachnospiraceae
+0.2513	1	1	species	1235799	                  Lachnospiraceae bacterium MD308
+0.2513	1	0	genus	698776	                Cellulosilyticum
+0.2513	1	0	no rank	2643091	                  unclassified Cellulosilyticum
+0.2513	1	1	species	1892843	                    Cellulosilyticum sp. I15G10I2
+0.2513	1	0	genus	1506553	                Lachnoclostridium
+0.2513	1	1	species	81424	                  [Clostridium] methoxybenzovorans
+0.5025	2	1	no rank	39779	              unclassified Eubacteriales
+0.2513	1	1	species	1898207	                Clostridiales bacterium
+0.2513	1	0	no rank	50559	              environmental samples
+0.2513	1	1	species	172733	                uncultured Eubacteriales bacterium
+0.2513	1	0	family	186804	              Peptostreptococcaceae
+0.2513	1	0	genus	1501226	                Romboutsia
+0.2513	1	1	species	2020949	                  Romboutsia weinsteinii
+0.2513	1	0	family	186807	              Peptococcaceae
+0.2513	1	0	no rank	208050	                unclassified Peptococcaceae
+0.2513	1	1	species	2052179	                  Peptococcaceae bacterium
+0.7538	3	0	no rank	84086	          unclassified Firmicutes sensu stricto
+0.2513	1	1	species	1852884	            Firmicutes bacterium ADurb.Bin182
+0.2513	1	1	species	1852886	            Firmicutes bacterium ADurb.Bin248
+0.2513	1	1	species	1852894	            Firmicutes bacterium ADurb.Bin467
+0.2513	1	0	no rank	33974	          Firmicutes sensu stricto incertae sedis
+0.2513	1	0	genus	1501224	            Hydrogenispora
+0.2513	1	1	species	1082276	              Hydrogenispora ethanolica
+0.2513	1	0	no rank	47928	          environmental samples
+0.2513	1	1	species	1262989	            Firmicutes bacterium CAG:94
+0.2513	1	0	class	909932	          Negativicutes
+0.2513	1	0	order	1843489	            Veillonellales
+0.2513	1	0	family	31977	              Veillonellaceae
+0.2513	1	0	genus	1973275	                Massilibacillus
+0.2513	1	1	species	1806837	                  Massilibacillus massiliensis
+0.2513	1	0	phylum	200795	        Chloroflexi
+0.2513	1	0	no rank	189774	          unclassified Chloroflexi
+0.2513	1	1	species	2026724	            Chloroflexi bacterium
+0.2513	1	0	phylum	1224	      Proteobacteria
+0.2513	1	0	class	1236	        Gammaproteobacteria
+0.2513	1	1	order	135624	          Aeromonadales
+0.2513	1	0	phylum	203691	      Spirochaetes
+0.2513	1	0	no rank	1130380	        unclassified Spirochaetes
+0.2513	1	1	species	2202144	          Spirochaetes bacterium
+0.2513	1	0	clade	1783257	      PVC group
+0.2513	1	0	phylum	74201	        Verrucomicrobia
+0.2513	1	0	no rank	417295	          unclassified Verrucomicrobia
+0.2513	1	1	species	1852930	            Verrucomicrobia bacterium ADurb.Bin345
+0.2513	1	0	clade	1783270	      FCB group
+0.2513	1	0	clade	68336	        Bacteroidetes/Chlorobi group
+0.2513	1	0	phylum	976	          Bacteroidetes
+0.2513	1	0	class	200643	            Bacteroidia
+0.2513	1	0	order	171549	              Bacteroidales
+0.2513	1	0	family	171550	                Rikenellaceae
+0.2513	1	0	genus	239759	                  Alistipes
+0.2513	1	0	no rank	538948	                    environmental samples
+0.2513	1	1	species	1262694	                      Alistipes sp. CAG:29
+0.2513	1	0	superkingdom	2759	    Eukaryota
+0.2513	1	0	kingdom	33090	      Viridiplantae
+0.2513	1	0	phylum	35493	        Streptophyta
+0.2513	1	0	subphylum	131221	          Streptophytina
+0.2513	1	0	clade	3193	            Embryophyta
+0.2513	1	0	clade	58023	              Tracheophyta
+0.2513	1	0	clade	78536	                Euphyllophyta
+0.2513	1	0	clade	58024	                  Spermatophyta
+0.2513	1	0	class	3398	                    Magnoliopsida
+0.2513	1	0	clade	1437183	                      Mesangiospermae
+0.2513	1	0	clade	71240	                        eudicotyledons
+0.2513	1	0	clade	91827	                          Gunneridae
+0.2513	1	0	clade	1437201	                            Pentapetalae
+0.2513	1	0	clade	71274	                              asterids
+0.2513	1	0	clade	91882	                                campanulids
+0.2513	1	0	order	4209	                                  Asterales
+0.2513	1	0	family	4210	                                    Asteraceae
+0.2513	1	0	subfamily	102804	                                      Asteroideae
+0.2513	1	0	tribe	102810	                                        Anthemideae
+0.2513	1	0	subtribe	886730	                                          Anthemidinae
+0.2513	1	0	genus	99105	                                            Tanacetum
+0.2513	1	1	species	118510	                                              Tanacetum cinerariifolium

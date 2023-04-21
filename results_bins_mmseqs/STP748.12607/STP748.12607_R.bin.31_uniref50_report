@@ -1,0 +1,87 @@
+4.3165	6	6	no rank	0	unclassified
+95.6835	133	2	no rank	1	root
+94.2446	131	39	no rank	131567	  cellular organisms
+66.1871	92	5	superkingdom	2759	    Eukaryota
+62.5899	87	2	clade	33154	      Opisthokonta
+60.4317	84	1	kingdom	33208	        Metazoa
+59.7122	83	22	clade	6072	          Eumetazoa
+43.8849	61	17	clade	33213	            Bilateria
+31.6547	44	2	clade	33511	              Deuterostomia
+30.2158	42	0	phylum	7711	                Chordata
+30.2158	42	0	subphylum	89593	                  Craniata
+30.2158	42	0	clade	7742	                    Vertebrata
+30.2158	42	9	clade	7776	                      Gnathostomata
+23.7410	33	0	clade	117570	                        Teleostomi
+23.7410	33	8	clade	117571	                          Euteleostomi
+12.9496	18	0	superclass	8287	                            Sarcopterygii
+11.5108	16	0	clade	1338369	                              Dipnotetrapodomorpha
+11.5108	16	2	clade	32523	                                Tetrapoda
+6.4748	9	0	clade	32524	                                  Amniota
+5.7554	8	0	clade	8457	                                    Sauropsida
+5.7554	8	0	clade	32561	                                      Sauria
+5.0360	7	0	class	8504	                                        Lepidosauria
+5.0360	7	0	order	8509	                                          Squamata
+5.0360	7	0	clade	1329961	                                            Bifurcata
+5.0360	7	0	clade	1329950	                                              Unidentata
+5.0360	7	6	clade	1329912	                                                Episquamata
+0.7194	1	0	clade	1329976	                                                  Laterata
+0.7194	1	0	clade	1329975	                                                    Lacertibaenia
+0.7194	1	0	family	8522	                                                      Lacertidae
+0.7194	1	0	subfamily	162266	                                                        Lacertinae
+0.7194	1	0	genus	42163	                                                          Podarcis
+0.7194	1	1	species	64176	                                                            Podarcis muralis
+0.7194	1	0	clade	1329799	                                        Archelosauria
+0.7194	1	0	subclass	2841271	                                          Testudinata
+0.7194	1	0	order	8459	                                            Testudines
+0.7194	1	1	suborder	8464	                                              Cryptodira
+0.7194	1	0	class	40674	                                    Mammalia
+0.7194	1	0	clade	32525	                                      Theria
+0.7194	1	0	clade	9347	                                        Eutheria
+0.7194	1	1	clade	1437010	                                          Boreoeutheria
+3.5971	5	0	class	8292	                                  Amphibia
+3.5971	5	0	superorder	41666	                                    Batrachia
+3.5971	5	2	order	8342	                                      Anura
+1.4388	2	0	superfamily	30319	                                        Pipoidea
+1.4388	2	0	family	8352	                                          Pipidae
+1.4388	2	0	subfamily	8360	                                            Xenopodinae
+1.4388	2	0	genus	8353	                                              Xenopus
+0.7194	1	0	subgenus	8363	                                                Silurana
+0.7194	1	1	species	8364	                                                  Xenopus tropicalis
+0.7194	1	0	subgenus	262014	                                                Xenopus
+0.7194	1	1	species	8355	                                                  Xenopus laevis
+0.7194	1	0	suborder	8416	                                        Neobatrachia
+0.7194	1	0	superfamily	8417	                                          Hyloidea
+0.7194	1	0	family	8382	                                            Bufonidae
+0.7194	1	0	genus	8383	                                              Bufo
+0.7194	1	1	species	8384	                                                Bufo bufo
+1.4388	2	0	clade	118072	                              Coelacanthimorpha
+1.4388	2	0	order	7894	                                Coelacanthiformes
+1.4388	2	0	family	7895	                                  Coelacanthidae
+1.4388	2	0	genus	7896	                                    Latimeria
+1.4388	2	2	species	7897	                                      Latimeria chalumnae
+5.0360	7	0	superclass	7898	                            Actinopterygii
+5.0360	7	0	class	186623	                              Actinopteri
+5.0360	7	0	subclass	41665	                                Neopterygii
+5.0360	7	0	infraclass	32443	                                  Teleostei
+5.0360	7	0	clade	1489341	                                    Osteoglossocephalai
+5.0360	7	2	no rank	186625	                                      Clupeocephala
+3.5971	5	0	cohort	1489388	                                        Euteleosteomorpha
+3.5971	5	0	clade	123365	                                          Neoteleostei
+3.5971	5	0	clade	123366	                                            Eurypterygia
+3.5971	5	0	clade	123367	                                              Ctenosquamata
+3.5971	5	0	clade	123368	                                                Acanthomorphata
+3.5971	5	1	clade	123369	                                                  Euacanthomorphacea
+2.8777	4	2	clade	1489872	                                                    Percomorphaceae
+1.4388	2	0	clade	1489908	                                                      Ovalentaria
+1.4388	2	0	superorder	1489910	                                                        Cichlomorphae
+1.4388	2	0	order	1489911	                                                          Cichliformes
+1.4388	2	0	family	8113	                                                            Cichlidae
+1.4388	2	0	clade	319095	                                                              African cichlids
+1.4388	2	2	subfamily	318546	                                                                Pseudocrenilabrinae
+0.7194	1	0	kingdom	4751	        Fungi
+0.7194	1	0	no rank	112252	          Fungi incertae sedis
+0.7194	1	0	phylum	1913638	            Zoopagomycota
+0.7194	1	0	subphylum	451828	              Kickxellomycotina
+0.7194	1	0	class	2219693	                Harpellomycetes
+0.7194	1	0	order	61421	                  Harpellales
+0.7194	1	1	family	4883	                    Legeriomycetaceae

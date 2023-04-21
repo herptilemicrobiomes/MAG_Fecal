@@ -1,0 +1,107 @@
+6.0976	5	5	no rank	0	unclassified
+93.9024	77	0	no rank	1	root
+93.9024	77	3	no rank	131567	  cellular organisms
+81.7073	67	14	superkingdom	2	    Bacteria
+60.9756	50	2	clade	1783272	      Terrabacteria group
+56.0976	46	4	phylum	1239	        Bacillota
+25.6098	21	2	class	91061	          Bacilli
+21.9512	18	4	order	1385	            Bacillales
+15.8537	13	2	family	186817	              Bacillaceae
+12.1951	10	1	genus	1386	                Bacillus
+10.9756	9	0	species group	653685	                  Bacillus subtilis group
+10.9756	9	0	species	1423	                    Bacillus subtilis
+10.9756	9	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+10.9756	9	9	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+1.2195	1	0	genus	2800373	                Priestia
+1.2195	1	0	species	1404	                  Priestia megaterium
+1.2195	1	1	strain	592022	                    Priestia megaterium DSM 319
+1.2195	1	0	family	186820	              Listeriaceae
+1.2195	1	1	genus	1637	                Listeria
+1.2195	1	0	order	186826	            Lactobacillales
+1.2195	1	0	family	1300	              Streptococcaceae
+1.2195	1	1	genus	1357	                Lactococcus
+25.6098	21	6	class	186801	          Clostridia
+14.6341	12	3	order	186802	            Eubacteriales
+7.3171	6	0	family	31979	              Clostridiaceae
+7.3171	6	2	genus	1485	                Clostridium
+2.4390	2	0	species	1488	                  Clostridium acetobutylicum
+2.4390	2	2	strain	272562	                    Clostridium acetobutylicum ATCC 824
+1.2195	1	0	species	1513	                  Clostridium tetani
+1.2195	1	1	strain	212717	                    Clostridium tetani E88
+1.2195	1	0	species	1520	                  Clostridium beijerinckii
+1.2195	1	1	strain	290402	                    Clostridium beijerinckii NCIMB 8052
+2.4390	2	1	family	216572	              Oscillospiraceae
+1.2195	1	0	genus	35829	                Acetivibrio
+1.2195	1	0	species	1515	                  Acetivibrio thermocellus
+1.2195	1	1	strain	203119	                    Acetivibrio thermocellus ATCC 27405
+1.2195	1	0	family	186803	              Lachnospiraceae
+1.2195	1	0	genus	1506553	                Lachnoclostridium
+1.2195	1	0	species	66219	                  Lachnoclostridium phytofermentans
+1.2195	1	1	strain	357809	                    Lachnoclostridium phytofermentans ISDg
+3.6585	3	1	order	68295	            Thermoanaerobacterales
+1.2195	1	0	family	186814	              Thermoanaerobacteraceae
+1.2195	1	0	genus	249529	                Caldanaerobacter
+1.2195	1	0	species	911092	                  Caldanaerobacter subterraneus
+1.2195	1	0	subspecies	119072	                    Caldanaerobacter subterraneus subsp. tengcongensis
+1.2195	1	1	strain	273068	                      Caldanaerobacter subterraneus subsp. tengcongensis MB4
+1.2195	1	0	family	543371	              Thermoanaerobacterales Family III. Incertae Sedis
+1.2195	1	0	genus	28895	                Thermoanaerobacterium
+1.2195	1	1	species	33950	                  Thermoanaerobacterium thermosulfurigenes
+2.4390	2	0	phylum	201174	        Actinomycetota
+2.4390	2	0	class	1760	          Actinomycetes
+2.4390	2	0	order	85011	            Streptomycetales
+2.4390	2	0	family	2062	              Streptomycetaceae
+2.4390	2	0	genus	1883	                Streptomyces
+2.4390	2	0	species	379067	                  Streptomyces bingchenggensis
+2.4390	2	2	strain	749414	                    Streptomyces bingchenggensis BCW-1
+3.6585	3	0	phylum	1224	      Pseudomonadota
+1.2195	1	1	class	1236	        Gammaproteobacteria
+1.2195	1	0	class	28211	        Alphaproteobacteria
+1.2195	1	0	order	356	          Hyphomicrobiales
+1.2195	1	0	family	82115	            Rhizobiaceae
+1.2195	1	0	no rank	227292	              Sinorhizobium/Ensifer group
+1.2195	1	0	genus	28105	                Sinorhizobium
+1.2195	1	0	species	382	                  Sinorhizobium meliloti
+1.2195	1	1	strain	266834	                    Sinorhizobium meliloti 1021
+1.2195	1	0	subphylum	68525	        delta/epsilon subdivisions
+1.2195	1	0	class	28221	          Deltaproteobacteria
+1.2195	1	0	order	213115	            Desulfovibrionales
+1.2195	1	1	family	194924	              Desulfovibrionaceae
+8.5366	7	0	superkingdom	2157	    Archaea
+6.0976	5	1	phylum	28890	      Euryarchaeota
+2.4390	2	0	clade	2283794	        Methanomada group
+1.2195	1	0	class	183925	          Methanobacteria
+1.2195	1	0	order	2158	            Methanobacteriales
+1.2195	1	0	family	2159	              Methanobacteriaceae
+1.2195	1	0	genus	145260	                Methanothermobacter
+1.2195	1	0	species	145262	                  Methanothermobacter thermautotrophicus
+1.2195	1	1	strain	187420	                    Methanothermobacter thermautotrophicus str. Delta H
+1.2195	1	0	class	183939	          Methanococci
+1.2195	1	0	order	2182	            Methanococcales
+1.2195	1	0	family	196117	              Methanocaldococcaceae
+1.2195	1	0	genus	196118	                Methanocaldococcus
+1.2195	1	0	species	2190	                  Methanocaldococcus jannaschii
+1.2195	1	1	strain	243232	                    Methanocaldococcus jannaschii DSM 2661
+1.2195	1	0	class	183968	        Thermococci
+1.2195	1	0	order	2258	          Thermococcales
+1.2195	1	1	family	2259	            Thermococcaceae
+1.2195	1	0	class	183980	        Archaeoglobi
+1.2195	1	0	order	2231	          Archaeoglobales
+1.2195	1	0	family	2232	            Archaeoglobaceae
+1.2195	1	0	genus	2233	              Archaeoglobus
+1.2195	1	0	species	2234	                Archaeoglobus fulgidus
+1.2195	1	1	strain	224325	                  Archaeoglobus fulgidus DSM 4304
+1.2195	1	0	clade	1783275	      TACK group
+1.2195	1	0	phylum	28889	        Crenarchaeota
+1.2195	1	0	class	183924	          Thermoprotei
+1.2195	1	0	order	2281	            Sulfolobales
+1.2195	1	0	family	118883	              Sulfolobaceae
+1.2195	1	0	genus	2100760	                Saccharolobus
+1.2195	1	1	species	2287	                  Saccharolobus solfataricus
+1.2195	1	0	phylum	2283796	      Candidatus Thermoplasmatota
+1.2195	1	0	class	183967	        Thermoplasmata
+1.2195	1	0	order	2301	          Thermoplasmatales
+1.2195	1	0	family	46659	            Thermoplasmataceae
+1.2195	1	0	genus	2302	              Thermoplasma
+1.2195	1	0	species	2303	                Thermoplasma acidophilum
+1.2195	1	1	strain	273075	                  Thermoplasma acidophilum DSM 1728

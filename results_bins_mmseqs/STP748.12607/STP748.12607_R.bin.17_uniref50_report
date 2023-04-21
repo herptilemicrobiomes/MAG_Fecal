@@ -1,0 +1,57 @@
+1.8293	3	3	no rank	0	unclassified
+98.1707	161	20	no rank	1	root
+85.9756	141	7	no rank	131567	  cellular organisms
+80.4878	132	60	superkingdom	2	    Bacteria
+41.4634	68	3	clade	1783257	      PVC group
+39.0244	64	12	phylum	74201	        Verrucomicrobia
+31.7073	52	2	class	203494	          Verrucomicrobiae
+30.4878	50	2	order	48461	            Verrucomicrobiales
+29.2683	48	8	family	1647988	              Akkermansiaceae
+24.3902	40	34	genus	239934	                Akkermansia
+1.8293	3	3	species	239935	                  Akkermansia muciniphila
+1.8293	3	3	species	1679444	                  Akkermansia glycaniphila
+0.6098	1	1	phylum	256845	        Lentisphaerae
+1.2195	2	0	clade	1783270	      FCB group
+1.2195	2	0	clade	68336	        Bacteroidetes/Chlorobi group
+1.2195	2	0	phylum	976	          Bacteroidetes
+1.2195	2	0	class	200643	            Bacteroidia
+1.2195	2	0	order	171549	              Bacteroidales
+1.2195	2	0	family	815	                Bacteroidaceae
+1.2195	2	1	genus	816	                  Bacteroides
+0.6098	1	1	species	28116	                    Bacteroides ovatus
+1.2195	2	0	clade	1783272	      Terrabacteria group
+0.6098	1	0	phylum	1239	        Firmicutes
+0.6098	1	0	class	186801	          Clostridia
+0.6098	1	0	order	186802	            Eubacteriales
+0.6098	1	0	family	31979	              Clostridiaceae
+0.6098	1	0	no rank	189971	                unclassified Clostridiaceae
+0.6098	1	1	species	1898204	                  Clostridiaceae bacterium
+0.6098	1	0	phylum	201174	        Actinobacteria
+0.6098	1	0	class	84998	          Coriobacteriia
+0.6098	1	0	order	1643822	            Eggerthellales
+0.6098	1	0	family	1643826	              Eggerthellaceae
+0.6098	1	0	genus	84111	                Eggerthella
+0.6098	1	1	species	242230	                  Eggerthella sinensis
+1.2195	2	1	superkingdom	2759	    Eukaryota
+0.6098	1	0	clade	33154	      Opisthokonta
+0.6098	1	0	kingdom	33208	        Metazoa
+0.6098	1	0	clade	6072	          Eumetazoa
+0.6098	1	0	clade	33213	            Bilateria
+0.6098	1	0	clade	33511	              Deuterostomia
+0.6098	1	0	phylum	7711	                Chordata
+0.6098	1	0	subphylum	89593	                  Craniata
+0.6098	1	0	clade	7742	                    Vertebrata
+0.6098	1	0	clade	7776	                      Gnathostomata
+0.6098	1	0	clade	117570	                        Teleostomi
+0.6098	1	0	clade	117571	                          Euteleostomi
+0.6098	1	0	superclass	8287	                            Sarcopterygii
+0.6098	1	0	clade	1338369	                              Dipnotetrapodomorpha
+0.6098	1	0	clade	32523	                                Tetrapoda
+0.6098	1	0	clade	32524	                                  Amniota
+0.6098	1	0	clade	8457	                                    Sauropsida
+0.6098	1	0	clade	32561	                                      Sauria
+0.6098	1	0	class	8504	                                        Lepidosauria
+0.6098	1	0	order	8509	                                          Squamata
+0.6098	1	0	clade	1329961	                                            Bifurcata
+0.6098	1	0	clade	1329950	                                              Unidentata
+0.6098	1	1	clade	1329912	                                                Episquamata

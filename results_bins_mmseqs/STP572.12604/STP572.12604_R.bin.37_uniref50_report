@@ -1,0 +1,29 @@
+0.7874	2	2	no rank	0	unclassified
+99.2126	252	108	no rank	1	root
+56.6929	144	0	no rank	131567	  cellular organisms
+56.6929	144	55	superkingdom	2	    Bacteria
+33.4646	85	0	clade	1783270	      FCB group
+33.4646	85	1	clade	68336	        Bacteroidetes/Chlorobi group
+33.0709	84	21	phylum	976	          Bacteroidetes
+24.8031	63	3	class	200643	            Bacteroidia
+23.6220	60	25	order	171549	              Bacteroidales
+12.5984	32	11	family	171550	                Rikenellaceae
+7.8740	20	18	genus	239759	                  Alistipes
+0.3937	1	0	no rank	538948	                    environmental samples
+0.3937	1	1	species	1262694	                      Alistipes sp. CAG:29
+0.3937	1	0	no rank	2608932	                    unclassified Alistipes
+0.3937	1	1	species	1872444	                      Alistipes sp.
+0.3937	1	0	genus	1980038	                  Millionella
+0.3937	1	1	species	1871023	                    Millionella massiliensis
+1.1811	3	0	family	815	                Bacteroidaceae
+1.1811	3	2	genus	816	                  Bacteroides
+0.3937	1	0	no rank	2646097	                    unclassified Bacteroides
+0.3937	1	1	species	1703353	                      Bacteroides sp. SM23_62_1
+1.1811	3	0	clade	1783272	      Terrabacteria group
+0.7874	2	0	phylum	1239	        Firmicutes
+0.7874	2	0	class	186801	          Clostridia
+0.7874	2	2	order	186802	            Eubacteriales
+0.3937	1	0	phylum	201174	        Actinobacteria
+0.3937	1	1	class	1760	          Actinomycetia
+0.3937	1	0	no rank	49928	      unclassified Bacteria
+0.3937	1	1	species	1866932	        bacterium ADurb.Bin478

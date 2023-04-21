@@ -1,0 +1,125 @@
+1.2346	2	2	no rank	0	unclassified
+98.7654	160	0	no rank	1	root
+98.1481	159	3	no rank	131567	  cellular organisms
+95.0617	154	51	superkingdom	2	    Bacteria
+52.4691	85	2	clade	1783272	      Terrabacteria group
+51.2346	83	40	phylum	1239	        Bacillota
+17.9012	29	7	class	91061	          Bacilli
+11.7284	19	6	order	1385	            Bacillales
+7.4074	12	1	family	186817	              Bacillaceae
+6.7901	11	2	genus	1386	                Bacillus
+5.5556	9	0	species group	653685	                  Bacillus subtilis group
+5.5556	9	0	species	1423	                    Bacillus subtilis
+5.5556	9	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+5.5556	9	9	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+0.6173	1	0	no rank	539002	              Bacillales incertae sedis
+0.6173	1	0	no rank	539742	                Bacillales Family XII. Incertae Sedis
+0.6173	1	0	genus	33986	                  Exiguobacterium
+0.6173	1	0	species	332410	                    Exiguobacterium sibiricum
+0.6173	1	1	strain	262543	                      Exiguobacterium sibiricum 255-15
+1.8519	3	1	order	186826	            Lactobacillales
+1.2346	2	0	family	1300	              Streptococcaceae
+0.6173	1	1	genus	1301	                Streptococcus
+0.6173	1	0	genus	1357	                Lactococcus
+0.6173	1	1	species	1359	                  Lactococcus cremoris
+8.6420	14	4	class	186801	          Clostridia
+5.5556	9	4	order	186802	            Eubacteriales
+1.2346	2	0	family	31979	              Clostridiaceae
+1.2346	2	0	genus	1485	                Clostridium
+0.6173	1	1	species	1491	                  Clostridium botulinum
+0.6173	1	0	species	1509	                  Clostridium sporogenes
+0.6173	1	1	strain	1075091	                    Clostridium sporogenes PA 3679
+1.2346	2	0	family	216572	              Oscillospiraceae
+0.6173	1	0	genus	1263	                Ruminococcus
+0.6173	1	1	species	1265	                  Ruminococcus flavefaciens
+0.6173	1	0	genus	35829	                Acetivibrio
+0.6173	1	0	species	1515	                  Acetivibrio thermocellus
+0.6173	1	1	strain	203119	                    Acetivibrio thermocellus ATCC 27405
+0.6173	1	0	family	186803	              Lachnospiraceae
+0.6173	1	0	genus	1506553	                Lachnoclostridium
+0.6173	1	0	species	66219	                  Lachnoclostridium phytofermentans
+0.6173	1	1	strain	357809	                    Lachnoclostridium phytofermentans ISDg
+0.6173	1	0	order	68295	            Thermoanaerobacterales
+0.6173	1	0	family	543371	              Thermoanaerobacterales Family III. Incertae Sedis
+0.6173	1	0	genus	28895	                Thermoanaerobacterium
+0.6173	1	1	species	33950	                  Thermoanaerobacterium thermosulfurigenes
+9.8765	16	4	phylum	1224	      Pseudomonadota
+5.5556	9	4	class	1236	        Gammaproteobacteria
+1.2346	2	0	order	72274	          Pseudomonadales
+1.2346	2	1	family	135621	            Pseudomonadaceae
+0.6173	1	0	genus	286	              Pseudomonas
+0.6173	1	0	species group	136841	                Pseudomonas aeruginosa group
+0.6173	1	0	species	287	                  Pseudomonas aeruginosa
+0.6173	1	1	strain	208964	                    Pseudomonas aeruginosa PAO1
+1.2346	2	0	order	91347	          Enterobacterales
+1.2346	2	2	family	543	            Enterobacteriaceae
+0.6173	1	0	order	135615	          Cardiobacteriales
+0.6173	1	0	family	868	            Cardiobacteriaceae
+0.6173	1	0	genus	869	              Dichelobacter
+0.6173	1	1	species	870	                Dichelobacter nodosus
+1.2346	2	0	subphylum	68525	        delta/epsilon subdivisions
+1.2346	2	0	class	28221	          Deltaproteobacteria
+1.2346	2	0	order	213115	            Desulfovibrionales
+1.2346	2	0	family	194924	              Desulfovibrionaceae
+0.6173	1	0	genus	2909705	                Oleidesulfovibrio
+0.6173	1	0	species	58180	                  Oleidesulfovibrio alaskensis
+0.6173	1	1	strain	207559	                    Oleidesulfovibrio alaskensis G20
+0.6173	1	0	genus	2910984	                Solidesulfovibrio
+0.6173	1	1	species	878	                  Solidesulfovibrio fructosivorans
+0.6173	1	0	class	28211	        Alphaproteobacteria
+0.6173	1	0	order	356	          Hyphomicrobiales
+0.6173	1	0	family	118882	            Brucellaceae
+0.6173	1	0	no rank	2826938	              Brucella/Ochrobactrum group
+0.6173	1	1	genus	234	                Brucella
+0.6173	1	0	phylum	203691	      Spirochaetota
+0.6173	1	0	class	203692	        Spirochaetia
+0.6173	1	0	order	136	          Spirochaetales
+0.6173	1	0	family	2845253	            Treponemataceae
+0.6173	1	0	genus	157	              Treponema
+0.6173	1	0	species	160	                Treponema pallidum
+0.6173	1	0	subspecies	161	                  Treponema pallidum subsp. pallidum
+0.6173	1	1	strain	243276	                    Treponema pallidum subsp. pallidum str. Nichols
+0.6173	1	0	clade	1783270	      FCB group
+0.6173	1	0	clade	68336	        Bacteroidetes/Chlorobi group
+0.6173	1	0	phylum	976	          Bacteroidota
+0.6173	1	0	class	200643	            Bacteroidia
+0.6173	1	0	order	171549	              Bacteroidales
+0.6173	1	0	family	171551	                Porphyromonadaceae
+0.6173	1	0	genus	836	                  Porphyromonas
+0.6173	1	0	species	837	                    Porphyromonas gingivalis
+0.6173	1	1	strain	242619	                      Porphyromonas gingivalis W83
+1.2346	2	0	superkingdom	2759	    Eukaryota
+0.6173	1	0	kingdom	33090	      Viridiplantae
+0.6173	1	0	phylum	35493	        Streptophyta
+0.6173	1	0	subphylum	131221	          Streptophytina
+0.6173	1	0	clade	3193	            Embryophyta
+0.6173	1	0	clade	58023	              Tracheophyta
+0.6173	1	0	clade	78536	                Euphyllophyta
+0.6173	1	0	clade	58024	                  Spermatophyta
+0.6173	1	0	class	3398	                    Magnoliopsida
+0.6173	1	0	clade	1437183	                      Mesangiospermae
+0.6173	1	0	clade	71240	                        eudicotyledons
+0.6173	1	0	clade	91827	                          Gunneridae
+0.6173	1	0	clade	1437201	                            Pentapetalae
+0.6173	1	0	clade	71275	                              rosids
+0.6173	1	0	clade	91836	                                malvids
+0.6173	1	0	order	3699	                                  Brassicales
+0.6173	1	0	family	3700	                                    Brassicaceae
+0.6173	1	0	tribe	980083	                                      Camelineae
+0.6173	1	0	genus	3701	                                        Arabidopsis
+0.6173	1	1	species	3702	                                          Arabidopsis thaliana
+0.6173	1	0	clade	554915	      Amoebozoa
+0.6173	1	0	phylum	2605435	        Evosea
+0.6173	1	0	class	142796	          Eumycetozoa
+0.6173	1	0	clade	33083	            Dictyostelia
+0.6173	1	0	order	2058949	              Dictyosteliales
+0.6173	1	0	family	2058185	                Dictyosteliaceae
+0.6173	1	0	genus	5782	                  Dictyostelium
+0.6173	1	1	species	44689	                    Dictyostelium discoideum
+0.6173	1	0	superkingdom	10239	  Viruses
+0.6173	1	0	clade	2731341	    Duplodnaviria
+0.6173	1	0	kingdom	2731360	      Heunggongvirae
+0.6173	1	0	phylum	2731618	        Uroviricota
+0.6173	1	0	class	2731619	          Caudoviricetes
+0.6173	1	0	genus	186777	            Muvirus
+0.6173	1	1	species	10677	              Muvirus mu

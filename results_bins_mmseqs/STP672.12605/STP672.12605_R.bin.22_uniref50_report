@@ -1,0 +1,94 @@
+0.8547	5	5	no rank	0	unclassified
+99.1453	580	82	no rank	1	root
+85.1282	498	8	no rank	131567	  cellular organisms
+83.7607	490	176	superkingdom	2	    Bacteria
+53.1624	311	10	clade	1783272	      Terrabacteria group
+50.9402	298	105	phylum	1239	        Firmicutes
+32.6496	191	41	class	186801	          Clostridia
+25.6410	150	88	order	186802	            Eubacteriales
+6.3248	37	12	family	186803	              Lachnospiraceae
+2.2222	13	10	genus	572511	                Blautia
+0.1709	1	1	species	33035	                  Blautia producta
+0.1709	1	0	no rank	765820	                  environmental samples
+0.1709	1	1	species	765821	                    uncultured Blautia sp.
+0.1709	1	0	no rank	2648079	                  unclassified Blautia
+0.1709	1	1	species	1965603	                    Blautia sp. An249
+1.0256	6	0	no rank	186928	                unclassified Lachnospiraceae
+0.8547	5	5	species	1898203	                  Lachnospiraceae bacterium
+0.1709	1	1	species	1200749	                  Lachnospiraceae bacterium G41
+0.1709	1	1	genus	841	                Roseburia
+0.1709	1	0	genus	189330	                Dorea
+0.1709	1	1	species	39486	                  Dorea formicigenerans
+0.1709	1	0	no rank	189703	                environmental samples
+0.1709	1	1	species	1262983	                  Lachnospiraceae bacterium CAG:364
+0.1709	1	0	genus	1164882	                Lachnoanaerobaculum
+0.1709	1	0	no rank	2625085	                  unclassified Lachnoanaerobaculum
+0.1709	1	1	species	2049030	                    Lachnoanaerobaculum sp.
+0.1709	1	0	genus	1506553	                Lachnoclostridium
+0.1709	1	0	no rank	2608895	                  unclassified Lachnoclostridium
+0.1709	1	1	species	1965569	                    Lachnoclostridium sp. An169
+0.1709	1	0	genus	1918450	                Cuneatibacter
+0.1709	1	1	species	1796618	                  Cuneatibacter caecimuris
+1.7094	10	0	family	31979	              Clostridiaceae
+1.0256	6	1	genus	1485	                Clostridium
+0.5128	3	0	no rank	59619	                  environmental samples
+0.1709	1	1	species	59620	                    uncultured Clostridium sp.
+0.1709	1	1	species	1262830	                    Clostridium sp. CAG:632
+0.1709	1	1	species	1263065	                    Clostridium clostridioforme CAG:132
+0.3419	2	1	no rank	2614128	                  unclassified Clostridium
+0.1709	1	1	species	2067550	                    Clostridium sp. chh4-2
+0.5128	3	2	genus	420345	                Lactonifactor
+0.1709	1	0	species	341220	                  Lactonifactor longoviformis
+0.1709	1	1	strain	1122155	                    Lactonifactor longoviformis DSM 17459
+0.1709	1	0	genus	1922299	                Beduini
+0.1709	1	1	species	1585974	                  Beduini massiliensis
+0.8547	5	0	family	990719	              Christensenellaceae
+0.8547	5	2	genus	990721	                Christensenella
+0.5128	3	3	species	626937	                  Christensenella minuta
+0.6838	4	0	family	186806	              Eubacteriaceae
+0.5128	3	2	genus	1730	                Eubacterium
+0.1709	1	1	species	29322	                  [Eubacterium] cellulosolvens
+0.1709	1	0	genus	264995	                Anaerofustis
+0.1709	1	1	species	214853	                  Anaerofustis stercorihominis
+0.5128	3	1	family	216572	              Oscillospiraceae
+0.1709	1	0	genus	1263	                Ruminococcus
+0.1709	1	1	species	438033	                  Ruminococcus gauvreauii
+0.1709	1	0	genus	1935176	                Angelakisella
+0.1709	1	1	species	1871018	                  Angelakisella massiliensis
+0.3419	2	0	no rank	538999	              Eubacteriales incertae sedis
+0.1709	1	0	family	543314	                Eubacteriales Family XIII. Incertae Sedis
+0.1709	1	0	genus	2815774	                  Hornefia
+0.1709	1	1	species	2652293	                    Hornefia butyriciproducens
+0.1709	1	0	genus	1392389	                Intestinimonas
+0.1709	1	1	species	1702285	                  Intestinimonas gabonensis
+0.1709	1	0	no rank	39779	              unclassified Eubacteriales
+0.1709	1	1	species	1898207	                Clostridiales bacterium
+0.3419	2	0	class	91061	          Bacilli
+0.1709	1	0	order	1385	            Bacillales
+0.1709	1	0	family	186817	              Bacillaceae
+0.1709	1	0	genus	2675229	                Peribacillus
+0.1709	1	1	species	2772559	                  Peribacillus faecalis
+0.1709	1	0	order	186826	            Lactobacillales
+0.1709	1	0	family	81852	              Enterococcaceae
+0.1709	1	0	genus	1350	                Enterococcus
+0.1709	1	1	species	44008	                  Enterococcus cecorum
+0.5128	3	1	phylum	201174	        Actinobacteria
+0.3419	2	0	class	84998	          Coriobacteriia
+0.1709	1	1	order	84999	            Coriobacteriales
+0.1709	1	0	order	1643822	            Eggerthellales
+0.1709	1	0	family	1643826	              Eggerthellaceae
+0.1709	1	0	genus	1926677	                Raoultibacter
+0.1709	1	1	species	1852371	                  Raoultibacter massiliensis
+0.1709	1	0	phylum	1224	      Proteobacteria
+0.1709	1	0	class	1236	        Gammaproteobacteria
+0.1709	1	0	order	91347	          Enterobacterales
+0.1709	1	0	family	543	            Enterobacteriaceae
+0.1709	1	0	genus	590	              Salmonella
+0.1709	1	0	species	28901	                Salmonella enterica
+0.1709	1	0	subspecies	59201	                  Salmonella enterica subsp. enterica
+0.1709	1	1	no rank	58097	                    Salmonella enterica subsp. enterica serovar Bovismorbificans
+0.1709	1	0	no rank	48479	      environmental samples
+0.1709	1	1	species	1393468	        uncultured bacterium Contig16
+0.1709	1	0	phylum	508458	      Synergistetes
+0.1709	1	0	no rank	508677	        unclassified Synergistetes
+0.1709	1	1	species	1852916	          Synergistetes bacterium ADurb.BinA166

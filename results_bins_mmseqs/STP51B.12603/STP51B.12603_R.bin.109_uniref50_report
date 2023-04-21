@@ -1,0 +1,73 @@
+0.5859	3	3	no rank	0	unclassified
+99.4141	509	255	no rank	1	root
+49.6094	254	0	no rank	131567	  cellular organisms
+49.0234	251	87	superkingdom	2	    Bacteria
+31.8359	163	26	phylum	1224	      Proteobacteria
+26.1719	134	0	subphylum	68525	        delta/epsilon subdivisions
+26.1719	134	20	class	28221	          Deltaproteobacteria
+22.0703	113	9	order	213115	            Desulfovibrionales
+20.3125	104	58	family	194924	              Desulfovibrionaceae
+7.0312	36	23	genus	872	                Desulfovibrio
+0.7812	4	4	species	44742	                  Desulfovibrio fairfieldensis
+0.7812	4	1	no rank	2593640	                  unclassified Desulfovibrio
+0.1953	1	1	species	665942	                    Desulfovibrio sp. 6_1_46AFAA
+0.1953	1	1	species	2491045	                    Desulfovibrio sp. OH1186_COT-070
+0.1953	1	1	species	2709792	                    Desulfovibrio sp. ZJ200
+0.5859	3	1	species	901	                  Desulfovibrio piger
+0.3906	2	2	strain	411464	                    Desulfovibrio piger ATCC 29098
+0.1953	1	1	species	876	                  Desulfovibrio desulfuricans
+0.1953	1	1	species	2696086	                  Candidatus Desulfovibrio kirbyi
+0.9766	5	0	genus	1981028	                Mailhella
+0.9766	5	5	species	1903261	                  Mailhella massiliensis
+0.7812	4	2	genus	35832	                Bilophila
+0.3906	2	0	no rank	2642822	                  unclassified Bilophila
+0.3906	2	2	species	693988	                    Bilophila sp. 4_1_30
+0.1953	1	0	no rank	231685	                unclassified Desulfovibrionaceae
+0.1953	1	1	species	2049043	                  Desulfovibrionaceae bacterium
+0.1953	1	0	no rank	34033	            environmental samples
+0.1953	1	1	species	34034	              uncultured delta proteobacterium
+0.3906	2	0	class	28216	        Betaproteobacteria
+0.1953	1	0	order	80840	          Burkholderiales
+0.1953	1	1	family	80864	            Comamonadaceae
+0.1953	1	0	order	206351	          Neisseriales
+0.1953	1	0	family	1499392	            Chromobacteriaceae
+0.1953	1	0	no rank	90153	              Chromobacterium group
+0.1953	1	0	genus	535	                Chromobacterium
+0.1953	1	1	species	394935	                  Chromobacterium haemolyticum
+0.1953	1	1	class	28211	        Alphaproteobacteria
+0.1953	1	0	clade	1783257	      PVC group
+0.1953	1	0	phylum	74201	        Verrucomicrobia
+0.1953	1	0	class	203494	          Verrucomicrobiae
+0.1953	1	0	order	48461	            Verrucomicrobiales
+0.1953	1	0	family	1647988	              Akkermansiaceae
+0.1953	1	1	genus	239934	                Akkermansia
+0.5859	3	0	superkingdom	2759	    Eukaryota
+0.5859	3	0	clade	33154	      Opisthokonta
+0.5859	3	0	kingdom	33208	        Metazoa
+0.5859	3	0	clade	6072	          Eumetazoa
+0.5859	3	0	clade	33213	            Bilateria
+0.5859	3	0	clade	33317	              Protostomia
+0.5859	3	0	clade	1206794	                Ecdysozoa
+0.5859	3	0	clade	88770	                  Panarthropoda
+0.5859	3	0	phylum	6656	                    Arthropoda
+0.5859	3	0	clade	197563	                      Mandibulata
+0.5859	3	0	clade	197562	                        Pancrustacea
+0.5859	3	0	subphylum	6960	                          Hexapoda
+0.5859	3	0	class	50557	                            Insecta
+0.5859	3	0	clade	85512	                              Dicondylia
+0.5859	3	0	subclass	7496	                                Pterygota
+0.3906	2	0	infraclass	33339	                                  Palaeoptera
+0.3906	2	0	order	30073	                                    Ephemeroptera
+0.3906	2	0	suborder	185812	                                      Furcatergalia
+0.3906	2	0	infraorder	185816	                                        Scapphodonta
+0.3906	2	0	family	50581	                                          Ephemeridae
+0.3906	2	0	genus	50582	                                            Ephemera
+0.3906	2	2	species	1049336	                                              Ephemera danica
+0.1953	1	0	infraclass	33340	                                  Neoptera
+0.1953	1	0	cohort	33341	                                    Polyneoptera
+0.1953	1	0	order	7020	                                      Phasmatodea
+0.1953	1	0	suborder	523712	                                        Timematodea
+0.1953	1	0	superfamily	213545	                                          Timematoidea
+0.1953	1	0	family	213546	                                            Timematidae
+0.1953	1	0	genus	61471	                                              Timema
+0.1953	1	1	species	170557	                                                Timema poppensis

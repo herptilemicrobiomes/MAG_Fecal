@@ -1,0 +1,47 @@
+1.7857	1	1	no rank	0	unclassified
+98.2143	55	0	no rank	1	root
+98.2143	55	1	no rank	131567	  cellular organisms
+96.4286	54	5	superkingdom	2	    Bacteria
+85.7143	48	12	phylum	1224	      Pseudomonadota
+48.2143	27	23	class	28211	        Alphaproteobacteria
+5.3571	3	1	order	356	          Hyphomicrobiales
+1.7857	1	0	family	45404	            Beijerinckiaceae
+1.7857	1	0	genus	532	              Beijerinckia
+1.7857	1	0	species	533	                Beijerinckia indica
+1.7857	1	0	subspecies	31994	                  Beijerinckia indica subsp. indica
+1.7857	1	1	strain	395963	                    Beijerinckia indica subsp. indica ATCC 9039
+1.7857	1	0	family	119045	            Methylobacteriaceae
+1.7857	1	0	genus	2282523	              Methylorubrum
+1.7857	1	0	species	408	                Methylorubrum extorquens
+1.7857	1	1	strain	272630	                  Methylorubrum extorquens AM1
+1.7857	1	0	order	204441	          Rhodospirillales
+1.7857	1	0	family	433	            Acetobacteraceae
+1.7857	1	0	genus	441	              Gluconobacter
+1.7857	1	0	species	442	                Gluconobacter oxydans
+1.7857	1	1	strain	290633	                  Gluconobacter oxydans 621H
+12.5000	7	4	class	1236	        Gammaproteobacteria
+3.5714	2	1	order	91347	          Enterobacterales
+1.7857	1	0	family	543	            Enterobacteriaceae
+1.7857	1	0	genus	561	              Escherichia
+1.7857	1	0	species	562	                Escherichia coli
+1.7857	1	1	strain	83333	                  Escherichia coli K-12
+1.7857	1	0	order	72274	          Pseudomonadales
+1.7857	1	0	family	135621	            Pseudomonadaceae
+1.7857	1	0	genus	286	              Pseudomonas
+1.7857	1	0	species group	136841	                Pseudomonas aeruginosa group
+1.7857	1	0	species	287	                  Pseudomonas aeruginosa
+1.7857	1	1	strain	208964	                    Pseudomonas aeruginosa PAO1
+3.5714	2	0	subphylum	68525	        delta/epsilon subdivisions
+3.5714	2	0	class	28221	          Deltaproteobacteria
+1.7857	1	0	order	69541	            Desulfuromonadales
+1.7857	1	0	family	213421	              Desulfuromonadaceae
+1.7857	1	0	genus	18	                Pelobacter
+1.7857	1	0	species	29543	                  Pelobacter propionicus
+1.7857	1	1	strain	338966	                    Pelobacter propionicus DSM 2379
+1.7857	1	0	order	213115	            Desulfovibrionales
+1.7857	1	0	family	194924	              Desulfovibrionaceae
+1.7857	1	0	genus	2910984	                Solidesulfovibrio
+1.7857	1	1	species	878	                  Solidesulfovibrio fructosivorans
+1.7857	1	0	clade	1783272	      Terrabacteria group
+1.7857	1	0	phylum	1239	        Bacillota
+1.7857	1	1	class	91061	          Bacilli

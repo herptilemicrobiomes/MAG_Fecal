@@ -1,0 +1,152 @@
+2.0101	16	16	no rank	0	unclassified
+97.9899	780	172	no rank	1	root
+76.3819	608	6	no rank	131567	  cellular organisms
+75.3769	600	133	superkingdom	2	    Bacteria
+58.0402	462	18	clade	1783272	      Terrabacteria group
+55.4020	441	229	phylum	1239	        Firmicutes
+25.2513	201	31	class	186801	          Clostridia
+21.1055	168	92	order	186802	            Eubacteriales
+5.2764	42	17	family	216572	              Oscillospiraceae
+2.2613	18	0	no rank	473772	                unclassified Oscillospiraceae
+2.1357	17	17	species	2485925	                  Oscillospiraceae bacterium
+0.1256	1	1	species	1852383	                  Ruminococcaceae bacterium Marseille-P2935
+0.1256	1	0	genus	1263	                Ruminococcus
+0.1256	1	1	no rank	129701	                  environmental samples
+0.1256	1	0	genus	216851	                Faecalibacterium
+0.1256	1	0	no rank	2646395	                  unclassified Faecalibacterium
+0.1256	1	1	species	1946507	                    Faecalibacterium sp. UBA1819
+0.1256	1	0	genus	244127	                Anaerotruncus
+0.1256	1	0	no rank	905010	                  environmental samples
+0.1256	1	1	species	1262700	                    Anaerotruncus sp. CAG:528
+0.1256	1	0	no rank	552397	                Oscillospiraceae incertae sedis
+0.1256	1	0	species	84026	                  [Clostridium] methylpentosum
+0.1256	1	1	strain	537013	                    [Clostridium] methylpentosum DSM 5476
+0.1256	1	0	genus	1918385	                Acutalibacter
+0.1256	1	0	no rank	2620728	                  unclassified Acutalibacter
+0.1256	1	1	species	2320852	                    Acutalibacter sp. 1XD8-36
+0.1256	1	0	genus	1929305	                Pygmaiobacter
+0.1256	1	1	species	1917873	                  Pygmaiobacter massiliensis
+0.1256	1	0	genus	2895461	                Massiliimalia
+0.1256	1	1	species	1987501	                  Massiliimalia timonensis
+2.0101	16	1	family	186803	              Lachnospiraceae
+0.5025	4	0	genus	1973274	                Niameybacter
+0.5025	4	4	species	1658108	                  Niameybacter massiliensis
+0.2513	2	2	genus	588605	                Robinsoniella
+0.2513	2	0	genus	1763508	                Lachnotalea
+0.2513	2	0	no rank	2640452	                  unclassified Lachnotalea
+0.2513	2	2	species	2292046	                    Lachnotalea sp. AF33-28
+0.1256	1	0	genus	841	                Roseburia
+0.1256	1	1	species	166486	                  Roseburia intestinalis
+0.1256	1	0	genus	2383	                Epulopiscium
+0.1256	1	0	no rank	2628445	                  unclassified Epulopiscium
+0.1256	1	1	species	2384	                    Epulopiscium sp.
+0.1256	1	0	genus	33042	                Coprococcus
+0.1256	1	1	species	410072	                  Coprococcus comes
+0.1256	1	0	genus	115543	                Parasporobacterium
+0.1256	1	0	species	115544	                  Parasporobacterium paucivorans
+0.1256	1	1	strain	1122934	                    Parasporobacterium paucivorans DSM 15970
+0.1256	1	0	genus	1506553	                Lachnoclostridium
+0.1256	1	0	no rank	2608895	                  unclassified Lachnoclostridium
+0.1256	1	1	species	1965569	                    Lachnoclostridium sp. An169
+0.1256	1	0	genus	1843210	                Anaerocolumna
+0.1256	1	0	species	100134	                  Anaerocolumna xylanovorans
+0.1256	1	1	strain	1121345	                    Anaerocolumna xylanovorans DSM 12503
+0.1256	1	0	genus	2005359	                Faecalicatena
+0.1256	1	1	species	39482	                  Faecalicatena contorta
+0.8794	7	0	no rank	39779	              unclassified Eubacteriales
+0.7538	6	6	species	1898207	                Clostridiales bacterium
+0.1256	1	1	species	1797683	                Clostridiales bacterium GWF2_38_85
+0.7538	6	0	family	31979	              Clostridiaceae
+0.5025	4	1	genus	1485	                Clostridium
+0.3769	3	0	no rank	59619	                  environmental samples
+0.2513	2	2	species	1262831	                    Clostridium sp. CAG:678
+0.1256	1	1	species	1262848	                    Clostridium sp. CAG:964
+0.2513	2	0	no rank	189971	                unclassified Clostridiaceae
+0.2513	2	2	species	1898204	                  Clostridiaceae bacterium
+0.6281	5	1	family	186806	              Eubacteriaceae
+0.3769	3	1	genus	1730	                Eubacterium
+0.1256	1	1	species	1736	                  Eubacterium limosum
+0.1256	1	0	no rank	84372	                  environmental samples
+0.1256	1	1	species	1262882	                    Eubacterium sp. CAG:180
+0.1256	1	1	genus	33951	                Acetobacterium
+0.2513	2	0	no rank	189325	            Clostridia incertae sedis
+0.2513	2	0	genus	2720796	              Candidatus Alloclostridium
+0.2513	2	2	species	2720826	                Candidatus Alloclostridium intestinigallinarum
+1.1307	9	0	no rank	84086	          unclassified Firmicutes sensu stricto
+0.8794	7	7	species	1852887	            Firmicutes bacterium ADurb.Bin262
+0.1256	1	1	species	1852880	            Firmicutes bacterium ADurb.Bin080
+0.1256	1	1	species	1852888	            Firmicutes bacterium ADurb.Bin300
+0.2513	2	0	class	91061	          Bacilli
+0.2513	2	0	order	1385	            Bacillales
+0.2513	2	0	family	186822	              Paenibacillaceae
+0.2513	2	2	genus	44249	                Paenibacillus
+0.1256	1	0	phylum	200795	        Chloroflexi
+0.1256	1	0	class	388447	          Ktedonobacteria
+0.1256	1	0	order	388448	            Ktedonobacterales
+0.1256	1	0	family	2692416	              Ktedonosporobacteraceae
+0.1256	1	0	genus	2692417	                Ktedonosporobacter
+0.1256	1	1	species	2509675	                  Ktedonosporobacter rubrisoli
+0.1256	1	0	phylum	201174	        Actinobacteria
+0.1256	1	0	class	84998	          Coriobacteriia
+0.1256	1	0	order	1643822	            Eggerthellales
+0.1256	1	1	family	1643826	              Eggerthellaceae
+0.1256	1	0	clade	1798711	        Cyanobacteria/Melainabacteria group
+0.1256	1	0	phylum	1798710	          Candidatus Melainabacteria
+0.1256	1	0	order	1906119	            Candidatus Gastranaerophilales
+0.1256	1	0	clade	1906125	              Candidatus Gastranaerophilus
+0.1256	1	1	species	2029980	                Candidatus Gastranaerophilus sp. (ex Termes propinquus)
+0.3769	3	0	clade	1783270	      FCB group
+0.3769	3	0	clade	68336	        Bacteroidetes/Chlorobi group
+0.3769	3	0	phylum	976	          Bacteroidetes
+0.3769	3	0	class	200643	            Bacteroidia
+0.3769	3	1	order	171549	              Bacteroidales
+0.2513	2	0	family	171550	                Rikenellaceae
+0.2513	2	1	genus	239759	                  Alistipes
+0.1256	1	0	no rank	2608932	                    unclassified Alistipes
+0.1256	1	1	species	2292190	                      Alistipes sp. AF17-16
+0.2513	2	0	phylum	203691	      Spirochaetes
+0.2513	2	0	class	203692	        Spirochaetia
+0.2513	2	1	order	136	          Spirochaetales
+0.1256	1	0	family	2845253	            Treponemataceae
+0.1256	1	1	genus	157	              Treponema
+0.2513	2	0	superkingdom	2759	    Eukaryota
+0.2513	2	0	clade	33154	      Opisthokonta
+0.2513	2	0	kingdom	33208	        Metazoa
+0.2513	2	0	clade	6072	          Eumetazoa
+0.2513	2	0	clade	33213	            Bilateria
+0.1256	1	0	clade	33317	              Protostomia
+0.1256	1	0	clade	1206794	                Ecdysozoa
+0.1256	1	0	clade	88770	                  Panarthropoda
+0.1256	1	0	phylum	6656	                    Arthropoda
+0.1256	1	0	clade	197563	                      Mandibulata
+0.1256	1	0	clade	197562	                        Pancrustacea
+0.1256	1	0	subphylum	6960	                          Hexapoda
+0.1256	1	0	class	50557	                            Insecta
+0.1256	1	0	clade	85512	                              Dicondylia
+0.1256	1	0	subclass	7496	                                Pterygota
+0.1256	1	0	infraclass	33340	                                  Neoptera
+0.1256	1	0	cohort	33392	                                    Endopterygota
+0.1256	1	0	order	7399	                                      Hymenoptera
+0.1256	1	0	superfamily	222823	                                        Cephoidea
+0.1256	1	0	family	27524	                                          Cephidae
+0.1256	1	0	genus	173784	                                            Cephus
+0.1256	1	1	species	211228	                                              Cephus cinctus
+0.1256	1	0	clade	33511	              Deuterostomia
+0.1256	1	0	phylum	7711	                Chordata
+0.1256	1	0	subphylum	89593	                  Craniata
+0.1256	1	0	clade	7742	                    Vertebrata
+0.1256	1	0	clade	7776	                      Gnathostomata
+0.1256	1	0	clade	117570	                        Teleostomi
+0.1256	1	0	clade	117571	                          Euteleostomi
+0.1256	1	0	superclass	8287	                            Sarcopterygii
+0.1256	1	0	clade	1338369	                              Dipnotetrapodomorpha
+0.1256	1	0	clade	32523	                                Tetrapoda
+0.1256	1	0	class	8292	                                  Amphibia
+0.1256	1	0	superorder	41666	                                    Batrachia
+0.1256	1	0	order	8342	                                      Anura
+0.1256	1	0	superfamily	30319	                                        Pipoidea
+0.1256	1	0	family	8352	                                          Pipidae
+0.1256	1	0	subfamily	8360	                                            Xenopodinae
+0.1256	1	0	genus	8353	                                              Xenopus
+0.1256	1	0	subgenus	8363	                                                Silurana
+0.1256	1	1	species	8364	                                                  Xenopus tropicalis

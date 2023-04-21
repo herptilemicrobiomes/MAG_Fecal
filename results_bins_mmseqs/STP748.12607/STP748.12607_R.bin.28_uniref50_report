@@ -1,0 +1,81 @@
+1.7341	6	6	no rank	0	unclassified
+98.2659	340	22	no rank	1	root
+91.9075	318	0	no rank	131567	  cellular organisms
+91.9075	318	139	superkingdom	2	    Bacteria
+48.8439	169	13	clade	1783272	      Terrabacteria group
+42.7746	148	18	phylum	201174	        Actinobacteria
+36.9942	128	58	class	84998	          Coriobacteriia
+18.4971	64	0	order	1643822	            Eggerthellales
+18.4971	64	35	family	1643826	              Eggerthellaceae
+2.3121	8	2	genus	84111	                Eggerthella
+0.5780	2	2	species	84112	                  Eggerthella lenta
+0.5780	2	2	species	242230	                  Eggerthella sinensis
+0.2890	1	0	no rank	293421	                  environmental samples
+0.2890	1	1	species	1262876	                    Eggerthella sp. CAG:298
+0.2890	1	0	no rank	2648737	                  unclassified Eggerthella
+0.2890	1	1	species	1897000	                    Eggerthella sp. 51_9
+2.0231	7	3	genus	644652	                Gordonibacter
+0.5780	2	1	species	471189	                  Gordonibacter pamelaeae
+0.2890	1	1	strain	657308	                    Gordonibacter pamelaeae 7-10-1-b
+0.5780	2	2	species	1335613	                  Gordonibacter urolithinfaciens
+1.4451	5	3	genus	1926677	                Raoultibacter
+0.5780	2	2	species	1907662	                  Raoultibacter timonensis
+0.8671	3	2	genus	447020	                Adlercreutzia
+0.2890	1	1	no rank	2636013	                  unclassified Adlercreutzia
+0.8671	3	0	no rank	1720314	                unclassified Eggerthellaceae
+0.8671	3	3	species	1972561	                  Eggerthellaceae bacterium
+0.2890	1	0	genus	84108	                Slackia
+0.2890	1	1	species	572010	                  Slackia isoflavoniconvertens
+0.2890	1	0	genus	84162	                Cryptobacterium
+0.2890	1	0	no rank	655656	                  environmental samples
+0.2890	1	1	species	1262868	                    Cryptobacterium sp. CAG:338
+0.2890	1	0	genus	580024	                Enterorhabdus
+0.2890	1	0	no rank	2638081	                  unclassified Enterorhabdus
+0.2890	1	1	species	2304571	                    Enterorhabdus sp. P55
+1.1561	4	0	order	84999	            Coriobacteriales
+0.8671	3	0	family	84107	              Coriobacteriaceae
+0.8671	3	0	no rank	84113	                unclassified Coriobacteriaceae
+0.8671	3	3	species	1780377	                  Coriobacteriaceae bacterium CHKCI002
+0.2890	1	1	family	1643824	              Atopobiaceae
+0.5780	2	0	no rank	2052158	            unclassified Coriobacteriia
+0.5780	2	2	species	2052159	              Coriobacteriia bacterium
+0.5780	2	1	class	1760	          Actinomycetia
+0.2890	1	0	order	85004	            Bifidobacteriales
+0.2890	1	0	family	31953	              Bifidobacteriaceae
+0.2890	1	1	genus	1678	                Bifidobacterium
+2.3121	8	4	phylum	1239	        Firmicutes
+1.1561	4	0	class	186801	          Clostridia
+1.1561	4	1	order	186802	            Eubacteriales
+0.2890	1	0	family	31979	              Clostridiaceae
+0.2890	1	0	genus	1485	                Clostridium
+0.2890	1	0	no rank	59619	                  environmental samples
+0.2890	1	1	species	1262807	                    Clostridium sp. CAG:440
+0.2890	1	1	family	186803	              Lachnospiraceae
+0.2890	1	0	family	216572	              Oscillospiraceae
+0.2890	1	0	genus	1263	                Ruminococcus
+0.2890	1	0	no rank	129701	                  environmental samples
+0.2890	1	1	species	1262956	                    Ruminococcus sp. CAG:379
+2.3121	8	2	phylum	1224	      Proteobacteria
+1.1561	4	1	class	28216	        Betaproteobacteria
+0.5780	2	2	order	80840	          Burkholderiales
+0.2890	1	0	order	206389	          Rhodocyclales
+0.2890	1	0	family	75787	            Rhodocyclaceae
+0.2890	1	0	genus	1064	              Rhodocyclus
+0.2890	1	1	species	1066	                Rhodocyclus tenuis
+0.2890	1	0	class	1236	        Gammaproteobacteria
+0.2890	1	0	order	91347	          Enterobacterales
+0.2890	1	1	family	543	            Enterobacteriaceae
+0.2890	1	0	subphylum	68525	        delta/epsilon subdivisions
+0.2890	1	0	class	28221	          Deltaproteobacteria
+0.2890	1	1	order	213115	            Desulfovibrionales
+0.2890	1	0	phylum	32066	      Fusobacteria
+0.2890	1	0	class	203490	        Fusobacteriia
+0.2890	1	0	order	203491	          Fusobacteriales
+0.2890	1	0	family	203492	            Fusobacteriaceae
+0.2890	1	0	genus	848	              Fusobacterium
+0.2890	1	1	species	854	                Fusobacterium russii
+0.2890	1	0	clade	1783270	      FCB group
+0.2890	1	0	clade	68336	        Bacteroidetes/Chlorobi group
+0.2890	1	0	phylum	976	          Bacteroidetes
+0.2890	1	0	class	200643	            Bacteroidia
+0.2890	1	1	order	171549	              Bacteroidales

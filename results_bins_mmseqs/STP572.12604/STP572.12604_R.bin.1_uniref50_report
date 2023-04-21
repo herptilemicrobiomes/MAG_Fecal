@@ -1,0 +1,89 @@
+1.1933	5	5	no rank	0	unclassified
+98.8067	414	112	no rank	1	root
+72.0764	302	5	no rank	131567	  cellular organisms
+70.8831	297	60	superkingdom	2	    Bacteria
+55.3699	232	5	clade	1783272	      Terrabacteria group
+53.6993	225	37	phylum	1239	        Firmicutes
+43.4368	182	30	class	186801	          Clostridia
+30.5489	128	3	no rank	189325	            Clostridia incertae sedis
+29.5943	124	0	genus	2720803	              Candidatus Cryptoclostridium
+29.5943	124	124	species	2720830	                Candidatus Cryptoclostridium obscurum
+0.2387	1	0	genus	2721114	              Candidatus Paralachnospira
+0.2387	1	1	species	2721143	                Candidatus Paralachnospira sangeri
+5.4893	23	12	order	186802	            Eubacteriales
+0.7160	3	0	family	186806	              Eubacteriaceae
+0.4773	2	0	genus	1730	                Eubacterium
+0.2387	1	1	species	1528	                  Eubacterium barkeri
+0.2387	1	0	no rank	84372	                  environmental samples
+0.2387	1	1	species	165185	                    uncultured Eubacterium sp.
+0.2387	1	0	genus	264995	                Anaerofustis
+0.2387	1	1	species	214853	                  Anaerofustis stercorihominis
+0.4773	2	0	family	31979	              Clostridiaceae
+0.4773	2	0	genus	1485	                Clostridium
+0.4773	2	0	no rank	59619	                  environmental samples
+0.2387	1	1	species	59620	                    uncultured Clostridium sp.
+0.2387	1	1	species	1262848	                    Clostridium sp. CAG:964
+0.4773	2	0	family	216572	              Oscillospiraceae
+0.2387	1	0	genus	258514	                Acetanaerobacterium
+0.2387	1	1	species	258515	                  Acetanaerobacterium elongatum
+0.2387	1	0	genus	2048137	                Agathobaculum
+0.2387	1	1	species	39484	                  Agathobaculum desmolans
+0.4773	2	0	no rank	538999	              Eubacteriales incertae sedis
+0.4773	2	0	genus	1470353	                Candidatus Soleaferrea
+0.4773	2	2	species	1470354	                  Candidatus Soleaferrea massiliensis
+0.2387	1	0	family	186803	              Lachnospiraceae
+0.2387	1	0	genus	2383	                Epulopiscium
+0.2387	1	0	no rank	2628445	                  unclassified Epulopiscium
+0.2387	1	1	species	1884657	                    Epulopiscium sp. Nuni2H_MBin003
+0.2387	1	1	family	186807	              Peptococcaceae
+0.2387	1	0	no rank	348841	            unclassified Clostridia
+0.2387	1	1	species	2044939	              Clostridia bacterium
+0.4773	2	0	no rank	84086	          unclassified Firmicutes sensu stricto
+0.2387	1	1	species	1852886	            Firmicutes bacterium ADurb.Bin248
+0.2387	1	1	species	1879010	            Firmicutes bacterium
+0.2387	1	0	class	91061	          Bacilli
+0.2387	1	0	order	1385	            Bacillales
+0.2387	1	0	family	186822	              Paenibacillaceae
+0.2387	1	0	genus	44249	                Paenibacillus
+0.2387	1	1	species	2547395	                  Paenibacillus piri
+0.2387	1	0	class	526524	          Erysipelotrichia
+0.2387	1	0	order	526525	            Erysipelotrichales
+0.2387	1	0	family	128827	              Erysipelotrichaceae
+0.2387	1	0	genus	1573536	                Faecalicoccus
+0.2387	1	1	species	1323	                  Faecalicoccus pleomorphus
+0.2387	1	1	class	909932	          Negativicutes
+0.2387	1	0	class	1737404	          Tissierellia
+0.2387	1	0	no rank	1737407	            Tissierellia incertae sedis
+0.2387	1	0	genus	448125	              Dethiosulfatibacter
+0.2387	1	0	species	332095	                Dethiosulfatibacter aminovorans
+0.2387	1	1	strain	1121476	                  Dethiosulfatibacter aminovorans DSM 17477
+0.4773	2	1	phylum	201174	        Actinobacteria
+0.2387	1	0	class	84998	          Coriobacteriia
+0.2387	1	0	order	84999	            Coriobacteriales
+0.2387	1	0	family	1643824	              Atopobiaceae
+0.2387	1	0	genus	133925	                Olsenella
+0.2387	1	1	species	1805478	                  Olsenella timonensis
+0.4773	2	0	phylum	1224	      Proteobacteria
+0.4773	2	1	class	1236	        Gammaproteobacteria
+0.2387	1	0	order	135623	          Vibrionales
+0.2387	1	0	family	641	            Vibrionaceae
+0.2387	1	0	genus	662	              Vibrio
+0.2387	1	1	species	666	                Vibrio cholerae
+0.2387	1	0	phylum	200930	      Deferribacteres
+0.2387	1	0	class	68337	        Deferribacteres
+0.2387	1	0	order	191393	          Deferribacterales
+0.2387	1	0	family	191394	            Deferribacteraceae
+0.2387	1	0	genus	248038	              Mucispirillum
+0.2387	1	0	species	248039	                Mucispirillum schaedleri
+0.2387	1	1	strain	1379858	                  Mucispirillum schaedleri ASF457
+0.2387	1	0	phylum	508458	      Synergistetes
+0.2387	1	0	no rank	508677	        unclassified Synergistetes
+0.2387	1	1	species	1852915	          Synergistetes bacterium ADurb.Bin520
+0.2387	1	0	clade	1783270	      FCB group
+0.2387	1	0	clade	68336	        Bacteroidetes/Chlorobi group
+0.2387	1	0	phylum	976	          Bacteroidetes
+0.2387	1	0	class	200643	            Bacteroidia
+0.2387	1	0	order	171549	              Bacteroidales
+0.2387	1	0	family	2005520	                Dysgonomonadaceae
+0.2387	1	0	genus	156973	                  Dysgonomonas
+0.2387	1	1	no rank	2630389	                    unclassified Dysgonomonas

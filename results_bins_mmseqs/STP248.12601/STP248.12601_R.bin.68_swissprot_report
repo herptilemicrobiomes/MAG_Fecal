@@ -1,0 +1,89 @@
+1.2579	2	2	no rank	0	unclassified
+98.7421	157	0	no rank	1	root
+98.7421	157	8	no rank	131567	  cellular organisms
+91.8239	146	45	superkingdom	2	    Bacteria
+50.9434	81	1	clade	1783272	      Terrabacteria group
+49.6855	79	29	phylum	1239	        Bacillota
+18.2390	29	8	class	91061	          Bacilli
+13.2075	21	1	order	1385	            Bacillales
+11.9497	19	2	family	186817	              Bacillaceae
+10.6918	17	1	genus	1386	                Bacillus
+10.0629	16	1	species group	653685	                  Bacillus subtilis group
+9.4340	15	0	species	1423	                    Bacillus subtilis
+9.4340	15	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+9.4340	15	15	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+0.6289	1	0	family	90964	              Staphylococcaceae
+0.6289	1	1	genus	1279	                Staphylococcus
+12.5786	20	7	class	186801	          Clostridia
+8.1761	13	4	order	186802	            Eubacteriales
+2.5157	4	0	family	31979	              Clostridiaceae
+1.8868	3	2	genus	1485	                Clostridium
+0.6289	1	1	species	1492	                  Clostridium butyricum
+0.6289	1	0	genus	44258	                Caloramator
+0.6289	1	1	species	908809	                  Caloramator mitchellensis
+1.8868	3	1	family	186803	              Lachnospiraceae
+1.2579	2	0	genus	1506553	                Lachnoclostridium
+0.6289	1	1	species	1512	                  [Clostridium] symbiosum
+0.6289	1	0	species	66219	                  Lachnoclostridium phytofermentans
+0.6289	1	1	strain	357809	                    Lachnoclostridium phytofermentans ISDg
+1.2579	2	1	family	216572	              Oscillospiraceae
+0.6289	1	0	genus	35829	                Acetivibrio
+0.6289	1	0	species	1515	                  Acetivibrio thermocellus
+0.6289	1	1	strain	203119	                    Acetivibrio thermocellus ATCC 27405
+0.6289	1	0	class	909932	          Negativicutes
+0.6289	1	0	order	1843489	            Veillonellales
+0.6289	1	0	family	31977	              Veillonellaceae
+0.6289	1	0	genus	29465	                Veillonella
+0.6289	1	1	species	29466	                  Veillonella parvula
+0.6289	1	0	phylum	201174	        Actinomycetota
+0.6289	1	1	class	1760	          Actinomycetes
+11.3208	18	5	phylum	1224	      Pseudomonadota
+6.9182	11	1	class	1236	        Gammaproteobacteria
+4.4025	7	0	order	91347	          Enterobacterales
+4.4025	7	2	family	543	            Enterobacteriaceae
+3.1447	5	0	genus	561	              Escherichia
+3.1447	5	3	species	562	                Escherichia coli
+1.2579	2	2	strain	83333	                  Escherichia coli K-12
+1.2579	2	0	order	72274	          Pseudomonadales
+1.2579	2	0	family	135621	            Pseudomonadaceae
+1.2579	2	1	genus	286	              Pseudomonas
+0.6289	1	0	species group	136841	                Pseudomonas aeruginosa group
+0.6289	1	1	species	287	                  Pseudomonas aeruginosa
+0.6289	1	0	order	135625	          Pasteurellales
+0.6289	1	0	family	712	            Pasteurellaceae
+0.6289	1	0	genus	724	              Haemophilus
+0.6289	1	0	species	727	                Haemophilus influenzae
+0.6289	1	1	strain	71421	                  Haemophilus influenzae Rd KW20
+1.2579	2	0	subphylum	68525	        delta/epsilon subdivisions
+1.2579	2	0	class	28221	          Deltaproteobacteria
+1.2579	2	0	order	213115	            Desulfovibrionales
+1.2579	2	0	family	194924	              Desulfovibrionaceae
+1.2579	2	0	genus	2910984	                Solidesulfovibrio
+1.2579	2	2	species	878	                  Solidesulfovibrio fructosivorans
+0.6289	1	0	phylum	32066	      Fusobacteriota
+0.6289	1	0	class	203490	        Fusobacteriia
+0.6289	1	0	order	203491	          Fusobacteriales
+0.6289	1	0	family	203492	            Fusobacteriaceae
+0.6289	1	0	genus	848	              Fusobacterium
+0.6289	1	0	species	851	                Fusobacterium nucleatum
+0.6289	1	0	subspecies	76856	                  Fusobacterium nucleatum subsp. nucleatum
+0.6289	1	1	strain	190304	                    Fusobacterium nucleatum subsp. nucleatum ATCC 25586
+0.6289	1	0	clade	1783270	      FCB group
+0.6289	1	0	clade	68336	        Bacteroidetes/Chlorobi group
+0.6289	1	0	phylum	976	          Bacteroidota
+0.6289	1	0	class	200643	            Bacteroidia
+0.6289	1	0	order	171549	              Bacteroidales
+0.6289	1	0	family	171551	                Porphyromonadaceae
+0.6289	1	0	genus	836	                  Porphyromonas
+0.6289	1	0	species	837	                    Porphyromonas gingivalis
+0.6289	1	1	strain	242619	                      Porphyromonas gingivalis W83
+1.8868	3	1	superkingdom	2157	    Archaea
+0.6289	1	0	phylum	28890	      Euryarchaeota
+0.6289	1	1	clade	2283794	        Methanomada group
+0.6289	1	0	phylum	2283796	      Candidatus Thermoplasmatota
+0.6289	1	0	class	183967	        Thermoplasmata
+0.6289	1	0	order	2301	          Thermoplasmatales
+0.6289	1	0	family	46659	            Thermoplasmataceae
+0.6289	1	0	genus	2302	              Thermoplasma
+0.6289	1	0	species	2303	                Thermoplasma acidophilum
+0.6289	1	1	strain	273075	                  Thermoplasma acidophilum DSM 1728

@@ -1,0 +1,112 @@
+4.6512	4	4	no rank	0	unclassified
+95.3488	82	2	no rank	1	root
+93.0233	80	7	no rank	131567	  cellular organisms
+83.7209	72	4	superkingdom	2759	    Eukaryota
+79.0698	68	7	clade	33154	      Opisthokonta
+51.1628	44	0	kingdom	33208	        Metazoa
+51.1628	44	2	clade	6072	          Eumetazoa
+48.8372	42	1	clade	33213	            Bilateria
+47.6744	41	0	clade	33511	              Deuterostomia
+47.6744	41	0	phylum	7711	                Chordata
+47.6744	41	0	subphylum	89593	                  Craniata
+47.6744	41	0	clade	7742	                    Vertebrata
+47.6744	41	0	clade	7776	                      Gnathostomata
+47.6744	41	0	clade	117570	                        Teleostomi
+47.6744	41	18	clade	117571	                          Euteleostomi
+15.1163	13	0	superclass	7898	                            Actinopterygii
+15.1163	13	0	class	186623	                              Actinopteri
+15.1163	13	0	subclass	41665	                                Neopterygii
+15.1163	13	0	infraclass	32443	                                  Teleostei
+15.1163	13	1	clade	1489341	                                    Osteoglossocephalai
+13.9535	12	7	no rank	186625	                                      Clupeocephala
+4.6512	4	0	cohort	1489388	                                        Euteleosteomorpha
+4.6512	4	0	clade	123365	                                          Neoteleostei
+4.6512	4	0	clade	123366	                                            Eurypterygia
+4.6512	4	0	clade	123367	                                              Ctenosquamata
+4.6512	4	0	clade	123368	                                                Acanthomorphata
+4.6512	4	1	clade	123369	                                                  Euacanthomorphacea
+3.4884	3	3	clade	1489872	                                                    Percomorphaceae
+1.1628	1	0	cohort	186634	                                        Otomorpha
+1.1628	1	0	subcohort	32519	                                          Ostariophysi
+1.1628	1	0	clade	186633	                                            Anotophysi
+1.1628	1	0	order	29140	                                              Gonorynchiformes
+1.1628	1	0	suborder	186632	                                                Chanoidei
+1.1628	1	0	family	29142	                                                  Chanidae
+1.1628	1	0	genus	29143	                                                    Chanos
+1.1628	1	1	species	29144	                                                      Chanos chanos
+11.6279	10	0	superclass	8287	                            Sarcopterygii
+11.6279	10	0	clade	1338369	                              Dipnotetrapodomorpha
+11.6279	10	0	clade	32523	                                Tetrapoda
+9.3023	8	0	class	8292	                                  Amphibia
+6.9767	6	0	superorder	41666	                                    Batrachia
+6.9767	6	1	order	8342	                                      Anura
+5.8140	5	0	superfamily	30319	                                        Pipoidea
+5.8140	5	0	family	8352	                                          Pipidae
+5.8140	5	0	subfamily	8360	                                            Xenopodinae
+5.8140	5	2	genus	8353	                                              Xenopus
+3.4884	3	0	subgenus	8363	                                                Silurana
+3.4884	3	3	species	8364	                                                  Xenopus tropicalis
+2.3256	2	1	order	8445	                                    Gymnophiona
+1.1628	1	0	family	30380	                                      Rhinatrematidae
+1.1628	1	0	genus	194407	                                        Rhinatrema
+1.1628	1	1	species	194408	                                          Rhinatrema bivittatum
+2.3256	2	0	clade	32524	                                  Amniota
+2.3256	2	0	clade	8457	                                    Sauropsida
+2.3256	2	0	clade	32561	                                      Sauria
+2.3256	2	0	class	8504	                                        Lepidosauria
+2.3256	2	0	order	8509	                                          Squamata
+2.3256	2	1	clade	1329961	                                            Bifurcata
+1.1628	1	0	clade	1329950	                                              Unidentata
+1.1628	1	0	clade	1329912	                                                Episquamata
+1.1628	1	0	clade	1329911	                                                  Toxicofera
+1.1628	1	0	infraorder	8570	                                                    Serpentes
+1.1628	1	0	superfamily	34989	                                                      Colubroidea
+1.1628	1	0	family	8602	                                                        Elapidae
+1.1628	1	0	subfamily	42168	                                                          Elapinae
+1.1628	1	0	genus	8634	                                                            Micrurus
+1.1628	1	0	species	129464	                                                              Micrurus lemniscatus
+1.1628	1	1	subspecies	129467	                                                                Micrurus lemniscatus lemniscatus
+19.7674	17	1	kingdom	4751	        Fungi
+13.9535	12	0	no rank	112252	          Fungi incertae sedis
+13.9535	12	0	phylum	4761	            Chytridiomycota
+13.9535	12	0	no rank	2683659	              Chytridiomycota incertae sedis
+13.9535	12	2	class	451435	                Chytridiomycetes
+11.6279	10	0	order	451442	                  Rhizophydiales
+11.6279	10	0	no rank	1142503	                    Rhizophydiales incertae sedis
+11.6279	10	0	genus	100474	                      Batrachochytrium
+11.6279	10	0	species	109871	                        Batrachochytrium dendrobatidis
+11.6279	10	10	strain	403673	                          Batrachochytrium dendrobatidis JEL423
+4.6512	4	0	subkingdom	451864	          Dikarya
+3.4884	3	0	phylum	5204	            Basidiomycota
+2.3256	2	0	subphylum	452284	              Ustilaginomycotina
+1.1628	1	0	class	5257	                Ustilaginomycetes
+1.1628	1	0	order	5267	                  Ustilaginales
+1.1628	1	0	family	5268	                    Ustilaginaceae
+1.1628	1	0	genus	5269	                      Ustilago
+1.1628	1	0	species	120017	                        Ustilago hordei
+1.1628	1	1	strain	1128400	                          Ustilago hordei Uh4857-4
+1.1628	1	0	class	452283	                Exobasidiomycetes
+1.1628	1	0	order	62916	                  Tilletiales
+1.1628	1	0	family	5279	                    Tilletiaceae
+1.1628	1	1	genus	13289	                      Tilletia
+1.1628	1	0	subphylum	5302	              Agaricomycotina
+1.1628	1	1	class	155619	                Agaricomycetes
+1.1628	1	0	phylum	4890	            Ascomycota
+1.1628	1	0	clade	716545	              saccharomyceta
+1.1628	1	0	subphylum	147538	                Pezizomycotina
+1.1628	1	0	clade	716546	                  leotiomyceta
+1.1628	1	0	clade	715989	                    sordariomyceta
+1.1628	1	0	class	147550	                      Sordariomycetes
+1.1628	1	0	subclass	222543	                        Hypocreomycetidae
+1.1628	1	0	order	5125	                          Hypocreales
+1.1628	1	0	family	34397	                            Clavicipitaceae
+1.1628	1	0	genus	5110	                              Claviceps
+1.1628	1	0	species	5111	                                Claviceps purpurea
+1.1628	1	1	strain	1111077	                                  Claviceps purpurea 20.1
+1.1628	1	0	superkingdom	2	    Bacteria
+1.1628	1	0	clade	1783272	      Terrabacteria group
+1.1628	1	0	clade	1798711	        Cyanobacteria/Melainabacteria group
+1.1628	1	0	phylum	1117	          Cyanobacteria
+1.1628	1	0	order	1890424	            Synechococcales
+1.1628	1	0	no rank	1936016	              environmental samples
+1.1628	1	1	species	1936017	                uncultured Synechococcales cyanobacterium

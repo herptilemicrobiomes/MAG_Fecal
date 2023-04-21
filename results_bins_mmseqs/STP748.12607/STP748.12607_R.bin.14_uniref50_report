@@ -1,0 +1,119 @@
+2.0057	14	14	no rank	0	unclassified
+97.9943	684	318	no rank	1	root
+52.4355	366	0	no rank	131567	  cellular organisms
+52.2923	365	81	superkingdom	2	    Bacteria
+39.6848	277	0	clade	1783270	      FCB group
+39.6848	277	2	clade	68336	        Bacteroidetes/Chlorobi group
+39.3983	275	48	phylum	976	          Bacteroidetes
+31.6619	221	18	class	200643	            Bacteroidia
+29.0831	203	144	order	171549	              Bacteroidales
+4.8711	34	1	family	2005525	                Tannerellaceae
+4.2980	30	13	genus	375288	                  Parabacteroides
+0.8596	6	6	species	823	                    Parabacteroides distasonis
+0.5731	4	0	no rank	512311	                    environmental samples
+0.2865	2	2	species	1262913	                      Parabacteroides sp. CAG:409
+0.2865	2	2	species	1263094	                      Parabacteroides merdae CAG:48
+0.4298	3	0	no rank	2649774	                    unclassified Parabacteroides
+0.1433	1	1	species	563193	                      Parabacteroides sp. D13
+0.1433	1	1	species	2292053	                      Parabacteroides sp. AM08-6
+0.1433	1	1	species	2302940	                      Parabacteroides sp. 52
+0.2865	2	2	species	46503	                    Parabacteroides merdae
+0.1433	1	1	species	328812	                    Parabacteroides goldsteinii
+0.1433	1	0	species	387661	                    Parabacteroides johnsonii
+0.1433	1	1	strain	537006	                      Parabacteroides johnsonii DSM 18315
+0.4298	3	2	genus	195950	                  Tannerella
+0.1433	1	1	species	28112	                    Tannerella forsythia
+1.8625	13	0	family	815	                Bacteroidaceae
+1.7192	12	3	genus	816	                  Bacteroides
+0.5731	4	0	no rank	139043	                    environmental samples
+0.2865	2	2	species	1263038	                      Bacteroides cellulosilyticus CAG:158
+0.1433	1	1	species	1262737	                      Bacteroides sp. CAG:189
+0.1433	1	1	species	1262746	                      Bacteroides sp. CAG:661
+0.4298	3	0	no rank	2646097	                    unclassified Bacteroides
+0.2865	2	2	species	469589	                      Bacteroides sp. 2_1_33B
+0.1433	1	1	species	2739389	                      Bacteroides sp. AGMB03916
+0.1433	1	1	species	310300	                    Bacteroides pyogenes
+0.1433	1	0	species	477666	                    Bacteroides graminisolvens
+0.1433	1	1	strain	1121097	                      Bacteroides graminisolvens DSM 19988 = JCM 15093
+0.1433	1	0	genus	909656	                  Phocaeicola
+0.1433	1	1	species	387090	                    Phocaeicola coprophilus
+0.7163	5	0	no rank	185291	                unclassified Bacteroidales
+0.4298	3	3	species	1633203	                  Bacteroidales bacterium Barb7
+0.2865	2	2	species	2030927	                  Bacteroidales bacterium
+0.2865	2	0	family	171552	                Prevotellaceae
+0.2865	2	1	genus	838	                  Prevotella
+0.1433	1	0	no rank	2638335	                    unclassified Prevotella
+0.1433	1	1	species	1384078	                      Prevotella sp. DNF00663
+0.2865	2	1	family	1853231	                Odoribacteraceae
+0.1433	1	1	genus	283168	                  Odoribacter
+0.2865	2	0	family	2005520	                Dysgonomonadaceae
+0.2865	2	0	genus	156973	                  Dysgonomonas
+0.2865	2	0	no rank	2630389	                    unclassified Dysgonomonas
+0.1433	1	1	species	2161820	                      Dysgonomonas sp. Marseille-P4361
+0.1433	1	1	species	2302934	                      Dysgonomonas sp. 216
+0.1433	1	0	family	171550	                Rikenellaceae
+0.1433	1	0	genus	239759	                  Alistipes
+0.1433	1	1	species	214856	                    Alistipes finegoldii
+0.2865	2	0	no rank	37452	            unclassified Bacteroidetes
+0.1433	1	1	species	1852814	              Bacteroidetes bacterium ADurb.Bin416
+0.1433	1	1	species	1898104	              Bacteroidetes bacterium
+0.2865	2	0	class	1853228	            Chitinophagia
+0.2865	2	0	order	1853229	              Chitinophagales
+0.2865	2	0	family	563835	                Chitinophagaceae
+0.1433	1	1	genus	79328	                  Chitinophaga
+0.1433	1	0	no rank	569836	                  unclassified Chitinophagaceae
+0.1433	1	1	species	1869212	                    Chitinophagaceae bacterium
+0.1433	1	0	class	117743	            Flavobacteriia
+0.1433	1	0	order	200644	              Flavobacteriales
+0.1433	1	0	family	49546	                Flavobacteriaceae
+0.1433	1	0	genus	178469	                  Arenibacter
+0.1433	1	1	species	237373	                    Arenibacter palladensis
+0.1433	1	0	class	1937959	            Saprospiria
+0.1433	1	0	order	1936988	              Saprospirales
+0.1433	1	0	no rank	2019999	                unclassified Saprospirales
+0.1433	1	1	species	2026790	                  Saprospirales bacterium
+0.2865	2	0	phylum	1224	      Proteobacteria
+0.1433	1	1	class	1236	        Gammaproteobacteria
+0.1433	1	0	subphylum	68525	        delta/epsilon subdivisions
+0.1433	1	0	class	28221	          Deltaproteobacteria
+0.1433	1	0	no rank	122706	            unclassified Deltaproteobacteria
+0.1433	1	1	species	1852862	              Deltaproteobacteria bacterium ADurb.Bin002
+0.2865	2	0	no rank	48479	      environmental samples
+0.2865	2	2	species	77133	        uncultured bacterium
+0.2865	2	0	clade	1783272	      Terrabacteria group
+0.2865	2	0	phylum	1239	        Firmicutes
+0.2865	2	0	class	91061	          Bacilli
+0.2865	2	0	order	186826	            Lactobacillales
+0.2865	2	0	family	33958	              Lactobacillaceae
+0.2865	2	0	genus	2767887	                Ligilactobacillus
+0.2865	2	2	species	1623	                  Ligilactobacillus ruminis
+0.1433	1	0	phylum	40117	      Nitrospirae
+0.1433	1	0	class	203693	        Nitrospira
+0.1433	1	0	order	189778	          Nitrospirales
+0.1433	1	0	family	189779	            Nitrospiraceae
+0.1433	1	0	genus	40118	              Candidatus Magnetobacterium
+0.1433	1	1	species	29290	                Candidatus Magnetobacterium bavaricum
+0.1433	1	0	superkingdom	2759	    Eukaryota
+0.1433	1	0	kingdom	33090	      Viridiplantae
+0.1433	1	0	phylum	35493	        Streptophyta
+0.1433	1	0	subphylum	131221	          Streptophytina
+0.1433	1	0	clade	3193	            Embryophyta
+0.1433	1	0	clade	58023	              Tracheophyta
+0.1433	1	0	clade	78536	                Euphyllophyta
+0.1433	1	0	clade	58024	                  Spermatophyta
+0.1433	1	0	class	3398	                    Magnoliopsida
+0.1433	1	0	clade	1437183	                      Mesangiospermae
+0.1433	1	0	clade	71240	                        eudicotyledons
+0.1433	1	0	clade	91827	                          Gunneridae
+0.1433	1	0	clade	1437201	                            Pentapetalae
+0.1433	1	0	clade	71275	                              rosids
+0.1433	1	0	clade	91835	                                fabids
+0.1433	1	0	order	72025	                                  Fabales
+0.1433	1	0	family	3803	                                    Fabaceae
+0.1433	1	0	subfamily	3814	                                      Papilionoideae
+0.1433	1	0	clade	2231393	                                        50 kb inversion clade
+0.1433	1	0	clade	2231384	                                          genistoids sensu lato
+0.1433	1	0	clade	2231385	                                            core genistoids
+0.1433	1	0	tribe	163729	                                              Genisteae
+0.1433	1	0	genus	3869	                                                Lupinus
+0.1433	1	1	species	3870	                                                  Lupinus albus
