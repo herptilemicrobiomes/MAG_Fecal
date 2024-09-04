@@ -1,5 +1,5 @@
 #!/usr/bin/bash -l
-#SBATCH -p batch -N 1 -c 24 -n 1 --mem 80gb --out logs/metashot_qual.%a.log
+#SBATCH -N 1 -c 24 -n 1 --mem 80gb --out logs/metashot_qual.%a.log
 
 CPU=2
 if [ $SLURM_CPUS_ON_NODE ]; then
@@ -37,6 +37,6 @@ do
   ./nextflow run metashot/prok-quality -c metashot-qual.cfg \
 	     --genomes "$BINFOLDER/*.fa" \
 	     --outdir $OUT --max_cpus $CPU \
-	     --scratch $SCRATCH
+	     --scratch $SCRATCH --resume
   popd
 done

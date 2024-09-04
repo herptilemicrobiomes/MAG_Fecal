@@ -1,6 +1,5 @@
 #!/usr/bin/bash -l
-#SBATCH -p short -N 1 -c 96 -n 1 --mem 255gb --out logs/mmseqs_classify_bins.%a.log -J 04_classify
-#-p short -N 1 -c 96 -n 1 --mem 256gb --out logs/mmseqs_classify_bins.%a.log -J 04_classify
+#SBATCH -p stajichlab -N 1 -c 96 -n 1 --mem 255gb --out logs/mmseqs_classify_bins.%a.log -J 04_classify
 
 CPU=2
 if [ $SLURM_CPUS_ON_NODE ]; then

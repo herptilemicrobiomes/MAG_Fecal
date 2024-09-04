@@ -1,5 +1,5 @@
 #!/usr/bin/bash -l
-#SBATCH -p short -N 1 -n 1 -c 4 --mem 48gb --out logs/fastp.%a.log
+#SBATCH -p short -N 1 -n 1 -c 8 --mem 48gb --out logs/fastp.%a.log
 
 module load fastp
 
@@ -31,5 +31,3 @@ do
 	      -i $LEFT -I $RIGHT -o $WORK/$STRAIN/${STRAIN}_R1.fq.gz --out2 $WORK/$STRAIN/${STRAIN}_R2.fq.gz --trim_poly_g \
 	      --unpaired1 $WORK/$STRAIN/${STRAIN}_unpair1.fq.gz --unpaired2 $WORK/$STRAIN/${STRAIN}_unpair2.fq.gz --overrepresentation_analysis
 done
-
-

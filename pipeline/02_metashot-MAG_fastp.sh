@@ -1,5 +1,5 @@
 #!/usr/bin/bash -l
-#SBATCH -p batch -N 1 -n 32 --mem 192gb --out logs/mag_fastp.%a.log --time 72:00:00
+#SBATCH -N 1 -n 1 -c 32 --mem 192gb --out logs/mag_fastp.%a.log --time 7-0:00:00
 
 module load singularity
 module load workspace/scratch
