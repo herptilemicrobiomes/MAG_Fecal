@@ -27,7 +27,9 @@ do
   LEFT=$(ls $INPUT/$SHOTGUN | sed -n 1p)
   RIGHT=$(ls $INPUT/$SHOTGUN | sed -n 2p)
   echo "$LEFT and $RIGHT for $INPUT/$SHOTGUN"
-  fastp -w $CPU --detect_adapter_for_pe -j logs/$STRAIN.LIB${LIB}.json -h logs/$STRAIN.LIB${LIB}.html \
+  if [ ! -s $WORK/$STRAIN/${STRAIN}_R1.fq.gz ]; then
+  	fastp -w $CPU --detect_adapter_for_pe -j logs/$STRAIN.LIB${LIB}.json -h logs/$STRAIN.LIB${LIB}.html \
 	      -i $LEFT -I $RIGHT -o $WORK/$STRAIN/${STRAIN}_R1.fq.gz --out2 $WORK/$STRAIN/${STRAIN}_R2.fq.gz --trim_poly_g \
 	      --unpaired1 $WORK/$STRAIN/${STRAIN}_unpair1.fq.gz --unpaired2 $WORK/$STRAIN/${STRAIN}_unpair2.fq.gz --overrepresentation_analysis
+  fi
 done
