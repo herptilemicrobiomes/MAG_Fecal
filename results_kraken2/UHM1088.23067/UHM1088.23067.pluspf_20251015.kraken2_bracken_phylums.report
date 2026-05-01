@@ -1,0 +1,141 @@
+100.00	37732385	0	R	1	root
+99.96	37717502	0	R1	131567	  cellular organisms
+97.10	36636456	0	D	2	    Bacteria
+81.45	30733997	0	K	3379134	      Pseudomonadati
+49.57	18702666	0	P	1224	        Pseudomonadota
+29.63	11180091	0	K1	1783270	        FCB group
+29.60	11169419	0	K2	68336	          Bacteroidota/Chlorobiota group
+29.56	11154640	0	P	976	            Bacteroidota
+0.02	6327	0	P	1090	            Chlorobiota
+0.01	5290	0	P	1853220	            Rhodothermota
+0.00	1705	0	P	1134404	            Ignavibacteriota
+0.00	1455	0	P	1936987	            Balneolota
+0.02	8667	0	P	142182	          Gemmatimonadota
+0.00	1133	0	P	65842	          Fibrobacterota
+0.00	565	0	P	62680	          Fidelibacterota
+0.00	306	0	P	456828	          Candidatus Cloacimonadota
+1.03	388662	0	K1	1783257	        PVC group
+0.59	222226	0	P	203682	          Planctomycetota
+0.42	158573	0	P	74201	          Verrucomicrobiota
+0.01	5227	0	P	204428	          Chlamydiota
+0.01	1900	0	P	134625	          Kiritimatiellota
+0.00	573	0	P	256845	          Lentisphaerota
+0.00	161	0	P	67812	          Candidatus Omnitrophota
+0.64	240948	0	P	200940	        Thermodesulfobacteriota
+0.20	77169	0	P	2818505	        Myxococcota
+0.14	52883	0	P	29547	        Campylobacterota
+0.10	37503	0	P	203691	        Spirochaetota
+0.08	28762	0	P	57723	        Acidobacteriota
+0.03	9702	0	P	3018035	        Bdellovibrionota
+0.01	3933	0	P	40117	        Nitrospirota
+0.01	2502	0	P	200930	        Deferribacterota
+0.01	2344	0	P	200783	        Aquificota
+0.00	1353	0	P	74152	        Elusimicrobiota
+0.00	972	0	P	3027942	        Thermomicrobiota
+0.00	807	0	P	67818	        Atribacterota
+0.00	683	0	K1	1802340	        Nitrospinota/Tectimicrobiota group
+0.00	683	0	P	1293497	          Nitrospinota
+0.00	672	0	P	1930617	        Calditrichota
+0.00	672	0	P	68297	        Dictyoglomota
+0.00	667	0	P	200938	        Chrysiogenota
+0.00	373	0	P	3002442	        Thermodesulfobiota
+0.00	308	0	K1	2498710	        Caldisericota/Cryosericota group
+0.00	308	0	P	67814	          Caldisericota
+0.00	186	0	P	3123113	        Thermosulfidibacterota
+0.00	133	0	P	2138240	        Coprothermobacterota
+15.17	5725715	0	K	1783272	      Bacillati
+10.61	4003759	0	P	1239	        Bacillota
+4.16	1567806	0	P	201174	        Actinomycetota
+0.19	72644	0	P	544448	        Mycoplasmatota
+0.18	69213	0	K1	1798711	        Cyanobacteriota/Melainabacteria group
+0.18	69213	0	P	1117	          Cyanobacteriota
+0.03	10125	0	P	200795	        Chloroflexota
+0.00	1700	0	P	67819	        Armatimonadota
+0.00	466	0	P	1154676	        Vulcanimicrobiota
+0.37	140487	0	K	3384189	      Fusobacteriati
+0.37	140487	0	P	32066	        Fusobacteriota
+0.09	32751	0	K	3384194	      Thermotogati
+0.04	16579	0	P	1297	        Deinococcota
+0.02	8846	0	P	508458	        Synergistota
+0.02	7324	0	P	200918	        Thermotogota
+0.01	3505	0	D1	2323	      Bacteria incertae sedis
+0.01	3505	0	D2	1783234	        Bacteria candidate phyla
+0.00	1703	0	D3	1783273	          Patescibacteria group
+0.00	1703	0	D4	1794810	            Microgenomates group
+0.00	1703	0	P	1752724	              Minisyncoccota
+0.00	1315	0	P	95818	          Candidatus Saccharimonadota
+0.00	211	0	P	1383058	          Candidatus Fervidibacterota
+0.00	150	0	P	67810	          Candidatus Bipolaricaulota
+0.00	126	0	P	221235	          Candidatus Absconditibacteriota
+2.70	1017597	0	D	2759	    Eukaryota
+2.32	875081	0	D1	33154	      Opisthokonta
+1.94	733607	0	K	33208	        Metazoa
+1.94	733607	0	K1	6072	          Eumetazoa
+1.94	733607	0	K2	33213	            Bilateria
+1.94	733607	0	K3	33511	              Deuterostomia
+1.94	733607	733607	P	7711	                Chordata
+0.37	141473	0	K	4751	        Fungi
+0.34	127826	0	K1	451864	          Dikarya
+0.26	98479	98479	P	4890	            Ascomycota
+0.08	29346	29346	P	5204	            Basidiomycota
+0.04	13647	0	K1	112252	          Fungi incertae sedis
+0.03	12579	12579	P	1913637	            Mucoromycota
+0.00	1067	1067	P	6029	            Microsporidia
+0.30	111815	0	D1	2698737	      Sar
+0.22	81246	0	D2	33630	        Alveolata
+0.22	81198	0	P	5794	          Apicomplexa
+0.00	48	48	P	5878	          Ciliophora
+0.08	30135	0	D2	33634	        Stramenopiles
+0.05	18828	0	P	4762	          Oomycota
+0.03	11306	0	D3	2696291	          Ochrophyta
+0.03	11306	0	P	2836	            Bacillariophyta
+0.00	433	0	D2	543769	        Rhizaria
+0.00	433	0	P	136419	          Cercozoa
+0.03	12991	0	D1	554915	      Amoebozoa
+0.03	12991	0	P	2605435	        Evosea
+0.03	9795	0	D1	2611341	      Metamonada
+0.02	6868	0	P	5719	        Parabasalia
+0.01	2926	0	P	207245	        Fornicata
+0.02	7914	0	D1	2611352	      Discoba
+0.02	7870	0	P	33682	        Euglenozoa
+0.00	44	44	P	5752	        Heterolobosea
+0.17	63448	0	D	2157	    Archaea
+0.14	54384	0	K	3366610	      Methanobacteriati
+0.14	53536	0	P	28890	        Methanobacteriota
+0.00	848	0	P	2283796	        Thermoplasmatota
+0.02	8320	0	K	1783275	      Thermoproteati
+0.01	4369	0	P	28889	        Thermoproteota
+0.01	3950	0	P	651137	        Nitrososphaerota
+0.00	652	0	K	1935183	      Promethearchaeati
+0.00	652	0	P	3366641	        Promethearchaeota
+0.00	91	0	K	1783276	      Nanobdellati
+0.00	41	0	P	192989	        Nanobdellota
+0.00	27	0	P	1462430	        Candidatus Nanohalarchaeota
+0.00	23	0	P	1801631	        Microcaldota
+0.04	14882	0	R1	10239	  Viruses
+0.03	10013	0	R2	2731341	    Duplodnaviria
+0.03	10013	0	K	2731360	      Heunggongvirae
+0.03	9536	0	P	2731618	        Uroviricota
+0.00	477	0	P	2731361	        Peploviricota
+0.01	2995	0	R2	2732004	    Varidnaviria
+0.01	2995	0	K	2732005	      Bamfordvirae
+0.01	2823	0	P	2732007	        Nucleocytoviricota
+0.00	172	172	P	2732008	        Preplasmiviricota
+0.00	1588	0	R2	2559587	    Riboviria
+0.00	812	0	K	2732396	      Orthornavirae
+0.00	228	0	P	2732408	        Pisuviricota
+0.00	209	209	P	2497569	        Negarnaviricota
+0.00	84	0	P	2732406	        Kitrinoviricota
+0.00	74	0	P	2732405	        Duplornaviricota
+0.00	217	0	P	2732407	        Lenarviricota
+0.00	776	0	K	2732397	      Pararnavirae
+0.00	776	0	P	2732409	        Artverviricota
+0.00	252	0	R2	2731342	    Monodnaviria
+0.00	218	0	K	2732092	      Shotokuvirae
+0.00	110	0	P	2732415	        Cossaviricota
+0.00	108	0	P	2732416	        Cressdnaviricota
+0.00	34	0	K	2732091	      Sangervirae
+0.00	34	0	P	2732412	        Phixviricota
+0.00	34	0	R2	2840022	    Adnaviria
+0.00	34	0	K	2840023	      Zilligvirae
+0.00	34	0	P	2840024	        Taleaviricota
