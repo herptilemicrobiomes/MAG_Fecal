@@ -1,0 +1,83 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Pseudomonadota	1224	P	71482190	334313	71816503	0.85719
+Bacteroidota	976	P	7087146	1450	7088596	0.08461
+Rhodothermota	1853220	P	877	0	877	0.00001
+Chlorobiota	1090	P	796	0	796	0.00001
+Balneolota	1936987	P	226	2	228	0.00000
+Ignavibacteriota	1134404	P	206	0	206	0.00000
+Gemmatimonadota	142182	P	1366	2	1368	0.00002
+Candidatus Cloacimonadota	456828	P	133	0	133	0.00000
+Fibrobacterota	65842	P	89	1	90	0.00000
+Fidelibacterota	62680	P	32	0	32	0.00000
+Verrucomicrobiota	74201	P	272216	465	272681	0.00325
+Planctomycetota	203682	P	29128	202	29330	0.00035
+Chlamydiota	204428	P	439	0	439	0.00001
+Kiritimatiellota	134625	P	195	400	595	0.00001
+Lentisphaerota	256845	P	55	0	55	0.00000
+Candidatus Omnitrophota	67812	P	23	0	23	0.00000
+Myxococcota	2818505	P	20296	2	20298	0.00024
+Thermodesulfobacteriota	200940	P	10889	4	10893	0.00013
+Campylobacterota	29547	P	10027	5	10032	0.00012
+Spirochaetota	203691	P	5144	1	5145	0.00006
+Acidobacteriota	57723	P	3763	0	3763	0.00004
+Bdellovibrionota	3018035	P	2054	0	2054	0.00002
+Nitrospirota	40117	P	892	0	892	0.00001
+Deferribacterota	200930	P	342	0	342	0.00000
+Aquificota	200783	P	253	0	253	0.00000
+Thermomicrobiota	3027942	P	174	0	174	0.00000
+Calditrichota	1930617	P	107	0	107	0.00000
+Coprothermobacterota	2138240	P	106	0	106	0.00000
+Chrysiogenota	200938	P	90	0	90	0.00000
+Elusimicrobiota	74152	P	74	0	74	0.00000
+Nitrospinota	1293497	P	73	0	73	0.00000
+Thermodesulfobiota	3002442	P	62	0	62	0.00000
+Atribacterota	67818	P	50	0	50	0.00000
+Dictyoglomota	68297	P	42	0	42	0.00000
+Caldisericota	67814	P	10	0	10	0.00000
+Actinomycetota	201174	P	3220595	2850	3223445	0.03847
+Bacillota	1239	P	548401	5998	554399	0.00662
+Cyanobacteriota	1117	P	14729	2	14731	0.00018
+Mycoplasmatota	544448	P	7497	76	7573	0.00009
+Chloroflexota	200795	P	1319	1	1320	0.00002
+Armatimonadota	67819	P	377	0	377	0.00000
+Vulcanimicrobiota	1154676	P	79	0	79	0.00000
+Deinococcota	1297	P	3508	0	3508	0.00004
+Thermotogota	200918	P	959	0	959	0.00001
+Synergistota	508458	P	328	3969	4297	0.00005
+Fusobacteriota	32066	P	3091	3	3094	0.00004
+Candidatus Saccharimonadota	95818	P	139	0	139	0.00000
+Candidatus Bipolaricaulota	67810	P	55	0	55	0.00000
+Candidatus Absconditibacteriota	221235	P	21	0	21	0.00000
+Candidatus Fervidibacterota	1383058	P	21	16	37	0.00000
+Minisyncoccota	1752724	P	10	247	257	0.00000
+Chordata	7711	P	562263	12213	574476	0.00686
+Ascomycota	4890	P	36113	1321	37434	0.00045
+Basidiomycota	5204	P	16080	1264	17344	0.00021
+Mucoromycota	1913637	P	8632	1682	10314	0.00012
+Microsporidia	6029	P	241	6	247	0.00000
+Apicomplexa	5794	P	18617	95	18712	0.00022
+Ciliophora	5878	P	38	0	38	0.00000
+Oomycota	4762	P	1217	0	1217	0.00001
+Bacillariophyta	2836	P	788	8	796	0.00001
+Cercozoa	136419	P	182	0	182	0.00000
+Euglenozoa	33682	P	7323	0	7323	0.00009
+Heterolobosea	5752	P	121	0	121	0.00000
+Fornicata	207245	P	1098	0	1098	0.00001
+Parabasalia	5719	P	901	1667	2568	0.00003
+Evosea	2605435	P	1559	1	1560	0.00002
+Methanobacteriota	28890	P	17289	58	17347	0.00021
+Thermoplasmatota	2283796	P	498	0	498	0.00001
+Thermoproteota	28889	P	1034	15	1049	0.00001
+Nitrososphaerota	651137	P	612	1	613	0.00001
+Promethearchaeota	3366641	P	112	0	112	0.00000
+Nanobdellota	192989	P	23	0	23	0.00000
+Candidatus Nanohalarchaeota	1462430	P	15	3	18	0.00000
+Uroviricota	2731618	P	5461	0	5461	0.00007
+Peploviricota	2731361	P	585	0	585	0.00001
+Nucleocytoviricota	2732007	P	791	0	791	0.00001
+Preplasmiviricota	2732008	P	10	291	301	0.00000
+Pisuviricota	2732408	P	93	0	93	0.00000
+Negarnaviricota	2497569	P	51	0	51	0.00000
+Kitrinoviricota	2732406	P	44	0	44	0.00000
+Cressdnaviricota	2732416	P	22	0	22	0.00000
+Cossaviricota	2732415	P	11	0	11	0.00000
